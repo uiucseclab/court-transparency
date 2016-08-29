@@ -1,5 +1,10 @@
 # court-transparency
 
+Point of Contact:
+John Bambenek
+bambenek / at / illinois /dot/ edu
+Department of Computer Science, University of Illinois at Urbana-Champaign
+
 This is a project to allow for transparency and data mining of Champaign County court records.  The script (to be included) can be used by anyone to download a text copy of any court file docket or to download an entire year based on case type (i.e. 2015 Misdemeanors).
 
 The directories contain the raw text files of those dockets that can be read directly.
