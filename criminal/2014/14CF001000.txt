@@ -1,0 +1,472 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF001000
+
+   Defendant Plaintiff
+SMITH  PARRIS A
+701 N FIFTH ST
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 07/23/14
+                Court Room: C
+           Next Appearance: 08/08/16  09:45
+                Birth Date: 07/26/92
+                 DEFENDANT: SMITH  PARRIS A
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       50.00      BOND -10% BOND FEE            50.00            .00
+        2.00      NOTICES MAILED 1ST             2.00            .00
+      448.00      BOND FORFEITURE              448.00            .00
+         .00                                      .00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+         .00      CRIME STOPPERS                  .00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          133.00         167.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       60.00      TRAFFIC/CRIMINAL SU           60.00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+         .00      FINES                           .00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121911158 SHERIFF'S BOOKING FEE             34.00        09/10/15
+   121911158 BOND - ORIGINAL                  500.00        09/10/15
+   122054231 BOND -10% BOND FEE                50.00        12/02/15
+   122054231 NOTICES MAILED 1ST CLASS           2.00        12/02/15
+   122054231 BOND FORFEITURE                  448.00        12/02/15
+   122274625 SHERIFF'S BOOKING FEE             34.00        04/13/16
+   122274625 BOND - ORIGINAL                  500.00        04/13/16
+   122485182 DOCUMENT STORAGE                  15.00        08/16/16
+   122485182 E-CITATION                         5.00        08/16/16
+   122485182 AUTOMATION                        15.00        08/16/16
+   122485182 CIRCUIT CLERK FEE                 75.00        08/16/16
+   122485182 COURT SECURITY                    25.00        08/16/16
+   122485182 COURT FINANCE FEE                 25.00        08/16/16
+   122485182 STATES ATTORNEY                   20.00        08/16/16
+   122485182 STATES ATTORNEY AUTOMATI           2.00        08/16/16
+   122485182 ARRESTEE'S MEDICAL                10.00        08/16/16
+   122485182 PROBATION MONITORING FEE          25.00        08/16/16
+   122485182 PROBATION OPER ASSISTANC          10.00        08/16/16
+   122485182 TR/CR SUR $10/$40                 60.00        08/16/16
+   122485182 VIOLENT CRIME VICTIMS AS          75.00        08/16/16
+   122485182 ST POLICE SERVICES FUND           10.00        08/16/16
+   122485182 ST POLICE OPERATIONS ASS          10.00        08/16/16
+   122485182 CLERK OP & ADMIN FUND             10.00        08/16/16
+   122485184 PROBATION MONITORING FEE         108.00        08/16/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG BTRY/PREGNANT/HANDICAPPED
+
+         1  AGG BTRY/PREGNANT/HANDICAPPED
+
+         2  DOMESTIC BTRY/PHYSICAL CONTACT
+
+         2  DOMESTIC BTRY/PHYSICAL CONTACT
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   07-23-14                 Charge 01 Count 001 AGG BTRY/PREGNANT/HANDICAPPED
+                            Statute 720 5/12-3.05(d)(2)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned. Defendant admonished as to EXTE
+NDED-TERM
+                            SENTENCING. The Champaign County Public Defender is
+appointed and
+                            Christopher Mellon appears instanter.  Defendant wai
+ves preliminary
+                            hearing, enters a plea of not guilty and requests tr
+ial by jury.
+                            Pre-trial orders entered.  Bond set in the amount of
+ $25,000-ROR
+                            DENIED. As a condition of bond, Defendant is ordered
+ to have NO
+                            CONTACT whatsoever, directly or indirectly, with vic
+tim and/or address
+                            as recited in open court. See expanded record.  Defe
+ndant is
+                            admonished as to trial and sentencing in absentia.
+                            Charge 02 Count 002 DOMESTIC BTRY/PHYSICAL CONTACT
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Expanded record of court proceedings on arraignment.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+                            Affidavit in support of request to appoint attorney.
+   07-29-14                 Proof of service on file.
+                            Discovery filed.
+   07-30-14                 Answer to Discovery filed
+   09-10-14                 Proof of service on file.
+                            Supplemental Discovery filed
+   09-16-14                 Pre-trial held.
+                            People appear by Asst. State's Attorney.  Defendant
+appears by
+                            Counsel.  Suggestion to the Court that the Defendant
+ is in custody.
+                            Cause is called for pretrial.  Motion by the defenda
+nt to allot the
+                            matter for Trial.  People announce ready.  Motion is
+ allowed.  Cause
+                            is allotted for Jury Trial scheduling on the defenda
+nt's motion
+                            9/29/14 at 9:00 a.m. in Courtroom C.  Defendant's bo
+nd is to continue.
+   09-18-14                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena not found.
+                            Subpoena Served.  No Fees.
+   09-19-14                 Subpoena Served.  No Fees.
+   09-22-14                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   09-23-14                 Subpoena not found.
+   09-24-14                 Subpoena Served.  No Fees.
+   09-25-14                 Motion in Limine & Notice of Intention to Offer on f
+ile
+   09-26-14                 First Supplemental Answer to Discovery on file
+                            Proof(s) of service on file.
+   09-29-14                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG BTRY/PREGNANT/HANDICAPPED
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(d)(2)  Class 3
+                            Sentence: 09/29/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty DOMESTIC BTRY/PHYSICAL CONTACT
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/12-3.2(a)(2)  Class A
+                            Sentence: 09/29/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  75Days In force
+                            Sentence: Credit Time Served  75Days In force
+                            Sentence: Defendant stipulates victim is a family or
+ household member.
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Credit toward all fees and fines  75Days I
+n force
+                            Fine + Cost            367.00     CRIME STOPPERS
+        .00
+                            PROBATION MONITORIN    300.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Matthew P. Banach.  Appe
+arance of the
+                            Defendant personally, in custody and with counsel, A
+manda Riess.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of  Domestic Battery ILCS: 720
+ 5/12-3.2(a)(2) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  7/27/2015.   Defe
+ndant is ordered
+                            to serve a period of  12 months probation. Defendant
+ is ordered to
+                            serve a period of incarceration of  75 days in the C
+hampaign County
+                            Correctional Center.  Defendant is ordered to pay al
+l statutory fines,
+                            fees and court costs, including the fines as set for
+th in the written
+                            order entered this date.   All financial obligations
+ shall be paid in
+                            equal monthly installments to the Champaign County C
+ircuit Clerk.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  D
+efendant is to
+                            have no contact, directly or indirectly, in person,
+by telephone or
+                            electronically with the persons stated in the writte
+n order.
+                            Defendant is to receive credit for  75 days previous
+ly served. The
+                            Defendant hereby stipulates that a victim of this of
+fense is a family
+                            or household member of his within the meaning of 725
+ ILCS 5/112A-3(3);
+                            720 ILCS 5/12-3.2(b); 720 ILCS 5/12-30(d); and 730 I
+LCS 5/5-9-1.5.
+                            Count(s) stated in the written order are herby dismi
+ssed. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+                            Deft. is ordered to report to the Court Services Dep
+t. upon his
+                            release from the Department of Corrections.
+                            Report to ISP for possible firearms disqualification
+.
+                            Misdemeanor Domestic Violence FOID notification sent
+ to ISP.
+                            Sentencing order.
+                            Fees & Fines Assessment Form on file.
+                            Supplemental Sentencing Order Imposing Fines on file
+.
+                            Waiver of jury.
+   10-02-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   07-02-15                 Probation Violation Report on file
+   07-17-15                 Petition to revoke probation on file.
+
+                            Verified information on Petition to Revoke Probation
+ on file.
+                            Probable cause to arrest determined.  Warrant issued
+.  Bond set in the
+                            amount of $15,000.00.
+                            Warrant of arrest filed.
+   09-08-15                 Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and St
+ephanie Corum
+                            appears instanter.  General denial to the Petition i
+s entered. Bond is
+                            reduced to $5,000-ROR DENIED.  Defendant is admonish
+ed as to trial and
+                            sentencing in absentia.  See expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+   09-09-15                 Warrant served. Service fees $39.00
+   09-10-15                 Sheriff Booking Fee
+   09-14-15                 PTR continued
+                            Petitioner/People appear by Asst. State's Attorney.
+                            Respondent/Defendant appears with Counsel.  Cause is
+ called for
+                            hearing on the Petition to Revoke.  Motion by the re
+spondent/defendant
+                            to continue; People/Petitioner state no objection.
+                            Respondent's/Defendant's motion to continue is allow
+ed.  By agreement,
+                            cause is continued for further proceedings on the Pe
+tition to Revoke
+                            on 10/19/15 at 9:15 a.m. in Courtroom C.  All previo
+us conditions of
+                            probation continue in full force and effect.  Bond i
+s to continue.
+   10-19-15                 Failure to appear warrant.
+                            Appearance of the People by Tim J. Sullivan.  No app
+earance by the
+                            Defendant.  Appearance of  Amanda Riess.  Motion by
+the People for
+                            bond forfeiture and warrant.  Objection by counsel f
+or the Defendant.
+                            Motion allowed over the objection.  Defendant's bond
+ forfeited.
+                            CIRCUIT CLERK TO SEND NOTICE OF THE HEARING ON FORFE
+ITURE.  Warrant to
+                            issue.  Bond set in the amount of $  5,000.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+                            Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $  5,000.
+00.
+                            Warrant of arrest filed.
+   10-20-15                 Bond forfeiture notice prepared and mailed.
+   11-03-15                 Return to Sender - Returned mail on file.
+   11-23-15                 Judgment on bond forfeiture.
+                            Appearance of the People by Tim J. Sullivan.  No app
+earance by the
+                            Defendant.  Appearance of Counsel for the defendant.
+    Proof of
+                            Notice of Hearing by mail on file and approved.  Jud
+gment is entered
+                            on the forfeiture.  Defendant's bond posted to apply
+.  Warrant remains
+                            outstanding.
+                            Disposition 01/01  Count 001  Bond Forfeiture
+                            Disposition: Judgment on Forfeiture AGG BTRY/PREGNAN
+T/HANDICAPPED
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(d)(2)  Class 3
+                            Sentence: 11/23/2015
+                            Sentence: No Sentence  In force
+                            Bond Forfeiture        498.00     NOTICES MAILED 1ST
+       2.00
+   11-24-15                 Disposition entered.
+   12-01-15                 Disposition sent through ADR process this date. SPT
+   12-02-15                 Bond
+   04-11-16                 Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            People appear by Jacob A. Croegaert.  Defendant appe
+ars in-custody and
+                            by counsel, George Vargas. Cause is re-allotted for
+hearing on the
+                            Petition to Revoke to May 9, 2016 at 9:45 a.m. in Co
+urtroom C.
+                            Defendant admonished as to trial and sentencing in a
+bsentia.  Bond to
+                            continue. See Expanded Record.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+   04-12-16                 Warrant served. Service fees $52.80
+   04-13-16                 FTA warrant service fee of $75 is still owed.
+                            The arresting agency is
+                            Piatt County Sheriff
+                            Sheriff Booking Fee
+   05-09-16                 PTR continued on the respondent's motion
+                            Petitioner/People appear by Asst. State's Attorney M
+r. Sullivan.
+                            Respondent/Defendant appears with Counsel Ms. Riess.
+  Cause is called
+                            for hearing as to the Petition to Revoke.  Motion by
+ the
+                            defendant/respondent to continue this matter to trac
+k with a new case.
+                            People/Petitioner state no objection to the defendan
+t's motion to
+                            continue.  Motion is allowed.  Cause is continued on
+ the
+                            defendant's/respondent's motion to 5/10/16 at 2:00 p
+.m. in Courtroom C
+                            for status/hearing on the Petition to Revoke.
+                            Defendant's/Respondent's bond is to continue.
+   05-10-16
+                            On motion of counsel for the defendant cause continu
+ed for further
+                            proceedings on the petition to revoke probation on J
+une 14, 2016 at
+                            9:00 a.m. in Courtroom C.
+   06-14-16                 Failure to appear warrant.
+                            Appearance of the People by Tim J. Sullivan.  No app
+earance by the
+                            Defendant.  Appearance of  Amanda Riess.  Motion by
+the People for
+                            bond forfeiture and warrant.  Objection by counsel f
+or the Defendant.
+                            Motion allowed over the objection.  Defendant's bond
+ forfeited.
+                            CIRCUIT CLERK TO SEND NOTICE OF THE HEARING ON FORFE
+ITURE.  Warrant to
+                            issue.  Bond set in the amount of $ 25,000.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+   06-15-16                 Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $ 25,000.
+00.
+                            Warrant of arrest filed.
+   06-16-16                 Bond forfeiture notice prepared and mailed.
+   06-29-16                 Return to Sender - Returned mail on file.
+   07-18-16                 Representation to deft. in custody
+                            People appear by Asst. State's Attorney Mr. Sullivan
+.  Defendant's
+                            attorney Ms. Riess appears.  Representation to the C
+ourt that the
+                            defendant was apprehended on the warrant and will be
+ going to
+                            arraignment Court this date.  The Court vacates the
+Bond Forfeiture
+                            set for this date and reinstates the defendant's bon
+d.
+                            Warrant served. Service fees $39.00
+                            Expanded record of arraignment proceedings.
+                            Lindsey Yanchus appears on behalf of the Defendant.
+Cause is
+                            re-allotted for hearing on the Petition to Revoke.
+Defendant is
+                            admonished as to trial and sentencing in absentia. B
+ond is to
+                            continue.  See expanded record.
+                            Expanded record of court proceedings on arraignment.
+   08-08-16                 PTR withdrawn, probation terminated unsuccessfully
+                            Petitioner appears by Asst. State's Attorney Mr. Ban
+ach.  Respondent
+                            appears in custody and with attorney Ms. Riess.  On
+Motion of the
+                            People and pursuant to the plea agreement in case 16
+-CF-616, the
+                            Petition to Revoke is withdrawn and dismissed.  Defe
+ndant's probation
+                            is terminated unsuccessfully.  Defendant's bond orde
+r if any is
+                            vacated.  Bond, if any is to be applied to the outst
+anding financial
+                            obligations in this matter, any remaining bond is or
+dered transferred
+                            to case 16-CF-616.
+                            Disposition 02/01  Count 002  No Fine & Cost
+                            Disposition: Terminated Unsatisfied DOMESTIC BTRY/PH
+YSICAL CONTACT
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(2)  Class A
+                            Sentence: 08/08/2016
+   08-16-16                 Bond
+                            Bond
+                            Disposition entered.
+   08-17-16                 Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

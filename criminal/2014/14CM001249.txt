@@ -1,0 +1,278 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CM001249
+
+   Defendant Plaintiff
+HUNT-BIGHAM  JAMIE J
+1202 GARDEN DR APT C
+DANVILLE IL 61832
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 12/01/14
+                Court Room:
+           Next Appearance: 07/05/16
+                Birth Date: 04/05/91
+                 DEFENDANT: HUNT-BIGHAM  JAMIE J
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+      460.00      *RESTITUTION AMOUNT          460.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       10.00      STATES ATTORNEY               10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN          270.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       80.00      TRAFFIC/CRIMINAL SU           80.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      295.00      FINES                        295.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121423757 SHERIFF'S BOOKING FEE             34.00        12/01/14
+   121423757 BOND - ORIGINAL                  150.00        12/01/14
+   121512935 BOND -10% BOND FEE                15.00        01/26/15
+   121512935 *RESTITUTION AMOUNT              135.00        01/26/15
+   121512935 *RESTITUTION AMOUNT              135.00        01/26/15
+   122238245 BOND - ORIGINAL                  100.00        03/23/16
+   122238246 *RESTITUTION AMOUNT              100.00        03/23/16
+   122238246 *RESTITUTION AMOUNT              100.00        03/23/16
+   122247323 EPAY RECEIVABLE                  100.00        03/29/16
+   122256034 BOND - ORIGINAL                  100.00        04/01/16
+   122256035 *RESTITUTION AMOUNT              100.00        04/01/16
+   122256035 *RESTITUTION AMOUNT              100.00        04/04/16
+   122263472 EPAY RECEIVABLE                  100.00        04/07/16
+   122280156 BOND - ORIGINAL                  100.00        04/17/16
+   122280157 *RESTITUTION AMOUNT              100.00        04/17/16
+   122280157 *RESTITUTION AMOUNT              100.00        04/18/16
+   122288648 BOND - ORIGINAL                  100.00        04/20/16
+   122288649 *RESTITUTION AMOUNT               25.00        04/20/16
+   122288649 DOCUMENT STORAGE                  15.00        04/20/16
+   122288649 E-CITATION                         5.00        04/20/16
+   122288649 AUTOMATION                        15.00        04/20/16
+   122288649 CIRCUIT CLERK FEE                 40.00        04/20/16
+   122288649 *RESTITUTION AMOUNT               25.00        04/20/16
+   122291194 EPAY RECEIVABLE                  100.00        04/22/16
+   122296015 EPAY RECEIVABLE                  100.00        04/26/16
+   122299820 BOND - ORIGINAL                  100.00        04/28/16
+   122299821 CIRCUIT CLERK FEE                 35.00        04/28/16
+   122299821 COURT SECURITY                    25.00        04/28/16
+   122299821 COURT FINANCE FEE                 25.00        04/28/16
+   122299821 STATES ATTORNEY                   10.00        04/28/16
+   122299821 STATES ATTORNEY AUTOMATI           2.00        04/28/16
+   122299821 CRIME STOPPERS                     3.00        04/28/16
+   122309861 EPAY RECEIVABLE                  100.00        05/04/16
+   122312014 BOND - ORIGINAL                  100.00        05/04/16
+   122312015 CRIME STOPPERS                     2.00        05/04/16
+   122312015 ARRESTEE'S MEDICAL                10.00        05/04/16
+   122312015 PROBATION MONITORING FEE          88.00        05/04/16
+   122312199 01000000000                         .00        05/04/16
+   122319808 EPAY RECEIVABLE                  100.00        05/10/16
+   122324137 BOND - ORIGINAL                  100.00        05/11/16
+   122324138 PROBATION MONITORING FEE         100.00        05/11/16
+   122332257 EPAY RECEIVABLE                  100.00        05/17/16
+   122336578 BOND - ORIGINAL                  100.00        05/18/16
+   122336579 PROBATION MONITORING FEE          82.00        05/18/16
+   122336579 PROBATION OPER ASSISTANC          10.00        05/18/16
+   122336579 TR/CR SUR $10/$40                  8.00        05/18/16
+   122344739 EPAY RECEIVABLE                  100.00        05/24/16
+   122348929 BOND - ORIGINAL                  100.00        05/25/16
+   122348930 TR/CR SUR $10/$40                 72.00        05/25/16
+   122348930 DRUG COURT PROGRAM                 5.00        05/25/16
+   122348930 FINES                             23.00        05/25/16
+   122356454 EPAY RECEIVABLE                  100.00        06/01/16
+   122358271 BOND - ORIGINAL                  100.00        06/02/16
+   122358272 FINES                            100.00        06/02/16
+   122371394 EPAY RECEIVABLE                  100.00        06/08/16
+   122395922 BOND - ORIGINAL                  100.00        06/23/16
+   122395923 FINES                            100.00        06/23/16
+   122406058 EPAY RECEIVABLE                  100.00        06/29/16
+   122408337 BOND - ORIGINAL                  162.00        06/29/16
+   122408338 FINES                             72.00        06/29/16
+   122408338 VIOLENT CRIME VICTIMS AS          75.00        06/29/16
+   122408338 ST POLICE OPERATIONS ASS          15.00        06/29/16
+   122416902 EPAY RECEIVABLE                  162.00        07/06/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  THEFT CONTROL INTENT <$500
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   12-01-14                 Charge 01 Count 001 THEFT CONTROL INTENT <$500
+                            Statute 720 5/16-1(a)(1)(A)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            No bond No Bond
+                            Charging documents
+                            Sheriff Booking Fee
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Katie Jessup appears instanter.  Plea of not guilty
+entered and
+                            Defendant requests trial by jury. Bond to continue a
+s posted.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.  See
+                            expanded record.
+                            Notice of arrest without warrant on file.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+   12-23-14                 Proof(s) of service on file.
+   12-30-14                 Cause allotted for plea to
+   01-02-15                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Withhold Judgment/Supervision THEFT CON
+TROL INTENT <$500
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16-1(a)(1)(A)  Class A
+                            Sentence: 01/02/2015
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Court Supervision  18Mos In force
+                                      Supervised Court Service
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  18Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Sentence: Restitution  In force
+                            Fine + Cost            677.00     *RESTITUTION AMOUN
+T    460.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    270.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Lindsey Clark.  Appearan
+ce of the
+                            Defendant personally and by counsel, Francis L. Thom
+as.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Theft Control Intent <$500
+ILCS: 720
+                            5/16-1(a)(1)(A), a Class A Misdemeanor, as charged.
+Upon the plea
+                            entered this date, Defendant is sentenced to all ter
+ms and conditions
+                            as set forth in the written order on guilty plea ent
+ered this date.
+                            All financial obligations shall be paid in equal mon
+thly installments
+                            to the Champaign County Circuit Clerk by  7/01/2015.
+  Any bond posted
+                            is to be applied first to any court ordered bond ass
+ignment on file
+                            and then to all restitution ordered and then to all
+financial
+                            obligations in this case.  Any remaining bond shall
+be discharged to
+                            the individual who posted the bond.  Defendant is or
+dered to serve a
+                            period of 18 months Court Supervision. Defendant adv
+ised of right to
+                            appeal and rights pursuant to Supreme Court Rule 605
+ and the Court
+                            finds that the defendant understands the same. Waive
+r of Jury on file.
+                            Sentencing Order entered this date. See Order.
+                            Sentencing order.
+                            Waiver of jury.
+   01-09-15                 Disposition sent through ADR process this date. SPT
+   01-26-15                 Bond
+   03-23-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   03-29-16                 EPAY RECONCILIATION TRANSACTION
+   04-01-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   04-07-16                 EPAY RECONCILIATION TRANSACTION
+   04-17-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   04-20-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   04-22-16                 EPAY RECONCILIATION TRANSACTION
+   04-26-16                 EPAY RECONCILIATION TRANSACTION
+   04-28-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-04-16                 EPAY RECONCILIATION TRANSACTION
+                            EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-10-16                 EPAY RECONCILIATION TRANSACTION
+   05-11-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-17-16                 EPAY RECONCILIATION TRANSACTION
+   05-18-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-24-16                 EPAY RECONCILIATION TRANSACTION
+   05-25-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   06-01-16                 EPAY RECONCILIATION TRANSACTION
+   06-02-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   06-08-16                 EPAY RECONCILIATION TRANSACTION
+   06-23-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   06-28-16                 Motion to Quash filed
+   06-29-16                 EPAY RECONCILIATION TRANSACTION
+                            EPAY BOND PAYMENT
+                            Court Order Bond Used
+   06-30-16                 No Order entered
+                            Defendant's Motion to Quash filed on June 28, 2016,
+is DENIED as it
+                            fails to state a claim for which relief could be gra
+nted.  The court
+                            supervision sentence is scheduled to end on July 2,
+2016, and cannot
+                            be "quashed".  Defendant's Motion does not ask that
+it be terminated
+                            early or for any other particular relief that is pos
+sible under the
+                            law. Court Clerk to notify Defendant of this docket
+entry.
+   07-06-16                 EPAY RECONCILIATION TRANSACTION
+   08-02-16                 Motion to Dismiss filed.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

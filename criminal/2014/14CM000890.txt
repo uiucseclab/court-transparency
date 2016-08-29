@@ -1,0 +1,245 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CM000890
+
+   Defendant Plaintiff
+SIMULYTE  IEVA
+6468 SPRINGSIDE
+DOWNERS GROVE IL 60516
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 09/02/14
+                Court Room:
+           Next Appearance: 11/02/15
+                Birth Date: 05/07/96
+                 DEFENDANT: SIMULYTE  IEVA
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       10.00      STATES ATTORNEY               10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          300.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+      130.00      TRAFFIC/CRIMINAL SU          130.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      495.00      FINES                        495.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121273981 SHERIFF'S BOOKING FEE             34.00        09/02/14
+   121273981 BOND - ORIGINAL                  150.00        09/02/14
+   121400190 BOND -10% BOND FEE                15.00        11/14/14
+   121400190 DOCUMENT STORAGE                  15.00        11/14/14
+   121400190 E-CITATION                         5.00        11/14/14
+   121400190 AUTOMATION                        15.00        11/14/14
+   121400190 CIRCUIT CLERK FEE                 75.00        11/14/14
+   121400190 COURT SECURITY                    25.00        11/14/14
+   121644505 BOND - ORIGINAL                 1082.00        04/11/15
+   121644506 COURT FINANCE FEE                 25.00        04/11/15
+   121644506 STATES ATTORNEY                   10.00        04/11/15
+   121644506 STATES ATTORNEY AUTOMATI           2.00        04/11/15
+   121644506 CRIME STOPPERS                     5.00        04/11/15
+   121644506 ARRESTEE'S MEDICAL                10.00        04/11/15
+   121644506 PROBATION MONITORING FEE         300.00        04/11/15
+   121644506 PROBATION OPER ASSISTANC          10.00        04/11/15
+   121644506 TR/CR SUR $10/$40                130.00        04/11/15
+   121644506 DRUG COURT PROGRAM                 5.00        04/11/15
+   121644506 FINES                            495.00        04/11/15
+   121644506 VIOLENT CRIME VICTIMS AS          75.00        04/11/15
+   121644506 ST POLICE OPERATIONS ASS          15.00        04/11/15
+   121654094 EPAY RECEIVABLE                 1082.00        04/16/15
+   122386706 RECORD SEARCH                      6.00        06/16/16
+   122386706 CERTIFIED COPIES                   2.00        06/16/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  RECKLESS CONDUCT/BODILY HARM
+
+         1  RECKLESS CONDUCT/BODILY HARM
+
+         2  CONSUMPTION OF LIQUOR/MINOR
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   09-02-14                 NO BOND No Bond
+                            Charge 02 Count 002 CONSUMPTION OF LIQUOR/MINOR
+                            Statute 720 5/12-5(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 CONSUMPTION OF LIQUOR/MINOR
+                            Statute 235 5/6-20(e)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Sheriff Booking Fee
+                            Set for pre-trial.
+                            Appearance of the People by Scott M. Bennett.  Appea
+rance of the
+                            Defendant personally and by counsel, Anthony Bruno.
+Entry of
+                            Appearance filed instanter. Defendant arraigned. Ple
+a of not guilty
+                            entered and Defendant requests trial by jury. Bond i
+s to continue as
+                            posted. Defendant is admonished as to trial and sent
+encing in
+                            absentia. See expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Entry of appearance filed this date.
+                            Notice of arrest without warrant on file.
+   09-12-14                 Affidavit of mailing on file.
+   09-15-14                 Affidavit of mailing on file.
+   10-31-14                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed CONSUMPTION OF LIQUOR/MINOR
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 235 5/6-20(e)  Class A
+                            Sentence: 10/31/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Withhold Judgment/Supervision RECKLESS
+CONDUCT/BODILY HAR
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-5(a)(1)  Class A
+                            Sentence: 10/31/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Court Supervision  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Sentence: Under the Influence on-line education clas
+s  In force
+                            Sentence: Public Service  50Hrs In force
+                                      Supervised Court Service
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            927.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    300.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Tim J. Sullivan.  Appear
+ance of the
+                            Defendant personally and by counsel, Anthony Bruno.
+Cause called for
+                            Sentencing. Defendant advised as to the nature of th
+e proceedings, the
+                            charges and the possible penalties that may be impos
+ed and the Court
+                            finds that the Defendant understands the same.  Find
+ing Defendant
+                            knowingly, understandingly and voluntarily waives ri
+ghts and enters a
+                            plea of guilty to Count 01 of the charging instrumen
+t.  Finding
+                            Defendant is guilty of the offense of Reckless Condu
+ct/Bodily Harm
+                            ILCS: 720 5/12-5(a)(1) as charged. Upon the plea ent
+ered this date,
+                            Defendant is sentenced to all terms and conditions a
+s set forth in the
+                            Sentencing Order entered this date. All financial ob
+ligations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by  4/29/2015.  Any bond posted is to be appli
+ed first to any
+                            court ordered bond assignment on file and then to al
+l restitution
+                            ordered and then to all financial obligations in thi
+s case.  Any
+                            remaining bond shall be discharged to the individual
+ who posted the
+                            bond.  Defendant is ordered to serve a period of  12
+ months Court
+                            Supervision. Defendant is ordered to perform  50 hou
+rs of public
+                            service work under the supervision of the Champaign
+County Court
+                            Services Department.  The defendant is to be given c
+redit on public
+                            service work for any hours completed in education, t
+reatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes. Count(s) stated in the writte
+n order are herby
+                            dismissed. Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.    Waiver of Jury on file. Sen
+tencing Order
+                            entered this date. See Order.
+                            Sentencing order.
+                            Waiver of jury.
+   11-14-14                 Bond
+   01-13-15                 Certificate of Completing of Third Millennium
+                            Classroom online course filed.
+   04-11-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   04-16-15                 EPAY RECONCILIATION TRANSACTION
+   08-17-15                 Certificate of completion of public service work fil
+ed
+   11-10-15                 Docket Order
+                            Court notes the Defendant's successful completion of
+ the terms of
+                            Court Supervision. Court Supervision is hereby Disch
+arged, and cause
+                            is ordered dismissed Nunc Pro Tunc to 10-31-15.
+                            Disposition 01/01  Count 001  Manual Calculations
+                            Disposition: Terminated Satisfied RECKLESS CONDUCT/B
+ODILY HARM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-5(a)(1)  Class A
+                            Sentence: 11/10/2015
+                            Sentence: No Sentence  In force
+   11-19-15                 All obligations have been met, case is closed.
+   11-25-15                 Error disposition form created this date.
+   06-16-16                 Record Searches $6/year
+                            Certified Copies
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

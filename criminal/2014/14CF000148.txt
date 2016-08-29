@@ -1,0 +1,447 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000148
+
+   Defendant Plaintiff
+NELSON  HOPE L
+1419 HOLLYHILL
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 06/12/14
+                Court Room: F
+           Next Appearance: 03/31/16
+                Birth Date: 09/11/95
+                 DEFENDANT: NELSON  HOPE L
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE              .00          15.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+        5.00      E-CITATION                      .00           5.00
+       15.00      AUTOMATION                      .00          15.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+         .00      CRIME STOPPERS                  .00            .00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       25.00      PROBATION MONITORIN             .00         450.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+       15.00      BOND -10% BOND FEE            15.00            .00
+       30.00      DOCUMENT STORAGE              30.00            .00
+       10.00      E-CITATION                    10.00            .00
+       30.00      AUTOMATION                    30.00            .00
+      150.00      CIRCUIT CLERK FEE             65.00          85.00
+       50.00      COURT SECURITY                  .00          50.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        4.00      STATES ATTORNEY AUT             .00           4.00
+       20.00      ARRESTEE'S MEDICAL              .00          20.00
+      450.00      PROBATION MONITORIN             .00         450.00
+       20.00      PROBATION OPER ASSI             .00          20.00
+       20.00      TRAFFIC/CRIMINAL SU             .00          20.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      150.00      VIOLENT CRIME VICTI             .00         150.00
+       20.00      ST POLICE SERVICES              .00          20.00
+       20.00      ST POLICE OPERATION             .00          20.00
+       20.00      CLERK OP & ADMIN FU             .00          20.00
+         .00                                      .00            .00
+       15.00      BOND -10% BOND FEE              .00          15.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+        5.00      E-CITATION                      .00           5.00
+       15.00      AUTOMATION                      .00          15.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       15.00      BOND -10% BOND FEE            15.00            .00
+       15.00      DOCUMENT STORAGE              30.00          15.00
+        5.00      E-CITATION                    10.00           5.00
+       15.00      AUTOMATION                    30.00          15.00
+       75.00      CIRCUIT CLERK FEE             65.00          10.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+      450.00      PROBATION MONITORIN             .00         450.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      221.49      COLLECTION FEES                 .00         221.49
+       96.30      LATE FEES                       .00          96.30
+       15.00      ST POLICE OPERATION             .00          15.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00      BOND -10% BOND FEE              .00            .00
+       15.00      DOCUMENT STORAGE                .00          15.00
+        5.00      E-CITATION                      .00           5.00
+       15.00      AUTOMATION                      .00          15.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   120910381 SHERIFF'S BOOKING FEE             34.00        02/03/14
+   120910381 BOND - ORIGINAL                  150.00        02/03/14
+   121186517 BOND -10% BOND FEE                15.00        07/15/14
+   121186517 DOCUMENT STORAGE                  30.00        07/15/14
+   121186517 E-CITATION                        10.00        07/15/14
+   121186517 AUTOMATION                        30.00        07/15/14
+   121186517 CIRCUIT CLERK FEE                 65.00        07/15/14
+   122026147 01000000000                         .00        11/13/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG BATTERY/SCHOOL EMPLOYEE
+
+         2  RESIST/PC OFF/CORR/FRFTR/INJ
+
+         3  BATTERY/CAUSE BODILY HARM
+
+         3  BATTERY/CAUSE BODILY HARM
+
+         3  BATTERY/CAUSE BODILY HARM
+
+         3  BATTERY/CAUSE BODILY HARM
+
+         3  BATTERY/CAUSE BODILY HARM
+
+         4  RESIST/PC OFF/CORR EMP/FRFTR
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   01-31-14                 Charge 01 Count 001 AGG BATTERY/SCHOOL EMPLOYEE
+                            Statute 720 5/12-3.05(d)(3)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            No bond No Bond
+                            Charge 02 Count 002 RESIST/PC OFF/CORR/FRFTR/INJ
+                            Statute 720 5/31-1(a-7)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Stephanie Corum appears instanter.  De
+fendant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond set in the am
+ount of $1,500-ROR
+                            DENIED. As a condition of bond, the Defendant is ord
+ered to have NO
+                            CONTACT whatsoever, directly or indirectly, with the
+ named victim.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. See
+                            expanded record.
+                            Notice of arrest without warrant on file.
+   02-03-14                 Sheriff Booking Fee
+   02-10-14                 Proof of service on file.
+                            Discovery filed.
+   02-11-14                 Answer to Discovery filed
+   02-19-14                 Proof of service on file.
+                            Supplemental Discovery filed
+   02-20-14                 Proof of service on file.
+                            Supplemental Discovery filed
+   03-11-14
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   06-12-14                 Charge 03 Count 003 BATTERY/CAUSE BODILY HARM
+                            Statute 720 5/12-3(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 04 Count 004 RESIST/PC OFF/CORR EMP/FRFTR
+                            Statute 720 5/31-1(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG BATTERY/SCHOOL EMPLOYEE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(d)(3)  Class 3
+                            Sentence: 06/12/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed RESIST/PC OFF/CORR/FRFTR/INJ
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/31-1(a-7)  Class 4
+                            Sentence: 06/12/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition #3/00  Count 003  Cost Only
+                            Disposition: Guilty BATTERY/CAUSE BODILY HARM
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3(a)(1)  Class A
+                            Sentence: 06/12/2014
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  18Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  2Days In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  18Mos In force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Cost Only              332.00     CRIME STOPPERS
+        .00
+                            PROBATION MONITORIN    450.00
+                            Payment Due
+                            Disposition 04/00  Count 004  Cost Only
+                            Disposition: Guilty RESIST/PC OFF/CORR EMP/FRFTR
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/31-1(a)  Class A
+                            Sentence: 06/12/2014
+                            Sentence: Cost Only  In force
+                            Cost Only              312.00
+                            Sentencing order.
+                            Appearance of the People by Sarah J. Carlson.  Appea
+rance of the
+                            Defendant personally and by counsel, Jamie Propps.
+ Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 03
+                            AND Count 04 of the charging instrument.  Finding De
+fendant is guilty
+                            of the offense of Battery/Cause Bodily Harm ILCS: 72
+0 5/12-3(a)(1) AND
+                            Resisting a Peace Officer: 720 ILCS 5/31-1 as charge
+d. Judgment
+                            entered in favor of the People and against the defen
+dant on finding of
+                            guilt and for costs.  All financial obligations shal
+l be paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk by
+                            12/09/2014.  Any bond posted is to be applied first
+to any court
+                            ordered bond assignment on file and then to all rest
+itution ordered
+                            and then to all financial obligations in this case.
+ Any remaining
+                            bond shall be discharged to the individual who poste
+d the bond.
+                            Defendant is ordered to serve a period of  18 months
+ probation.
+                            Defendant is ordered to serve a period of incarcerat
+ion of   2 days in
+                            the Champaign County Correctional Center. Defendant
+is to receive
+                            credit for   2 days previously served. Count(s) stat
+ed in the written
+                            order are herby dismissed. Defendant advised of righ
+t to appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+                            Waiver of jury.
+                            Sentencing order.
+   06-19-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   07-15-14                 Disposition 03/01  Count 003  Modified Order
+                            Disposition: Modified/Trial Court BATTERY/CAUSE BODI
+LY HARM
+                            Modified Order         654.00     PROBATION MONITORI
+N    450.00
+                            Bond
+   07-22-14                 Disposition sent through ADR process this date. SPT
+   07-01-15                 Probation violation report filed
+   07-22-15                 Petition to Revoke Probation filed.
+                            Cause set for arraignment on
+                            Verified information on Petition to Revoke Probation
+ on file
+                            Summons issued this date.
+   07-28-15                 Summons not served by CCSO
+                            Summons Not served on Hope L. Nelson by Champaign Co
+unty Sheriff's
+                            Office on   on file.
+   08-12-15                 Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ka
+tie Jessup appears
+                            instanter.  General denial to the Petition is entere
+d.  Bond set in
+                            the amount of $1,000-ROR ALLOWED. Defendant is admon
+ished as to trial
+                            and sentencing in absentia.  See expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+                            Released On Recognizance bond form on file.
+   08-26-15                 Disposition 03/02  Count 003  Cost Only
+                            Disposition: Revocation/Vacate/Probation BATTERY/CAU
+SE BODILY HARM
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3(a)(1)  Class A
+                            Sentence: 08/26/2015
+                            Sentence: Cost Only  In force
+                            Sentence: Jail  45Days In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Not eligible for good time credit.  In for
+ce
+                            Sentence: Defendant's previous probation unsuccessfu
+lly termed  In for
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              232.00
+                            Payment Due
+                            Resentencing on petition to revoke.
+                            Appearance of the People by Stephanie A. Hall.  Appe
+arance of the
+                            Defendant personally and by counsel, Jamie Propps fo
+r Anthony J.
+                            Fiorentino.    Defendant advised as to the nature of
+ the proceedings
+                            and the possible penalties that may be imposed and t
+he Court finds
+                            that the Defendant understands the same.  Finding De
+fendant knowingly,
+                            understandingly and voluntarily stipulates and admit
+s to the
+                            allegations contained in the Petition to Revoke.  Fi
+nding the same are
+                            true.  The court finds that the Defendant has violat
+ed the terms of
+                            her sentence.  Finding entered in favor of the Peopl
+e and against
+                            Defendant. Defendant is ordered to pay all outstandi
+ng financial
+                            obligations previously imposed and all other fines,
+fees, and costs as
+                            authorized by statute.   All financial obligations s
+hall be paid in
+                            equal monthly installments to the Champaign County C
+ircuit Clerk by
+                            2/23/2016.  Any bond posted is to be applied first t
+o any court
+                            ordered bond assignment on file and then to all rest
+itution ordered
+                            and then to all financial obligations in this case.
+ Any remaining
+                            bond shall be discharged to the individual who poste
+d the bond.
+                            Defendant is ordered to serve a period of incarcerat
+ion of 45 days in
+                            the Champaign County Correctional Center. Defendant
+is to receive
+                            credit for 2 days previously served. Defendant is NO
+T entitled to day
+                            for day good time credit under the County Jail Good
+Behavior Allowance
+                            Act. Defendant's probation in 14CF148 is hereby term
+inated
+                            unsuccessfully.  Defendant advised of right to appea
+l and rights
+                            pursuant to Supreme Court Rule 605 and the Court fin
+ds that the
+                            defendant understands the same. Sentencing Order ent
+ered. See Order.
+                            Defendant is remanded to the custody of the Champaig
+n County Sheriff
+                            to begin serving the sentence imposed.
+                            Sentencing Order / Resentencing on Petition to revok
+e on
+                            file.
+                            Disposition 03/03  Count 003  Modified Order
+                            Disposition: Modified/Trial Court BATTERY/CAUSE BODI
+LY HARM
+                            Modified Order         342.00     PROBATION MONITORI
+N    450.00
+                            Disposition 03/04  Count 003  No Fine & Cost
+                            Disposition: Terminated Unsatisfied BATTERY/CAUSE BO
+DILY HARM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3(a)(1)  Class A
+                            Sentence: 08/26/2015
+                            Sentence: No Sentence  In force
+   08-28-15                 Disposition entered.
+   09-01-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   01-26-16                 Prepared blueback certificate.
+                            Defendant's Motion for Extension of Time to Pay Cost
+s filed
+                            and forwarded to court.
+   01-27-16                 Docket Order
+                            Court notes Defendant's Pro Se pleading on file. Mot
+ion for Extension
+                            of Time to Pay Costs is allowed. Defendant is grante
+d until 03/31/16
+                            to pay. No written Order required.  Court Clerk to n
+otify Defendant of
+                            the entry of this docket order.
+   02-26-16                 Payment Due
+   06-30-16                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

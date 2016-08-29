@@ -1,0 +1,435 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000200
+
+   Defendant Plaintiff
+YOUNG  RONEZ W
+403 HALF EDGEBROOK A
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 02/10/14
+                Court Room:
+           Next Appearance: 04/06/17
+                Birth Date: 08/30/94
+                 DEFENDANT: YOUNG  RONEZ W
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      250.00      BOND -10% BOND FEE           250.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+         .00      CRIME STOPPERS                  .00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          280.00         320.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+     1563.00                                  1563.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   120944646 SHERIFF'S BOOKING FEE             34.00        02/24/14
+   120944646 BOND - ORIGINAL                 2500.00        02/24/14
+   121637751 BOND -10% BOND FEE               250.00        04/07/15
+   121637751 DOCUMENT STORAGE                  15.00        04/07/15
+   121637751 AUTOMATION                        15.00        04/07/15
+   121637751 CIRCUIT CLERK FEE                100.00        04/07/15
+   121637751 COURT SECURITY                    25.00        04/07/15
+   121637751 COURT FINANCE FEE                 50.00        04/07/15
+   121637751 STATES ATTORNEY                   40.00        04/07/15
+   121637751 STATES ATTORNEY AUTOMATI           2.00        04/07/15
+   121637751 ARRESTEE'S MEDICAL                10.00        04/07/15
+   121637751 PROBATION MONITORING FEE          25.00        04/07/15
+   121637751 PROBATION OPER ASSISTANC          10.00        04/07/15
+   121637751  STATE OFFENDER DNA ID S         250.00        04/07/15
+   121637751 TR/CR SUR $10/$40                 10.00        04/07/15
+   121637751 VIOLENT CRIME VICTIMS AS         100.00        04/07/15
+   121637751 ST POLICE SERVICES FUND           10.00        04/07/15
+   121637751 ST POLICE OPERATIONS ASS          15.00        04/07/15
+   121637751 CLERK OP & ADMIN FUND             10.00        04/07/15
+   121637751 *BOND REFUND                    1563.00        04/07/15
+   121996324 PROBATION MONITORING FEE          15.00        10/28/15
+   122067037 PROBATION MONITORING FEE          10.00        12/09/15
+   122111386 PROBATION MONITORING FEE          15.00        01/08/16
+   122174750 PROBATION MONITORING FEE          25.00        02/16/16
+   122214007 PROBATION MONITORING FEE          50.00        03/09/16
+   122265599 PROBATION MONITORING FEE          25.00        04/08/16
+   122315973 PROBATION MONITORING FEE          25.00        05/06/16
+   122325634 PROBATION MONITORING FEE          25.00        05/12/16
+   122368377 PROBATION MONITORING FEE          25.00        06/07/16
+   122422925 PROBATION MONITORING FEE          25.00        07/08/16
+   122449632 PROBATION MONITORING FEE          15.00        07/25/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  ARMED VIOLENCE/CATEGORY I
+
+         2  POSS FIREARM W/ DEFACED SER NO
+
+         3  MFG/DEL 1<15 GR HEROIN/ANALOG
+
+         4  OBSTRUCT JUST/DESTROY EVIDENCE
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   02-10-14                 Charge 01 Count 001 ARMED VIOLENCE/CATEGORY I
+                            Statute 720 5/33A-2(a)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 POSS FIREARM W/ DEFACED SER NO
+                            Statute 720 5/24-5(b)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond 2013DT000554
+                            Charge 03 Count 003 MFG/DEL 1<15 GR HEROIN/ANALOG
+                            Statute 720 570/401(c)(1)  Class 1  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 04 Count 004 OBSTRUCT JUST/DESTROY EVIDENCE
+                            Statute 720 5/31-4(a)(1)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and David Appleman appears instanter.  Def
+endant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond of $25,000 is
+ to continue.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. See
+                            expanded record.
+                            Notice of arrest without warrant on file.
+   02-18-14                 Answer to Discovery filed
+                            Motion for Supplemental Discovery (Compel the Taking
+ of Buccal Swabs
+                            From the Defendant) on file by the State's Attorney
+office.
+                            Proof of service on file.
+                            Discovery filed.
+   02-21-14                 Motion for supplemental discovery (compel the taking
+ of buccal swabs
+                            from the defendant) on file.  By agreement, motion a
+llowed.  Written
+                            Order to compel the taking of bucal swabs entered.
+                            Docket entry of 2/10/14 is incorrect in that this ma
+tter is actually
+                            assigned to Judge Clem and is set for pre trial on 4
+/1/14 at 9:00 a.m.
+                            in Courtroom A. Hearing allotted 3/18/14 in Courtroo
+m E is vacated.
+   02-24-14                 Sheriff Booking Fee
+   02-26-14                 Proof of service on file.
+                            Supplemental Discovery filed
+   03-17-14                 Proof of service on file.
+                            Supplemental Discovery filed
+   03-19-14                 Proof of service on file.
+                            Supplemental Discovery filed
+                            Proof of service on file.
+                            Supplemental Discovery filed
+   04-01-14
+                            Motion to continue for forensic testing on file by t
+he People.  Motion
+                            allowed.  Cause allotted for Pre-Trial on April 29,
+2014 at 9:00 a.m.
+                            in Courtroom A.  Bond is to continue.
+   04-25-14                 Proof of service on file.
+                            Supplemental Discovery filed
+   04-28-14                 Motion for Continuance on file by the State's Attorn
+ey office.
+   04-29-14
+                            No appearance of the defendant personally.  Suggesti
+on the defendant
+                            is in custody.  On motion of the People, cause allot
+ted for Pre-Trial
+                            on May 27, 2014 at 9:00 a.m. in Courtroom A.  Bond i
+s to continue.
+   05-01-14                 Motion to Consume Physical Evidence for Laboratory A
+nalysis
+                            on file by the State's Attorney office.
+   05-05-14                 Motion to Consume Physical Evidence for Laboratory A
+nalysis on
+                            file and considered.  Agreed Order to Consume Physic
+al Evidence for
+                            Laboratory Analysis entered.
+   05-27-14
+                            No appearance of the defendant personally.  Suggesti
+on the defendant
+                            is in custody.  Motion to continue for completion of
+ forensic testing
+                            filed by Assistant State's Attorney Clark.  Motion a
+llowed.  Cause
+                            allotted for Pre-Trial on June 24, 2014 at 9:00 a.m.
+ in Courtroom A.
+                            Bond previously established to continue.
+                            Motion for Continuance on file by the State's Attorn
+ey office.
+   06-24-14
+                            Stephanie Corum appears with the defendant.  On defe
+ndant's motion
+                            cause allotted for Pre-Trial on July 22, 2014 at 9:0
+0 a.m. in
+                            Courtroom A.  Bond is to continue.
+   07-22-14
+                            On defendant's motion cause allotted for Pre-Trial o
+n August 19, 2014
+                            at 9:00 a.m. in Courtroom A.  Bond to continue.
+   08-19-14                 Set for Trial-Defendant Appears
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   08-22-14                 Proof of service on file.
+                            Supplemental Discovery filed
+   08-29-14                 Proof of service on file.
+                            Supplemental Discovery filed
+   09-08-14
+                            On the joint motion of the parties, cause allotted f
+or Pre-Trial on
+                            September 23, 2014 at 9:00 a.m. in Courtroom A.  Bon
+d is to continue.
+   09-23-14
+                            On motion of the defendant, cause allotted for Pre-T
+rial on October
+                            28, 2014 at 9:00 a.m. in Courtroom A.  Bond is to co
+ntinue.
+   10-28-14
+                            On motion of the defendant cause allotted for Pre-Tr
+ial on November
+                            25, 2014 at 9:00 a.m. in Courtroom A.  Bond is to co
+ntinue.
+   11-25-14                 Defendant's motion for continuance.
+                            People appear by Lindsey S. Clark.  Defendant appear
+s personally and
+                            with counsel, Stephanie A. Corum. Motion by the Defe
+ndant for
+                            continuance.  Motion allowed.  Bond to continue.
+   12-16-14
+                            On motion of the defendant, cause allotted for the J
+ury Trial Call on
+                            January 5, 2015 at 1:00 p.m. in Courtroom A.  Bond i
+s to continue.
+   01-05-15
+                            People announce ready for trial.  Defendant announce
+s ready for trial.
+                            Cause allotted for Jury Trial as the FOURTH case to
+be called on
+                            January 6, 2015 at 9:30 a.m. in courtroom A.  Bond i
+s to continue.
+   01-06-15
+                            Motion for continuance filed instanter by the People
+.  No objection by
+                            counsel for the defendant to the motion for continua
+nce.  Suggestion a
+                            witness necessary for the People's evidence is unabl
+e to appear due to
+                            family medical reasons.  Motion allowed.  Trial allo
+tment this jury
+                            term is vacated.  Cause allotted for the Jury Trial
+Call on February
+                            2, 2015 at 1:00 p.m. in Courtroom A.  Bond is to con
+tinue.
+                            Motion to Continue filed
+   02-02-15
+                            On motion of defendant's counsel, cause allotted for
+ the Jury Trial
+                            Call on March 9, 2015 at 1:00 p.m. in Courtroom A.
+Bond is to
+                            continue.
+   03-05-15                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   03-09-15
+                            On motion of the defendant's counsel, cause allotted
+ for the Jury
+                            Trial Call on April 6, 2015 at 1:00 p.m. in Courtroo
+m A.  Bond is to
+                            continue.
+   03-17-15                 Supplemental Answer to Discovery on file
+   04-06-15                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed ARMED VIOLENCE/CATEGORY I
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/33A-2(a)  Class X
+                            Sentence: 04/06/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed POSS FIREARM W/ DEFACED SER N
+O
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/24-5(b)  Class 3
+                            Sentence: 04/06/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed MFG/DEL 1<15 GR HEROIN/ANALOG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(c)(1)  Class 1
+                            Sentence: 04/06/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  Cost Only
+                            Disposition: Guilty OBSTRUCT JUST/DESTROY EVIDENCE
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/31-4(a)(1)  Class 4
+                            Sentence: 04/06/2015
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  14Days In force
+                            Sentence: Credit Time Served  14Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  14Days I
+n force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              662.00     CRIME STOPPERS
+        .00
+                            PROBATION MONITORIN    600.00      STATE OFFENDER DN
+A    250.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Dan Clifton.  Appearance
+ of the Defendant
+                            personally and by counsel, Stephanie A. Corum.   Def
+endant advised as
+                            to the nature of the proceedings, the charges and th
+e possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 04
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Obstruct Just/Destroy Evidence ILCS: 720
+5/31-4(a)(1) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by 10/05/2015.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  24
+                            months probation. Defendant is ordered to serve a pe
+riod of
+                            incarceration of  14 days in the Champaign County Co
+rrectional Center.
+                            Defendant is to receive credit for  14 days previous
+ly served. The
+                            Defendant is to submit specimens of blood, saliva, o
+r tissue to the
+                            Illinois Department of State Police or to the Depart
+ment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+.  Defendant is to
+                            obtain an evaluation for alcohol and drug abuse from
+ an agency or
+                            agent recommended by the Court Services Department,
+and follow any
+                            recommendations contained therein as to treatment an
+d/or counseling.
+                            Count(s) stated in the written order are herby dismi
+ssed.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+                            Defendant advised of his right to appeal.  Court fin
+ds he understands
+                            the same.
+                            Sentencing order.
+                            Waiver of jury.
+                            Disposition entered.
+   04-07-15                 Bond
+   04-13-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   10-28-15                 Cash
+                            Defendant's Motion for Extension of Time to Pay Cost
+s filed
+                            and forwarded to court.
+   11-02-15
+                            Court notes Defendant's Motion for Extension of Time
+ to Pay Costs.
+                            Defendant must file a financial affidavit and provid
+e the same to the
+                            Court.
+                            **Court's docket entry mailed to the Defendant.**
+   12-09-15                 Cash
+   01-08-16                 Cash
+   02-16-16                 Cash
+   03-09-16                 Cash
+   04-08-16                 Cash
+   05-06-16                 Cash
+   05-12-16                 Cash
+   06-07-16                 Cash
+   07-08-16                 Cash
+   07-25-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

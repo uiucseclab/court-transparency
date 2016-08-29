@@ -1,0 +1,341 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF001345
+
+   Defendant Plaintiff
+LEE  DANIEL P
+2412 S FIELDS APT 20
+CHAMPAIGN IL 61822
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 09/30/14
+                Court Room: E
+           Next Appearance: 02/29/16
+                Birth Date: 07/25/91
+                 DEFENDANT: LEE  DANIEL P
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      280.00      BOND -10% BOND FEE           280.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+         .00      COUNTY ORDINANCE                .00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          300.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      250.00      TRAFFIC/CRIMINAL SU          250.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       39.00      SHERIFF FEES                  39.00            .00
+      245.00      FINES                        245.00            .00
+      350.00      DUI NEW EQUIPMENT F          350.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+      100.00      DRIVERS EDUCATION            100.00            .00
+      400.00      DUI - IL GENERAL RE          400.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+       70.00      WARRANT SERVICE FEE           70.00            .00
+         .00      FTA WARR SERV #2                .00            .00
+       15.00      CLERK OP & ADMIN FU           15.00            .00
+     2445.00                                  2445.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121358258 SHERIFF'S BOOKING FEE             34.00        10/21/14
+   121358258 BOND - ORIGINAL                 2500.00        10/21/14
+   121360320 BOND TRANSFERS IN                300.00        10/22/14
+   121578038 BOND -10% BOND FEE               280.00        03/05/15
+   121578038 WARRANT SERVICE FEE               70.00        03/05/15
+   121578038 CLERK OP & ADMIN FUND              5.00        03/05/15
+   121578038 *BOND REFUND                    2445.00        03/05/15
+   122144235 DOCUMENT STORAGE                  15.00        01/28/16
+   122144235 E-CITATION                         5.00        01/28/16
+   122144235 AUTOMATION                        15.00        01/28/16
+   122144235 CIRCUIT CLERK FEE                 75.00        01/28/16
+   122144235 COURT SECURITY                    25.00        01/28/16
+   122144235 COURT FINANCE FEE                 25.00        01/28/16
+   122144235 STATES ATTORNEY                   20.00        01/28/16
+   122144235 STATES ATTORNEY AUTOMATI           2.00        01/28/16
+   122144235 CRIME STOPPERS                     5.00        01/28/16
+   122144235 ARRESTEE'S MEDICAL                10.00        01/28/16
+   122144235 PROBATION MONITORING FEE         300.00        01/28/16
+   122144235 PROBATION OPER ASSISTANC          10.00        01/28/16
+   122144235 SPINAL CORD RESEARCH FUN           5.00        01/28/16
+   122144235 TRAUMA FUND                      100.00        01/28/16
+   122144235 TR/CR SUR $10/$40                250.00        01/28/16
+   122144235 CLERK OP & ADMIN-SERIOUS           5.00        01/28/16
+   122144235 DRUG COURT PROGRAM                 5.00        01/28/16
+   122144235 SHERIFF FEES                      39.00        01/28/16
+   122144235 FINES                            245.00        01/28/16
+   122144235 DUI NEW EQUIPMENT FINE           350.00        01/28/16
+   122144235 VIOLENT CRIME VICTIMS AS          75.00        01/28/16
+   122144235 DRIVERS EDUCATION                100.00        01/28/16
+   122144235 DUI - IL GENERAL REVENUE         400.00        01/28/16
+   122144235 FIRE PREVENTION FUND              15.00        01/28/16
+   122144235 FIRE TRUCK REVOLVING LOA          15.00        01/28/16
+   122144235 ST POLICE SERVICES FUND           10.00        01/28/16
+   122144235 ST POLICE OPERATIONS ASS          15.00        01/28/16
+   122144235 CLERK OP & ADMIN FUND             10.00        01/28/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG DUI/NO VALID DL
+
+         2  AGG DUI/NO VALID DL
+
+         3  DRVG UNDER INFLU/BAC 0.08
+
+         3  DRVG UNDER INFLU/BAC 0.08
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   09-30-14                 Charge 01 Count 001 AGG DUI/NO VALID DL
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 AGG DUI/NO VALID DL
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            NO BOND No Bond
+   10-10-14                 Warrant issued.
+                            People appear by Elizabeth A. Dornik.   Appearance o
+f   on behalf of
+                            the Defendant.  No appearance by Defendant as previo
+usly ordered by
+                            the Court.  Motion by People for bond forfeiture and
+ warrant.
+                            Objection by counsel for Defendant.  Motion is allow
+ed.  Defendant's
+                            bond is forfeited.  Warrant issued with bond set in
+the amount of $
+                            25,000.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+                            Warrant of arrest filed.
+   10-14-14                 Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel. Bond to continue. Defendant i
+s admonished as to
+                            trial and sentencing in absentia.  See expanded reco
+rd.
+                            Reinstate Bond.
+                            Bond forfeiture previously entered is vacated and bo
+nd is reinstated.
+                            Bond forfeiture hearing of 11/14/14 is vacated.
+                            Expanded record of court proceedings on arraignment.
+                            Released On Recognizance bond form on file.
+   10-15-14                 Warrant served. Service fees $39.00
+   10-21-14                 FTA warrant service fee of $75 is still owed.
+                            The arresting agency is Champaign County Sheriff
+                            Sheriff Booking Fee
+   10-22-14                 Bond Type Transfer Bond From    2014DT000448 LEE DAN
+IEL P
+   10-28-14                 Defendant's motion for continuance.
+                            People appear by Timothy J. Sullivan.  Defendant app
+ears personally
+                            and with counsel, W. Ding. Entry of Appearance on fi
+le by Mr. Ding
+                            this date. Motion by the Defendant for continuance.
+ Motion allowed.
+                            Assignment of Bond on file this date.
+                            Motion for Fingerprinting Order on file. No objectio
+n to the motion.
+                            Motion allowed. Order entered. SEE ORDER.
+                            Bond to continue.
+                            Expanded record of court proceedings on arraignment.
+                            Motion for Fingerprinting Order on file.
+                            Entry of Appearance, Plea of Not Guilty, Request for
+ Jury Trial
+                            on file.
+                            Bond assignment on file.
+   11-04-14                 Affidavit of mailing on file.
+                            Discovery filed.
+                            No
+   12-05-14                 Set for plea.
+                            Appearance of the People by Lindsey Clark.  Appearan
+ce of the
+                            Defendant personally and by counsel, Walter Ding.
+Court notes
+                            Defendant has never waived not been allotted for Pre
+liminary Hearing.
+                            Defendant waives Preliminary Hearing. Pre-trial and
+Discovery Order
+                            entered this date. Cause allotted for plea. Bond to
+continue. On the
+                            Defendant's motion, Bond is modified to allow the De
+fendant to travel
+                            outside the US. All other conditions of bond remain
+in full force and
+                            effect.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+   12-10-14                 Drug and alcohol evaluation sealed and placed on fil
+e.
+   01-28-15                 Cause allotted for plea to
+                            Upon representations form counsel, cause allotted fo
+r PLEA on 01/30/15
+                            is hereby vacated. Cause is re-allotted for Plea.
+   02-20-15                 Defendant's motion for continuance.
+                            People appear by Lindsey S. Clark.  Defendant appear
+s personally and
+                            with counsel, Walter Ding.
+                            Charge 03 Count 003 DRVG UNDER INFLU/BAC 0.08
+                            Statute 625 5/11-501(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   02-23-15                 Cause allotted for plea to
+   02-27-15                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG DUI/NO VALID DL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 02/27/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed AGG DUI/NO VALID DL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 02/27/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  Fine + Cost
+                            Disposition: Guilty DRVG UNDER INFLU/BAC 0.08
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)(1)  Class A
+                            Sentence: 02/27/2015
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Fine + Cost           2126.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    300.00     WARRANT SERVICE FE
+E     70.00
+                            FTA WARR SERV #2          .00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Lindsey S. Clark.  Appea
+rance of the
+                            Defendant personally and by counsel, Walter Ding.
+Defendant advised
+                            as to the nature of the proceedings, the charges, an
+d the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly,
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 03
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Drvg Under Influ/Bac 0.08 ILCS: 625 5/11-
+501(a)(1) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by 12/28/2015.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of 12
+                            months probation.  Defendant is to attend the next V
+ictim Impact Panel
+                            presented by the Champaign County Court Services Dep
+artment.
+                            Defendant is to obtain an evaluation for alcohol and
+ drug abuse from
+                            an agency or agent recommended by the Court Services
+ Department, and
+                            follow any recommendations contained therein as to t
+reatment and/or
+                            counseling. Counts 1 and 2 are hereby dismissed. Def
+endant advised of
+                            right to appeal and rights pursuant to Supreme Court
+ Rule 605 and the
+                            Court finds that the defendant understands the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See order.
+                            Sentencing order.
+                            Waiver of jury.
+   03-04-15                 Disposition entered.
+   03-05-15                 Bond
+   03-10-15                 Error disposition form created this date.
+                            Error disposition form created this date.
+                            Error disposition form created this date.
+   01-28-16                 Cash
+   03-08-16                 Order of Discharge from Probation entered this date.
+ See Order.
+                            Disposition 03/01  Count 003  No Fine & Cost
+                            Disposition: Probation Terminated DRVG UNDER INFLU/B
+AC 0.08
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)(1)  Class A
+                            Sentence: 03/08/2016
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   03-10-16                 All obligations have been met, case is closed.
+   03-11-16                 Error disposition form created this date.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

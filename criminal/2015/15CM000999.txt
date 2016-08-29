@@ -1,0 +1,204 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #15CM000999
+
+   Defendant Plaintiff
+EPPERSON  TEARICA
+2412 NEVADA
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 09/28/15
+                Court Room:
+           Next Appearance: 11/03/16
+                Birth Date: 07/26/97
+                 DEFENDANT: EPPERSON  TEARICA
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       20.00      BOND -10% BOND FEE            20.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       10.00      STATES ATTORNEY               10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL             3.00           7.00
+       15.00      PROBATION MONITORIN             .00         180.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       50.00      TRAFFIC/CRIMINAL SU             .00          50.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      190.00      FINES                           .00         190.00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+       15.00      ST POLICE OPERATION             .00          15.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121940784 SHERIFF'S BOOKING FEE             34.00        09/28/15
+   121940784 BOND - ORIGINAL                  200.00        09/28/15
+   122029301 BOND -10% BOND FEE                20.00        11/16/15
+   122029301 DOCUMENT STORAGE                  15.00        11/16/15
+   122029301 E-CITATION                         5.00        11/16/15
+   122029301 AUTOMATION                        15.00        11/16/15
+   122029301 CIRCUIT CLERK FEE                 75.00        11/16/15
+   122029301 COURT SECURITY                    25.00        11/16/15
+   122029301 COURT FINANCE FEE                 25.00        11/16/15
+   122029301 STATES ATTORNEY                   10.00        11/16/15
+   122029301 STATES ATTORNEY AUTOMATI           2.00        11/16/15
+   122029301 CRIME STOPPERS                     5.00        11/16/15
+   122029301 ARRESTEE'S MEDICAL                 3.00        11/16/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  DOMESTIC BTRY/PHYSICAL CONTACT
+
+         2  CRIM DAMAGE TO PROPERTY <$300
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   09-28-15                 Charge 01 Count 001 DOMESTIC BTRY/PHYSICAL CONTACT
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            No bond No Bond
+                            Charge 02 Count 002 CRIM DAMAGE TO PROPERTY <$300
+                            Statute 720 5/21-1(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            No bond No Bond
+                            Charging documents
+                            Sheriff Booking Fee
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Tony Allegretti appears instanter.  Plea of not guil
+ty entered and
+                            Defendant requests trial by jury. Bond of $2,000 is
+to continue. The
+                            NO CONTACT order entered in bond court on 9/27/15 re
+mains in full
+                            force and effect. Defendant is admonished as to tria
+l and sentencing
+                            in absentia.  See expanded record.
+                            GPS NOT ORDERED-Electronic Monitoring (GPS) Order
+                            In bond court on 9/27/15, the Court considered the f
+actors set forth
+                            in 725 ILCS 5/110-5(f) and declined to order electro
+nic monitoring.
+                            Electronic Monitoring (GPS) Order entered this date.
+ See Order.
+                            Notice of arrest without warrant on file.
+                            Expanded record of court proceedings on arraignment.
+                            Bail Bond Release Authorization filed.
+                            Order for Electronic Monitoring on file.
+                            Affidavit in support of request to appoint attorney.
+   10-13-15                 Proof(s) of service on file.
+   11-03-15                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed DOMESTIC BTRY/PHYSICAL CONTAC
+T
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(2)  Class A
+                            Sentence: 11/03/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Withhold Judgment/Supervision CRIM DAMA
+GE TO PROPERTY <$3
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/21-1(a)(1)  Class A
+                            Sentence: 11/03/2015
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Court Supervision  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Anger Control Counseling  In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Fine + Cost            547.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    180.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Jacob A. Croegaert.  App
+earance of the
+                            Defendant personally and by counsel, Daniel G. Taylo
+r.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges, and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly, and voluntarily waives rights and e
+nters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Crim Damage To Property <$3
+00 ILCS: 720
+                            5/21-1(a)(1) as charged.  Judgment is deferred.  Def
+endant is
+                            sentenced to all terms and conditions as set forth i
+n the written
+                            order on guilty plea entered this date. All financia
+l obligations
+                            shall be paid in equal monthly installments to the C
+hampaign County
+                            Circuit Clerk by  3/02/2016.  Any bond posted is to
+be applied first
+                            to any court ordered bond assignment on file and the
+n to all
+                            restitution ordered and then to all financial obliga
+tions in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of 12 months
+                            Court Supervision.  Count 1 is hereby dismissed. Def
+endant advised of
+                            right to appeal and rights pursuant to Supreme Court
+ Rule 605 and the
+                            Court finds that the defendant understands the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See order.
+                            Sentencing order.
+                            Waiver of jury.
+   11-12-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition entered.
+   11-16-15                 Bond
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

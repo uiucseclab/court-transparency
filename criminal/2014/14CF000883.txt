@@ -1,0 +1,237 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000883
+
+   Defendant Plaintiff
+WILLIAMS  TRAVIS T
+101 E GREEN
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 06/30/14
+                Court Room:
+           Next Appearance: 02/15/17
+                Birth Date: 08/03/91
+                 DEFENDANT: WILLIAMS  TRAVIS T
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      100.00      BOND -10% BOND FEE           100.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN           25.00         725.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+         .00       STATE OFFENDER DNA             .00            .00
+      130.00      TRAFFIC/CRIMINAL SU          130.00            .00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+      465.00      SEXUAL OFFENDER REG          363.00         102.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121168271 SHERIFF'S BOOKING FEE             34.00        07/03/14
+   121168271 BOND - ORIGINAL                 1000.00        07/03/14
+   121256027 BOND -10% BOND FEE               100.00        08/22/14
+   121256027 DOCUMENT STORAGE                  15.00        08/22/14
+   121256027 AUTOMATION                        15.00        08/22/14
+   121256027 CIRCUIT CLERK FEE                100.00        08/22/14
+   121256027 COURT SECURITY                    25.00        08/22/14
+   121256027 COURT FINANCE FEE                 50.00        08/22/14
+   121256027 STATES ATTORNEY                   40.00        08/22/14
+   121256027 STATES ATTORNEY AUTOMATI           2.00        08/22/14
+   121256027 CRIME STOPPERS                    10.00        08/22/14
+   121256027 ARRESTEE'S MEDICAL                10.00        08/22/14
+   121256027 PROBATION MONITORING FEE          25.00        08/22/14
+   121256027 PROBATION OPER ASSISTANC          10.00        08/22/14
+   121256027  STATE OFFENDER DNA ID S         250.00        08/22/14
+   121256027 TR/CR SUR $10/$40                130.00        08/22/14
+   121256027 DRUG COURT PROGRAM                 5.00        08/22/14
+   121256027 VIOLENT CRIME VICTIMS AS         100.00        08/22/14
+   121256027 SEXUAL OFFENDER REGISTRA         113.00        08/22/14
+   121348308  STATE OFFENDER DNA ID S        -250.00        10/15/14
+   121348308 SEXUAL OFFENDER REGISTRA         250.00        10/15/14
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  FAIL REG 3 DAYS NEW RESID/SCH
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   06-30-14                 Charge 01 Count 001 FAIL REG 3 DAYS NEW RESID/SCH
+                            Statute 730 150/3(b)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Tony Allegretti appears instanter.  De
+fendant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Motion by the Defe
+ndant to reduce
+                            bond. Motion denied. Bond of $10,000 is to continue.
+ Defendant is
+                            admonished as to trial and sentencing in absentia. S
+ee expanded
+                            record.
+                            Notice of arrest without warrant on file.
+   07-03-14                 Sheriff Booking Fee
+   08-06-14                 Proof of service on file.
+                            Discovery Answer filed
+   08-12-14
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   08-15-14                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty FAIL REG 3 DAYS NEW RESID/SCH
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 730 150/3(b)  Class 3
+                            Sentence: 08/15/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  30Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  7Days In force
+                            Sentence: Credit Time Served  7Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: State not to file a Petition to Revoke in
+other cases.  In f
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  30Mos In force
+                            Sentence: Credit toward all fees and fines  7Days In
+ force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            627.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    750.00      STATE OFFENDER DN
+A       .00
+                            SEXUAL OFFENDER REG    465.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Matthew P. Banach.  Appe
+arance of the
+                            Defendant personally and by counsel, Janie Miller-Jo
+nes.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Fail Reg 3 Days New Resid/S
+ch ILCS: 730
+                            150/3(b) as charged. Judgment entered in favor of th
+e People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 10/10/2016.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  30 months probation. Defendant is ordered
+ to serve a period
+                            of incarceration of   7 days in the Champaign County
+ Correctional
+                            Center. Defendant is to receive credit for   7 days
+previously served.
+                            The Defendant is to submit specimens of blood, saliv
+a, or tissue to
+                            the Illinois Department of State Police or to the De
+partment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. The State agrees
+                            not to file a Petition to Revoke in the case(s) spec
+ified in the
+                            written order based solely on the basis of this conv
+iction.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+                            Financial assessment order entered.
+                            Sentencing order.
+                            Fees & Fines Assessment Form on file.
+                            Waiver of jury.
+   08-21-14                 Disposition sent through ADR process this date. SPT
+   08-22-14                 Bond
+   10-03-14                 Probation Violation Report on file
+   10-15-14                 Notice received from Court Services/Circuit Court th
+at the
+                            Defendant had previously provided a sample of his bl
+ood, saliva or
+                            tissue for DNA analysis.  Therefore, per Administrat
+ive Order 10-1,
+                            that part of the sentencing order has been satisfied
+.
+                            Court Ordered Payments
+   10-27-14                 Illinois Sex Offender Registration Act Notification
+Form
+                            Filed.
+   05-01-15
+                            Defendant appears with Lindsey Yanchus.  Based on th
+e sentencing
+                            ordered entered in related cause 2015-CF-151, probat
+ion order entered
+                            in this cause is terminated unsuccessfully effective
+ this date.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,205 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CM000263
+
+   Defendant Plaintiff
+REGAN  JOHN D
+1107 S SECOND APT 43
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 03/13/14
+                Court Room:
+           Next Appearance: 05/18/15
+                Birth Date: 10/03/91
+                 DEFENDANT: REGAN  JOHN D
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN          180.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       50.00      TRAFFIC/CRIMINAL SU           50.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      195.00      FINES                        195.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   120977863 BOND TRANSFERS IN                150.00        03/13/14
+   121115034 BOND -10% BOND FEE                15.00        06/03/14
+   121115034 DOCUMENT STORAGE                  15.00        06/03/14
+   121115034 E-CITATION                         5.00        06/03/14
+   121115034 AUTOMATION                        15.00        06/03/14
+   121115034 CIRCUIT CLERK FEE                 75.00        06/03/14
+   121115034 COURT SECURITY                    25.00        06/03/14
+   121345933 PERSONAL CHECK/CREDIT CA           1.25        10/14/14
+   121345933 COURT FINANCE FEE                 25.00        10/14/14
+   121345933 STATES ATTORNEY                   20.00        10/14/14
+   121345933 STATES ATTORNEY AUTOMATI           2.00        10/14/14
+   121345933 CRIME STOPPERS                     5.00        10/14/14
+   121345933 ARRESTEE'S MEDICAL                10.00        10/14/14
+   121345933 PROBATION MONITORING FEE         180.00        10/14/14
+   121345933 PROBATION OPER ASSISTANC          10.00        10/14/14
+   121345933 TR/CR SUR $10/$40                 50.00        10/14/14
+   121345933 DRUG COURT PROGRAM                 5.00        10/14/14
+   121345933 FINES                            195.00        10/14/14
+   121345933 VIOLENT CRIME VICTIMS AS          75.00        10/14/14
+   121345933 ST POLICE SERVICES FUND           10.00        10/14/14
+   121345933 ST POLICE OPERATIONS ASS          10.00        10/14/14
+   121345933 CLERK OP & ADMIN FUND             10.00        10/14/14
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  RESIST/PC OFF/CORR EMP/FRFTR
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   03-13-14                 Charge 01 Count 001 RESIST/PC OFF/CORR EMP/FRFTR
+                            Statute 720 5/31-1(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Bond Type Transfer Bond From    2014NC000025 REGAN J
+OHN D
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel. Bond is to continue as posted
+. Defendant is
+                            admonished as to trial and sentencing in absentia.
+See expanded
+                            record.
+                            Expanded record of court proceedings on arraignment.
+   03-19-14                 Entry of appearance.
+                            Appearance and entry of appearance of attorney, Susa
+n Hessee, with
+                            Defendant.  Plea of not guilty entered and Defendant
+ requests trial by
+                            jury. Cause set for pre-trial.  Defendant admonished
+ as to trial and
+                            sentencing in absentia. Bond to continue. See expand
+ed record.
+                            Expanded record of court proceedings on arraignment.
+                            Entry of Appearance/Not Guilty Plea/Request for Jury
+ Trial
+   03-20-14                 Affidavit of mailing on file.
+   05-16-14                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty RESIST/PC OFF/CORR EMP/FRFTR
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/31-1(a)  Class A
+                            Sentence: 05/16/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  100Hrs In force
+                                      Supervised Court Service
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Fine + Cost            572.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    180.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Tim J. Sullivan.  Appear
+ance of the
+                            Defendant personally and by counsel, Susan Hessee.
+ Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Resist/Pc Off/Corr Emp/Frftr ILCS: 720 5/
+31-1(a), a Class A
+                            Misdemeanor, as charged. Judgment entered in favor o
+f the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 11/12/2014.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months Conditional Discharge. Defendan
+t is ordered to
+                            perform 100 hours of public service work under the s
+upervision of the
+                            Champaign County Court Services Department.  The def
+endant is to be
+                            given credit on public service work for any hours co
+mpleted in
+                            education, treatment, aftercare, sobriety based self
+-help group
+                            meetings, Victim Impact Panel and GED classes. Defen
+dant advised of
+                            right to appeal and rights pursuant to Supreme Court
+ Rule 605 and the
+                            Court finds that the defendant understands the same.
+ Waiver of Jury on
+                            file. Sentencing Order entered this date. See Order.
+                            Sentencing order.
+                            Waiver of jury.
+   05-30-14                 Error disposition form created this date.
+   06-03-14                 Bond
+   10-14-14                 Check
+   02-11-15                 Certificate of completion of public service work fil
+ed
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,431 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000489
+
+   Defendant Plaintiff
+SCHROCK  CODY G
+312 W CRITTENDEN ST
+HOMER IL 61849
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 04/15/14
+                Court Room: E
+           Next Appearance: 09/25/14  10:30
+                Birth Date: 07/12/85
+                 DEFENDANT: SCHROCK  CODY G
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      750.00      BOND -10% BOND FEE              .00         750.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+         .00      CRIME LAB                       .00            .00
+      250.00       STATE OFFENDER DNA             .00         250.00
+      100.00      TRAUMA FUND                     .00         100.00
+      140.00      TRAFFIC/CRIMINAL SU             .00         140.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       40.00       STREET VALUE DRUG              .00          40.00
+      500.00      MANDATORY ASSESSMEN             .00         500.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+      750.00      BOND -10% BOND FEE           750.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        4.00      STATES ATTORNEY AUT            4.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       20.00      PROBATION OPER ASSI           20.00            .00
+       10.00      SPINAL CORD RESEARC           10.00            .00
+      150.00      DUI CRIME LAB                150.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      200.00      TRAUMA FUND                  200.00            .00
+      330.00      TRAFFIC/CRIMINAL SU          330.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      350.00      DUI NEW EQUIPMENT F          350.00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+       76.00      DRIVERS EDUCATION             76.00            .00
+      400.00      DUI - 80% IL GENERA          400.00            .00
+       40.00       STREET VALUE DRUG            40.00            .00
+      500.00      MANDATORY ASSESSMEN          500.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       20.00      ST POLICE SERVICES            20.00            .00
+       20.00      ST POLICE OPERATION           20.00            .00
+       20.00      CLERK OP & ADMIN FU           20.00            .00
+     6750.00                                  6750.00            .00
+         .00      BOND -10% BOND FEE              .00            .00
+         .00      DOCUMENT STORAGE                .00            .00
+        5.00      E-CITATION                      .00           5.00
+         .00      AUTOMATION                      .00            .00
+         .00      CIRCUIT CLERK FEE               .00            .00
+         .00      COURT SECURITY                  .00            .00
+         .00      COUNTY ORDINANCE                .00            .00
+         .00      STATES ATTORNEY                 .00            .00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+         .00      ARRESTEE'S MEDICAL              .00            .00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+      150.00      DUI CRIME LAB                   .00         150.00
+      100.00      TRAUMA FUND                     .00         100.00
+      190.00      TRAFFIC/CRIMINAL SU             .00         190.00
+        5.00      CLERK OP & ADMIN-SE             .00           5.00
+         .00      DRUG COURT PROGRAM              .00            .00
+         .00      FINES                           .00            .00
+      350.00      DUI NEW EQUIPMENT F             .00         350.00
+       76.00      DRIVERS EDUCATION               .00          76.00
+      400.00      DUI - 80% IL GENERA             .00         400.00
+       15.00      FIRE PREVENTION FUN             .00          15.00
+       15.00      FIRE TRUCK REVOLVIN             .00          15.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121034423 00000005272                         .00        04/16/14
+   121034433 PERSONAL CHECK/CREDIT CA           5.00        04/16/14
+   121034433 SHERIFF'S BOOKING FEE             29.00        04/16/14
+   121034433 BOND - ORIGINAL                 7500.00        04/16/14
+   121310651 BOND -10% BOND FEE               750.00        09/22/14
+   121310651 *BOND REFUND                    6750.00        09/22/14
+   122179121 DOCUMENT STORAGE                  15.00        02/18/16
+   122179121 E-CITATION                         5.00        02/18/16
+   122179121 AUTOMATION                        15.00        02/18/16
+   122179121 CIRCUIT CLERK FEE                100.00        02/18/16
+   122179121 COURT SECURITY                    25.00        02/18/16
+   122179121 COURT FINANCE FEE                 50.00        02/18/16
+   122179121 STATES ATTORNEY                   40.00        02/18/16
+   122179121 STATES ATTORNEY AUTOMATI           4.00        02/18/16
+   122179121 ARRESTEE'S MEDICAL                10.00        02/18/16
+   122179121 PROBATION OPER ASSISTANC          20.00        02/18/16
+   122179121 SPINAL CORD RESEARCH FUN          10.00        02/18/16
+   122179121 DUI CRIME LAB                    150.00        02/18/16
+   122179121  STATE OFFENDER DNA ID S         250.00        02/18/16
+   122179121 TRAUMA FUND                      200.00        02/18/16
+   122179121 TR/CR SUR $10/$40                330.00        02/18/16
+   122179121 CLERK OP & ADMIN-SERIOUS           5.00        02/18/16
+   122179121 DRUG COURT PROGRAM                 5.00        02/18/16
+   122179121 DUI NEW EQUIPMENT FINE           350.00        02/18/16
+   122179121 VIOLENT CRIME VICTIMS AS         100.00        02/18/16
+   122179121 DRIVERS EDUCATION                 76.00        02/18/16
+   122179121 DUI - IL GENERAL REVENUE         400.00        02/18/16
+   122179121  STREET VALUE DRUG FINES          40.00        02/18/16
+   122179121 MANDATORY ASSESSMENT             500.00        02/18/16
+   122179121 FIRE PREVENTION FUND              15.00        02/18/16
+   122179121 FIRE TRUCK REVOLVING LOA          15.00        02/18/16
+   122179121 ST POLICE SERVICES FUND           20.00        02/18/16
+   122179121 ST POLICE OPERATIONS ASS          20.00        02/18/16
+   122179121 CLERK OP & ADMIN FUND             20.00        02/18/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+         2  AGG FLEEING/2+ CON DEVICES
+
+         3  DRVG UNDER INFLUENCE OF DRUG
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   04-15-14                 Charge 01 Count 001 POSS AMT CON SUB EXCEPT(A)/(D)
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 AGG FLEEING/2+ CON DEVICES
+                            Statute 625 5/11-204.1(a)(4)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 DRVG UNDER INFLUENCE OF DRUG
+                            Statute 625 5/11-501(a)(4)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned. Defendant is admonished as to E
+XTENDED TERM
+                            SENTENCING on COUNTS I and II. The Champaign County
+Public Defender is
+                            appointed and James Kuehl appears instanter.  Defend
+ant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond set in the am
+ount of
+                            $75,000-ROR DENIED. Defendant is admonished as to tr
+ial and sentencing
+                            in absentia. See expanded record.
+   04-16-14                 Sheriff Booking w/Telecheck
+                            Notice of arrest without warrant on file.
+   04-17-14                 DL ON FILE Transferred from 14DT158
+   04-21-14                 Proof of service on file.
+   04-22-14                 Answer to Discovery filed
+   05-03-14                 Assignment of Bail Bond on file by the defendant by
+his attorney
+                            Douglas R. Lawlyes.
+   05-15-14                 Pre-trial vacated and re-allotted
+                            Upon representations from counsel for the Defendant,
+ with no
+                            Objection, the appointment  of the Public Defender i
+s hereby vacated.
+                            Public Defender pre-trial is hereby vacate. Cause is
+ re-allotted for
+                            private counsel pre-trial.
+   05-22-14                 Defendant's motion for continuance.
+                            People appear by Elizabeth A. Dornik. Entry of Appea
+rance on file,
+                            instanter. Motion for Discovery on file, instanter.
+ Defendant appears
+                            personally and with counsel, Douglas Lawlyes. Motion
+ by the Defendant
+                            for continuance.  Motion allowed. Bond is to continu
+e.
+   05-30-14                 Petition to Rescind Statutory Summary Suspension on
+file by the
+                            defendant by his attorney Douglas R. Lawlyes and for
+warded to court.
+                            Assignment of Bail Bond on file by the defendant by
+his attorney
+                            Douglas R. Lawlyes.
+                            Motion to Modify Bond on file by the defendant by hi
+s attorney
+                            Douglas R. Lawlyes.
+   06-03-14                 Cause allotted for Hearing on the Petition to Rescin
+d SSS
+                            Court notes Defendant's Petition to Rescind Statutor
+y Summary
+                            Suspension on file. Cause is allotted for hearing on
+ the Petition.
+                            People are directed to send Notice of Hearing.
+                            Affidavit of mailing on file.
+                            Notice of Hearing Filed
+   06-05-14                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   06-18-14                 Petition to Rescind SSS continued generally
+                            Upon representation from counsel for the Defendant,
+hearing on the
+                            Petition to Rescind SSS allotted for 06/18/14 is her
+eby vacated, and
+                            is continued generally.
+   07-01-14                 Sworn report on file.  Defendant was tested for drug
+s.
+   07-07-14                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   07-10-14                 Defendant's motion for continuance.
+                            People appear by Elizabeth A. Dornik.  Defendant app
+ears personally
+                            and with counsel, Douglas Lawlyes. Motion by the Def
+endant for
+                            continuance.  Motion allowed.
+   07-16-14                 Confirmation of Statutory Summary Suspension on file
+.
+                            Provisional reinstatement date 02-11-15.
+   08-14-14                 Defendant's motion for continuance.
+                            People appear by Elizabeth A. Dornik.  Defendant app
+ears personally
+                            and with counsel, Douglas Lawlyes. Motion by the Def
+endant for
+                            continuance. People announce ready for trial. Motion
+ denied. Cause is
+                            allotted for Jury Trial. Bond is to continue.
+                            Proof of service on file.
+                            Supplemental Discovery filed
+   09-08-14                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed AGG FLEEING/2+ CON DEVICES
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-204.1(a)(4)  Class 4
+                            Sentence: 09/08/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty POSS AMT CON SUB EXCEPT(A)/(D)
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 570/402(c)  Class 4
+                            Sentence: 09/08/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  18Mos In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Sentence: Mandatory Street Value Fine  Stayed For Ap
+peal
+                            Sentence: Mandatory Assessment Fine  In force
+                            Fine + Cost           1937.00     CRIME LAB
+        .00
+                             STATE OFFENDER DNA    250.00
+                            Payment Due
+                            Disposition 03/00  Count 003  Fine + Cost
+                            Disposition: Guilty DRVG UNDER INFLUENCE OF DRUG
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)(4)  Class A
+                            Sentence: 09/08/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Jail  180Days In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Fine + Cost           1203.00     DUI CRIME LAB
+     150.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel, Douglas Lawlyes
+.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Poss Amt Con Sub Except(A)/
+(D) ILCS: 720
+                            570/402(c), a Class 4 Felony, as charged. Finding De
+fendant knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 03 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Drvg Under Influence of Dru
+gs ILCS: 625
+                            5/11-501(a)(4), a Class A Misdemeanor, as charged Ju
+dgment entered in
+                            favor of the People and against the defendant on fin
+ding of guilt and
+                            for costs.  All financial obligations shall be paid
+in equal monthly
+                            installments to the Champaign County Circuit Clerk b
+y  3/09/2015.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  D
+efendant is
+                            ordered to serve a period of incarceration of 18 mon
+ths in the
+                            Illinois Department of Corrections. Defendant is to
+receive credit for
+                            1 days previously served. Defendant is ordered to se
+rve a period of
+                            incarceration of 180 days to the Champaign County ja
+il. Defendant is
+                            to receive credit for 1 days previously served. The
+Defendant is to
+                            submit specimens of blood, saliva, or tissue to the
+Illinois
+                            Department of State Police or to the Department of C
+orrections within
+                            45 days, at a collection site designated by the Cham
+paign County Court
+                            Services Department and/or Illinois Department of St
+ate Police, in
+                            accordance with 730 ILCS 5/5-4-3. Count(s) stated in
+ the written order
+                            are herby dismissed. Defendant advised of right to a
+ppeal and rights
+                            pursuant to Supreme Court Rule 605 and the Court fin
+ds that the
+                            defendant understands the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+                            Mittimus prepared.
+                            Sentencing order.
+                            Waiver of jury.
+                            Disposition 01/01  Count 001  Modified Order
+                            Disposition: Modified/Trial Court POSS AMT CON SUB E
+XCEPT(A)/(D)
+                            Modified Order        3140.00     DUI CRIME LAB
+     150.00
+                             STATE OFFENDER DNA    250.00
+   09-11-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SOS
+SPT
+   09-15-14                 Statement of State's Attorney filed
+   09-22-14                 Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            37.5% to the General Corporate Fund of Champaign Cou
+nty, and
+                            50.0% to the Champaign County Sheriff.
+                            Bond
+   09-25-14                 Disposition sent through ADR process this date. SPT
+                            Mittimus Entered
+                            People appear by Elizabeth A. Dornik. Defendant appe
+ars personally and
+                            by counsel, Doug Lawyles. Defendant is remanded into
+ the custody of
+                            the Champaign County Sheriff to await transport to I
+DOC. Mittimus
+                            entered.
+   05-21-15                 Payment Due
+   02-18-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

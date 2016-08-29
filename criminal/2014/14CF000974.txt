@@ -1,0 +1,296 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000974
+
+   Defendant Plaintiff
+HAINES  JOHN M
+102 JENNIFER DR
+MAHOMET IL 61853
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 07/17/14
+                Court Room: E
+           Next Appearance: 07/22/16
+                Birth Date: 04/05/63
+                 DEFENDANT: HAINES  JOHN M
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       30.00      BOND -10% BOND FEE            30.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+         .00      COUNTY ORDINANCE                .00            .00
+       10.00      STATES ATTORNEY               10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          273.00         177.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      320.00      TRAFFIC/CRIMINAL SU          320.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      495.00      FINES                        495.00            .00
+      350.00      DUI NEW EQUIPMENT F          350.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+      400.00      DUI - IL GENERAL RE          400.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121213377 BOND TRANSFERS IN                300.00        07/30/14
+   121527128 BOND -10% BOND FEE                30.00        02/03/15
+   121527128 DOCUMENT STORAGE                  15.00        02/03/15
+   121527128 E-CITATION                         5.00        02/03/15
+   121527128 AUTOMATION                        15.00        02/03/15
+   121527128 CIRCUIT CLERK FEE                 75.00        02/03/15
+   121527128 COURT SECURITY                    25.00        02/03/15
+   121527128 COURT FINANCE FEE                 25.00        02/03/15
+   121527128 STATES ATTORNEY                   10.00        02/03/15
+   121527128 STATES ATTORNEY AUTOMATI           2.00        02/03/15
+   121527128 CRIME STOPPERS                     5.00        02/03/15
+   121527128 ARRESTEE'S MEDICAL                10.00        02/03/15
+   121527128 PROBATION MONITORING FEE          25.00        02/03/15
+   121527128 PROBATION OPER ASSISTANC          10.00        02/03/15
+   121527128 SPINAL CORD RESEARCH FUN           5.00        02/03/15
+   121527128 TRAUMA FUND                       43.00        02/03/15
+   121811909 BOND - ORIGINAL                 2000.00        07/16/15
+   121811914 01000000000                         .00        07/16/15
+   121811917 PROBATION MONITORING FEE         248.00        07/16/15
+   121811917 TRAUMA FUND                       57.00        07/16/15
+   121811917 TR/CR SUR $10/$40                320.00        07/16/15
+   121811917 CLERK OP & ADMIN-SERIOUS           5.00        07/16/15
+   121811917 DRUG COURT PROGRAM                 5.00        07/16/15
+   121811917 FINES                            495.00        07/16/15
+   121811917 DUI NEW EQUIPMENT FINE           350.00        07/16/15
+   121811917 VIOLENT CRIME VICTIMS AS          75.00        07/16/15
+   121811917 DUI - IL GENERAL REVENUE         400.00        07/16/15
+   121811917 FIRE PREVENTION FUND              15.00        07/16/15
+   121811917 FIRE TRUCK REVOLVING LOA          15.00        07/16/15
+   121811917 ST POLICE OPERATIONS ASS          15.00        07/16/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG DUI/NO VALID DL
+
+         2  AGG DUI/NO VALID DL
+
+         3  DRVG UNDER INFLU/BAC 0.08
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   07-14-14                 Drug and alcohol evaluation on file.
+   07-17-14                 Charge 01 Count 001 AGG DUI/NO VALID DL
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 AGG DUI/NO VALID DL
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Charge 03 Count 003 DRVG UNDER INFLU/BAC 0.08
+                            Statute 625 5/11-501(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   07-18-14
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel,  Walter Ding. E
+ntry of Appearance
+                            on file. Defendant arraigned. Plea of not guilty ent
+ered and Defendant
+                            requests trial by jury. Cause set for pre-trial. Pre
+-Trial Orders
+                            entered. Defendant admonished as to trial and senten
+cing in absentia.
+                            Bond to continue.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+                            Entry of appearance,plea of not guilty, request for
+jury trial on file
+   07-24-14                 Affidavit of mailing on file.
+                            Discovery filed.
+   07-30-14                 Bond Type Transfer Bond From    2014DT000229 HAINES
+J M
+   09-26-14                 Defendant's motion for continuance.
+                            People appear by Elizabeth A. Dornik.  Defendant app
+ears personally
+                            and with counsel, Walter Ding. Motion by the Defenda
+nt for
+                            continuance.  Motion allowed.
+   11-07-14                 Set for plea.
+                            Appearance of the People by Aj Ruggieri.  Appearance
+ of the Defendant
+                            personally and by counsel, Walter Ding.   Cause allo
+tted for plea.
+                            Bond to continue. Bond is to continue.
+   12-05-14                 Letter Of Verification - Accent Counseling
+                            Letter of Verification of completion of Early Interv
+ention tendered to
+                            the Court, and placed on file, instanter, under Seal
+ of Court.
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG DUI/NO VALID DL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 12/05/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed AGG DUI/NO VALID DL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 12/05/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Order on Guilty Plea.
+                            Appearance of the People by Lindsey Clark.  Appearan
+ce of the
+                            Defendant personally and by counsel, Walter Ding.
+Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 03
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Drvg Under Influ/Bac 0.08 ILCS: 625 5/11-
+501(a)(1), a Class
+                            A Misdemeanor, as charged.   Cause allotted for sent
+encing on January
+                            22, 2015 at 10:15 AM in Courtroom E.  Defendant is o
+rdered to appear
+                            and is advised of sentencing in absentia.  Defendant
+ is ordered to
+                            obtain a substance abuse evaluation prior to the hea
+ring.  Court
+                            Services is directed to prepare a pre-sentence repor
+t for sentencing.
+                            Waiver of Jury on file.  Counts I & II are hereby di
+smissed pursuant
+                            to the plea.  Order on Guilty Plea entered this date
+.  See Order.
+                            Court Services to make arrangements for preparation
+of a
+                            Order on guilty plea.
+                            Waiver of jury.
+   12-18-14                 Error disposition form created this date.
+                            Error disposition form created this date.
+   01-16-15                 Presentence report on file.
+   01-22-15                 Disposition 03/00  Count 003  Fine + Cost
+                            Disposition: Withhold Judgment/Supervision DRVG UNDE
+R INFLU/BAC 0.08
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)(1)  Class A
+                            Sentence: 01/22/2015
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Court Supervision  18Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  100Hrs In force
+                                      Supervised Court Service
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  18Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Fine + Cost           2022.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    450.00
+                            Payment Due
+                            Sentencing Order/Order for Pre-Sentence report.
+                            Appearance of the People by Lindsey Clark.  Appearan
+ce of the
+                            Defendant personally and by counsel, Walter Ding.  C
+ause called for
+                            sentencing hearing. Defendant's documents in mitigat
+ion are tendered
+                            to the Court, approved, and placed on file, instante
+r.  Statements of
+                            counsel heard.  Statement of the defendant heard.  A
+ll financial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  7/21/2015.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  18
+                            months Court Supervision. Defendant is ordered to pe
+rform 100 hours of
+                            public service work under the supervision of the Cha
+mpaign County
+                            Court Services Department.  The defendant is to be g
+iven credit on
+                            public service work for any hours completed in educa
+tion, treatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes.  Defendant is to attend the n
+ext Victim Impact
+                            Panel presented by the Champaign County Court Servic
+es Department.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same. Sentencing Order entered. See Order.
+                            Character reference letters(3)on file.
+                            Sentencing order.
+   02-03-15                 Bond
+                            Disposition sent through ADR process this date. SOS
+SPT
+   03-02-15                 Report of Court Supervision sent to Secretary of Sta
+te.
+   07-16-15                 Cash Full Cash
+                            Bond
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

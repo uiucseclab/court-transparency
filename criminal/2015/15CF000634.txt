@@ -1,0 +1,360 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #15CF000634
+
+   Defendant Plaintiff
+KLEIN  NICHOLAS S
+304 W PELLS ST
+PAXTON IL 60957
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/04/15
+                Court Room:
+           Next Appearance: 12/10/15
+                Birth Date: 07/10/88
+                 DEFENDANT: KLEIN  NICHOLAS S
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      250.00      BOND -10% BOND FEE           250.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      250.00      TRAFFIC/CRIMINAL SU          250.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       39.00      SHERIFF FEES                  39.00            .00
+         .00      FINES                           .00            .00
+      200.00      DUI NEW EQUIPMENT F          200.00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+      100.00      DRIVERS EDUCATION            100.00            .00
+      775.00      DUI - IL GENERAL RE          775.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       50.00      IL STATE TREAS FINE           50.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+      289.00                                   289.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121702492 SHERIFF'S BOOKING FEE             34.00        05/13/15
+   121702492 BOND - ORIGINAL                 2500.00        05/13/15
+   122069479 BOND -10% BOND FEE               250.00        12/10/15
+   122069479 DOCUMENT STORAGE                  15.00        12/10/15
+   122069479 AUTOMATION                        15.00        12/10/15
+   122069479 CIRCUIT CLERK FEE                100.00        12/10/15
+   122069479 COURT SECURITY                    25.00        12/10/15
+   122069479 COURT FINANCE FEE                 50.00        12/10/15
+   122069479 STATES ATTORNEY                   40.00        12/10/15
+   122069479 STATES ATTORNEY AUTOMATI           2.00        12/10/15
+   122069479 ARRESTEE'S MEDICAL                10.00        12/10/15
+   122069479 PROBATION OPER ASSISTANC          10.00        12/10/15
+   122069479 SPINAL CORD RESEARCH FUN           5.00        12/10/15
+   122069479 TRAUMA FUND                      100.00        12/10/15
+   122069479 TR/CR SUR $10/$40                250.00        12/10/15
+   122069479 CLERK OP & ADMIN-SERIOUS           5.00        12/10/15
+   122069479 DRUG COURT PROGRAM                 5.00        12/10/15
+   122069479 SHERIFF FEES                      39.00        12/10/15
+   122069479 DUI NEW EQUIPMENT FINE           200.00        12/10/15
+   122069479 VIOLENT CRIME VICTIMS AS         100.00        12/10/15
+   122069479 DRIVERS EDUCATION                100.00        12/10/15
+   122069479 DUI - IL GENERAL REVENUE         775.00        12/10/15
+   122069479 FIRE PREVENTION FUND              15.00        12/10/15
+   122069479 FIRE TRUCK REVOLVING LOA          15.00        12/10/15
+   122069479 IL STATE TREAS FINES              50.00        12/10/15
+   122069479 ST POLICE SERVICES FUND           10.00        12/10/15
+   122069479 ST POLICE OPERATIONS ASS          15.00        12/10/15
+   122069479 CLERK OP & ADMIN FUND             10.00        12/10/15
+   122069479 *BOND REFUND                     289.00        12/10/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG DUI/NO VALID DL
+
+         2  AGG ASLT/OP MOTOR VEH/STRUCK
+
+         3  RESIST/PC OFF/CORR/FRFTR/INJ
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   05-04-15                 Charge 01 Count 001 AGG DUI/NO VALID DL
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 AGG ASLT/OP MOTOR VEH/STRUCK
+                            Statute 720 5/12-2(c)(7)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 03 Count 003 RESIST/PC OFF/CORR/FRFTR/INJ
+                            Statute 720 5/31-1(a-7)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Defendant is admonished as to E
+XTENDED TERM and
+                            CONSECUTIVE TERM SENTENCING on each count. Champaign
+ County Public
+                            Defender is appointed and Francis Thomas appears ins
+tanter.  Plea of
+                            not guilty entered and Defendant requests trial by j
+ury. Bond of
+                            $25,000 from case 15-DT-221 is ordered transferred t
+o this case.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.  See
+                            expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+                            Affidavit in support of request to appoint attorney.
+   05-13-15                 Sheriff Booking Fee
+   05-26-15                 Answer to Discovery filed
+                            Proof(s) of service on file.
+                            Proof(s) of service on file.
+                            Discovery filed.
+   06-03-15                 Proof(s) of service on file.
+                            Supplemental Discovery filed
+   06-17-15                 Proof(s) of service on file.
+                            Supplemental Discovery filed
+   07-07-15                 Set for trial.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, Francis L. Thom
+as.   Cause
+                            allotted for jury trial. Defendant is admonished as
+to trial and
+                            sentencing in absentia. Bond to continue.
+   07-09-15                 Amended Proof of Service on file
+                            Discovery filed.
+   07-10-15                 Answer to Discovery filed
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   07-13-15                 Leave to Issue Subpoena Duces Tecum
+                            RE: Defendant Nicholas Klein//Carle Foundation Hospi
+tal/Carle
+                            Physicians Group
+                            People given leave to Issue Subpoena Duces Tecum
+   07-14-15                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   07-20-15                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed AGG ASLT/OP MOTOR VEH/STRUCK
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-2(c)(7)  Class 4
+                            Sentence: 07/20/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed RESIST/PC OFF/CORR/FRFTR/INJ
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/31-1(a-7)  Class 4
+                            Sentence: 07/20/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Order on Guilty Plea.
+                            Appearance of the People by Jilmala D. Rogers.  Appe
+arance of the
+                            Defendant personally and by counsel, Francis L. Thom
+as.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Agg Dui/No Valid Dl ILCS: 6
+25 5/11-501(a), a
+                            Class 4 Felony, as charged.   Cause allotted for sen
+tencing on
+                            September 08, 2015 at 10:00 AM in Courtroom E.  Defe
+ndant is ordered
+                            to appear and is advised of sentencing in absentia.
+ Defendant is
+                            ordered to obtain a substance abuse evaluation prior
+ to the hearing.
+                            Court Services is directed to prepare a pre-sentence
+ report for
+                            sentencing.  Waiver of Jury on file.  Counts II and
+III are hereby
+                            dismissed pursuant to the plea.  Order on Guilty Ple
+a entered this
+                            date.  See Order.
+                            Court Services to make arrangements for preparation
+of a
+                            Order on guilty plea.
+                            Waiver of jury.
+                            Return to Sender - Returned mail on file.
+
+                            RE: Defendant Nicholas Klein/CARLE Foundation Hospit
+al/CARLE
+                            Physicians Group
+                            Documents received by the Court are tendered to the
+Petitioner. Same
+                            to make copies for all opposing counsel and cause th
+e original to be
+                            filed in the Court file.
+   07-21-15                 Warrant served. Service fees $39.00
+                            Affidavit of mailing on file.
+                            Subpoena Served.  No Fees.
+   07-28-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   08-19-15                 Entry done 7/21/15 Warrant Served done in error
+   09-01-15                 Presentence report on file.
+   09-08-15                 Sentencing Hearing
+                            People appear by Lindsey Clark. Defendant appears pe
+rsonally and by
+                            counsel, Daniel Taylor. Cause called for sentencing.
+ Defendant's
+                            motion to continue. Motion allowed with no objection
+. Sentencing is
+                            continued to allow Defendant to successfully complet
+e a course of
+                            residential treatment. Bond is to continue.
+   10-15-15                 Sentencing Hearing
+                            People appear by Lindsey Clark. Defendant appears pe
+rsonally, and by
+                            counsel, Daniel G. Taylor. Cause called for Sentenci
+ng Hearing.
+                            Defendant's motion for continuance. Motion allowed,
+without objection.
+                            Defendant is to be re-evaluated for TASC sentencing.
+ Written Order
+                            entered. See Order.
+                            Affidavit of mailing on file.
+                            Order on file.
+   10-26-15                 T.A.S.C Evaluation received and filed under Seal of
+Court
+   10-30-15                 (2nd Copy) T.A.S.C Evaluation received and filed und
+er Seal of Court
+   11-16-15                 Sentencing Hearing
+                            People appear by Lindsey Clark. Defendant appears pe
+rsonally, and by
+                            counsel, Tony Fiorentino. Court notes no Substance A
+buse Evaluation on
+                            file. On the Defendant's motion, sentencing hearing
+is continued to
+                            allow for a copy of the evaluation to be placed on f
+ile. Bond is to
+                            continue.
+                            Cause allotted for Sentencing
+                            Upon representation of counsel for the Defendant, ca
+use is set
+                            conditionally for Sentencing on 11-17-15 at 3:30pm i
+n Courtroom E.
+                            Counsel to notify Defendant of this hearing.
+   11-30-15                 Drug and Alcohol Evaluation
+                            Defendant's Drug and Alcohol Evaluation is tendered
+to the Court.
+                            Evaluation is accepted and ordered filed under Seal
+of Court.
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty AGG DUI/NO VALID DL
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 11/30/2015
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  3Yrs In force
+                            Sentence: Credit Time Served  5Days In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Credit toward all fees and fines  5Days In
+ force
+                            Fine + Cost           2161.00     IL STATE TREAS FIN
+E     50.00
+                            Payment Due
+                            Sentencing Order/Order for Pre-Sentence report.
+                            Appearance of the People by Lindsey Clark.  Appearan
+ce of the
+                            Defendant personally and by counsel, Anthony J. Fior
+entino.  Cause
+                            called for sentencing hearing. Defendant's Exhibits
+A-Q are admitted.
+                            Statements of counsel heard.  Statement of the defen
+dant heard.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  5/30/2016.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of incarceration of 3 years in the Illinois D
+epartment of
+                            Corrections. Defendant is to receive credit for 5 da
+ys previously
+                            served. Defendant advised of right to appeal and rig
+hts pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same. Sentencing Order entered.  See
+ Order.
+                            Mittimus prepared.
+                            Judgment - Sentence to Illinois Dept. of Corrections
+.
+                            Sentencing order.
+                            DUI Fines/Assessments Order on file.
+                            Exhibit List - Nicholas Klein, 15CF634 on file.
+   12-02-15                 Record of exhibits received on file.
+                            Disposition entered.
+   12-08-15                 Disposition sent through ADR process this date. SOS
+SPT
+   12-10-15                 Bond
+   12-14-15                 Drug and alcohol evaluation sealed and placed on fil
+e.
+   01-11-16                 Copy of Statement of State's Attorney forwarded to E
+ast Moline CC
+                            Statement of State's Attorney filed
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,218 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #15CM000529
+
+   Defendant Plaintiff
+ALTHAUS  KIMBERLY
+6 SANDLEWOOD
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 06/01/15
+                Court Room: F
+           Next Appearance: 06/30/16
+                Birth Date: 04/03/72
+                 DEFENDANT: ALTHAUS  KIMBERLY
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       10.00      STATES ATTORNEY               10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN          180.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121843916 DOCUMENT STORAGE                  15.00        08/04/15
+   121843916 E-CITATION                         5.00        08/04/15
+   121843916 AUTOMATION                        15.00        08/04/15
+   121843916 CIRCUIT CLERK FEE                 55.00        08/04/15
+   121926265 CIRCUIT CLERK FEE                 20.00        09/18/15
+   121926265 COURT SECURITY                     5.00        09/18/15
+   121930556 COURT SECURITY                    20.00        09/22/15
+   121930556 COURT FINANCE FEE                 25.00        09/22/15
+   121930556 STATES ATTORNEY                    5.00        09/22/15
+   121957435 STATES ATTORNEY                    5.00        10/06/15
+   121957435 STATES ATTORNEY AUTOMATI           2.00        10/06/15
+   121957435 ARRESTEE'S MEDICAL                10.00        10/06/15
+   121957435 PROBATION MONITORING FEE          15.00        10/06/15
+   121957435 PROBATION OPER ASSISTANC          10.00        10/06/15
+   121957435 TR/CR SUR $10/$40                  8.00        10/06/15
+   122011270 PROBATION MONITORING FEE          38.00        11/05/15
+   122011270 TR/CR SUR $10/$40                  2.00        11/05/15
+   122011270 VIOLENT CRIME VICTIMS AS          75.00        11/05/15
+   122011270 ST POLICE OPERATIONS ASS          15.00        11/05/15
+   122142115 PROBATION MONITORING FEE         127.00        01/27/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  DOMESTIC BTRY/PHYSICAL CONTACT
+
+         2  BATTERY/MAKES PHYSICAL CONTACT
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   06-01-15                 Charge 01 Count 001 DOMESTIC BTRY/PHYSICAL CONTACT
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Lindsey Yanchus appears instanter.  Plea of not guil
+ty entered and
+                            Defendant requests trial by jury. Bond set in the am
+ount of $1,000-ROR
+                            ALLOWED.  Defendant is admonished as to trial and se
+ntencing in
+                            absentia.  See expanded record.
+                            GPS NOT ORDERED-Electronic Monitoring (GPS) Order
+                            The Court has considered the factors set forth in 72
+5 ILCS 5/110-5(f)
+                            and declines to order electronic monitoring. Electro
+nic Monitoring
+                            (GPS) Order entered this date. See Order.
+                            Order for Electronic Monitoring on file.
+                            Expanded record of court proceedings on arraignment.
+                            Notice of arrest without warrant on file.
+                            NO BOND No Bond
+   06-02-15                 Released On Recognizance bond form on file.
+   06-29-15                 Charge
+                            Statute 720 5/12-3(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Cause continued for hearing on motion to
+   06-30-15                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed DOMESTIC BTRY/PHYSICAL CONTAC
+T
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(2)  Class A
+                            Sentence: 06/30/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Cost Only
+                            Disposition: Withhold Judgment/Supervision BATTERY/M
+AKES PHYSICAL CONT
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3(a)(2)  Class A
+                            Sentence: 06/30/2015
+                            Sentence: Cost Only  In force
+                            Sentence: Court Supervision  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Sentence: Mental Health Treatment/Assessment  60Days
+ In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              292.00     PROBATION MONITORI
+N    180.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Jacob A. Croegaert.  App
+earance of the
+                            Defendant personally and by counsel, Francis L. Thom
+as. Cause called
+                            for sentencing.  Defendant advised as to the nature
+of the
+                            proceedings, the charges and the possible penalties
+that may be
+                            imposed and the Court finds that the Defendant under
+stands the same.
+                            Finding Defendant knowingly, understandingly and vol
+untarily waives
+                            rights and enters a plea of guilty to Count 02 of th
+e charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of
+                            Battery/Makes Physical Contact ILCS: 720 5/12-3(a)(2
+) as charged. Upon
+                            the plea entered this date, Defendant is sentenced t
+o all terms and
+                            conditions as set forth in the Sentencing Order ente
+red this date. All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 12/28/2015.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months Court Supervision. Defendant is
+ to obtain a
+                            mental health evaluation within  60 days from an age
+ncy or agent
+                            recommended by the Champaign County Court Services D
+epartment, and
+                            follow any recommendations contained therein as to t
+reatment and/or
+                            counseling. Count(s) stated in the written order are
+ herby dismissed.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same. Waiver of Jury on file. Sentencing Order enter
+ed this date. See
+                            Order.
+                            Sentencing order.
+                            Waiver of jury.
+   07-07-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   07-08-15                 Correspondence on file from Community Elements filed
+ and sealed.
+   07-10-15                 Disposition entered.
+   08-04-15                 Cash
+   09-18-15                 Cash
+   09-22-15                 Cash
+   10-06-15                 Cash
+   11-05-15                 Cash
+   01-27-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

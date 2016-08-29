@@ -1,0 +1,399 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF001804
+
+   Defendant Plaintiff
+BROWN  JUSTIN R
+415 W EUREKA ST
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 12/29/14
+                Court Room:
+           Next Appearance: 09/15/17
+                Birth Date: 08/13/94
+                 DEFENDANT: BROWN  JUSTIN R
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      100.00      BOND -10% BOND FEE              .00         100.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       25.00      PROBATION MONITORIN             .00         600.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+      100.00      BOND -10% BOND FEE           100.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        4.00      STATES ATTORNEY AUT            4.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+      600.00      PROBATION MONITORIN          600.00            .00
+       20.00      PROBATION OPER ASSI           20.00            .00
+       20.00      TRAFFIC/CRIMINAL SU           16.00           4.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       20.00      ST POLICE SERVICES              .00          20.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       20.00      CLERK OP & ADMIN FU             .00          20.00
+         .00                                      .00            .00
+         .00      BOND -10% BOND FEE              .00            .00
+         .00      DOCUMENT STORAGE                .00            .00
+        5.00      E-CITATION                      .00           5.00
+         .00      AUTOMATION                      .00            .00
+         .00      CIRCUIT CLERK FEE               .00            .00
+         .00      COURT SECURITY                  .00            .00
+         .00      COURT FINANCE FEE               .00            .00
+         .00      STATES ATTORNEY                 .00            .00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+         .00      ARRESTEE'S MEDICAL              .00            .00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+       10.00      ST POLICE SERVICES              .00          10.00
+         .00      ST POLICE OPERATION             .00            .00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121468656 SHERIFF'S BOOKING FEE             34.00        12/29/14
+   121468656 BOND - ORIGINAL                 1000.00        12/29/14
+   121932791 BOND -10% BOND FEE               100.00        09/23/15
+   121932791 DOCUMENT STORAGE                  15.00        09/23/15
+   121932791 E-CITATION                         5.00        09/23/15
+   121932791 AUTOMATION                        15.00        09/23/15
+   121932791 CIRCUIT CLERK FEE                100.00        09/23/15
+   121932791 COURT SECURITY                    25.00        09/23/15
+   121932791 COURT FINANCE FEE                 50.00        09/23/15
+   121932791 STATES ATTORNEY                   40.00        09/23/15
+   121932791 STATES ATTORNEY AUTOMATI           4.00        09/23/15
+   121932791 ARRESTEE'S MEDICAL                10.00        09/23/15
+   121932791 PROBATION MONITORING FEE         600.00        09/23/15
+   121932791 PROBATION OPER ASSISTANC          20.00        09/23/15
+   121932791 TR/CR SUR $10/$40                 16.00        09/23/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG UUW/VEH/FIR LOADED/NO FOID
+
+         1  AGG UUW/VEH/FIR LOADED/NO FOID
+
+         2  RESIST/PC OFF/CORR EMP/FRFTR
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   12-29-14                 Charge 01 Count 001 AGG UUW/VEH/FIR LOADED/NO FOID
+                            Statute 720 5/24-1.6(a)(1)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 RESIST/PC OFF/CORR EMP/FRFTR
+                            Statute 720 5/31-1(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Sheriff Booking Fee
+                            Cause continued for further proceedings
+                            Charging documents
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel. Bond of $10,000 is to continu
+e. Defendant is
+                            admonished as to trial and sentencing in absentia.
+See expanded
+                            record.
+                            Notice of arrest without warrant on file.
+                            Expanded record of court proceedings on arraignment.
+                            Bail Bond Release Authorization filed.
+   01-07-15                 Expanded Record and/or Pre-trial Order
+                            Motion by the Defendant for court appointed counsel.
+ Motion allowed.
+                            The Champaign County Public Defender is appointed an
+d George Vargas
+                            appears instanter.  Defendant waives preliminary hea
+ring, enters a
+                            plea of not guilty and requests trial by jury.  Pre-
+trial orders
+                            entered.  Bond is to continue. Defendant is admonish
+ed as to trial and
+                            sentencing in absentia. See expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+                            Affidavit in support of request to appoint attorney.
+   01-13-15                 By agreement of counsel, cause is re-allotted for pr
+e-trial
+                            On 3/3/15 at 9:00 a.m.in Courtroom B.  Pre-trial all
+otment of 2/10/15
+                            is vacated.
+                            Proof(s) of service on file.
+                            Discovery filed.
+                            Answer to Discovery filed
+                            Email on file re-allotting pre-trial date.
+   01-21-15                 Proof(s) of service on file.
+                            Supplemental Discovery filed
+   03-03-15
+                            Matter called for hearing on State's Motion for Cont
+inuance.  Motion
+                            allowed without objection.  Cause allotted for the t
+rial term
+                            immediately following the pre-trial date.
+                            Motion for Continuance filed.
+   04-07-15
+                            Agreed Order on Consumption entered. By agreement, I
+SP laboratory may
+                            consume the DNA sample provided for analysis. SEE WR
+ITTEN ORDER.
+                            Agreed Order on Consumption on file.
+   04-21-15                 Proof(s) of service on file.
+                            Supplemental Discovery filed
+   05-05-15
+                            Matter called for hearing on State's Motion for cont
+inuance.
+                            Objection by defendant.  Motion allowed over the obj
+ection.  Trial
+                            setting this term vacated.  Matter continued for tri
+al during the
+                            trial term.
+                            Motion for Continuance filed.
+   05-06-15                 Proof(s) of service on file.
+                            Supplemental Discovery filed
+   05-15-15                 Proof(s) of service on file.
+                            Supplemental Discovery filed
+   06-29-15                 Proof(s) of service on file.
+                            Discovery filed.
+                            Proof(s) of service on file.
+   06-30-15                 Set for Trial-Defendant Appears
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   07-06-15                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   07-08-15                 Proof(s) of service on file.
+                            Discovery filed.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   07-10-15                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena not found.
+   07-17-15                 Proof(s) of service on file.
+                            Supplemental Discovery filed
+   07-20-15                 Defendant's motion for continuance.
+                            People appear by Troy Lozar.  Defendant appears pers
+onally and with
+                            counsel, George Vargas. Motion by the Defendant for
+continuance.
+                            Motion allowed.
+   07-28-15                 Stipulation-Latent Prints on file.
+                            Stipulation - DNA on file.
+                            Discovery on file.
+                            Statement of the Nature of the Case on file.
+                            State's List of Exhibits on file.
+                            State's List of Witnesses on file.
+   07-29-15
+                            Appearance of the People by T. Lozar. Appearance of
+the Defendant
+                            personally and with G. Vargas.
+                            Cause called for jury trial.
+                            Statement of the Nature of the Case, State's Witness
+ List and Exhibit
+                            List filed.
+                            Potential jurors are summoned into Court. Jurors are
+ selected and
+                            sworn.
+                            Opening statements presented.
+                            Sworn testimony presented on behalf of the People. D
+uring the course
+                            of presentation of People's testimony, juror #102 ex
+presses she is
+                            familiar with a witness. Juror is excused and replac
+ed with alternate
+                            #1. Continued sworn testimony presented on behalf of
+ the People.
+                            Stipulations filed and read to the jury.
+                            People rest. Exhibits admitted into evidence.
+                            Motion on behalf of the Defendant for Directed Verdi
+ct. Motion is
+                            DENIED.
+                            Sworn testimony presented on behalf of the Defendant
+. Defense rests.
+                            Jury instruction conference held outside the presenc
+e of the jury.
+                            Trial in recess. Trial to reconvene 7/29/15 at 9:30
+a.m. in courtroom
+                            B.
+
+                            Appearance of the People by T. Lozar. Appearance of
+the Defendant
+                            personally and with G. Vargas. Jury trial resumes.
+                            Closing arguments presented to the jury.
+                            Jurors are instructed as to the law and retire to de
+liberate.
+                            Jurors return into open Court with the following ver
+dicts,
+                            "We, the jury, find the Defendant guilty of aggravat
+ed unlawful use of
+                            a weapon."
+                            "We, the jury, find the Defendant guilty of resistin
+g a peace
+                            officer."
+                            Judgments entered in favor of the People and against
+ the Defendant and
+                            for costs. Jurors are excused.
+                            Cause allotted for hearing on post- trial motions, i
+f any, and
+                            sentencing hearing, if reached, to 9/14/15 at 9:00 a
+.m. in courtroom
+                            B. Court Services directed to prepare a presentence
+report with copies
+                            to Court and counsel at least 3 days prior to senten
+cing hearing.
+                            Order for Pre-Sentence Report entered. SEE ORDER. De
+fendant admonished
+                            as to sentencing in absentia. Bond to continue.
+                            Jury Instructions on file.
+                            Jury Instructions on file.
+                            Order for Sentencing Report on file.
+   07-30-15                 Record of exhibits received on file.
+   08-27-15                 Motion for Acquittal, or in the Alternative, Motion
+for a New Trial
+                            On file
+   09-14-15                 Fees & Fines Assessment Form on file.
+                            Factual Basis on file.
+   09-15-15                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty AGG UUW/VEH/FIR LOADED/NO FOID
+                            Disposition Type: By Jury   Defendant Plea: Not Guil
+ty
+                            Statute 720 5/24-1.6(a)(1)  Class 4
+                            Sentence: 09/15/2015
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Public Service  50Hrs In force
+                                      Supervised Court Service
+                            Sentence: Abstain from alcohol & illegal drugs  In f
+orce
+                            Sentence: Defendant's probation to transfer to resid
+ent county  In for
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              517.00     PROBATION MONITORI
+N    600.00
+                            Payment Due
+                            Disposition 02/00  Count 002  Cost Only
+                            Disposition: Guilty RESIST/PC OFF/CORR EMP/FRFTR
+                            Disposition Type: By Jury   Defendant Plea: Not Guil
+ty
+                            Statute 720 5/31-1(a)  Class A
+                            Sentence: 09/15/2015
+                            Sentence: Cost Only  In force
+                            Cost Only               47.00
+                            Payment Due
+
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally and by counsel, George Vargas.  Cause cal
+led for hearing on
+                            Defendant's Post Trial Motion. Hearing held. Motion
+is DENIED.
+                            Cause called for sentencing hearing as to COUNTS I A
+ND II.  Statements
+                            of counsel heard.  Statement of the defendant heard.
+  All financial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  9/15/2016.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  24
+                            months probation.  The Defendant is to submit specim
+ens of blood,
+                            saliva, or tissue to the Illinois Department of Stat
+e Police or to the
+                            Department of Corrections within 45 days, at a colle
+ction site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3. Defendant is ordered to perform  50 hours o
+f public service
+                            work under the supervision of the Champaign County C
+ourt Services
+                            Department.  The defendant is to be given credit on
+public service
+                            work for any hours completed in education, treatment
+, aftercare,
+                            sobriety based self-help group meetings, Victim Impa
+ct Panel and GED
+                            classes.  Court Services given the discretion to tra
+nsfer Defendant's
+                            probation to his county and State of residence. Defe
+ndant advised of
+                            right to appeal and rights pursuant to Supreme Court
+ Rule 605 and the
+                            Court finds that the defendant understands the same.
+                            Order Imposing Fines entered. SEE ORDER.
+                            Disposition 01/01  Count 001  Modified Order
+                            Disposition: Modified/Trial Court AGG UUW/VEH/FIR LO
+ADED/NO FOID
+                            Modified Order         564.00     PROBATION MONITORI
+N    600.00
+   09-21-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   09-22-15                 Disposition entered.
+   09-23-15                 Bond
+   09-30-15                 Disposition sent through ADR process this date. SPT
+   11-09-15
+                            Sentencing Order entered. SEE ORDER.
+                            Sentencing order.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

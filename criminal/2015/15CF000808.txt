@@ -1,0 +1,385 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #15CF000808
+
+   Defendant Plaintiff
+STIFF  PAUL W
+1532 PARR DR
+RANTOUL IL 61866
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 06/05/15
+                Court Room:
+           Next Appearance: 05/02/18
+                Birth Date: 10/13/80
+                 DEFENDANT: STIFF  PAUL W
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       30.00      BOND -10% BOND FEE            30.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          108.00         642.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      250.00      TRAFFIC/CRIMINAL SU          250.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+         .00      FINES                           .00            .00
+      200.00      DUI NEW EQUIPMENT F          200.00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+      100.00      DRIVERS EDUCATION            100.00            .00
+      795.00      DUI - IL GENERAL RE          175.00         620.00
+       15.00      FIRE PREVENTION FUN             .00          15.00
+       15.00      FIRE TRUCK REVOLVIN             .00          15.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121760945 BOND TRANSFERS IN                300.00        06/16/15
+   122025263 BOND -10% BOND FEE                30.00        11/13/15
+   122025263 DOCUMENT STORAGE                  15.00        11/13/15
+   122025263 AUTOMATION                        15.00        11/13/15
+   122025263 CIRCUIT CLERK FEE                100.00        11/13/15
+   122025263 COURT SECURITY                    25.00        11/13/15
+   122025263 COURT FINANCE FEE                 50.00        11/13/15
+   122025263 STATES ATTORNEY                   40.00        11/13/15
+   122025263 STATES ATTORNEY AUTOMATI           2.00        11/13/15
+   122025263 CRIME STOPPERS                     5.00        11/13/15
+   122025263 ARRESTEE'S MEDICAL                10.00        11/13/15
+   122025263 PROBATION MONITORING FEE           8.00        11/13/15
+   122072298 PROBATION MONITORING FEE          25.00        12/14/15
+   122072298 PROBATION OPER ASSISTANC          10.00        12/14/15
+   122072298 SPINAL CORD RESEARCH FUN           5.00        12/14/15
+   122072298 TRAUMA FUND                      100.00        12/14/15
+   122072298 TR/CR SUR $10/$40                 10.00        12/14/15
+   122187934 PROBATION MONITORING FEE          25.00        02/23/16
+   122187934 TR/CR SUR $10/$40                240.00        02/23/16
+   122187934 CLERK OP & ADMIN-SERIOUS           5.00        02/23/16
+   122187934 DRUG COURT PROGRAM                 5.00        02/23/16
+   122187934 DUI NEW EQUIPMENT FINE           125.00        02/23/16
+   122352899 PROBATION MONITORING FEE          25.00        05/27/16
+   122352899 DUI NEW EQUIPMENT FINE            75.00        05/27/16
+   122352899 VIOLENT CRIME VICTIMS AS         100.00        05/27/16
+   122352899 DRIVERS EDUCATION                100.00        05/27/16
+   122447922 PROBATION MONITORING FEE          25.00        07/22/16
+   122447922 DUI - IL GENERAL REVENUE         175.00        07/22/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG DUI/LIC SUSP OR REVOKED
+
+         2  DRIVING RVK/SUSP DUI/SSS 3RD
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   06-05-15                 Charge 01 Count 001 AGG DUI/LIC SUSP OR REVOKED
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 DRIVING RVK/SUSP DUI/SSS 3RD
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            No bond No Bond
+   06-08-15                 Charging documents
+   06-12-15                 Pre Trial Order.
+                            People appear by Jilmala D. Rogers.  Defendant appea
+rs personally
+                            together with private counsel, Andrea I. Bergstrom.
+ Entry of
+                            appearance on file.  Defendant is arraigned.  Defend
+ant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests a trial
+                            by jury.  Pre-trial orders entered.  Defendant admon
+ished as to trial
+                            and sentencing in absentia. Bond is to continue as t
+ransferred.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+                            Entry of appearance filed this date.
+   06-16-15                 Bond Type Transfer Bond From    2015DT000253 STIFF P
+AUL W
+   06-25-15                 Affidavit of mailing on file.
+                            Discovery filed.
+   07-08-15                 Defendant's motion for continuance.
+                            People appear by Lindsey Clark.  Defendant appears p
+ersonally and with
+                            counsel, Andrea I. Bergstrom. Motion by the Defendan
+t for continuance.
+                            Motion allowed. Bond is to continue.
+   07-15-15                 EHD Eligibility Certificate filed
+   08-19-15                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed DRIVING RVK/SUSP DUI/SSS 3RD
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/6-303(a)  Class 4
+                            Sentence: 08/19/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Order on Guilty Plea.
+                            Appearance of the People by Jilmala D. Rogers.  Appe
+arance of the
+                            Defendant personally and by counsel, Andrea I. Bergs
+trom.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Agg Dui/Lic Susp Or Revoked
+ ILCS: 625
+                            5/11-501(a), a Class 4 Felony, as charged.   Cause a
+llotted for
+                            sentencing on November 02, 2015 at 10:30 AM in Court
+room E.  Defendant
+                            is ordered to appear and is advised of sentencing in
+ absentia.
+                            Defendant is ordered to obtain a substance abuse eva
+luation prior to
+                            the hearing.  Court Services is directed to prepare
+a pre-sentence
+                            report for sentencing.  Waiver of Jury on file.  Cou
+nt II is hereby
+                            dismissed pursuant to the plea.  Order on Guilty Ple
+a entered this
+                            date.  See Order.
+                            Court Services to make arrangements for preparation
+of a
+                            Order To Abstain From Alcohol and for SCRAM Testing
+                            People appear by Jilmala D. Rogers. Defendant appear
+s personally, and
+                            by counsel, Andrea Bergstrom. As a condition of bond
+, Defendant is to
+                            refrain from having in his/her body the presence of
+alcohol or any
+                            illicit drug, unless prescribed by a physician. On t
+he motion of the
+                            Defendant, as a condition of bond, Defendant is orde
+red to
+                            continuously wear the SCRAM bracelet until further O
+rder of Court.
+                            Order to Abstain from Alcohol and for SCRAM Testing
+entered. See
+                            Order.
+                            Affidavit of mailing on file.
+                            Order on guilty plea.
+                            Order to abstain from alcohol and for scram testing
+on file.
+                            Waiver of jury.
+   09-28-15                 TASC Evaluation on file.
+   09-30-15                 Drug and alcohol evaluation sealed and placed on fil
+e.
+   10-27-15                 Presentence report on file.
+   11-02-15                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty AGG DUI/LIC SUSP OR REVOKED
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 11/02/2015
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  30Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  180Days In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Public Service  100Hrs In force
+                                      Supervised Court Service
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  30Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Sentence: Electronic Home Detention (EHD)  In force
+                                      Supervised Court Service
+                            Fine + Cost           1922.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    750.00
+                            Payment Due
+                            Sentencing Order/Order for Pre-Sentence report.
+                            Appearance of the People by Jilmala D. Rogers.  Appe
+arance of the
+                            Defendant personally and by counsel, Andrea I. Bergs
+trom.  Cause
+                            called for sentencing hearing. Defendant's Exhibits
+#1-4 are hereby
+                            admitted.  Statements of counsel heard.  Statement o
+f the defendant
+                            heard.  All financial obligations shall be paid in e
+qual monthly
+                            installments to the Champaign County Circuit Clerk b
+y  5/02/2016.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  D
+efendant is
+                            ordered to serve a period of 30 months probation. De
+fendant is ordered
+                            to serve a period of incarceration of 180 days in th
+e Champaign County
+                            Correctional Center. Defendant is to receive credit
+for 1 days
+                            previously served. Defendant is ordered to report to
+ the Champaign
+                            County Correctional Center on 11/04/15 at 9:00 am fo
+r commencement of
+                            sentence imposed. The remainder of the Defendant's i
+ncarceration to be
+                            held in remission. Defendant is ordered to perform 1
+00 hours of public
+                            service work under the supervision of the Champaign
+County Court
+                            Services Department.  The defendant is to be given c
+redit on public
+                            service work for any hours completed in education, t
+reatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes.  Defendant is to attend the n
+ext Victim Impact
+                            Panel presented by the Champaign County Court Servic
+es Department.
+                            Defendant is to have previously obtained an evaluati
+on for alcohol and
+                            drug abuse from an agency or agent recommended by th
+e Court Services
+                            Department, and follow any recommendations contained
+ therein as to
+                            treatment and/or counseling. Defendant to complete a
+ minimum of 10
+                            hours of alcohol/drug remedial education and a minim
+um of 20 hours
+                            outpatient alcohol/drug treatment. Defendant to foll
+ow all discharged
+                            recommendations and provide to the court or court se
+rvices with proof
+                            of same within 6 months of this date. Defendant advi
+sed of right to
+                            appeal and rights pursuant to Supreme Court Rule 605
+ and the Court
+                            finds that the defendant understands the same. Sente
+ncing Order
+                            entered.  See Order.
+                            Sentencing order.
+                            DUI Fines/Assessments Order on file.
+   11-06-15                 Disposition entered.
+                            Record of exhibits received on file.
+   11-12-15                 Disposition sent through ADR process this date. SOS
+SPT
+   11-13-15                 Bond
+   12-14-15                 Cash
+                            Remission / Review Hearing on file
+   12-16-15                 Remission Hearing
+                            People appear by Jilmala Rogers. Defendant appears p
+ersonally, and by
+                            counsel Andrea Bergstrom. Cause called for remission
+ hearing. Parties
+                            stipulate to the admissibility of the Report previou
+sly on file.
+                            Defendant's Exhibits #1 and #2 are admitted. Cause i
+s continued for
+                            further hearing on remission.
+                            Record of exhibits received on file.
+   02-17-16                 Hearing re-allotted
+                            Court notes due to logistic conflicts, cause will be
+ heard on
+                            Courtroom F. The time and date of the hearing have n
+ot changed, only
+                            the location.
+   02-23-16                 Cash
+   02-25-16                 Remission/Review Hearing on file.
+   02-29-16                 Remission Hearing
+                            People appear by Tobias Ortega. Defendant appears pe
+rsonally, and by
+                            counsel, Andrea Bergstrom. Cause called for Remissio
+n. Remission
+                            report on file, instanter. Defendant's Exhibit #1 an
+d #2 are admitted.
+                            Arguments of counsel heard. Cause continued for furt
+her remission.
+                            Remission Review Hearing on file.
+   03-02-16                 Record of exhibits received on file.
+   05-20-16                 Remission/Review Hearing report on file.
+   05-27-16                 Cash
+                            Remission allowed
+                            People appear by Toby Ortega.  Defendant appears per
+sonally and by
+                            counsel, Andrea I. Bergstrom. Cause called for remis
+sion hearing.  The
+                            Court considers the remission report on file, any ev
+idence and the
+                            comments of counsel.  Remission is allowed. Cause ca
+lled for further
+                            remission hearing to July 22, 2016 at 3:30 p.m. in C
+ourtroom F Court
+                            Services Department is directed to prepare a remissi
+on report for the
+                            hearing with copies to the court and counsel no late
+r than 3 days
+                            prior to the hearing.  All prior orders remain in fu
+ll force and
+                            effect.
+   07-15-16                 Remission/Review Hearing report on file.
+   07-22-16                 Cash
+                            Remission Hearing
+                            People appear by Tobias Ortega. Defendant appears pe
+rsonally, and by
+                            counsel, Andrea Bergstrom. Defendant's Exhibits #1 a
+nd #2 are on
+                            admitted. Arguments of counsel heard. Remaining time
+ is hereby
+                            remitted. Cause is continued generally. Exhibits are
+ ordered filed
+                            under Seal of Court.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,91 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CM000083
+
+   Defendant Plaintiff
+HEHMANN  NICHOLAS J
+408  HEALEY E APT 40
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/27/14
+                Court Room:
+           Next Appearance: 01/30/14
+                Birth Date: 10/22/92
+                 DEFENDANT: HEHMANN  NICHOLAS J
+
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   120913043 SHERIFF'S BOOKING FEE             34.00        02/04/14
+   120913043 BOND - ORIGINAL                  150.00        02/04/14
+   120913829 *BOND TRANSFERS OUT             -150.00        02/04/14
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  RETAIL THEFT/DISP MERCH/<$300
+
+         2  THEFT LOST/MISLAID PROP/<$500
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   01-27-14                 Charge 01 Count 001 RETAIL THEFT/DISP MERCH/<$300
+                            Statute 720 5/16-25(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 THEFT LOST/MISLAID PROP/<$500
+                            Statute 720 5/16-2  Class B  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismiss/State Motion RETAIL THEFT/DISP
+MERCH/<$300
+                            Disposition Type: By Bench   Defendant Plea: No Plea
+ Entered
+                            Statute 720 5/16-25(a)(1)  Class A
+                            Sentence: 01/27/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Cause dismissed - bond transferred
+                            People appear by Julia Rietz.  Defendant appears wit
+h counsel.
+                            Pursuant to the filing of 14-CF-127, cause dismissed
+.  Bond ordered
+                            transferred to said case.
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed THEFT LOST/MISLAID PROP/<$500
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-2  Class B
+                            Sentence: 01/27/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Case closed.
+   02-03-14                 Error disposition form created this date.
+   02-04-14                 Sheriff Booking Fee
+                            Bond Type Transfer Bond To    2014CF000127 HEHMANN N
+ICHOLAS J
+   02-19-14                 Error disposition form created this date.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

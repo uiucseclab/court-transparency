@@ -1,0 +1,305 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CM000201
+
+   Defendant Plaintiff
+ANDREWS  JOSHUA F
+332 N EMMETT ST
+VIRDEN IL 62690
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 02/27/14
+                Court Room:
+           Next Appearance: 04/13/15
+                Birth Date: 01/06/95
+                 DEFENDANT: ANDREWS  JOSHUA F
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN          180.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      TRAUMA FUND                   62.05          37.95
+       50.00      TRAFFIC/CRIMINAL SU             .00          50.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+         .00      FINES                           .00            .00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+      190.00      DRUG TRAFFIC PREVEN             .00         190.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      197.35      COLLECTION FEES               61.38         135.97
+       85.80      LATE FEES                     20.53            .00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121354135 BOND - ORIGINAL                   99.99        10/19/14
+   121354136 DOCUMENT STORAGE                  15.00        10/19/14
+   121354136 E-CITATION                         5.00        10/19/14
+   121354136 AUTOMATION                        15.00        10/19/14
+   121354136 CIRCUIT CLERK FEE                 64.99        10/19/14
+   121362668 EPAY RECEIVABLE                   99.99        10/23/14
+   121466674 BOND - ORIGINAL                   74.99        12/24/14
+   121466675 CIRCUIT CLERK FEE                 10.01        12/24/14
+   121466675 COURT SECURITY                    25.00        12/24/14
+   121466675 COURT FINANCE FEE                 25.00        12/24/14
+   121466675 STATES ATTORNEY                   14.98        12/24/14
+   121470573 EPAY RECEIVABLE                   74.99        12/30/14
+   121604775 BOND - ORIGINAL                   94.99        03/19/15
+   121604776 STATES ATTORNEY                    5.02        03/19/15
+   121604776 STATES ATTORNEY AUTOMATI           2.00        03/19/15
+   121604776 CRIME STOPPERS                     5.00        03/19/15
+   121604776 ARRESTEE'S MEDICAL                10.00        03/19/15
+   121604776 PROBATION MONITORING FEE          72.97        03/19/15
+   121614084 EPAY RECEIVABLE                   94.99        03/24/15
+   122138949 BOND - ORIGINAL                   60.00        01/25/16
+   122138950 PROBATION MONITORING FEE          41.52        01/25/16
+   122138950 COLLECTION FEES                   13.85        01/25/16
+   122138950 LATE FEES                          4.63        01/25/16
+   122143781 EPAY RECEIVABLE                   60.00        01/28/16
+   122192664 BOND - ORIGINAL                   50.00        02/26/16
+   122192665 PROBATION MONITORING FEE          34.60        02/26/16
+   122192665 COLLECTION FEES                   11.54        02/26/16
+   122192665 LATE FEES                          3.86        02/26/16
+   122202483 EPAY RECEIVABLE                   50.00        03/03/16
+   122261497 BOND - ORIGINAL                   45.99        04/06/16
+   122261498 PROBATION MONITORING FEE          30.91        04/06/16
+   122261498 PROBATION OPER ASSISTANC            .92        04/06/16
+   122261498 COLLECTION FEES                   10.61        04/06/16
+   122261498 LATE FEES                          3.55        04/06/16
+   122270259 EPAY RECEIVABLE                   45.99        04/12/16
+   122332539 BOND - ORIGINAL                   45.00        05/17/16
+   122332540 PROBATION OPER ASSISTANC           9.08        05/17/16
+   122332540 SPINAL CORD RESEARCH FUN           5.00        05/17/16
+   122332540 TRAUMA FUND                       17.07        05/17/16
+   122332540 COLLECTION FEES                   10.38        05/17/16
+   122332540 LATE FEES                          3.47        05/17/16
+   122342321 EPAY RECEIVABLE                   45.00        05/23/16
+   122355754 BOND - ORIGINAL                   30.00        05/31/16
+   122355755 TRAUMA FUND                       20.76        05/31/16
+   122355755 COLLECTION FEES                    6.92        05/31/16
+   122355755 LATE FEES                          2.32        05/31/16
+   122365398 EPAY RECEIVABLE                   30.00        06/06/16
+   122459888 BOND - ORIGINAL                   35.00        07/30/16
+   122459889 TRAUMA FUND                       24.22        07/30/16
+   122459889 COLLECTION FEES                    8.08        07/30/16
+   122459889 LATE FEES                          2.70        07/30/16
+   122470278 EPAY RECEIVABLE                   35.00        08/05/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  MFG/DEL CANNABIS/2.5-10 GRAMS
+
+         2  POSSESS DRUG PARAPHERNALIA
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   02-27-14                 Charge 01 Count 001 MFG/DEL CANNABIS/2.5-10 GRAMS
+                            Statute 720 550/5(b)  Class A  Orig.
+                            Agency: UNIVERSITY OF ILLINOIS POLICE  Charge Instr:
+ Information
+                            NO BOND No Bond
+                            Charge 02 Count 002 POSSESS DRUG PARAPHERNALIA
+                            Statute 720 600/3.5(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel.  Defendant is admonished as t
+o trial and
+                            sentencing in absentia. Bond set in the amount of $1
+,000-ROR ALLOWED.
+                            See expanded record.
+                            Notice of arrest without warrant on file.
+                            Notice of arrest without warrant on file.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+   02-28-14                 Released On Recognizance bond form on file.
+   03-13-14                 Set for pre-trial.
+                            Appearance of the People by Sarah N. Perry.  Appeara
+nce of the
+                            Defendant personally and by counsel, Mary Ann Midden
+.   Entry of
+                            Appearance placed on file. Plea of not guilty entere
+d and Defendant
+                            requests trial by jury.  Bond to continue. Defendant
+ is admonished as
+                            to trial and sentencing in absentia. See expanded re
+cord.
+                            Expanded record of court proceedings on arraignment.
+                            Entry of Appearance/Not Guilty Plea/Request for Jury
+ Trial
+   03-18-14                 Proof of service on file.
+   04-11-14                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty MFG/DEL CANNABIS/2.5-10 GRAMS
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 550/5(b)  Class A
+                            Sentence: 04/11/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  30Hrs In force
+                                      Supervised Court Service
+                            Sentence: Marijuana 101  In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Fine + Cost            467.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    180.00     DRUG TRAFFIC PREVE
+N    190.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Sarah N. Perry.  Appeara
+nce of the
+                            Defendant personally and by counsel, Mary Ann Midden
+.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Mfg/Del Cannabis/2.5-10 Gra
+ms ILCS: 720
+                            550/5(b), a Class A Misdemeanor, as charged. Judgmen
+t entered in favor
+                            of the People and against the defendant on finding o
+f guilt and for
+                            costs.  All financial obligations shall be paid in e
+qual monthly
+                            installments to the Champaign County Circuit Clerk b
+y 10/08/2014.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  D
+efendant is
+                            ordered to serve a period of 12 months Conditional D
+ischarge.
+                            Defendant is ordered to perform 30 hours of public s
+ervice work under
+                            the supervision of the Champaign County Court Servic
+es Department.
+                            The defendant is to be given credit on public servic
+e work for any
+                            hours completed in education, treatment, aftercare,
+sobriety based
+                            self-help group meetings, Victim Impact Panel and GE
+D classes.
+                            Count(s) stated in the written order are herby dismi
+ssed. Case
+                            Number(s) stated in the written order are herby dism
+issed.  Any bond
+                            posted in said case(s) shall be transferred to the i
+nstant case and
+                            shall be applied to any fines, fees, costs, assessme
+nts, and/or
+                            restitution imposed herein; any remaining bond shall
+ be used to
+                            satisfy such other of the Defendant's Champaign Coun
+ty criminal or
+                            traffic cases in which the Defendant owes an outstan
+ding balance of
+                            fines, fees, costs, assessments and/or restitution.
+Waiver of Jury on
+                            file. Sentencing Order entered this date. See Order.
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed POSSESS DRUG PARAPHERNALIA
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 600/3.5(a)  Class A
+                            Sentence: 04/11/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Sentencing order.
+                            Waiver of jury.
+   04-17-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   04-22-14                 Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            50.0% to the General Corporate Fund of Champaign Cou
+nty, and
+                            37.5% to the Illinois State Treasury.
+   10-19-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   10-23-14                 EPAY RECONCILIATION TRANSACTION
+   12-24-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   12-30-14                 EPAY RECONCILIATION TRANSACTION
+   03-19-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   03-24-15                 EPAY RECONCILIATION TRANSACTION
+   07-10-15                 Case sent out for collections.
+   01-25-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   01-28-16                 EPAY RECONCILIATION TRANSACTION
+   02-26-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   03-03-16                 EPAY RECONCILIATION TRANSACTION
+   04-06-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   04-12-16                 EPAY RECONCILIATION TRANSACTION
+   05-17-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-23-16                 EPAY RECONCILIATION TRANSACTION
+   05-31-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   06-06-16                 EPAY RECONCILIATION TRANSACTION
+   07-30-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   08-05-16                 EPAY RECONCILIATION TRANSACTION
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,303 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #15CM000898
+
+   Defendant Plaintiff
+HORTON  ASIA M
+310 S SUNRISE DR
+URBANA IL 61802
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 09/03/15
+                Court Room:
+           Next Appearance: 11/03/16
+                Birth Date: 06/18/97
+                 DEFENDANT: HORTON  ASIA M
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+        5.00      CRIME STOPPERS                  .00           5.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       15.00      PROBATION MONITORIN             .00         180.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       10.00      TR/CR SUR $10/$40               .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121900850 BOND TRANSFERS IN                150.00        09/03/15
+   122029428 BOND -10% BOND FEE                15.00        11/16/15
+   122029428 DOCUMENT STORAGE                  15.00        11/16/15
+   122029428 E-CITATION                         5.00        11/16/15
+   122029428 AUTOMATION                        15.00        11/16/15
+   122029428 CIRCUIT CLERK FEE                 75.00        11/16/15
+   122029428 COURT SECURITY                    25.00        11/16/15
+   122294184 SHERIFF'S BOOKING FEE             34.00        04/25/16
+   122294184 BOND - ORIGINAL                  500.00        04/25/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  RETAIL THEFT/DISP MERCH/<$300
+
+         2  CRIMINAL TRESPASS BUILDING
+
+         3  BATTERY/MAKES PHYSICAL CONTACT
+
+         4  ASSAULT
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   09-03-15                 Charge 01 Count 001 RETAIL THEFT/DISP MERCH/<$300
+                            Statute 720 5/16-25(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            No bond No Bond
+                            Charge 02 Count 002 CRIMINAL TRESPASS BUILDING
+                            Statute 720 5/21-3(a)(1)  Class B  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            No bond No Bond
+                            Charge 03 Count 003 BATTERY/MAKES PHYSICAL CONTACT
+                            Statute 720 5/12-3(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            No bond No Bond
+                            Charge 04 Count 004 ASSAULT
+                            Statute 720 5/12-1(a)  Class C  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            No bond No Bond
+                            Charging documents
+                            Bond Type Transfer Bond From    2015NC000124 HORTON
+ASIA M
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            George Vargas appears instanter.  Plea of not guilty
+ entered and
+                            Defendant requests trial by jury. Bond is to continu
+e as posted.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.  See
+                            expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+   11-03-15                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed CRIMINAL TRESPASS BUILDING
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/21-3(a)(1)  Class B
+                            Sentence: 11/03/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed BATTERY/MAKES PHYSICAL CONTAC
+T
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3(a)(2)  Class A
+                            Sentence: 11/03/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed ASSAULT
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-1(a)  Class C
+                            Sentence: 11/03/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty RETAIL THEFT/DISP MERCH/<$300
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16-25(a)(1)  Class A
+                            Sentence: 11/03/2015
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Submit a letter of apology  In force
+                            Sentence: Stop Lifting  In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Cost Only              337.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    180.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Jacob A. Croegaert.  App
+earance of the
+                            Defendant personally and by counsel, Daniel G. Taylo
+r.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges, and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly, and voluntarily waives rights and e
+nters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Retail Theft/Disp Merch/<$3
+00 ILCS: 720
+                            5/16-25(a)(1) as charged. Judgment entered in favor
+of the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  5/02/2016.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of 12 months probation. Defendant is directed
+ to submit a
+                            letter of apology to the Champaign County Court Serv
+ices for approval
+                            of said department addressed to the individual liste
+d in the written
+                            order.  Counts 2, 3, and 4 are hereby dismissed. Def
+endant advised of
+                            right to appeal and rights pursuant to Supreme Court
+ Rule 605 and the
+                            Court finds that the defendant understands the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See order.
+                            Sentencing order.
+                            Waiver of jury.
+   11-12-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition entered.
+   11-16-15                 Bond
+   02-02-16                 Probation Violation Report filed.
+   02-03-16                 Cause set for arraignment on
+                            Petition to Revoke Probation filed.
+
+                            Verified information on Petition to Revoke Probation
+ on file.
+                            Probable cause to arrest determined.  Warrant issued
+.  Bond set in the
+                            amount of $  5,000.00.
+                            Probation Violation Report on file
+                            Expanded record of court proceedings on arraignment.
+                            Warrant of arrest filed.
+   04-25-16                 Sheriff Booking Fee
+                            Warrant served. Service fees $41.00
+   04-28-16                 Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Li
+ndsey Yanchus
+                            appears instanter.  General denial to the Petition i
+s entered.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. Bond
+                            is to continue as posted.  See expanded record.
+
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+   05-20-16                 Defendant's motion for continuance.
+                            People appear by Jacob Croegaert.  Defendant appears
+ personally and
+                            with counsel, Ramona Sullivan. Motion by the Defenda
+nt for
+                            continuance.  Motion allowed.
+   06-03-16                 Petition to Revoke hearing
+                            People appear by Lindsey Clark. Defendant appears pe
+rsonally, and by
+                            Ramona Sullivan. Defendant's motion to continue. Mot
+ion allowed. Bond
+                            is to continue.
+   07-01-16                 Failure to appear warrant.
+                            People appear by Jacob A. Croegaert.  No appearance
+by the Defendant
+                            nor anyone on Defendant's behalf. Motion by People f
+or bond forfeiture
+                            and warrant. Motion allowed.  Defendant's bond is fo
+rfeited and cause
+                            is allotted for hearing on the bond forfeiture.  War
+rant issued.
+                            Bond set in the amount of $ 10,000.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+                            Failure to appear noted in file.
+                            Warrant of arrest filed.
+   07-05-16                 Hearting on the Motion to Quash Warrant
+                            Upon representation from counsel for the Defendant,
+cause is allotted
+                            for hearing on the Motion to Quash Warrant.
+                            Motion to Quash on file
+   07-06-16                 Bond forfeiture notice prepared and mailed.
+   07-08-16                 Hearing on the Motion to Quash Warrant
+                            Ramona Sullivan appears on behalf of the Defendant.
+Motion to Quash
+                            Warrant. Motion allowed. Cause is re-allotted for he
+aring on the
+                            Petition to Revoke.  Defendant is admonished as to t
+rial and
+                            sentencing in absentia. Bond is to continue.
+                            Reinstate Bond.
+                            Bond forfeiture previously entered is vacated and bo
+nd is reinstated.
+                            Bond forfeiture hearing of 08/19/16 is vacated.
+                            Warrant Quashed
+   07-13-16                 Hearing on the Petition to Revoke Probation
+                            People appear by Jacob A. Croegaert. Defendant appea
+rs personally, and
+                            by counsel, Ramona Sullivan. On the motion of the Pe
+ople, Petition to
+                            Revoke Probation is hereby withdrawn and dismissed.
+Cause is continued
+                            generally.
+   07-15-16                 Warrant of arrest filed.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

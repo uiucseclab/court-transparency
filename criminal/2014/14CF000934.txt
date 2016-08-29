@@ -1,0 +1,362 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000934
+
+   Defendant Plaintiff
+LIIMATTA  ASHLEY N
+2541 W SPRINGFIELD A
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 07/10/14
+                Court Room:
+           Next Appearance: 12/19/16
+                Birth Date: 03/16/94
+                 DEFENDANT: LIIMATTA  ASHLEY N
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+         .00      COUNTY ORDINANCE                .00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          600.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      150.00      DUI CRIME LAB                150.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      250.00      TRAFFIC/CRIMINAL SU          250.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      245.00      FINES                        245.00            .00
+      350.00      DUI NEW EQUIPMENT F          350.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+      100.00      DRIVERS EDUCATION            100.00            .00
+      400.00      DUI - 80% IL GENERA          400.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121180192 SHERIFF'S BOOKING FEE             34.00        07/11/14
+   121180192 BOND - ORIGINAL                  150.00        07/11/14
+   121485959 BOND -10% BOND FEE                15.00        01/08/15
+   121485959 DOCUMENT STORAGE                  15.00        01/08/15
+   121485959 E-CITATION                         5.00        01/08/15
+   121485959 AUTOMATION                        15.00        01/08/15
+   121485959 CIRCUIT CLERK FEE                 75.00        01/08/15
+   121485959 COURT SECURITY                    25.00        01/08/15
+   121598077 COURT FINANCE FEE                 25.00        03/16/15
+   121598077 STATES ATTORNEY                   20.00        03/16/15
+   121598077 STATES ATTORNEY AUTOMATI           2.00        03/16/15
+   121598077 CRIME STOPPERS                     5.00        03/16/15
+   121598077 ARRESTEE'S MEDICAL                10.00        03/16/15
+   121598077 PROBATION MONITORING FEE          25.00        03/16/15
+   121598077 PROBATION OPER ASSISTANC          10.00        03/16/15
+   121598077 SPINAL CORD RESEARCH FUN           3.00        03/16/15
+   121873911 PROBATION MONITORING FEE          25.00        08/19/15
+   121873911 SPINAL CORD RESEARCH FUN           2.00        08/19/15
+   121873911 DUI CRIME LAB                    150.00        08/19/15
+   121873911 TRAUMA FUND                       23.00        08/19/15
+   121873911 01000000000                         .00        08/19/15
+   122042682 PROBATION MONITORING FEE          25.00        11/24/15
+   122042682 TRAUMA FUND                        5.00        11/24/15
+   122058691 PROBATION MONITORING FEE          25.00        12/04/15
+   122058691 TRAUMA FUND                       72.00        12/04/15
+   122058691 TR/CR SUR $10/$40                  3.00        12/04/15
+   122084855 01000000000                         .00        12/21/15
+   122111922 PROBATION MONITORING FEE          25.00        01/08/16
+   122111922 TR/CR SUR $10/$40                247.00        01/08/16
+   122111922 CLERK OP & ADMIN-SERIOUS           5.00        01/08/16
+   122111922 DRUG COURT PROGRAM                 5.00        01/08/16
+   122111922 FINES                            218.00        01/08/16
+   122135408 PROBATION MONITORING FEE          25.00        01/22/16
+   122135408 FINES                             27.00        01/22/16
+   122135408 DUI NEW EQUIPMENT FINE           350.00        01/22/16
+   122135408 VIOLENT CRIME VICTIMS AS          24.00        01/22/16
+   122198485 PROBATION MONITORING FEE         450.00        03/01/16
+   122198485 VIOLENT CRIME VICTIMS AS          51.00        03/01/16
+   122198485 DRIVERS EDUCATION                100.00        03/01/16
+   122198485 DUI - IL GENERAL REVENUE         400.00        03/01/16
+   122198485 FIRE PREVENTION FUND              15.00        03/01/16
+   122198485 FIRE TRUCK REVOLVING LOA          15.00        03/01/16
+   122198485 ST POLICE SERVICES FUND           10.00        03/01/16
+   122198485 ST POLICE OPERATIONS ASS          15.00        03/01/16
+   122198485 CLERK OP & ADMIN FUND             10.00        03/01/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+         2  DRVG UNDER INFLUENCE OF DRUG
+
+         3  DRVG UNDER INFLU OF ALCOHOL
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   07-10-14                 Charge 01 Count 001 POSS AMT CON SUB EXCEPT(A)/(D)
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 DRVG UNDER INFLUENCE OF DRUG
+                            Statute 625 5/11-501(a)(4)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 DRVG UNDER INFLU OF ALCOHOL
+                            Statute 625 5/11-501(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Jamie Propps appears instanter.  Defen
+dant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond set in the am
+ount of $1,500-ROR
+                            DENIED.  Defendant is admonished as to trial and sen
+tencing in
+                            absentia. See expanded record.
+                            Affidavit in support of request to appoint attorney.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+                            Expanded record of court proceedings on arraignment.
+   07-11-14                 Sheriff Booking Fee
+                            Notice of arrest without warrant on file.
+   07-14-14                 Proof of service on file.
+                            Discovery filed.
+   07-16-14                 Answer to Discovery filed
+                            Substitution of Counsel on file.
+   07-18-14                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   07-30-14                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   08-12-14                 Pre-trial
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant by counsel, Brian E. King. Court notes sub
+stitution of
+                            counsel on file. PD is hereby vacated. Brian King is
+ entered as
+                            counsel of record.   People's motion for a Warrant.
+Motion taken under
+                            advisement. Cause set for pre-trial. Bond to continu
+e.
+   08-14-14                 Defendant's motion for continuance.
+                            People appear by Elizabeth A. Dornik.  Defendant app
+ears personally
+                            and with counsel, Brian E. King. People withdraw the
+ Motion for a
+                            warrant. Motion by the Defendant for continuance.  M
+otion allowed.
+                            Bond is to continue.
+   08-20-14                 Sworn report on file.  Defendant tested a BAL of .18
+0
+   08-22-14                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   09-25-14                 Defendant's motion for continuance.
+                            People appear by Elizabeth A. Dornik.  Defendant app
+ears personally
+                            and with counsel, Brian King. Motion by the Defendan
+t for continuance.
+                            Motion allowed.
+   10-07-14                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   10-23-14                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   11-06-14                 Defendant's motion for continuance.
+                            People appear by AJ Ruggieri.  Defendant appears per
+sonally and with
+                            counsel, Brian E. King. Motion by the Defendant for
+continuance.
+                            Motion allowed. Bond is to continue.
+   12-04-14                 Set for plea.
+                            Appearance of the People by AJ Ruggieri.  Appearance
+ of the Defendant
+                            personally and by counsel, Brian E. King.   Cause al
+lotted for plea.
+                            Bond to continue.
+   12-17-14                 Drug and Alcohol Evaluation
+                            Defendant's Drug and Alcohol Evaluation is tendered
+to the Court.
+                            Evaluation is on accepted and ordered filed under Se
+al of Court.
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed POSS AMT CON SUB EXCEPT(A)/(D
+)
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/402(c)  Class 4
+                            Sentence: 12/17/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed DRVG UNDER INFLUENCE OF DRUG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)(4)  Class A
+                            Sentence: 12/17/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  Fine + Cost
+                            Disposition: Guilty DRVG UNDER INFLU OF ALCOHOL
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)(2)  Class A
+                            Sentence: 12/17/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  50Hrs In force
+                                      Supervised Court Service
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Fine + Cost           1817.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    600.00     DUI CRIME LAB
+     150.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Lindsey Clark.  Appearan
+ce of the
+                            Defendant personally and by counsel, Brian E. King.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 03 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Drvg Under Influ Of Alcohol
+ ILCS: 625
+                            5/11-501(a)(2), a class A Misdemeanor, as charged. J
+udgment entered in
+                            favor of the People and against the defendant on fin
+ding of guilt and
+                            for costs.  All financial obligations shall be paid
+in equal monthly
+                            installments to the Champaign County Circuit Clerk b
+y  6/15/2015.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  D
+efendant is
+                            ordered to serve a period of  24 months probation. D
+efendant is
+                            ordered to perform  50 hours of public service work
+under the
+                            supervision of the Champaign County Court Services D
+epartment.  The
+                            defendant is to be given credit on public service wo
+rk for any hours
+                            completed in education, treatment, aftercare, sobrie
+ty based self-help
+                            group meetings, Victim Impact Panel and GED classes.
+  Defendant is to
+                            attend the next Victim Impact Panel presented by the
+ Champaign County
+                            Court Services Department.  Defendant is to obtain a
+n evaluation for
+                            alcohol and drug abuse from an agency or agent recom
+mended by the
+                            Court Services Department, and follow any recommenda
+tions contained
+                            therein as to treatment and/or counseling. Count(s)
+stated in the
+                            written order are herby dismissed. Defendant advised
+ of right to
+                            appeal and rights pursuant to Supreme Court Rule 605
+ and the Court
+                            finds that the defendant understands the same. Waive
+r of Jury on file.
+                            Sentencing Order entered this date. See Order.
+                            Sentencing order.
+                            Waiver of jury.
+   12-18-14                 Drug and alcohol evaluation sealed and placed on fil
+e.
+   12-30-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SOS
+SPT
+   01-08-15                 Bond
+   03-16-15                 Cash
+   08-19-15                 Cash
+   09-22-15                 Defendant's Motion for Extension of Time to Pay Cost
+s filed
+                            and forwarded to court.
+                            Change of address filed with the Circuit Clerk.
+                            Change of Address Form on file
+   09-23-15                 Docket Order
+                            Court notes Defendant's Pro Se pleading on file. Mot
+ion for Extension
+                            of Time to Pay Costs is allowed. Defendant is grante
+d until 03/01/2016
+                            to pay. No written Order required. Court Clerk to no
+tify Defendant of
+                            the entry of this docket order.
+   11-24-15                 Cash
+   12-04-15                 Cash
+   01-08-16                 Cash
+   01-22-16                 Cash
+   03-01-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

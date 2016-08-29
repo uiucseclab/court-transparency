@@ -1,0 +1,456 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000938
+
+   Defendant Plaintiff
+TURNER  QUINTEZ L
+UNKNOWN
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 07/11/14
+                Court Room: C
+           Next Appearance: 10/05/15  08:45
+                Birth Date: 04/24/80
+                 DEFENDANT: TURNER  QUINTEZ L
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      150.00      BOND -10% BOND FEE           150.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      280.00      TRAFFIC/CRIMINAL SU          280.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      118.90      SHERIFF FEES                 118.90            .00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+       70.00       STREET VALUE DRUG            70.00            .00
+      995.00      MANDATORY ASSESSMEN          995.00            .00
+       50.00      PERFORMANCE-ENHANCI           50.00            .00
+       20.00      DRUG DISPOSAL FUND            20.00            .00
+       25.00      IL STATE TREAS FINE           25.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121548280 SHERIFF'S BOOKING FEE             34.00        02/17/15
+   121548280 BOND - ORIGINAL                 1500.00        02/17/15
+   121548290 00000005272                         .00        02/17/15
+   121913602 BOND TRANSFERS IN               2175.00        09/11/15
+   121913628 BOND TRANSFERS IN                375.00        09/11/15
+   121913883 BOND TRANSFERS IN                825.00        09/11/15
+   121933816 BOND TRANSFERS IN               3675.00        09/23/15
+   121956232 BOND -10% BOND FEE               150.00        10/06/15
+   121956232 DOCUMENT STORAGE                  15.00        10/06/15
+   121956232 AUTOMATION                        15.00        10/06/15
+   121956232 CIRCUIT CLERK FEE                100.00        10/06/15
+   121956232 COURT SECURITY                    25.00        10/06/15
+   121956232 COURT FINANCE FEE                 50.00        10/06/15
+   121956232 STATES ATTORNEY                   40.00        10/06/15
+   121956232 STATES ATTORNEY AUTOMATI           2.00        10/06/15
+   121956232 ARRESTEE'S MEDICAL                10.00        10/06/15
+   121956232 PROBATION OPER ASSISTANC          10.00        10/06/15
+   121956232 SPINAL CORD RESEARCH FUN           5.00        10/06/15
+   121956232 CRIME LAB                        100.00        10/06/15
+   121956232  STATE OFFENDER DNA ID S         250.00        10/06/15
+   121956232 TRAUMA FUND                      100.00        10/06/15
+   121956232 TR/CR SUR $10/$40                280.00        10/06/15
+   121956232 DRUG COURT PROGRAM                 5.00        10/06/15
+   121956232 SHERIFF FEES                     118.90        10/06/15
+   121956232 VIOLENT CRIME VICTIMS AS         100.00        10/06/15
+   121956232  STREET VALUE DRUG FINES          70.00        10/06/15
+   121956232 MANDATORY ASSESSMENT             995.00        10/06/15
+   121956232 PERFORMANCE-ENHANCING SU          50.00        10/06/15
+   121956232 DRUG DISPOSAL FUND                20.00        10/06/15
+   121956232 IL STATE TREAS FINES              25.00        10/06/15
+   121956232 ST POLICE SERVICES FUND           10.00        10/06/15
+   121956232 ST POLICE OPERATIONS ASS          15.00        10/06/15
+   121956232 CLERK OP & ADMIN FUND             10.00        10/06/15
+   121956648 *BOND TRANSFERS OUT            -4142.65        10/06/15
+   121956795 *BOND TRANSFERS OUT            -1836.45        10/06/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  OTHER AMT NARCOTIC SCHED I&II
+
+         2  OTHER AMT NARCOTIC SCHED I&II
+
+         3  OTHER AMT NARCOTIC SCHED I&II
+
+         4  OTHER AMT NARCOTIC SCHED I&II
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   07-11-14                 Charge 01 Count 001 OTHER AMT NARCOTIC SCHED I&II
+                            Statute 720 570/401(d)(i)  Class 2  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            Charge 02 Count 002 OTHER AMT NARCOTIC SCHED I&II
+                            Statute 720 570/401(d)(i)  Class 2  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            Companion Charge
+                            Charge 03 Count 003 OTHER AMT NARCOTIC SCHED I&II
+                            Statute 720 570/401(d)(i)  Class 2  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            Companion Charge
+                            Charge 04 Count 004 OTHER AMT NARCOTIC SCHED I&II
+                            Statute 720 570/401(d)(i)  Class 2  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            Companion Charge
+                            Charging documents
+                            Probable cause warrant issued
+                            Verified information on file.  Witness sworn.  Evide
+nce heard.
+                            Probable cause to arrest determined, warrant issued.
+  Bond set in the
+                            amount of $15,000.00.
+                            Warrant issued.
+                            Warrant of arrest filed.
+   02-17-15                 Cause set for arraignment on
+                            Sheriff Booking Fee
+
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel. Bond is to continue. Defendan
+t is admonished as
+                            to trial and sentencing in absentia.
+   02-18-15                 Warrant served. Service fees $118.90
+   02-24-15                 Expanded record of arraignment proceedings.
+                            Defendant makes second motion for continuance to obt
+ain counsel.
+                            Motion allowed.  Bond to continue.  See expanded rec
+ord.
+                            Bond to continue.
+                            Expanded record of court proceedings on arraignment.
+   03-06-15                 Expanded record of arraignment proceedings.
+                            Defendant makes second motion for continuance to obt
+ain counsel.
+                            Motion allowed.  Bond to continue.
+   03-13-15                 Expanded Record and/or Pre-trial Order
+                            Motion by the Defendant for court appointed counsel.
+ Motion allowed.
+                            The Champaign County Public Defender is appointed an
+d Janie Miller
+                            Jones appears instanter.  Defendant waives prelimina
+ry hearing, enters
+                            a plea of not guilty and requests trial by jury.  Pr
+e-trial orders
+                            entered.  Bond is to continue. Defendant is admonish
+ed as to trial and
+                            sentencing in absentia. See expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+                            Affidavit in support of request to appoint attorney.
+   04-14-15                 Motion to Continue Trial filed.
+                            Pre-trial held.
+                            People appear by Mr. Clifton.  Defendant appears wit
+h attorney Ms.
+                            Riess.  Appearance of attorney Mr. Dill.  Mr. Dill f
+iles a Motion for
+                            Substitution of Counsel on file and approved.  See O
+rder.  The Court
+                            vacates the appointment of the Public Defender.  Cau
+se is called for
+                            pre-trial.  Motion by the Defendant to continue.  Pe
+ople state no
+                            objection.  Motion is allowed.  Cause is continued o
+n the defendant's
+                            motion to the next pre-trial 5/12/15 at 11:00 a.m. i
+n Courtroom C.
+                            Defendant's bond is to continue.
+                            Order on file regarding Motion for Substitution of C
+ounsel.
+                            Motion for Substitution of Counsel, Entry of Appeara
+nce on file.
+                            Motion to Continue filed
+   05-12-15                 Pre-Trial held
+                            People appear by Asst. State's Attorney Mr. Clifton.
+  Defendant
+                            appears with attorney Mr. Dill.  Cause is called for
+ Pre-trial.
+                            Motion by the People to continue.   Comments of coun
+sel considered.
+                            Motion is allowed.  Cause is continued on the People
+'s motion to the
+                            pre-trial of 06/09/15 at 11:00 a.m. in Courtroom C.
+ Defendant is
+                            admonished as to trial and sentencing in absentia.
+Defendant's bond
+                            is to continue.
+                            Motion for Continuance (Defendant not in custody) on
+ file.
+   06-05-15                 Affidavit of mailing on file.
+                            Discovery Answer filed
+   06-09-15                 Failure to appear warrant.
+                            Appearance of the People by Dan Clifton.  No appeara
+nce by the
+                            Defendant.  Appearance of  Adam Dill.  Motion by the
+ People for bond
+                            forfeiture and warrant.  Objection by counsel for th
+e Defendant.
+                            Motion allowed over the objection.  Defendant's bond
+ forfeited.
+                            CIRCUIT CLERK TO SEND NOTICE OF THE HEARING ON FORFE
+ITURE.  Warrant to
+                            issue.  Bond set in the amount of $ 25,000.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+                            Cause continued to 2:30 p.m. this date for warrant t
+o be issued
+                            If the defendant fails to appear with counsel.
+                            Order for warrant vacated.
+                            People appear by Ms. Weber.  Defendant appears with
+attorney Mr. Dill.
+                            Cause is called for hearing on the motion of the def
+endant to vacate
+                            the order for warrant and bond forfeiture.  People s
+tate no objection.
+                            Motion is allowed.  Order for warrant is vacated.  B
+ond forfeiture is
+                            vacated.  Bond is reinstated.  Cause is called for p
+re-trial.  Motion
+                            by the defendant to continue.  People state no objec
+tion.  Motion is
+                            allowed.  Cause is allotted for pre-trial call.  Def
+endant is ordered
+                            to appear.  Defendant's bond is to continue.
+                            Motion to Continue filed
+   07-14-15                 Set for plea.
+                            Appearance of the People by Dan Clifton.  Appearance
+ of the Defendant
+                            personally and by counsel, Adam Dill.   Cause allott
+ed for plea. Bond
+                            to continue.
+   08-14-15                 Affidavit of mailing on file.
+                            Discovery filed.
+   09-09-15                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty OTHER AMT NARCOTIC SCHED I&II
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 570/401(d)(i)  Class 2
+                            Sentence: 09/09/2015
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  3Yrs In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Sentence: Mandatory Street Value Fine  In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Mandatory Assessment Fine  In force
+                            Fine + Cost           2195.90     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    250.00     IL STATE TREAS FIN
+E     25.00
+                            Payment Due
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed OTHER AMT NARCOTIC SCHED I&II
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(d)(i)  Class 2
+                            Sentence: 09/09/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed OTHER AMT NARCOTIC SCHED I&II
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(d)(i)  Class 2
+                            Sentence: 09/09/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed OTHER AMT NARCOTIC SCHED I&II
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(d)(i)  Class 2
+                            Sentence: 09/09/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Sentencing order.
+                            Appearance of the People by Dan Clifton.  Appearance
+ of the Defendant
+                            personally and by counsel, Adam Dill.   Defendant ad
+vised as to the
+                            nature of the proceedings, the charges and the possi
+ble penalties that
+                            may be imposed and the Court finds that the Defendan
+t understands the
+                            same.  Finding Defendant knowingly, understandingly
+and voluntarily
+                            waives rights and enters a plea of guilty to Count 0
+1 of the charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Other Amt
+                            Narcotic Sched I&Ii ILCS: 720 570/401(d)(i) as charg
+ed. Judgment
+                            entered in favor of the People and against the defen
+dant on finding of
+                            guilt and for costs.  All financial obligations shal
+l be paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk within 12
+                            months of his release from the Dept. of Corrections.
+  Any bond posted
+                            is to be applied first to any court ordered bond ass
+ignment on file
+                            and then to all restitution ordered and then to all
+financial
+                            obligations in this case.  Any remaining bond shall
+be discharged to
+                            the individual who posted the bond.  Defendant is or
+dered to serve a
+                            period of incarceration of   3 years, in the Illinoi
+s Department of
+                            Corrections. Defendant is to receive credit for   1
+days previously
+                            served.  If not previously done so by the defendant,
+ the Defendant is
+                            to submit specimens of blood, saliva, or tissue to t
+he Illinois
+                            Department of State Police or to the Department of C
+orrections within
+                            45 days, at a collection site designated by the Cham
+paign County Court
+                            Services Department and/or Illinois Department of St
+ate Police, in
+                            accordance with 730 ILCS 5/5-4-3.  Defendant is only
+ ordered to pay
+                            the $250.00 genetic marker grouping analysis fee, if
+ the defendant has
+                            not previously provided a specimen of DNA to the Ill
+inois State
+                            Police.   Count(s) stated in the written order are h
+erby dismissed.
+                            Case Number(s) stated in the written order are herby
+ dismissed.  Any
+                            bond posted in said case(s) shall be transferred to
+the instant case
+                            and shall be applied to any fines, fees, costs, asse
+ssments, and/or
+                            restitution imposed herein; any remaining bond shall
+ be used to
+                            satisfy such other of the Defendant's Champaign Coun
+ty criminal or
+                            traffic cases in which the Defendant owes an outstan
+ding balance of
+                            fines, fees, costs, assessments and/or restitution.
+Defendant is
+                            ordered to pay all statutory fines, fees and court c
+osts, including
+                            the fines as set forth in the written order entered
+this date.   All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk.  Any bond posted
+ is to be applied
+                            first to any court ordered bond assignment on file a
+nd then to all
+                            restitution ordered and then to all financial obliga
+tions in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.   Defendant advised of right to app
+eal and rights
+                            pursuant to Supreme Court Rule 605 and the Court fin
+ds that the
+                            defendant understands the same.  Waiver of Jury on f
+ile. Sentencing
+                            Order entered this date. See Order.  Motion by the d
+efendant to stay
+                            the mittimus.  Comments of counsel heard.  Motion is
+ allowed.  The
+                            defendant's sentence is stayed until 8:45 on 10/5/15
+ in Courtroom C to
+                            commence his sentence.
+                            Mittimus prepared.
+                            Judgment - Sentence to Illinois Dept. of Corrections
+.
+                            Sentencing order.
+                            Fees & Fines Assessment Form on file.
+                            Supplemental Sentencing Order Imposing Fines on file
+.
+                            Waiver of jury.
+   09-11-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Bond Type Transfer Bond From    2013TR016607 TURNER
+QUINTEZ L
+                            Bond Type Transfer Bond From    2013TR011107 TURNER
+QUINTEZ L
+                            Bond Type Transfer Bond From    2013TR007854 TURNER
+QUINTEZ L
+   09-15-15                 Disposition entered.
+                            Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            37.5% to the General Corporate Fund of Champaign Cou
+nty, and
+                            50.0% to the Champaign Police Department.
+   09-23-15                 Bond Type Transfer Bond From    2013CM000852 TURNER
+QUINTEZ
+   09-30-15                 Statement of State's Attorney filed
+   10-05-15                 Deft. appears and surrenders to commence his incarce
+ration.
+                            Defendant's bond order is vacated. Bond ordered to a
+pply as previously
+                            ordered.
+   10-06-15                 Bond
+                            Bond Type Transfer Bond To    2000CF002139 TURNER QU
+INTEZ L
+                            Bond Type Transfer Bond To    2005CF001623 TURNER QU
+INTEZ L
+   10-13-15                 Copy of Statement of State's Attorney forwarded to S
+tateville CC
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

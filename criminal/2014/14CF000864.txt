@@ -1,0 +1,392 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000864
+
+   Defendant Plaintiff
+DOHMAN  CHELSEY M
+402 W HIGH
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 06/26/14
+                Court Room: E
+           Next Appearance: 01/15/15  10:30
+                Birth Date: 10/16/87
+                 DEFENDANT: DOHMAN  CHELSEY M
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      500.00      BOND -10% BOND FEE           500.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          300.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+         .00      CRIME LAB                       .00            .00
+      150.00      DUI CRIME LAB                150.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      190.00      TRAFFIC/CRIMINAL SU          190.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+         .00      FINES                           .00            .00
+      350.00      DUI NEW EQUIPMENT F          350.00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+       76.00      DRIVERS EDUCATION             76.00            .00
+      390.00      DUI - IL GENERAL RE          390.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121157421 SHERIFF'S BOOKING FEE             34.00        06/27/14
+   121157421 BOND - ORIGINAL                 5000.00        06/27/14
+   121513644 BOND -10% BOND FEE               500.00        01/26/15
+   121513644 *BOND REFUND                    4500.00        01/26/15
+   121672508 DOCUMENT STORAGE                  15.00        04/27/15
+   121672508 AUTOMATION                        15.00        04/27/15
+   121672508 CIRCUIT CLERK FEE                100.00        04/27/15
+   121672508 COURT SECURITY                    25.00        04/27/15
+   121672508 COURT FINANCE FEE                 50.00        04/27/15
+   121672508 STATES ATTORNEY                   40.00        04/27/15
+   121672508 STATES ATTORNEY AUTOMATI           2.00        04/27/15
+   121672508 CRIME STOPPERS                    10.00        04/27/15
+   121672508 ARRESTEE'S MEDICAL                10.00        04/27/15
+   121672508 PROBATION MONITORING FEE          25.00        04/27/15
+   121672508 PROBATION OPER ASSISTANC          10.00        04/27/15
+   121672508 SPINAL CORD RESEARCH FUN           5.00        04/27/15
+   121672508 DUI CRIME LAB                    150.00        04/27/15
+   121672508  STATE OFFENDER DNA ID S         143.00        04/27/15
+   121780346 PROBATION MONITORING FEE          25.00        06/29/15
+   121780346  STATE OFFENDER DNA ID S         107.00        06/29/15
+   121780346 TRAUMA FUND                      100.00        06/29/15
+   121780346 TR/CR SUR $10/$40                190.00        06/29/15
+   121780346 CLERK OP & ADMIN-SERIOUS           5.00        06/29/15
+   121780346 DRUG COURT PROGRAM                 5.00        06/29/15
+   121780346 DUI NEW EQUIPMENT FINE            68.00        06/29/15
+   121836169 PROBATION MONITORING FEE          25.00        07/29/15
+   121836169 DUI NEW EQUIPMENT FINE           275.00        07/29/15
+   121891328 PROBATION MONITORING FEE          25.00        08/28/15
+   121891328 DUI NEW EQUIPMENT FINE             7.00        08/28/15
+   121891328 VIOLENT CRIME VICTIMS AS         100.00        08/28/15
+   121891328 DRIVERS EDUCATION                 76.00        08/28/15
+   121891328 DUI - IL GENERAL REVENUE          92.00        08/28/15
+   121931139 PROBATION MONITORING FEE          25.00        09/22/15
+   121931139 DUI - IL GENERAL REVENUE         275.00        09/22/15
+   121967956 PROBATION MONITORING FEE         175.00        10/13/15
+   121967956 DUI - IL GENERAL REVENUE          23.00        10/13/15
+   121967956 FIRE PREVENTION FUND              15.00        10/13/15
+   121967956 FIRE TRUCK REVOLVING LOA          15.00        10/13/15
+   121967956 ST POLICE SERVICES FUND           10.00        10/13/15
+   121967956 ST POLICE OPERATIONS ASS          15.00        10/13/15
+   121967956 CLERK OP & ADMIN FUND             10.00        10/13/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG DUI/ACCIDENT/BODILY HARM
+
+         1  AGG DUI/ACCIDENT/BODILY HARM
+
+         2  AGG USE WRLS PHONE<19/BOD HARM
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   06-26-14                 NO BOND No Bond
+                            Charge 02 Count 002 AGG USE WRLS PHONE<19/BOD HARM
+                            Statute 625 5/12-610.1(b-5)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 01 Count 001 AGG DUI/ACCIDENT/BODILY HARM
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charging documents
+                            Pre Trial Order.
+                            People appear by Scott M. Bennett.  Defendant appear
+s in custody and
+                            by private counsel, Walter Ding.  Entry of Appearanc
+e filed instanter.
+                            Defendant is arraigned.  Defendant waives preliminar
+y hearing, enters
+                            a plea of not guilty and requests a trial by jury.
+Pre-trial orders
+                            entered. Bond set in the amount of $50,000-ROR DENIE
+D. Defendant
+                            admonished as to trial and sentencing in absentia.
+See Expanded
+                            Record.
+   06-27-14                 Sheriff Booking Fee
+   07-02-14                 Affidavit of mailing on file.
+                            Discovery filed.
+   07-03-14                 Substitution of Counsel
+                            Substitution of Counsel approved and placed on file
+this date. Walter
+                            Ding is vacated as attorney of Record. Mark Lipton i
+s entered as
+                            attorney of record. Cause allotted for the Pre-trial
+ 08/15/14  is
+                            hereby vacated. Cause is re-allotted for Pre-trial.
+Written Order
+                            entered. See Order.
+                            Substitution of Counsel and Order on file.
+   07-09-14                 Bond Assignment on file
+                            Defendant's Disclosure to Prosecution on file
+   07-10-14                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   07-16-14                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   07-17-14                 Subpoena Duces Tecum to Issue
+                            On representaions of the people, Subpoena Duces Tecu
+m to issue.
+                            Order (on Subpoena Duces Tecum)
+                            RE: Dylan Lyons/CARLE Foundation Hospital
+                            Order on Subpoena Duces Tecum entered. See Order.
+   07-21-14                 Supoena Duces Tecum on file
+                            Proof of service on file.
+                            Notice of Hearing Filed
+   07-29-14                 Entry of Appearance for Victim Pusuant to 725 ILCS 1
+20/4.5 on file
+   08-08-14                 Proof of service on file.
+                            Supplemental Discovery filed
+   08-14-14                 Subpoena Duces Tecum Return
+                            Cause called for hearing on return of Subpoena Duces
+ Tecum. Documents
+                            received by the Court are tendered to the Petitioner
+. Same to make
+                            copies for all opposing counsel and cause the origin
+al to be filed in
+                            the Court file.
+                            Defendant's motion for continuance.
+                            People appear by Elizabeth A. Dornik.  Defendant app
+ears personally
+                            and with counsel, Mark Lipton. Motion by the Defenda
+nt for
+                            continuance.  Motion allowed. Bond is to continue.
+                            Subpoena Duces Tecum to issue
+                            Motion by the People to issue Subpoena Duces Tecum.
+Motion allowed.
+                            Subpoena Duces Tecum to issue.
+   08-21-14                 Drug and alcohol evaluation on file.
+   08-22-14                 Supplemental Discovery filed
+                            Affidavit of mailing on file.
+   08-27-14                 Order ( for Subpoena Duces Tecum)
+                            RE: DYLAN LYONS
+                            Order for Subpoena Duces Tecum entered. See Order.
+                            Subpoena Duces Tecum on file
+                            Proof of service on file.
+                            Notice of Hearing Filed.
+                            Order on file.
+   09-25-14                 Subpoena Duces Tecum return
+                            RE: DYLAN LYONS
+                            Cause called for hearing on return of Subpoena Duces
+ Tecum. SDT
+                            returned NO RECORDS FOUND.
+                            People's motion for continuance.
+                            People appear by Elizabeth A. Dornik.  Defendant app
+ears personally
+                            and with counsel, Mark Lipton. Motion by the People
+for continuance.
+                            Motion allowed. Motion by the People to issue Subpoe
+na Duces Tecum.
+                            Motion allowed. Subpoena returnable to the next pret
+rial setting,
+                            11/06/14 at 10:30 am in E.
+   11-06-14
+                            Cause called for hearing on return of Subpoena Duces
+ Tecum. Documents
+                            received by the Court are tendered to the Petitioner
+. Same to make
+                            copies for all opposing counsel and cause the origin
+al to be filed in
+                            the Court file.
+                            Defendant's motion for continuance.
+                            People appear by AJ Ruggieri.  Defendant appears per
+sonally and with
+                            counsel, Mark Lipton. Motion by the Defendant for co
+ntinuance.  Motion
+                            allowed. Bond is to continue.
+   11-13-14                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   12-04-14                 Defendant's motion for continuance.
+                            People appear by Lindsey Clark.  Defendant appears p
+ersonally and with
+                            counsel, Mark Lipton. Motion by the Defendant for co
+ntinuance.  Motion
+                            allowed.  Bond to continue.
+   12-23-14                 EHD Eligibilty Certificate on file.
+   01-15-15                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed AGG USE WRLS PHONE<19/BOD HAR
+M
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/12-610.1(b-5)  Class A
+                            Sentence: 01/15/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty AGG DUI/ACCIDENT/BODILY HARM
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 01/15/2015
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  60Days In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Fine + Cost           2053.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    300.00     CRIME LAB
+        .00
+                            DUI CRIME LAB          150.00      STATE OFFENDER DN
+A    250.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Lindsey S. Clark.  Appea
+rance of the
+                            Defendant personally and by counsel, Mark Lipton.
+Defendant advised
+                            as to the nature of the proceedings, the charges, an
+d the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly,
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Agg DUI/Accident/Bodily Harm ILCS: 625 5/
+11-501(a) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by 11/12/2015.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of 12
+                            months probation. Defendant is ordered to serve a pe
+riod of
+                            incarceration of 60 days in the Champaign County Cor
+rectional Center.
+                            Defendant is to receive credit for 2 days previously
+ served. The
+                            Defendant is to submit specimens of blood, saliva, o
+r tissue to the
+                            Illinois Department of State Police or to the Depart
+ment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+.  Defendant is to
+                            attend the next Victim Impact Panel presented by the
+ Champaign County
+                            Court Services Department.  Defendant is to obtain a
+n evaluation for
+                            alcohol and drug abuse from an agency or agent recom
+mended by the
+                            Court Services Department, and follow any recommenda
+tions contained
+                            therein as to treatment and/or counseling. Count 2 i
+s hereby
+                            dismissed. Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See order.
+                            Sentencing order.
+                            Waiver of jury.
+   01-23-15                 Disposition sent through ADR process this date. SOS
+SPT
+   01-26-15                 Bond
+   04-27-15                 Cash
+   05-05-15                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   06-29-15                 Cash
+   07-09-15                 Temporary Travel Permit approved and filed, instante
+r. See Permit
+                            RE: Travel dates 09/03 to 09/04
+                            Temporary Travel Permit approved and filed instanter
+. See Permit.
+                            RE: Travel Dates 09-24-15 to 09-27-15
+   07-29-15                 Cash
+   08-28-15                 Cash
+   09-22-15                 Cash
+   10-13-15                 Cash
+   01-15-16                 Order of Discharge from Probation. See Order.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Probation Terminated AGG DUI/ACCIDENT/B
+ODILY HARM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 01/15/2016
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   02-17-16                 All obligations have been met, case is closed.
+   02-18-16                 Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,304 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #15CM000045
+
+   Defendant Plaintiff
+MAYNARD  COLLIN R
+1460 W CHICAGO AVE
+APT 3F
+CHICAGO IL 60642
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/13/15
+                Court Room:
+           Next Appearance: 05/02/16
+                Birth Date: 06/11/85
+                 DEFENDANT: MAYNARD  COLLIN R
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+      150.00      *RESTITUTION AMOUNT          150.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          300.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       80.00      TRAFFIC/CRIMINAL SU           80.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      295.00      FINES                        295.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00                                      .00            .00
+         .00      DOCUMENT STORAGE                .00            .00
+         .00      AUTOMATION                      .00            .00
+         .00      CIRCUIT CLERK FEE               .00            .00
+         .00      COURT SECURITY                  .00            .00
+         .00      COURT FINANCE FEE               .00            .00
+         .00      STATES ATTORNEY                 .00            .00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+       10.00      ST POLICE SERVICES              .00          10.00
+         .00      ST POLICE OPERATION             .00            .00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121506522 SHERIFF'S BOOKING FEE             34.00        01/21/15
+   121506522 BOND - ORIGINAL                  150.00        01/21/15
+   121701058 BOND -10% BOND FEE                15.00        05/12/15
+   121701058 *RESTITUTION AMOUNT              135.00        05/12/15
+   121701058 *RESTITUTION AMOUNT              135.00        05/12/15
+   121792290 BOND - ORIGINAL                 1012.00        07/06/15
+   121792291 *RESTITUTION AMOUNT               15.00        07/06/15
+   121792291 DOCUMENT STORAGE                  15.00        07/06/15
+   121792291 E-CITATION                         5.00        07/06/15
+   121792291 AUTOMATION                        15.00        07/06/15
+   121792291 CIRCUIT CLERK FEE                 75.00        07/06/15
+   121792291 COURT SECURITY                    25.00        07/06/15
+   121792291 COURT FINANCE FEE                 25.00        07/06/15
+   121792291 STATES ATTORNEY                   20.00        07/06/15
+   121792291 STATES ATTORNEY AUTOMATI           2.00        07/06/15
+   121792291 CRIME STOPPERS                     5.00        07/06/15
+   121792291 ARRESTEE'S MEDICAL                10.00        07/06/15
+   121792291 PROBATION MONITORING FEE         300.00        07/06/15
+   121792291 PROBATION OPER ASSISTANC          10.00        07/06/15
+   121792291 TR/CR SUR $10/$40                 80.00        07/06/15
+   121792291 DRUG COURT PROGRAM                 5.00        07/06/15
+   121792291 FINES                            295.00        07/06/15
+   121792291 VIOLENT CRIME VICTIMS AS          75.00        07/06/15
+   121792291 ST POLICE SERVICES FUND           10.00        07/06/15
+   121792291 ST POLICE OPERATIONS ASS          15.00        07/06/15
+   121792291 CLERK OP & ADMIN FUND             10.00        07/06/15
+   121792291 *RESTITUTION AMOUNT               15.00        07/06/15
+   121799833 EPAY RECEIVABLE                 1012.00        07/09/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  RECKLESS CONDUCT
+
+         2  CRIM DAMAGE TO PROPERTY <$300
+
+         3  CRIM DAMAGE TO PROPERTY <$300
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   01-13-15                 Charge 01 Count 001 RECKLESS CONDUCT
+                            Statute 720 5/12-5(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 CRIM DAMAGE TO PROPERTY <$300
+                            Statute 720 5/21-1(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 CRIM DAMAGE TO PROPERTY <$300
+                            Statute 720 5/21-1(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel.  Defendant is admonished as t
+o trial and
+                            sentencing in absentia. Bond to continue.  See expan
+ded record.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+   01-14-15                 Notice of arrest without warrant on file.
+                            Released On Recognizance bond form on file.
+   01-20-15                 Entry done on 1/14/15 done in error as document was
+previously noted
+   01-21-15                 Sheriff Booking Fee
+   02-04-15                 Expanded record of arraignment proceedings.
+                            On Defendant's motion, cause is continued for appear
+ance of counsel.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. Bond
+                            to continue.  See expanded record.
+                            Expanded record of court proceedings on arraignment.
+   03-04-15                 Entry of appearance.
+                            Defendant appears personally and with counsel, Jeffr
+ey Clapper. Entry
+                            of Appearance filed instanter. Plea of not guilty en
+tered and
+                            Defendant requests trial by jury. Cause set for pre-
+trial. Defendant
+                            admonished as to trial and sentencing in absentia. S
+ee expanded
+                            record.
+                            Entry of Appearance/Not Guilty Plea/Request for Jury
+ Trial
+                            Expanded record of court proceedings on arraignment.
+   03-27-15                 Correspondence on file
+   04-06-15                 Correspondence on file
+                            Notification of Change of Address on file
+   04-08-15                 Affidavit of mailing on file.
+   05-01-15                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed CRIM DAMAGE TO PROPERTY <$300
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/21-1(a)(1)  Class A
+                            Sentence: 05/01/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty RECKLESS CONDUCT
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-5(a)  Class A
+                            Sentence: 05/01/2015
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  30Hrs In force
+                                      Supervised Court Service
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: No contact order.  In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Fine + Cost            707.00     *RESTITUTION AMOUN
+T    150.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    300.00
+                            Payment Due
+                            Disposition 03/00  Count 003  Cost Only
+                            Disposition: Guilty CRIM DAMAGE TO PROPERTY <$300
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/21-1(a)(1)  Class A
+                            Sentence: 05/01/2015
+                            Sentence: Cost Only  In force
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  30Hrs In force
+                                      Supervised Court Service
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: No contact order.  In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only               42.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Stephanie A. Hall.  Appe
+arance of the
+                            Defendant personally and by counsel, Jeffrey Clapper
+.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges, and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly, and voluntarily waives rights and e
+nters a plea of
+                            guilty to Count 01 and Count 03 of the charging inst
+rument.  Finding
+                            Defendant is guilty of the offense of Reckless Condu
+ct ILCS: 720
+                            5/12-5(a) and Criminal Damage to Property ILCS: 720
+5/21-1(1)(a) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by 10/28/2015.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of 12
+                            months Conditional Discharge. Defendant is ordered t
+o perform 30 hours
+                            of public service work under the supervision of the
+Champaign County
+                            Court Services Department.  The defendant is to be g
+iven credit on
+                            public service work for any hours completed in educa
+tion, treatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes.  Defendant is to obtain an ev
+aluation for
+                            alcohol and drug abuse from an agency or agent recom
+mended by the
+                            Court Services Department, and follow any recommenda
+tions contained
+                            therein as to treatment and/or counseling. Defendant
+ is to have no
+                            contact, directly or indirectly, in person, by telep
+hone or
+                            electronically with the persons stated in the writte
+n order. Count 2
+                            is hereby dismissed. Defendant advised of right to a
+ppeal and rights
+                            pursuant to Supreme Court Rule 605 and the Court fin
+ds that the
+                            defendant understands the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See order.
+                            Sentencing order.
+                            Waiver of jury.
+   05-11-15                 Disposition entered.
+   05-12-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Bond
+   07-06-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   07-09-15                 EPAY RECONCILIATION TRANSACTION
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

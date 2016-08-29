@@ -1,0 +1,285 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000129
+
+   Defendant Plaintiff
+HUDSON  CHARLESTON R
+565 CR 1600 N APT 7
+CHAMPAIGN IL 61822
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/28/14
+                Court Room: E
+           Next Appearance: 04/02/14  09:00
+                Birth Date: 08/12/60
+                 DEFENDANT: HUDSON  CHARLESTON R
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+     2500.00      BOND -10% BOND FEE          2500.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       10.00      DOMESTIC BATTERY              10.00            .00
+       60.00      TRAFFIC/CRIMINAL SU           60.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+         .00      FINES                           .00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+      185.00      DOMESTIC VIOLENCE            185.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+    21928.00                                 21928.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   120905931 SHERIFF'S BOOKING FEE             34.00        01/30/14
+   120905931 BOND - ORIGINAL                25000.00        01/30/14
+   121015617 BOND -10% BOND FEE              2500.00        04/04/14
+   121015617 DOCUMENT STORAGE                  15.00        04/04/14
+   121015617 E-CITATION                         5.00        04/04/14
+   121015617 AUTOMATION                        15.00        04/04/14
+   121015617 CIRCUIT CLERK FEE                 75.00        04/04/14
+   121015617 COURT SECURITY                    25.00        04/04/14
+   121015617 COURT FINANCE FEE                 25.00        04/04/14
+   121015617 STATES ATTORNEY                   20.00        04/04/14
+   121015617 STATES ATTORNEY AUTOMATI           2.00        04/04/14
+   121015617 CRIME STOPPERS                     5.00        04/04/14
+   121015617 ARRESTEE'S MEDICAL                10.00        04/04/14
+   121015617 PROBATION OPER ASSISTANC          10.00        04/04/14
+   121015617 DOMESTIC BATTERY                  10.00        04/04/14
+   121015617 TR/CR SUR $10/$40                 60.00        04/04/14
+   121015617 DRUG COURT PROGRAM                 5.00        04/04/14
+   121015617 VIOLENT CRIME VICTIMS AS          75.00        04/04/14
+   121015617 DOMESTIC VIOLENCE                185.00        04/04/14
+   121015617 ST POLICE SERVICES FUND           10.00        04/04/14
+   121015617 ST POLICE OPERATIONS ASS          10.00        04/04/14
+   121015617 CLERK OP & ADMIN FUND             10.00        04/04/14
+   121015617 *BOND REFUND                   21928.00        04/04/14
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG INTIMIDATION PEACE OFFICER
+
+         2  INTIMIDATION/PHYSICAL HARM
+
+         3  AGG BATTERY/PUBLIC PLACE
+
+         4  AGG BATTERY/PUBLIC PLACE
+
+         5  DOMESTIC BTRY/PHYSICAL CONTACT
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   01-28-14                 Charge 01 Count 001 AGG INTIMIDATION PEACE OFFICER
+                            Statute 720 5/12-6.2(a)(3)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 INTIMIDATION/PHYSICAL HARM
+                            Statute 720 5/12-6(a)(1)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 AGG BATTERY/PUBLIC PLACE
+                            Statute 720 5/12-3.05(c)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 04 Count 004 AGG BATTERY/PUBLIC PLACE
+                            Statute 720 5/12-3.05(c)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  Defendant admonished as to CON
+SECUTIVE TERM
+                            SENTENCING. The Champaign County Public Defender is
+appointed and
+                            George Vargas appears instanter.  Defendant waives p
+reliminary
+                            hearing, enters a plea of not guilty and requests tr
+ial by jury.
+                            Pre-trial orders entered.  Bond set in the amount of
+ $250,000-ROR
+                            DENIED. As a condition of bond, Defendant is ordered
+ to have NO
+                            CONTACT whatsoever, directly or indirectly, with vic
+tims as recited in
+                            open court. See expanded record.  Defendant is admon
+ished as to trial
+                            and sentencing in absentia.
+                            Notice of arrest without warrant on file.
+                            Charge 05 Count 005 DOMESTIC BTRY/PHYSICAL CONTACT
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   01-30-14                 Sheriff Booking Fee
+   01-31-14                 Proof of service on file.
+                            Discovery filed.
+   02-03-14                 Answer to Discovery filed
+   02-10-14                 Proof of service on file.
+                            Supplemental Discovery filed
+   02-11-14                 Defendant's motion for continuance.
+                            People appear by Elizabeth A. Dornik.  Defendant app
+ears personally
+                            and with counsel, Christopher A. Mellon. Motion by t
+he Defendant for
+                            continuance.  Motion allowed.
+   03-18-14                 Set for trial.
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel, Christopher A.
+Mellon.   Cause
+                            allotted for jury trial. Defendant is admonished as
+to trial and
+                            sentencing in absentia. Bond to continue.
+   03-25-14                 Entry of appearance filed this date.
+   03-31-14                 Set for trial.
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel, Dennis Steeves
+for Baku Patel.
+                            Defendant's Motion to Continue.  Motion allowed. Cau
+se allotted for
+                            jury trial. Defendant is admonished as to trial and
+sentencing in
+                            absentia. Bond to continue.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   04-02-14                 Disposition 05/00  Count 005  Fine + Cost
+                            Disposition: Guilty DOMESTIC BTRY/PHYSICAL CONTACT
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3.2(a)(2)  Class A
+                            Sentence: 04/02/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Credit toward all fees and fines  3Days In
+ force
+                            Fine + Cost           2872.00     CRIME STOPPERS
+       5.00
+                            DOMESTIC BATTERY        10.00     DOMESTIC VIOLENCE
+     185.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel, Christopher Mel
+lon.  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 05 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Domestic Btry/Physical Cont
+act ILCS: 720
+                            5/12-3.2(a)(2), a Class A Misdemeanor, as charged. J
+udgment entered in
+                            favor of the People and against the defendant on fin
+ding of guilt and
+                            for costs.  All financial obligations shall be paid
+in equal monthly
+                            installments to the Champaign County Circuit Clerk b
+y  9/29/2014.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  C
+ount(s) stated in
+                            the written order are herby dismissed. Defendant adv
+ised of right to
+                            appeal and rights pursuant to Supreme Court Rule 605
+ and the Court
+                            finds that the defendant understands the same. Waive
+r of Jury on file.
+                            Sentencing Order entered this date. See Order.
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG INTIMIDATION PEACE OFFICE
+R
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-6.2(a)(3)  Class 2
+                            Sentence: 04/02/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed INTIMIDATION/PHYSICAL HARM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-6(a)(1)  Class 3
+                            Sentence: 04/02/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed AGG BATTERY/PUBLIC PLACE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(c)  Class 3
+                            Sentence: 04/02/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed AGG BATTERY/PUBLIC PLACE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(c)  Class 3
+                            Sentence: 04/02/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Report to ISP for possible firearms disqualification
+.
+                            Misdemeanor Domestic Violence FOID notification sent
+ to ISP.
+                            Case closed.
+   04-04-14                 Bond
+   04-10-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

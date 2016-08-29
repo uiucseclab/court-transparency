@@ -1,0 +1,226 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #15CM001310
+
+   Defendant Plaintiff
+ADAMS  CHARLES G
+102 E LOCUST
+TOLONO IL 61880
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 12/28/15
+                Court Room:
+           Next Appearance: 02/16/17
+                Birth Date: 11/14/93
+                 DEFENDANT: ADAMS  CHARLES G
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+         .00      CRIME STOPPERS                  .00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN          180.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       10.00      TR/CR SUR $10/$40             10.00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   122092879 SHERIFF'S BOOKING FEE             34.00        12/28/15
+   122092879 BOND - ORIGINAL                  150.00        12/28/15
+   122186265 BOND -10% BOND FEE                15.00        02/22/16
+   122186265 DOCUMENT STORAGE                  15.00        02/22/16
+   122186265 E-CITATION                         5.00        02/22/16
+   122186265 AUTOMATION                        15.00        02/22/16
+   122186265 CIRCUIT CLERK FEE                 75.00        02/22/16
+   122186265 COURT SECURITY                    25.00        02/22/16
+   122472185 COURT FINANCE FEE                 25.00        08/05/16
+   122472185 STATES ATTORNEY                   20.00        08/05/16
+   122472185 STATES ATTORNEY AUTOMATI           2.00        08/05/16
+   122472185 ARRESTEE'S MEDICAL                10.00        08/05/16
+   122472185 PROBATION MONITORING FEE          15.00        08/05/16
+   122472185 PROBATION OPER ASSISTANC          10.00        08/05/16
+   122472185 TR/CR SUR $10/$40                 10.00        08/05/16
+   122472185 VIOLENT CRIME VICTIMS AS          75.00        08/05/16
+   122472185 ST POLICE SERVICES FUND           10.00        08/05/16
+   122472185 ST POLICE OPERATIONS ASS          15.00        08/05/16
+   122472185 CLERK OP & ADMIN FUND              8.00        08/05/16
+   122492267 PROBATION MONITORING FEE         165.00        08/19/16
+   122492267 CLERK OP & ADMIN FUND              2.00        08/19/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  DOMESTIC BTRY/PHYSICAL CONTACT
+
+         2  CRIM DAMAGE TO PROPERTY <$300
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   12-28-15                 Charge 01 Count 001 DOMESTIC BTRY/PHYSICAL CONTACT
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            No bond No Bond
+                            Charge 02 Count 002 CRIM DAMAGE TO PROPERTY <$300
+                            Statute 720 5/21-1(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            No bond No Bond
+                            Charging documents
+                            Sheriff Booking Fee
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Jamie Propps appears instanter.  Plea of not guilty
+entered and
+                            Defendant requests trial by jury. Bond of $1,500 is
+to continue. The
+                            NO CONTACT order entered in bond court on 12/26/15 r
+emains in full
+                            force and effect. Defendant is admonished as to tria
+l and sentencing
+                            in absentia.  See expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Bail Bond Release Authorization filed.
+                            Affidavit in support of request to appoint attorney.
+                            Notice of arrest without warrant on file.
+   01-07-16                 Correspondence on file by Alyssa Stillabower
+   01-19-16                 Defendant announces ready for trial.
+                            Appearance of the People by Jacob A. Croegaert.  App
+earance of the
+                            Defendant personally and by counsel, Ramona Sullivan
+.   Defendant
+                            announces ready for trial. Cause set for jury trial
+call. Defendant is
+                            ordered to appear. Bond to continue.
+   02-16-16                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed DOMESTIC BTRY/PHYSICAL CONTAC
+T
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(2)  Class A
+                            Sentence: 02/16/2016
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Cost Only
+                            Disposition: Guilty CRIM DAMAGE TO PROPERTY <$300
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/21-1(a)(1)  Class A
+                            Sentence: 02/16/2016
+                            Sentence: Cost Only  In force
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Partner Abuse Intervention Program  60Days
+ In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Credit toward all fees and fines  3Days In
+ force
+                            Cost Only              337.00     CRIME STOPPERS
+        .00
+                            PROBATION MONITORIN    180.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Jacob A. Croegaert.  App
+earance of the
+                            Defendant personally and by counsel,Zack Strupeck.
+ Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 02
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Crim Damage To Property <$300 ILCS: 720 5
+/21-1(a)(1), a
+                            Class A Misdemeanor, as charged. Judgment entered in
+ favor of the
+                            People and against the defendant on finding of guilt
+ and for costs.
+                            All financial obligations shall be paid in equal mon
+thly installments
+                            to the Champaign County Circuit Clerk by  8/15/2016.
+  Any bond posted
+                            is to be applied first to any court ordered bond ass
+ignment on file
+                            and then to all restitution ordered and then to all
+financial
+                            obligations in this case.  Any remaining bond shall
+be discharged to
+                            the individual who posted the bond.  Defendant is or
+dered to serve a
+                            period of 12 months Conditional Discharge. Defendant
+ is to enroll in
+                            an Anger Management approved by the Champaign County
+ Court Services
+                            Department within 60 days and successfully complete
+it without
+                            termination. Count(s) stated in the written order ar
+e herby dismissed.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same. Waiver of Jury on file. Sentencing Order enter
+ed this date. See
+                            Order.
+                            Subpoena Served.  No Fees.
+                            Sentencing order.
+                            Order for Fines on file.
+                            Waiver of jury.
+   02-17-16                 Disposition entered.
+   02-18-16                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   02-22-16                 Bond
+   08-05-16                 Cash
+                            Cash
+                            Defendant's Motion for Extension of Time to Pay Cost
+s filed
+                            and forwarded to court.
+   08-19-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

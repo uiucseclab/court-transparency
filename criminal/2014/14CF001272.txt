@@ -1,0 +1,480 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF001272
+
+   Defendant Plaintiff
+TEAGUE  RODNEY L
+405 E GROVE
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 09/15/14
+                Court Room:
+           Next Appearance: 03/24/20
+                Birth Date: 04/20/90
+                 DEFENDANT: TEAGUE  RODNEY L
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       75.00      BOND -10% BOND FEE            75.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN           35.00         290.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                   18.00          82.00
+      660.00      TR/CR SUR $10/$40               .00         660.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       39.00      SHERIFF FEES                    .00          39.00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+      140.00       STREET VALUE DRUG              .00         140.00
+      500.00      REGULAR DRUG FINES              .00         500.00
+     1995.00      MANDATORY ASSESSMEN             .00        1995.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+       75.00      BOND -10% BOND FEE              .00          75.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       75.00      BOND -10% BOND FEE            75.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+     1525.00      PROBATION MONITORIN           35.00        1490.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                   18.00          82.00
+      660.00      TR/CR SUR $10/$40               .00         660.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       39.00      SHERIFF FEES                    .00          39.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+      140.00       STREET VALUE DRUG              .00         140.00
+      500.00      REGULAR DRUG FINES              .00         500.00
+     1995.00      MANDATORY ASSESSMEN             .00        1995.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121299445 SHERIFF'S BOOKING FEE             34.00        09/16/14
+   121299445 BOND - ORIGINAL                  750.00        09/16/14
+   121513633 BOND -10% BOND FEE                75.00        01/26/15
+   121513633 DOCUMENT STORAGE                  15.00        01/26/15
+   121513633 AUTOMATION                        15.00        01/26/15
+   121513633 CIRCUIT CLERK FEE                100.00        01/26/15
+   121513633 COURT SECURITY                    25.00        01/26/15
+   121513633 COURT FINANCE FEE                 50.00        01/26/15
+   121513633 STATES ATTORNEY                   40.00        01/26/15
+   121513633 STATES ATTORNEY AUTOMATI           2.00        01/26/15
+   121513633 CRIME STOPPERS                    10.00        01/26/15
+   121513633 ARRESTEE'S MEDICAL                10.00        01/26/15
+   121513633 PROBATION MONITORING FEE          25.00        01/26/15
+   121513633 PROBATION OPER ASSISTANC          10.00        01/26/15
+   121513633 SPINAL CORD RESEARCH FUN           5.00        01/26/15
+   121513633 CRIME LAB                        100.00        01/26/15
+   121513633  STATE OFFENDER DNA ID S         250.00        01/26/15
+   121513633 TRAUMA FUND                       18.00        01/26/15
+   122218477 PROBATION MONITORING FEE          10.00        03/11/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  MFG/DEL 1<15 GR COCAINE/ANLG
+
+         1  MFG/DEL 1<15 GR COCAINE/ANLG
+
+         1  MFG/DEL 1<15 GR COCAINE/ANLG
+
+         2  RESIST/PC OFF/CORR EMP/FRFTR
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   09-15-14                 Charge 01 Count 001 MFG/DEL 1<15 GR COCAINE/ANLG
+                            Statute 720 570/401(c)(2)  Class 1  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            No bond No Bond
+                            Charge 02 Count 002 RESIST/PC OFF/CORR EMP/FRFTR
+                            Statute 720 5/31-1(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Christopher Mellon appears instanter.
+ Defendant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond set in the am
+ount of $7,500-ROR
+                            DENIED. Defendant is admonished as to trial and sent
+encing in
+                            absentia. See expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+                            Affidavit in support of request to appoint attorney.
+                            Notice of arrest without warrant on file.
+   09-16-14                 Sheriff Booking Fee
+   09-17-14                 Proof(s) of service on file.
+                            Discovery filed.
+   09-18-14                 Answer to Discovery filed
+   10-29-14                 Motion to Continue filed
+                            Motion to Continue filed
+   11-04-14                 By agreement, trial allotment vacated
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   12-19-14                 Proof(s) of service on file.
+                            Supplemental Discovery filed
+   01-06-15                 Set for Trial-Defendant Appears
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   01-09-15                 Motion for Continuance on file
+                            Proof(s) of service on file.
+                            Supplemental Discovery filed
+   01-12-15                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   01-20-15                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed RESIST/PC OFF/CORR EMP/FRFTR
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/31-1(a)  Class A
+                            Sentence: 01/20/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty MFG/DEL 1<15 GR COCAINE/ANLG
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 570/401(c)(2)  Class 1
+                            Sentence: 01/20/2015
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Seized contraband is forfeited to the arre
+sting agency  In f
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Mandatory Street Value Fine  In force
+                            Sentence: Mandatory Assessment Fine  In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Fine + Cost           3921.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    325.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    250.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally and by counsel, George Vargas.   Defendan
+t advised as to
+                            the nature of the proceedings, the charges and the p
+ossible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly, understandin
+gly and
+                            voluntarily waives rights and enters a plea of guilt
+y to Count 01 of
+                            the charging instrument.  Finding Defendant is guilt
+y of the offense
+                            of Other Amt Narcotic Sched I&Ii ILCS: 720 570/401(d
+)(i) as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.  All financial oblig
+ations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by  7/20/2016.  Any bond posted is to be appli
+ed first to any
+                            court ordered bond assignment on file and then to al
+l restitution
+                            ordered and then to all financial obligations in thi
+s case.  Any
+                            remaining bond shall be discharged to the individual
+ who posted the
+                            bond.  Defendant is ordered to serve a period of  24
+ months probation.
+                            The Defendant is to submit specimens of blood, saliv
+a, or tissue to
+                            the Illinois Department of State Police or to the De
+partment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+.  Defendant is to
+                            obtain an evaluation for alcohol and drug abuse from
+ an agency or
+                            agent recommended by the Court Services Department,
+and follow any
+                            recommendations contained therein as to treatment an
+d/or counseling.
+                            Any contraband seized in this matter, and any additi
+onal property
+                            listed in the written order is forfeited to the arre
+sting agency.
+                            Count(s) stated in the written order are herby dismi
+ssed. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+                            Sentencing order.
+                            Waiver of jury.
+   01-22-15                 Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            37.5% to the General Corporate Fund of Champaign Cou
+nty, and
+                            50.0% to the Champaign County Sheriff.
+   01-23-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   01-26-15                 Bond
+   05-15-15                 Illinois State Police DNA Database Sample Status on
+file
+   09-04-15                 Defendant's Motion for Extension of Time to Pay Cost
+s filed
+                            and forwarded to court.
+   09-15-15
+                            Motion for Extension of Time to Pay Costs is DENIED.
+ Defendant ordered
+                            to fulfill all monetary obligations within 18 months
+ as previously
+                            ordered.
+                            **Copy of Court's docket entry mailed to Defendant a
+nd Court
+                            Services**
+   12-22-15                 Probation Violation Report on file
+   12-29-15                 Petition to Revoke Probation filed.
+                            Cause set for arraignment on
+
+                            Verified information on Petition to Revoke Probation
+ on file.
+                            Probable cause to arrest determined.  Warrant issued
+.  Bond set in the
+                            amount of $ 25,000.00.
+                            Warrant of arrest filed.
+   02-08-16                 Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ja
+mie Propps appears
+                            instanter.  General denial to the Petition is entere
+d. Bond is to
+                            continue. Defendant is admonished as to trial and se
+ntencing in
+                            absentia.  See expanded record.
+                            Warrant served. Service fees $39.00
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+   02-16-16                 Order for sentencing report.
+                            Champaign County Court Services Department to prepar
+e an updated
+                            pre-sentence report and provide copies to the Court
+and Counsel at
+                            least 3 days prior to the hearing.  State agrees not
+ to seek a
+                            sentence to the Illinois Department of Corrections i
+n excess of 7
+                            years. The Petition to Revoke in 15-CF-643 TO BE wit
+hdrawn and
+                            dismissed at sentencing.
+                            Defendant's Bond order is to continue.  Defendant is
+ ordered to report
+                            to the Court Services Department this date.  Defenda
+nt is admonished
+                            as to sentencing in absentia.  Order (Open Stipulati
+on to PTR) entered
+                            this date.
+                            Defendant's bond is reset in the amount of $1000. RO
+R ALLOWED.
+                            Resentencing on petition to revoke.
+                            People/Petitioner appear by Claire L. Sharples Brook
+s.
+                            Defendant/Respondent appears personally and with cou
+nsel, George
+                            Vargas.  Defendant/Respondent advised as to the natu
+re of the
+                            proceedings and the possible penalties that may be i
+mposed and the
+                            Court finds that the defendant/respondent understand
+s the same.
+                            Finding defendant/respondent knowingly, understandin
+gly and
+                            voluntarily stipulates and admits to the allegations
+ contained in the
+                            Petition to Revoke.  Finding the same are true.  The
+ court finds that
+                            the defendant/respondent has violated the terms of h
+is sentence.
+                            Finding entered in favor of the people/petitioner an
+d against
+                            defendant/respondent.
+                            Order (Open Stipulation to PTR) on file.
+   02-17-16                 Released On Recognizance bond form on file.
+   03-11-16                 Cash
+   03-21-16                 Presentence report on file.
+   03-24-16                 Disposition 01/01  Count 001  Cost Only
+                            Disposition: Revocation/Vacate/Probation MFG/DEL 1<1
+5 GR COCAINE/ANLG
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 570/401(c)(2)  Class 1
+                            Sentence: 03/24/2016
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  48Mos In force
+                                      Supervised Court Service
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              367.00
+                            Resentencing order on petition to revoke.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, George Varg
+as.   Cause called
+                            for resentencing.  Evidence heard.  Statements of co
+unsel heard.
+                            Statement of the Defendant considered. Upon the Judg
+ment of guilt and
+                            upon the judgment revoking defendant's probation the
+ Court resentences
+                            the defendant to:  Defendant is ordered to serve a p
+eriod of  48
+                            months probation subject to the terms and conditions
+ of probation
+                            previously ordered. Defendant ordered to pay all out
+standing fines and
+                            costsl Defendant advised of right to appeal and righ
+ts pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.
+                            Character Reference Letter on file.
+                            Disposition 01/02  Count 001  Modified Order
+                            Disposition: Modified/Trial Court MFG/DEL 1<15 GR CO
+CAINE/ANLG
+                            Modified Order        3921.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN   1525.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    250.00
+   03-30-16                 Disposition sent through ADR process this date. SPT
+   04-06-16                 Disposition entered.
+   04-07-16                 Disposition sent through ADR process this date. SPT
+   06-17-16                 Written Order of Conditions entered.
+   06-20-16                 Probation Violation Report on file
+   06-28-16                 Petition to Revoke Probation filed.
+                            Cause set for arraignment on
+                            Verified information on Petition to Revoke Probation
+ on file
+                            Summons issued this date.
+   07-22-16                 Summons Served CCSO
+   07-27-16                 Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel.  Defendant is admonished as t
+o trial and
+                            sentencing in absentia. Bond is set in the amount of
+ $1,000-ROR
+                            ALLOWED.  See expanded record.
+                            Summons Served CCSO
+                            Summons served on Rodney L. Teague by Champaign Coun
+ty Sheriff's
+                            Office on   on file.
+                            Released On Recognizance bond form on file.
+                            Expanded record of court proceedings on arraignment.
+   08-17-16                 Expanded record of arraignment proceedings.
+                            Defendant appears personally.  Defendant makes SECON
+D motion for
+                            continuance to obtain counsel.  Motion allowed.  Bon
+d to continue. See
+                            expanded record.
+                            Expanded record of court proceedings on arraignment.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

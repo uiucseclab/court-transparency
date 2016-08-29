@@ -1,0 +1,357 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000568
+
+   Defendant Plaintiff
+SRAJEK  LESLIE C
+725 S MATTIS AVE
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 04/30/14
+                Court Room: E
+           Next Appearance: 04/25/16
+                Birth Date: 04/14/67
+                 DEFENDANT: SRAJEK  LESLIE C
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       30.00      BOND -10% BOND FEE            30.00            .00
+     2500.00      *RESTITUTION AMOUNT         2500.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+         .00      COUNTY ORDINANCE                .00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          450.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+         .00      CRIME LAB                       .00            .00
+      150.00      DUI CRIME LAB                150.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      190.00      TRAFFIC/CRIMINAL SU          190.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+         .00      FINES                           .00            .00
+      350.00      DUI NEW EQUIPMENT F          350.00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+       76.00      DRIVERS EDUCATION             76.00            .00
+      395.00      DUI - 80% IL GENERA          395.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121097955 BOND TRANSFERS IN                300.00        05/22/14
+   121320843 BOND -10% BOND FEE                30.00        09/29/14
+   121320843 *RESTITUTION AMOUNT              270.00        09/29/14
+   121320843 *RESTITUTION AMOUNT              270.00        09/29/14
+   121381598 PERSONAL CHECK/CREDIT CA           1.25        11/04/14
+   121381598 *RESTITUTION AMOUNT              179.00        11/04/14
+   121381598 *RESTITUTION AMOUNT              179.00        11/05/14
+   122206398 PERSONAL CHECK/CREDIT CA           1.25        03/07/16
+   122206398 *RESTITUTION AMOUNT             2051.00        03/07/16
+   122206398 *RESTITUTION AMOUNT             2051.00        03/07/16
+   122231760 PERSONAL CHECK/CREDIT CA           1.25        03/18/16
+   122231760 DOCUMENT STORAGE                  15.00        03/18/16
+   122231760 E-CITATION                         5.00        03/18/16
+   122231760 AUTOMATION                        15.00        03/18/16
+   122231760 CIRCUIT CLERK FEE                 75.00        03/18/16
+   122231760 COURT SECURITY                    25.00        03/18/16
+   122231760 STATES ATTORNEY                   20.00        03/18/16
+   122231760 STATES ATTORNEY AUTOMATI           2.00        03/18/16
+   122231760 CRIME STOPPERS                     5.00        03/18/16
+   122231760 ARRESTEE'S MEDICAL                10.00        03/18/16
+   122231760 PROBATION MONITORING FEE         450.00        03/18/16
+   122231760 PROBATION OPER ASSISTANC          10.00        03/18/16
+   122231760 SPINAL CORD RESEARCH FUN           5.00        03/18/16
+   122231760 DUI CRIME LAB                    150.00        03/18/16
+   122231760 TRAUMA FUND                      100.00        03/18/16
+   122231760 TR/CR SUR $10/$40                190.00        03/18/16
+   122231760 CLERK OP & ADMIN-SERIOUS           5.00        03/18/16
+   122231760 DRUG COURT PROGRAM                 5.00        03/18/16
+   122231760 DUI NEW EQUIPMENT FINE           350.00        03/18/16
+   122231760 VIOLENT CRIME VICTIMS AS         100.00        03/18/16
+   122231760 DRIVERS EDUCATION                 76.00        03/18/16
+   122231760 DUI - IL GENERAL REVENUE         395.00        03/18/16
+   122231760 FIRE PREVENTION FUND              15.00        03/18/16
+   122231760 FIRE TRUCK REVOLVING LOA          15.00        03/18/16
+   122231760 ST POLICE SERVICES FUND           10.00        03/18/16
+   122231760 ST POLICE OPERATIONS ASS          10.00        03/18/16
+   122231760 CLERK OP & ADMIN FUND             10.00        03/18/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG DUI/NO VALID DL
+
+         2  DRVG UNDER INFLU/BAC 0.08
+
+         2  DRVG UNDER INFLU/BAC 0.08
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   04-30-14                 Charge 01 Count 001 AGG DUI/NO VALID DL
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            No bond No Bond
+                            Charging documents
+                            NO BOND No Bond
+   05-16-14                 Pre Trial Order.
+                            People appear by AJ Ruggieri.  Defendant appears per
+sonally together
+                            with private counsel, Baku Patel. Defendant is arrai
+gned.  Defendant
+                            waives preliminary hearing, enters a plea of not gui
+lty and requests a
+                            trial by jury.  Pre-trial orders entered.  Defendant
+ admonished as to
+                            trial and sentencing in absentia.  Bond is to contin
+ue as transferred.
+   05-22-14                 DL ON FILE Transferred from 14DT166
+                            Bond Type Transfer Bond From    2014DT000166 SRAJEK
+LESLIE C
+                            Affidavit of mailing on file.
+                            Discovery filed.
+   05-27-14                 Sworn report on file.  Defendant tested a BAL of .14
+   05-28-14                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   06-03-14                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   08-12-14                 People's motion for continuance.
+                            People appear by Elizabeth A. Dornik.  Defendant app
+ears personally
+                            and with counsel, Dennis Steeves for Baku Patel. Mot
+ion by the People
+                            for continuance.  Motion allowed.
+                            Charge 02 Count 002 DRVG UNDER INFLU/BAC 0.08
+                            Statute 625 5/11-501(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   08-13-14
+                            Agreed plea-set over for sentencing.
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel, Baku Patel.   D
+efendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 02
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Drvg Under Influ/Bac 0.08 ILCS: 625 5/11-
+501(a)(1), a Class
+                            A Misdemeanor, as charged.   Cause allotted for sent
+encing
+                            confirmation on September 24, 2014 at 09:00 AM in Co
+urtroom E.
+                            Defendant is ordered to appear and is advised of sen
+tencing in
+                            absentia.  Defendant is ordered to obtain a substanc
+e abuse evaluation
+                            prior to the hearing.  Waiver of Jury on file.  Coun
+t I is to be
+                            dismissed at the sentencing.
+                            Waiver of jury.
+   09-22-14                 Drug and alcohol evaluation sealed and placed on fil
+e.
+   09-24-14                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG DUI/NO VALID DL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 09/24/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty DRVG UNDER INFLU/BAC 0.08
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)(1)  Class A
+                            Sentence: 09/24/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  18Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  150Hrs In force
+                                      Supervised Court Service
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Restitution  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  18Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Fine + Cost           1493.00     *RESTITUTION AMOUN
+T   2500.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    450.00
+                            CRIME LAB                 .00     DUI CRIME LAB
+     150.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel, Dennis Steeves
+for Baku Patel.
+                            Cause is called for Confirmation of Sentence. Senten
+ce is confirmed
+                            this date.  Judgment entered in favor of the People
+and against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  9/13/2016.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  18
+                            months probation. Defendant is ordered to perform 15
+0 hours of public
+                            service work under the supervision of the Champaign
+County Court
+                            Services Department.  The defendant is to be given c
+redit on public
+                            service work for any hours completed in education, t
+reatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes.  Defendant is to attend the n
+ext Victim Impact
+                            Panel presented by the Champaign County Court Servic
+es Department.
+                            Defendant is to obtain an evaluation for alcohol and
+ drug abuse from
+                            an agency or agent recommended by the Court Services
+ Department, and
+                            follow any recommendations contained therein as to t
+reatment and/or
+                            counseling. Count(s) stated in the written order are
+ herby dismissed.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same. Sentencing Order entered this date. See Order.
+                            Sentencing order.
+                            DL sent to SOS
+                            Email on file.
+   09-29-14                 Bond
+                            Error disposition form created this date.
+                            Error disposition form created this date.
+   10-14-14                 Report of Court Disposition sent to Secretary of Sta
+te.
+   11-04-14                 Check
+   11-05-14                 Temporary Travle Permit approved and filed. See Perm
+it.
+   11-13-14                 Change of address for victim receiving restitution o
+n file.
+   01-29-16                 Probation Violation Report on file
+   02-02-16                 Petition to revoke probation on file.
+                            Cause set for arraignment on
+   02-03-16                 Verified information on Petition to Revoke Probation
+ on file
+                            Summons issued this date.
+   02-09-16                 Summons not served by CCSO
+                            Summons Not served on Leslie C. Srajek by Champaign
+County Sheriff's
+                            Office on   on file.
+   02-11-16                 Summons returned, not found
+   02-17-16                 Change of address filed with the Circuit Clerk.
+   02-22-16                 Entry of appearance filed this date.
+   02-24-16                 Due to weather conditions, the Courthouse was closed
+ this date.
+                            Cause to be rescheduled.
+   03-03-16                 Cause is re allotted for arraignment on 3/18/16 at 1
+:30 p.m. in
+                            Courtroom F. Counsel notified via email this date. N
+otice sent to the
+                            Defendant this date.
+                            Correspondence from Judge to defendant on file.
+   03-07-16                 Check
+   03-18-16                 Check
+                            Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file. Steve Sarm
+                            appears as counsel for the Defendant. General denial
+ to the Petition
+                            is entered.  Defendant is admonished as to trial and
+ sentencing in
+                            absentia. Bond is set in the amount of $1,000-ROR AL
+LOWED.  See
+                            expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Released On Recognizance bond form on file.
+   04-20-16                 Motion to withdrawn petition to revoke.
+                            People appear by Jacob Croegaert.  Defendant appears
+ personally and
+                            with counsel, Randall Rosenbaum. On motion of the Pe
+ople, the Petition
+                            to Revoke is withdrawn and dismissed.  Defendant's b
+ond discharged to
+                            the individual who posted the bond.
+                            Order of Discharge from Probation.
+                            Written Order of Discharge from Probation entered th
+is date. See
+                            Order.
+                            Disposition 02/01  Count 002  No Fine & Cost
+                            Disposition: Probation Terminated DRVG UNDER INFLU/B
+AC 0.08
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)(1)  Class A
+                            Sentence: 04/20/2016
+                            Sentence: No Sentence  In force
+   05-17-16                 All obligations have been met, case is closed.
+   05-18-16                 Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

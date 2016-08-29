@@ -1,0 +1,384 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF001014
+
+   Defendant Plaintiff
+EGELSTON  GREGORY
+707 NORTHGATE DR
+ST JOSEPH IL 61873
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 07/25/14
+                Court Room:
+           Next Appearance: 03/04/19
+                Birth Date: 09/01/81
+                 DEFENDANT: EGELSTON  GREGORY
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      100.00      BOND -10% BOND FEE           100.00            .00
+   193577.00      *RESTITUTION AMOUNT         9800.00      183777.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       25.00      PROBATION MONITORIN             .00        1200.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+      150.00      CRIME LAB                       .00         150.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121207681 SHERIFF'S BOOKING FEE             34.00        07/28/14
+   121207681 BOND - ORIGINAL                 1000.00        07/28/14
+   121570118 BOND - ORIGINAL                 2500.00        03/02/15
+   121617606 BOND -10% BOND FEE               100.00        03/25/15
+   121617606 *RESTITUTION AMOUNT             3400.00        03/25/15
+   121617606 *RESTITUTION AMOUNT             2500.00        03/25/15
+   121617606 *RESTITUTION AMOUNT              900.00        03/25/15
+   121633642 *RESTITUTION AMOUNT              400.00        04/06/15
+   121633642 *RESTITUTION AMOUNT              400.00        04/06/15
+   121719957 *RESTITUTION AMOUNT              400.00        05/22/15
+   121719957 *RESTITUTION AMOUNT              400.00        05/22/15
+   121774618 *RESTITUTION AMOUNT              400.00        06/24/15
+   121774618 *RESTITUTION AMOUNT              400.00        06/24/15
+   121826070 *RESTITUTION AMOUNT              400.00        07/23/15
+   121826070 *RESTITUTION AMOUNT              400.00        07/23/15
+   121880702 *RESTITUTION AMOUNT              400.00        08/24/15
+   121880702 *RESTITUTION AMOUNT              400.00        08/24/15
+   121940906 *RESTITUTION AMOUNT              400.00        09/28/15
+   121940906 *RESTITUTION AMOUNT              400.00        09/28/15
+   121990742 *RESTITUTION AMOUNT              400.00        10/26/15
+   121990742 *RESTITUTION AMOUNT              400.00        10/26/15
+   122046127 *RESTITUTION AMOUNT              400.00        11/25/15
+   122046127 *RESTITUTION AMOUNT              400.00        11/25/15
+   122099659 *RESTITUTION AMOUNT              400.00        12/31/15
+   122099659 *RESTITUTION AMOUNT              400.00        12/31/15
+   122146801 *RESTITUTION AMOUNT              150.00        01/29/16
+   122146801 *RESTITUTION AMOUNT              150.00        01/29/16
+   122149205 *RESTITUTION AMOUNT              250.00        02/01/16
+   122149205 *RESTITUTION AMOUNT              250.00        02/01/16
+   122196142 *RESTITUTION AMOUNT              400.00        02/29/16
+   122196142 *RESTITUTION AMOUNT              400.00        02/29/16
+   122250780 *RESTITUTION AMOUNT              400.00        03/30/16
+   122250780 *RESTITUTION AMOUNT              400.00        03/30/16
+   122303643 *RESTITUTION AMOUNT              200.00        04/29/16
+   122303643 *RESTITUTION AMOUNT              200.00        04/29/16
+   122304516 BOND - ORIGINAL                  100.00        05/01/16
+   122304517 *RESTITUTION AMOUNT              100.00        05/01/16
+   122304517 *RESTITUTION AMOUNT              100.00        05/02/16
+   122306603 BOND - ORIGINAL                  100.00        05/02/16
+   122306604 *RESTITUTION AMOUNT              100.00        05/02/16
+   122306604 *RESTITUTION AMOUNT              100.00        05/02/16
+   122315068 EPAY RECEIVABLE                  100.00        05/06/16
+   122315094 EPAY RECEIVABLE                  100.00        05/06/16
+   122354471 *RESTITUTION AMOUNT              400.00        05/31/16
+   122354471 *RESTITUTION AMOUNT              400.00        05/31/16
+   122406998 *RESTITUTION AMOUNT              400.00        06/29/16
+   122406998 *RESTITUTION AMOUNT              400.00        06/29/16
+   122458955 *RESTITUTION AMOUNT              400.00        07/29/16
+   122458955 *RESTITUTION AMOUNT              400.00        07/29/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  THFT CONTROL INTENT>100K-500K
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   07-25-14                 Charge 01 Count 001 THFT CONTROL INTENT>100K-500K
+                            Statute 720 5/16-1(a)(1)(A)  Class 1  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Amanda Riess appears instanter.  Defen
+dant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond set in the am
+ount of
+                            $10,000-ROR DENIED. See expanded record.  Defendant
+is admonished as
+                            to trial and sentencing in absentia.
+                            Expanded record of court proceedings on arraignment.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+                            Affidavit in support of request to appoint attorney.
+                            Notice of arrest without warrant on file.
+   07-28-14                 Sheriff Booking Fee
+   08-01-14                 Proof of service on file.
+   08-05-14                 Answer to Discovery filed
+   08-06-14                 Proof of service on file.
+                            Supplemental Discovery filed
+   08-13-14                 Proof of service on file.
+                            Supplemental Discovery filed
+   08-28-14                 Proof of service on file.
+                            Supplemental Discovery filed
+   09-09-14                 Entry of appearance filed this date.
+   09-11-14                 Substitution for Substitution of Counsel approved.
+See Order.
+                            Court vacates the appointment of the Public Defender
+ and allows Mr.
+                            Bruno leave to appear as counsel for the defendant.
+ Cause is
+                            re-allotted to the private counsel pre-trial of 11:0
+0 a.m. on 9/16/14
+                            in Courtroom C.  Allotment for 9:00 am is vacated.
+   09-16-14                 By agreement, trial allotment vacated
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+                            Motion to Continue filed
+                            Defendant's Motion for Substitution of Counsel on fi
+le.
+   10-08-14                 Email from counsel to court clerk on file.
+   10-14-14                 Motion to Continue filed
+   10-21-14                 By agreement, trial allotment vacated
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   11-18-14                 By agreement, trial allotment vacated
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+                            Motion to Continue filed
+   12-09-14                 Pre-Trial held.
+                            People appear by Asst. State's Attorney.  Defendant
+appears with
+                            Counsel.  Cause is called for pretrial.  Motion by t
+he defendant to
+                            continue.  People state no objection to the defendan
+t's Motion to
+                            continue.  Motion is allowed.  Cause is continued on
+ the defendant's
+                            motion for further pre-trial on 1/13/15 at 11:00 a.m
+. in Courtroom C.
+                            Defendant's bond is to continue.
+                            Motion to Continue filed
+   01-13-15                 Pre-trial held.  Case continued on defendant's motio
+n
+                            People appear by Asst. State's Attorney.  Defendant
+appears with
+                            Counsel.  Cause is called for pre-trial.  Motion by
+the defendant to
+                            continue.  People state no objection.  Motion is all
+owed.  Cause is
+                            continued on the defendant's motion for further pre-
+trial 2/10/15 at
+                            11:00 a.m. in Courtroom C.  Defendant is admonished
+as to trial and
+                            sentencing in absentia.  Defendant's bond is to cont
+inue.
+                            Motion to Continue filed
+   02-04-15                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   02-10-15
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+                            Affidavit of mailing on file.
+                            Supplemental Discovery filed
+                            Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   02-18-15                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   02-24-15                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   02-27-15                 EHD Eligibility Certificate filed
+   03-02-15                 Cash Full Cash
+                            Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty THFT CONTROL INTENT>100K-500K
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16-1(a)(1)(A)  Class 1
+                            Sentence: 03/02/2015
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  48Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  180Days In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Restitution  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  48Mos In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              517.00     *RESTITUTION AMOUN
+T 193577.00
+                            CRIME STOPPERS          10.00     PROBATION MONITORI
+N   1200.00
+                            CRIME LAB              150.00      STATE OFFENDER DN
+A    250.00
+                            Payment Due
+                            Appearance of the People by Joel D. Fletcher.  Appea
+rance of the
+                            Defendant personally and by counsel, Thomas Bruno.
+ Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Thft Control Intent>100k-500k ILCS: 720 5
+/16-1(a)(1)(A) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.
+                            Except as stated in Line 302 of the Sentencing Order
+, all financial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk within 180 days.  Def
+endant is to
+                            receive $10 credit for 2 days spent in custody.  Any
+ bond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.
+                            Defendant is ordered to serve a period of  48 months
+ probation subject
+                            to the terms and conditions as set forth in the Sent
+encing Order
+                            entered this date.  Defendant is ordered to serve a
+period of
+                            incarceration of 180 days in the Champaign County Co
+rrectional Center.
+                            Defendant is to receive credit for 2 days previously
+ served.
+                            Defendant is ordered to report on March 17, 2015 at
+9:00 a.m. for
+                            commencement of imprisonment.  Written Order of Impr
+isonment -
+                            Electronic Home Detention entered.  See ORDER.
+                            Defendant is ordered to pay a local anti-crime asses
+sment fee of
+                            $10.00, a crime laboratory analysis fee of $150.00,
+a Violent Crime
+                            Victims Assistance Act fee, a probation service fee
+in the amount of
+                            $25.00 per month, a genetic grouping analysis fee of
+ $250.00, and
+                            restitution in the amount of $193,577.00 to be paid
+to and disbursed
+                            by the Circuit Clerk as follows:  $2500.00 to be pai
+d to the Champaign
+                            County Circuit Clerk this date, by certified check,
+and is to be
+                            dispersed to O'Brien Auto Park and $191,077.00 is to
+ be paid to York
+                            Risk Services Group at the addresses as set forth in
+ the Sentencing
+                            Order entered this date.  Defendant is to make minim
+um payments of
+                            $400.00 per month toward this restitution judgment.
+ The entire
+                            restitution is due within the first 42 months of pro
+bation.
+                            Defendant is advised of his rights under Supreme Cou
+rt Rule 605 and
+                            the Court finds that the Defendant understands those
+ rights.
+                            Defendant is ordered to report to the Court Services
+ Dept. this date.
+                            Waiver of Jury on file.  Sentencing Order entered th
+is date. See
+                            Order. Order as to fines entered this date.  See ORD
+ER.
+                            Sentencing order.
+                            Fees & Fines Assessment Form on file.
+                            Order of Imprisonment-Electronic Home Detention on f
+ile.
+                            Waiver of jury.
+   03-05-15                 Disposition entered.
+   03-10-15                 Disposition sent through ADR process this date. SPT
+   03-25-15                 Bond
+   04-06-15                 Cash
+   05-22-15                 Cash
+   06-24-15                 Cash
+   07-23-15                 Cash
+   08-24-15                 Cash
+   09-28-15                 Cash
+   10-26-15                 Cash
+   11-25-15                 Check
+   12-31-15                 Cash
+   01-29-16                 Cash
+   02-01-16                 Cash
+   02-29-16                 Cash
+   03-30-16                 Cash
+   04-29-16                 Cash
+   05-01-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-02-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-06-16                 EPAY RECONCILIATION TRANSACTION
+                            EPAY RECONCILIATION TRANSACTION
+   05-31-16                 Cash
+   06-29-16                 Cash
+   07-29-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

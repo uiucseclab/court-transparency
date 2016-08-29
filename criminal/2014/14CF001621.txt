@@ -1,0 +1,457 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF001621
+
+   Defendant Plaintiff
+BOYD  CHRISTOPHER L
+2619 RIVERBEND DR
+PLAINFIELD IL 60586
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 12/01/14
+                Court Room:
+           Next Appearance: 09/15/17
+                Birth Date: 10/16/89
+                 DEFENDANT: BOYD  CHRISTOPHER L
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       50.00      BOND -10% BOND FEE              .00          50.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+        5.00      E-CITATION                      .00           5.00
+       15.00      AUTOMATION                      .00          15.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+         .00      COUNTY ORDINANCE                .00            .00
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       25.00      PROBATION MONITORIN             .00         600.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+         .00      CRIME LAB                       .00            .00
+      150.00      DUI CRIME LAB                   .00         150.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+      100.00      TRAUMA FUND                     .00         100.00
+      250.00      TR/CR SUR $10/$40               .00         250.00
+        5.00      CLERK OP & ADMIN-SE             .00           5.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      245.00      FINES                           .00         245.00
+      350.00      DUI NEW EQUIPMENT F             .00         350.00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+      100.00      DRIVERS EDUCATION               .00         100.00
+      400.00      DUI - IL GENERAL RE             .00         400.00
+       15.00      FIRE PREVENTION FUN             .00          15.00
+       15.00      FIRE TRUCK REVOLVIN             .00          15.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+       50.00      BOND -10% BOND FEE            50.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        4.00      STATES ATTORNEY AUT            4.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+      600.00      PROBATION MONITORIN           10.00         590.00
+       20.00      PROBATION OPER ASSI             .00          20.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+         .00      CRIME LAB                       .00            .00
+      150.00      DUI CRIME LAB                   .00         150.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+      100.00      TRAUMA FUND                     .00         100.00
+      250.00      TR/CR SUR $10/$40               .00         250.00
+        5.00      CLERK OP & ADMIN-SE             .00           5.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      245.00      FINES                           .00         245.00
+      350.00      DUI NEW EQUIPMENT F             .00         350.00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+      100.00      DRIVERS EDUCATION               .00         100.00
+      400.00      DUI - IL GENERAL RE             .00         400.00
+       15.00      FIRE PREVENTION FUN             .00          15.00
+       15.00      FIRE TRUCK REVOLVIN             .00          15.00
+       20.00      ST POLICE SERVICES              .00          20.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       20.00      CLERK OP & ADMIN FU             .00          20.00
+         .00                                      .00            .00
+         .00      BOND -10% BOND FEE              .00            .00
+         .00      DOCUMENT STORAGE                .00            .00
+         .00      E-CITATION                      .00            .00
+         .00      AUTOMATION                      .00            .00
+         .00      CIRCUIT CLERK FEE               .00            .00
+         .00      COURT SECURITY                  .00            .00
+         .00      COURT FINANCE FEE               .00            .00
+         .00      STATES ATTORNEY                 .00            .00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+         .00      ARRESTEE'S MEDICAL              .00            .00
+       10.00      PROBATION OPER ASSI             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+       10.00      ST POLICE SERVICES              .00          10.00
+         .00      ST POLICE OPERATION             .00            .00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121447261 BOND TRANSFERS IN                500.00        12/11/14
+   121929361 BOND -10% BOND FEE                50.00        09/21/15
+   121929361 *BOND REFUND                     450.00        09/21/15
+   122340167 BOND - ORIGINAL                  214.00        05/20/16
+   122341573 DOCUMENT STORAGE                  15.00        05/20/16
+   122341573 E-CITATION                         5.00        05/20/16
+   122341573 AUTOMATION                        15.00        05/20/16
+   122341573 CIRCUIT CLERK FEE                 75.00        05/20/16
+   122341573 COURT SECURITY                    25.00        05/20/16
+   122341573 COURT FINANCE FEE                 25.00        05/20/16
+   122341573 STATES ATTORNEY                   20.00        05/20/16
+   122341573 STATES ATTORNEY AUTOMATI           4.00        05/20/16
+   122341573 CRIME STOPPERS                    10.00        05/20/16
+   122341573 ARRESTEE'S MEDICAL                10.00        05/20/16
+   122341573 PROBATION MONITORING FEE          10.00        05/20/16
+   122349331 EPAY RECEIVABLE                  214.00        05/26/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  RECEIVE/POSS/SELL STOLEN VEH
+
+         2  DRVG UNDER INFLU OF ALCOHOL
+
+         2  DRVG UNDER INFLU OF ALCOHOL
+
+         3  THEFT CON INTENT PERSON <$500
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   12-01-14                 Charge 01 Count 001 RECEIVE/POSS/SELL STOLEN VEH
+                            Statute 625 5/4-103(a)(1)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 DRVG UNDER INFLU OF ALCOHOL
+                            Statute 625 5/11-501(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Notice of arrest without warrant on file.
+                            Pre Trial Order.
+                            People appear by Julia Rietz.  Defendant appears per
+sonally together
+                            with private counsel, Scott Lerner.  Entry of Appear
+ance filed
+                            instanter. Defendant is arraigned.  Defendant waives
+ preliminary
+                            hearing, enters a plea of not guilty and requests a
+trial by jury.
+                            Pre-trial orders entered. Bond of $5,000 is ordered
+transferred from
+                            case 14-DT-594 to this case. Defendant admonished as
+ to trial and
+                            sentencing in absentia.  See Expanded Record.
+                            Expanded record of court proceedings on arraignment.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+                            Entry of Appearance, Plea of Not Guilty and Jury Dem
+and on file.
+                            No bond No Bond
+   12-11-14                 DL on file
+                            Transferred from 14DT594
+                            Bond Type Transfer Bond From    2014DT000594 BOYD CH
+RISTOPHER L
+                            Confirmation of Statutory Summary Suspension on file
+.
+                            Provisional reinstatement date 1/14/18
+   12-12-14                 Affidavit of mailing on file.
+                            Discovery filed.
+   12-13-14                 Correspondence on file
+                            Assignment of Bond on file
+   01-20-15
+                            On motion of the defendant cause allotted for pre-tr
+ial on February
+                            17, 2015 at 11:00 a.m. in Courtroom A.  Bond is to c
+ontinue.
+                            Discovery Demand on file
+                            Discovery Response Pursuant to Court Rule 413 on fil
+e
+   02-17-15
+                            On motion of the Defendant, cause allotted for Pre-T
+rial on March 17,
+                            2015 at 11:00 a.m. in Courtroom A.  Bond is to conti
+nue.
+   03-17-15
+                            On motion of the Defendant, cause allotted for Pre-T
+rial on April 21,
+                            2015 at 11:00 a.m. in Courtroom A.  Bond is to conti
+nue.
+   03-27-15                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   04-21-15
+                            On motion of the defendant cause allotted for Pre-Tr
+ial on May 19,
+                            2015 at 11:00 a.m. in Courtroom A.  Bond is to conti
+nue.
+   05-01-15                 Alcohol and Drug Evaluation Uniform Report filed by
+Defendant through
+                            his attorney, Scott Lerner.
+   05-19-15
+                            On motion of the defendant's counsel, cause allotted
+ for Pre-Trial on
+                            June 16, 2015 at 11:00 a.m. in Courtroom A.  Bond is
+ to continue.
+   06-16-15
+                            No appearance of the defendant personally.  Motion b
+y the People for
+                            bond forfeiture and issuance of warrant.  Cause allo
+tted for hearing
+                            on the motion for bond forfeiture and issuance of wa
+rrant on June 22,
+                            2015 at 11:00 a.m. in Courtroom A.  Mr. Lerner to no
+tify the defendant
+                            of the hearing allotment date, time and place.
+   06-22-15
+                            People withdraw the motion for bond forfeiture and i
+ssuance of warrant
+                            requested when the defendant failed to appear on Jun
+e 16, 2015.  On
+                            defendant's motion cause allotted for Pre-Trial on J
+uly 21, 2015 at
+                            11:00 a.m. in Courtroom A.
+   07-21-15                 Defendant's motion for continuance.
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            with counsel. Motion by the Defendant for continuanc
+e.  Motion
+                            allowed.
+   08-18-15
+                            On motion of the defendant, cause allotted for Plea
+on September 15,
+                            2015 at 1:00 p.m. in Courtroom A.  Bond is to contin
+ue.
+   08-20-15                 Drug and alcohol evaluation sealed and placed on fil
+e.
+                            DUI Rick Education Certificate of Completion on file
+   09-15-15                 Charge 03 Count 003 THEFT CON INTENT PERSON <$500
+                            Statute 720 5/16-1(a)(1)(A)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed RECEIVE/POSS/SELL STOLEN VEH
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/4-103(a)(1)  Class 2
+                            Sentence: 09/15/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty DRVG UNDER INFLU OF ALCOHOL
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)(2)  Class A
+                            Sentence: 09/15/2015
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  10Days In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Defendant's probation to transfer to resid
+ent county  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           1852.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    600.00     CRIME LAB
+        .00
+                            DUI CRIME LAB          150.00      STATE OFFENDER DN
+A    250.00
+                            Payment Due
+                            Disposition 03/00  Count 003  Cost Only
+                            Disposition: Guilty THEFT CON INTENT PERSON <$500
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16-1(a)(1)(A)  Class 3
+                            Sentence: 09/15/2015
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  10Days In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Defendant's probation to transfer to resid
+ent county  In for
+                            Cost Only               32.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Sarah J. Carlson.  Appea
+rance of the
+                            Defendant personally and by counsel, Scott Lerner.
+ Suggestion the
+                            parties have reached an agreement.  Pursuant to the
+agreement, the
+                            People file Count III.  Defendant arraigned on Count
+ III.  Defendant
+                            waives preliminary hearing as to Count III.  Defenda
+nt advised as to
+                            the nature of the proceedings, the charges and the p
+ossible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly understanding
+ly and voluntarily
+                            waives rights and enters a plea of guilty to Count I
+I and Count III of
+                            the charging instrument.  Finding Defendant is guilt
+y of the offense
+                            of Drvg Under Influ Of Alcohol ILCS: 625 5/11-501(a)
+(2) as charged in
+                            Count II and the offense of Theft 720 ILCS 5/16-1 (a
+)(1)(A) as charged
+                            in Count III.  . Judgment entered in favor of the Pe
+ople and against
+                            the defendant on finding of guilt and for costs.  Al
+l financial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  3/14/2016.  Defen
+dant is ordered to
+                            serve a period of  24 months probation. Defendant is
+ ordered to serve
+                            a period of incarceration of  10 days in the Champai
+gn County
+                            Correctional Center. Defendant is to receive credit
+for   1 days
+                            previously served. The Defendant is to submit specim
+ens of blood,
+                            saliva, or tissue to the Illinois Department of Stat
+e Police or to the
+                            Department of Corrections within 45 days, at a colle
+ction site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3.  Defendant is to attend the next Victim Imp
+act Panel
+                            presented by the Champaign County Court Services Dep
+artment.
+                            Defendant is to obtain an evaluation for alcohol and
+ drug abuse from
+                            an agency or agent recommended by the Court Services
+ Department, and
+                            follow any recommendations contained therein as to t
+reatment and/or
+                            counseling. Count(s) stated in the written order are
+ herby dismissed.
+                            Waiver of Jury on file.   Financial assessment order
+ entered.
+                            Sentencing Order entered this date. See Order.  Defe
+ndant remanded to
+                            the custody of the Sheriff to begin serving the inca
+rceration order
+                            entered this date.  Defendant is to report to the Ch
+ampaign County
+                            Probation and Court Services Department within 7 day
+s of his release
+                            from custody.  Bond discharged pursuant to the bond
+assignment of Mr.
+                            Lerner.
+                            Sentencing order.
+                            Fees & Fines Assessment Form on file.
+                            Waiver of jury.
+                            Disposition 02/01  Count 002  Modified Order
+                            Disposition: Modified/Trial Court DRVG UNDER INFLU O
+F ALCOHOL
+                            Modified Order        1884.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    600.00     CRIME LAB
+        .00
+                            DUI CRIME LAB          150.00      STATE OFFENDER DN
+A    250.00
+   09-18-15                 Defendant's driver's license forward to the
+                            Secretary of State's office.
+                            Drug & Alcohol evaluation transfered from 14DT594.
+                            Disposition entered.
+   09-21-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SOS
+SPT
+                            Disposition sent through ADR process this date. SPT
+                            Bond
+   09-23-15                 Disposition sent through ADR process this date. SPT
+   01-19-16                 Motion for Extension of Time to Pay Costs on file by
+ Defendant, Pro
+                            Se. File forwarded to Judge Clem.
+   04-01-16                 Motion for Extension of Time to Pay Costs on file by
+ Defendant,
+                            Pro Se. File forwarded to Judge Clem.
+   04-14-16                 Letter sent to the State, Deft. and Court Services.
+                            Court has reviewed defendant's pro se Motion to Exte
+nd Time to Pay.
+                            State has no objection.  Motion allowed.  Order of p
+robation is
+                            modified to extend time for all payments to July 15,
+ 2017.  Notice
+                            provided by letter to counsel, defendant and Court S
+ervices.
+                            Email on file.
+                            Correspondence from the Judge on file.
+   05-20-16                 EPAY BOND PAYMENT
+                            Bond
+   05-26-16                 EPAY RECONCILIATION TRANSACTION
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

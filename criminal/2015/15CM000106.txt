@@ -1,0 +1,519 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #15CM000106
+
+   Defendant Plaintiff
+SMITH  JACQUELINE K
+703 E COLORADO APT 3
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 02/02/15
+                Court Room:
+           Next Appearance: 04/13/16
+                Birth Date: 09/23/65
+                 DEFENDANT: SMITH  JACQUELINE K
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      DOCUMENT STORAGE                .00          15.00
+        5.00      E-CITATION                      .00           5.00
+       15.00      AUTOMATION                      .00          15.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       15.00      PROBATION MONITORIN             .00         105.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       50.00      BOND -10% BOND FEE            50.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+      180.00      PROBATION MONITORIN          180.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       10.00      TR/CR SUR $10/$40             10.00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+       39.00      SHERIFF FEES                  39.00            .00
+       75.00      VIOLENT CRIME VICTI           19.00          56.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       31.40      COLLECTION FEES                 .00          31.40
+       13.65      LATE FEES                       .00          13.65
+       15.00      ST POLICE OPERATION             .00          15.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121684368 SHERIFF'S BOOKING FEE             34.00        05/04/15
+   121684368 BOND - ORIGINAL                  500.00        05/04/15
+   121972667 BOND -10% BOND FEE                50.00        10/15/15
+   121972667 DOCUMENT STORAGE                  15.00        10/15/15
+   121972667 E-CITATION                         5.00        10/15/15
+   121972667 AUTOMATION                        15.00        10/15/15
+   121972667 CIRCUIT CLERK FEE                 75.00        10/15/15
+   121972667 COURT SECURITY                    25.00        10/15/15
+   121972667 COURT FINANCE FEE                 25.00        10/15/15
+   121972667 STATES ATTORNEY                   20.00        10/15/15
+   121972667 STATES ATTORNEY AUTOMATI           2.00        10/15/15
+   121972667 ARRESTEE'S MEDICAL                10.00        10/15/15
+   121972667 PROBATION MONITORING FEE         195.00        10/15/15
+   121972667 PROBATION OPER ASSISTANC          10.00        10/15/15
+   121972667 TR/CR SUR $10/$40                 10.00        10/15/15
+   121972667 SHERIFF FEES                      39.00        10/15/15
+   121972667 VIOLENT CRIME VICTIMS AS           4.00        10/15/15
+   122375371 PROBATION MONITORING FEE         -15.00        06/10/16
+   122375371 VIOLENT CRIME VICTIMS AS          15.00        06/10/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG ASLT/USE DDLY WEAP/RIFLE
+
+         1  AGG ASLT/USE DDLY WEAP/RIFLE
+
+         1  AGG ASLT/USE DDLY WEAP/RIFLE
+
+         1  AGG ASLT/USE DDLY WEAP/RIFLE
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   02-02-15                 Charge 01 Count 001 AGG ASLT/USE DDLY WEAP/RIFLE
+                            Statute 720 5/12-2(c)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Randy Rosenbaum appears instanter.  Plea of not guil
+ty entered and
+                            Defendant requests trial by jury. Bond of $100,000 i
+s to continue. The
+                            NO CONTACT order entered in bond court on 2/1/15 rem
+ains in full force
+                            and effect. Defendant is allowed to return to the re
+sidence for the
+                            purpose of obtaining clothing and other essential it
+ems while being
+                            accompanied by a Deputy Sheriff/Police Officer, with
+in the prescribed
+                            72 hour waiting period. Defendant is admonished as t
+o trial and
+                            sentencing in absentia.  See expanded record.
+                            Notice of arrest without warrant on file.
+                            Bail Bond Release Authorization filed.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+   02-09-15                 Cause allotted for plea to
+   02-10-15                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty AGG ASLT/USE DDLY WEAP/RIFLE
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-2(c)(1)  Class A
+                            Sentence: 02/10/2015
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  11Days In force
+                            Sentence: Credit Time Served  11Days In force
+                            Sentence: Mental Health Treatment/Assessment  1Days
+In force
+                            Sentence: Defendant's previous probation unsuccessfu
+lly termed  In for
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Credit toward all fees and fines  11Days I
+n force
+                            Cost Only              322.00     PROBATION MONITORI
+N    105.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Jacob A. Croegaert.  App
+earance of the
+                            Defendant personally, in custody, and by counsel, To
+ny L. Allegretti.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Agg Aslt/Use Ddly Weap/Rifl
+e ILCS: 720
+                            5/12-2(c)(1), a Class A Misdemeanor, as charged. Jud
+gment entered in
+                            favor of the People and against the defendant on fin
+ding of guilt and
+                            for costs.  All financial obligations shall be paid
+in equal monthly
+                            installments to the Champaign County Circuit Clerk b
+y  8/10/2015.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  D
+efendant is
+                            ordered to serve a period of 12 months probation. De
+fendant is ordered
+                            to serve a period of incarceration of 11 days in the
+ Champaign County
+                            Correctional Center. Defendant is to receive credit
+for 11 days
+                            previously served. Defendant is to obtain a mental h
+ealth evaluation
+                            from an agency or agent recommended by the Champaign
+ County Court
+                            Services Department, and follow any recommendations
+contained therein
+                            as to treatment and/or counseling.  Defendant advise
+d of right to
+                            appeal and rights pursuant to Supreme Court Rule 605
+ and the Court
+                            finds that the defendant understands the same.  Waiv
+er of Jury on
+                            file. Sentencing Order entered this date. See Order.
+                            Sentencing order.
+                            Waiver of jury.
+   02-20-15                 Disposition sent through ADR process this date. SPT
+   03-31-15                 Probation Violation Report on file
+   04-07-15                 Cause allotted for hearing on
+                            Petition to revoke probation on file.
+                            Probable cause warrant issued
+                            Verified information on file.  Witness sworn.  Evide
+nce heard.
+                            Probable cause to arrest determined, warrant issued.
+  Bond set in the
+                            amount of $  5,000.00.
+                            Warrant issued.
+                            Warrant Quashed
+                            Expanded Record of Arraignment Proceedings
+                            People appear by Jacob Croegaert. No appearance of t
+he Defendant. On
+                            motion of the State, warrant previously issued is or
+dered quashed. See
+                            Order. See Expanded Record.
+                            Expanded record of court proceedings on arraignment.
+   04-08-15                 Motion to Quash Warrant filed by SAO.
+                            Expanded record of court proceedings on arraignment.
+   04-10-15
+                            Verified information on Petition to Revoke Probation
+ on file.
+                            Probable cause to arrest determined.  Warrant issued
+.  Bond set in the
+                            amount of $  5,000.00.
+                            Warrant of arrest filed.
+   04-14-15                 Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ra
+ndall Rosenbaum
+                            appears instanter.  General denial to the Petition i
+s entered.  Bond
+                            is to continue. Defendant is admonished as to trial
+and sentencing in
+                            absentia.  See expanded record.
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ra
+ndall Rosenbaum
+                            appears instanter.  General denial to the Petition i
+s entered.  Bond
+                            is to continue. Defendant is admonished as to trial
+and sentencing in
+                            absentia.  See expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+   04-15-15                 Warrant served. Service fees $39.00
+   04-20-15                 Hearing on Motion for Appointment
+                            Upon representation from counsel, Cause is allotted
+for hearing on the
+                            Motion for Appointment of Psychiatrist.
+   04-21-15                 Motion for Appointment of Psychiatrist on file
+   04-23-15                 Hearing on the Motion for Appointment
+                            People appear by Assistant State's Attorney Stephani
+e Hall. Defendant
+                            appears personally, in custody, and by counsel, Tony
+ Fiorentino. Cause
+                            called for hearing in the Motion for Appointment of
+Psychiatrist.
+                            Motion allowed. Dr. Jeckyll is appointed. Defendant
+to submit an Order
+                            for Transport to chambers if needed. Hearing on the
+Petition to Revoke
+                            allotted for 04/24/15 at 8:30 am is hereby vacated.
+Cause is
+                            re-allotted for hearing on the Petition to Revoke an
+d for Status as to
+                            Fitness.
+                            Order (for Appointment) entered. See Order
+                            Order of Transportation entered. See Order.
+                            Order.
+                            Order for Transportation on file.
+   04-24-15                 Copy of Quashed Warrant / Body Attachment returned f
+rom
+                            Sheriff's Office.
+   05-04-15                 Sheriff Booking Fee
+   05-07-15                 Report as to Fitness
+                            Court receives report as to the Defendant's Fitness
+and orders it
+                            filed under Seal of Court, instanter.
+   05-13-15                 Status as to Fitness
+                            People appear by Stephanie Hall. Defendant appears p
+ersonally, and by
+                            counsel, Tony Fiorentino. Court notes the DHS Status
+ report on file.
+                            Parties stipulate to the admissibility of the report
+. Court finds the
+                            Defendant is UNFIT to stand trial. Defendant is rema
+nded to the
+                            custody of the Champaign County Sheriff pending tran
+sport to DHS.
+                            Written Order entered. See Order. Cause is allotted
+for further
+                            Status.
+                            FOID Revocation order printed and signed this date.
+                            Order.
+                            Order to notify the ISP of an adjudication as a ment
+ally defective.
+   05-15-15                 Certificate of mailing prepared.
+                            Prepared blueback certificate.
+                            Federal Firearms Disqualification
+                            Report of Mental Defective Adjudication along with a
+ certified copy of
+                            the Court's order forwarded to the Illinois State Po
+lice FOID
+                            Department.
+                            Mental Defective & Order re FOID notification sent t
+o ISP.
+   07-14-15                 Copy of Letter faxed to DHS this date
+                            Copy of letter faxed to DHS.
+   07-15-15                 Status as to Fitness
+                            People appear by Stephanie Hall. Defendant does not
+appear, and
+                            Anthony Fiorentino appears on her behalf. Defendant
+waves her
+                            appearance through her attorney. Parties stipulate a
+s to the
+                            admissibility of the DHS reports and addendums on fi
+le. Cause is
+                            continued for further Status as to Fitness. Bond is
+to continue.
+                            Written Order entered. See Order.
+                            Order.
+   08-20-15                 Petition for Writ of Habeas Corpus Ad Prosequendum
+                            Petition for Writ of Habeas Corpus Ad Prosequendum o
+n file by the
+                            Defendant, Jaqueline K. Smith, by and through her at
+torney, Anthony
+                            Fiorentino.
+   08-21-15                 Order (for Writ of Habeas Corpus Ad Prosequendum)
+                            Prayer of the Petition allowed. Order for Writ of Ha
+beas Corpus Ad
+                            Prosequendum entered. See Order.
+                            Per PD Office they are faxing to McFarland and we ar
+e to send
+                            this regular mail and not overnight.
+                            Petition, order and writ issued and sent.
+                            See affidavit of mailing.
+   08-24-15                 DHS Report
+                            DHS Report received and placed on file under Seal of
+ Court.
+   08-26-15                 Status Hearing
+                            People appear by Stephanie Hall. Defendant appears p
+ersonally, in DHS
+                            Custody, and by counsel, Jamie Propps for Tony Fiore
+ntino. Parties
+                            stipulate to the admissibility of the latest DHS Rep
+ort on file. Cause
+                            is continued for further hearing as to Status. Writt
+en Order entered.
+                            See Order.
+                            Order.
+   09-24-15                 DHS Report recieved and filed under Seal of Court.
+                            DHS Report received and placed on file, under Seal o
+f the Court. Upon
+                            representations in the report, cause is allotted for
+ Status as to
+                            Fitness. Counsel for the Defendant is directed to su
+bmit a Writ to
+                            chambers for signature.
+   09-25-15                 Petition for Writ of Habeas Corpus Ad Prosequendum
+                            RE: Defendant Jacqueline Smith
+                            Petition for Writ of Habeas Corpus Ad Prosequendum o
+n file by the
+                            Defendant, by and through her attorney, Assistant Pu
+blic Defender
+                            Anthony J. Fiorentino.
+                            Order (for Writ of Habeas Corpus)
+                            RE: DEFENDANT Jacqueline Smith
+                            Prayer of the Petition allowed. Order for Writ of Ha
+beas Corpus Ad
+                            Prosequendum entered. See Order.
+                            Petition, order and writ issued and sent.
+                            See affidavit of mailing.
+                            writ faxed and mailed per public defenders office
+   09-28-15                 DHS Report recieved and filed under Seal of Court.
+                            DHS Report received and placed on file, under Seal o
+f the Court.
+   09-30-15                 Disposition 01/01  Count 001  Cost Only
+                            Disposition: Revocation/Vacate/Probation AGG ASLT/US
+E DDLY WEAP/RIFLE
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-2(c)(1)  Class A
+                            Sentence: 09/30/2015
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  6Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  31Days In force
+                            Sentence: Credit Time Served  31Days In force
+                            Sentence: Mental Health Treatment/Assessment  1Days
+In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Probation Service Fee  6Mos In force
+                            Sentence: Credit toward all fees and fines  31Days I
+n force
+                            Cost Only              217.00
+                            Payment Due
+                            Resentencing on petition to revoke.
+                            Appearance of the People by Stephanie A. Hall.  Appe
+arance of the
+                            Defendant personally and by counsel, Anthony J. Fior
+entino.
+                            Defendant advised as to the nature of the proceeding
+s and the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily stipulates and admits to the allegat
+ions contained in
+                            the Petition to Revoke.  Finding the same are true.
+ The court finds
+                            that the Defendant has violated the terms of her sen
+tence.  Finding
+                            entered in favor of the People and against Defendant
+. Defendant is
+                            ordered to pay all outstanding financial obligations
+ previously
+                            imposed and all other fines, fees, and costs as auth
+orized by statute.
+                            All financial obligations shall be paid in equal mon
+thly installments
+                            to the Champaign County Circuit Clerk by  3/28/2016.
+  Any bond posted
+                            is to be applied first to any court ordered bond ass
+ignment on file
+                            and then to all restitution ordered and then to all
+financial
+                            obligations in this case.  Any remaining bond shall
+be discharged to
+                            the individual who posted the bond.  Defendant is or
+dered to serve a
+                            period of   6 months probation. Defendant is ordered
+ to serve a period
+                            of incarceration of  31 days in the Champaign County
+ Correctional
+                            Center. Defendant is to receive credit for  31 days
+previously served.
+                            Defendant is to continue mental health treatment as
+directed by the
+                            Champaign County Court Services Department. Defendan
+t advised of right
+                            to appeal and rights pursuant to Supreme Court Rule
+605 and the Court
+                            finds that the defendant understands the same. Sente
+ncing Order
+                            entered. See Order.
+                            Sentencing Order / Resentencing on Petition to revok
+e on
+   10-05-15                 Correspondence from Robert Kwiatkowski on file. Copy
+ of docket
+                            Forwarded.
+   10-06-15                 Disposition sent through ADR process this date. SPT
+   10-13-15                 Disposition #1/02  Count 001  Modified Order
+                            Disposition: Modified/Trial Court AGG ASLT/USE DDLY
+WEAP/RIFLE
+                            Modified Order         411.00     PROBATION MONITORI
+N    180.00
+                            Disposition entered.
+   10-15-15                 Bond
+   10-21-15                 Disposition sent through ADR process this date. SPT
+   03-28-16                 Order of Unsuccessful Discharge from Probation enter
+ed this date.
+   03-29-16                 Order of Unsuccessful Discharge from Probation on Fi
+le.
+                            Disposition 01/03  Count 001  No Fine & Cost
+                            Disposition: Terminated Unsatisfied AGG ASLT/USE DDL
+Y WEAP/RIFLE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-2(c)(1)  Class A
+                            Sentence: 03/29/2016
+                            Sentence: No Sentence  In force
+   03-31-16                 Case closed.
+   04-05-16                 Disposition sent through ADR process this date. SPT
+   06-10-16                 Court Ordered Payments
+   06-30-16                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

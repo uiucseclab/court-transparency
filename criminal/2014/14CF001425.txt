@@ -1,0 +1,333 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF001425
+
+   Defendant Plaintiff
+LINDSEY  BRENNA L
+34 SANTA ANITA DR
+BARTONVILLE IL 61607
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 10/16/14
+                Court Room:
+           Next Appearance: 12/09/16
+                Birth Date: 07/27/96
+                 DEFENDANT: LINDSEY  BRENNA L
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          600.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      200.00      TRAFFIC/CRIMINAL SU          200.00            .00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+         .00       STREET VALUE DRUG              .00            .00
+      280.00      DRUG TRAFFIC PREVEN          280.00            .00
+      495.00      MANDATORY ASSESSMEN          495.00            .00
+       20.00      DRUG DISPOSAL FUND            20.00            .00
+       25.00      IL STATE TREAS FINE           25.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121510726 PERSONAL CHECK/CREDIT CA           1.25        01/23/15
+   121510726 DOCUMENT STORAGE                  15.00        01/23/15
+   121510726 AUTOMATION                        15.00        01/23/15
+   121510726 CIRCUIT CLERK FEE                100.00        01/23/15
+   121510726 COURT SECURITY                    25.00        01/23/15
+   121510726 COURT FINANCE FEE                 50.00        01/23/15
+   121510726 STATES ATTORNEY                   40.00        01/23/15
+   121510726 STATES ATTORNEY AUTOMATI           2.00        01/23/15
+   121510726 CRIME STOPPERS                     1.75        01/23/15
+   121571577 PERSONAL CHECK/CREDIT CA           1.25        03/02/15
+   121571577 CRIME STOPPERS                     8.25        03/02/15
+   121571577 ARRESTEE'S MEDICAL                10.00        03/02/15
+   121571577 PROBATION MONITORING FEE          25.00        03/02/15
+   121571577 PROBATION OPER ASSISTANC          10.00        03/02/15
+   121571577 SPINAL CORD RESEARCH FUN           5.00        03/02/15
+   121571577 CRIME LAB                         40.50        03/02/15
+   121619714 PERSONAL CHECK/CREDIT CA           1.25        03/26/15
+   121619714 PROBATION MONITORING FEE          25.00        03/26/15
+   121619714 CRIME LAB                         59.50        03/26/15
+   121619714  STATE OFFENDER DNA ID S          14.25        03/26/15
+   121686359 PROBATION MONITORING FEE          25.00        05/05/15
+   121686359  STATE OFFENDER DNA ID S         235.75        05/05/15
+   121686359 TRAUMA FUND                      100.00        05/05/15
+   121686359 TR/CR SUR $10/$40                 39.25        05/05/15
+   121722538 PROBATION MONITORING FEE          25.00        05/26/15
+   121722538 TR/CR SUR $10/$40                160.75        05/26/15
+   121722538 DRUG COURT PROGRAM                 5.00        05/26/15
+   121722538 VIOLENT CRIME VICTIMS AS         100.00        05/26/15
+   121722538  STREET VALUE DRUG FINES           9.25        05/26/15
+   121732631  STREET VALUE DRUG FINES          -9.25        05/29/15
+   121732631 DRUG TRAFFIC PREVENTION            9.25        05/29/15
+   121789824 PROBATION MONITORING FEE          25.00        07/02/15
+   121789824 DRUG TRAFFIC PREVENTION           15.00        07/02/15
+   121843349 PROBATION MONITORING FEE          25.00        08/03/15
+   121843349 DRUG TRAFFIC PREVENTION          255.75        08/03/15
+   121843349 MANDATORY ASSESSMENT              19.25        08/03/15
+   121904956 PERSONAL CHECK/CREDIT CA           1.25        09/08/15
+   121904956 PROBATION MONITORING FEE          23.75        09/08/15
+   121904956 MANDATORY ASSESSMENT              75.00        09/08/15
+   121963280 PROBATION MONITORING FEE          25.00        10/08/15
+   121963280 MANDATORY ASSESSMENT             125.00        10/08/15
+   122003350 PROBATION MONITORING FEE          25.00        11/02/15
+   122003350 MANDATORY ASSESSMENT              25.00        11/02/15
+   122062003 PROBATION MONITORING FEE          25.00        12/07/15
+   122062003 MANDATORY ASSESSMENT             125.00        12/07/15
+   122116512 PROBATION MONITORING FEE          25.00        01/11/16
+   122116512 MANDATORY ASSESSMENT              45.00        01/11/16
+   122187151 PERSONAL CHECK/CREDIT CA           1.25        02/23/16
+   122187151 PROBATION MONITORING FEE          25.00        02/23/16
+   122187151 MANDATORY ASSESSMENT              55.75        02/23/16
+   122205550 PERSONAL CHECK/CREDIT CA           1.25        03/04/16
+   122205550 PROBATION MONITORING FEE         298.75        03/04/16
+   122205550 MANDATORY ASSESSMENT              25.00        03/04/16
+   122205550 DRUG DISPOSAL FUND                20.00        03/04/16
+   122205550 IL STATE TREAS FINES              25.00        03/04/16
+   122205550 ST POLICE SERVICES FUND           10.00        03/04/16
+   122205550 ST POLICE OPERATIONS ASS          10.00        03/04/16
+   122205550 CLERK OP & ADMIN FUND             10.00        03/04/16
+   122208666 PROBATION MONITORING FEE           1.25        03/07/16
+   122208666 PERSONAL CHECK/CREDIT CA          -1.25        03/07/16
+   122249299 PERSONAL CHECK/CREDIT CA           1.25        03/30/16
+   122249299 PROBATION MONITORING FEE           1.25        03/30/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   10-16-14                 Charge 01 Count 001 POSS AMT CON SUB EXCEPT(A)/(D)
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Agency: ILLINOIS STATE POLICE TASK FOR  Charge Instr
+: Information
+                            Charging documents
+                            Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel.  Defendant is admonished as t
+o trial and
+                            sentencing in absentia.  Bond set in the amount of $
+1,000-ROR ALLOWED.
+                            See expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Released On Recognizance bond form on file.
+   10-30-14                 Expanded record of arraignment proceedings.
+                            Motion by the Defendant for appointment of counsel.
+Motion allowed.
+                            Court appoints the Law Office of Dodson, Piraino and
+ Associates to
+                            represent the Defendant. Cause is continued for appe
+arance of counsel.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.  See
+                            expanded record.
+                            Bond to continue.
+                            Dodson, Piraino and Associates is notified by electr
+onic mail of its
+                            appointment.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+   11-05-14                 Pre Trial Order.
+                            People appear by Sarah N. Perry.  Defendant appears
+personally
+                            together with appointed counsel, Ed Piraino. Defenda
+nt waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests a trial
+                            by jury.  Pre-trial orders entered.  Bond is to cont
+inue. Defendant
+                            admonished as to trial and sentencing in absentia.
+See Expanded
+                            Record.
+                            Expanded record of court proceedings on arraignment.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+   12-04-14                 Affidavit of mailing on file.
+                            Discovery Answer filed
+   12-09-14                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty POSS AMT CON SUB EXCEPT(A)/(D)
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 570/402(c)  Class 4
+                            Sentence: 12/09/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: First Offender Probation - Controlled Subs
+tances Act  24Mos
+                                      Supervised Court Service
+                            Sentence: Public Service  30Hrs In force
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Defendant's probation to transfer to resid
+ent county  In for
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Sentence: Mandatory Street Value Fine  In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Mandatory Assessment Fine  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Fine + Cost           1217.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    600.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    250.00     DRUG TRAFFIC PREVE
+N    280.00
+                            IL STATE TREAS FINE     25.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Dan Clifton.  Appearance
+ of the Defendant
+                            personally and by counsel, Edwin Piraino.   Defendan
+t advised as to
+                            the nature of the proceedings, the charges and the p
+ossible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly, understandin
+gly and
+                            voluntarily waives rights and enters a plea of guilt
+y to Count 01 of
+                            the charging instrument.  Finding Defendant is guilt
+y of the offense
+                            of Poss Amt Con Sub Except(A)/(D) ILCS: 720 570/402(
+c) as charged.
+                            Upon the plea entered this date, Defendant is senten
+ced to all terms
+                            and conditions as set forth in the written order on
+guilty plea
+                            entered this date. Defendant is ordered to serve a p
+eriod of  24
+                            months First Offender Probation pursuant to the Cont
+rolled Substances
+                            Act. Defendant is ordered to perform  30 hours of pu
+blic service work
+                            under the supervision of the Champaign County Court
+Services
+                            Department.  The defendant is to be given credit on
+public service
+                            work for any hours completed in education, treatment
+, aftercare,
+                            sobriety based self-help group meetings, Victim Impa
+ct Panel and GED
+                            classes. The Defendant is to submit specimens of blo
+od, saliva, or
+                            tissue to the Illinois Department of State Police or
+ to the Department
+                            of Corrections within 45 days, at a collection site
+designated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+.  Defendant is
+                            ordered to pay all statutory fines, fees and court c
+osts, including
+                            the fines as set forth in the written order entered
+this date.   All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk.  Any bond posted
+ is to be applied
+                            first to any court ordered bond assignment on file a
+nd then to all
+                            restitution ordered and then to all financial obliga
+tions in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.    Defendant advised of right to ap
+peal and rights
+                            pursuant to Supreme Court Rule 605 and the Court fin
+ds that the
+                            defendant understands the same.        Waiver of Jur
+y on file.
+                            Sentencing Order entered this date. See Order.  Defe
+ndant is ordered
+                            to report to the Court Services Dept. this date.  De
+fendant's
+                            probation may be transferred to her county of reside
+nce.
+                            Sentencing order.
+                            Fees & Fines Assessment Form on file.
+                            Supplemental Sentencing Order Imposing Fines on file
+.
+                            Waiver of jury.
+   12-15-14                 Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            50.0% to the General Corporate Fund of Champaign Cou
+nty, and
+                            37.5% to the Illinois State Treasury.
+   12-19-14                 Error disposition form created this date.
+   01-23-15                 Check
+   02-03-15                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   03-02-15                 Check
+   03-26-15                 Check
+   05-05-15                 Cash
+   05-26-15                 Cash
+   05-29-15                 Court Ordered Payments
+   07-02-15                 Cash
+   08-03-15                 Cash
+   09-08-15                 Check
+   10-08-15                 Cash
+   11-02-15                 Cash
+   12-07-15                 Cash
+   01-11-16                 Cash
+   02-23-16                 Check
+   03-04-16                 Check
+                            Balance due letter prepared and sent.
+   03-07-16                 Court Ordered Payments
+   03-30-16                 Check
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

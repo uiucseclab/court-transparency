@@ -1,0 +1,251 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000620
+
+   Defendant Plaintiff
+WILSON  CHRISTOPHER J
+1600 W BRADLEY APT D
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/09/14
+                Court Room: A
+           Next Appearance: 07/25/14  01:30
+                Birth Date: 07/06/93
+                 DEFENDANT: WILSON  CHRISTOPHER J
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      226.67      COLLECTION FEES                 .00         226.67
+       98.55      LATE FEES                       .00          98.55
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  ARMED VIOLENCE/CATEGORY I
+
+         2  MFG/DEL 1<15 GR COCAINE/ANLG
+
+         3  FELON POSS/USE WEAPON/FIREARM
+
+         4  POSSESSION OF METH< 5 GRAMS
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   05-09-14                 Charge 01 Count 001 ARMED VIOLENCE/CATEGORY I
+                            Statute 720 5/33A-2(a)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 MFG/DEL 1<15 GR COCAINE/ANLG
+                            Statute 720 570/401(c)(2)  Class 1  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 FELON POSS/USE WEAPON/FIREARM
+                            Statute 720 5/24-1.1(a)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 04 Count 004 POSSESSION OF METH< 5 GRAMS
+                            Statute 720 646/60(a)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned. Defendant is admonished as to C
+LASS X SENTENCING
+                            as to COUNT I and EXTENDED TERM SENTENCING on COUN I
+V.  The Champaign
+                            County Public Defender is appointed and Jamie Propps
+ appears
+                            instanter.  Defendant waives preliminary hearing, en
+ters a plea of not
+                            guilty and requests trial by jury.  Pre-trial orders
+ entered.  Bond
+                            set in the amount of $100,000-ROR DENIED. See expand
+ed record.
+   05-12-14                 Notice of arrest without warrant on file.
+   05-21-14                 Proof of service on file.
+                            Discovery filed.
+   05-22-14                 Answer to Discovery filed
+   06-24-14
+                            No appearance of the defendant personally.  Suggesti
+on the defendant
+                            is in custody.  On motion of the defendant cause all
+otted for
+                            Pre-Trial on July 22, 2014 at 9:00 a.m. in Courtroom
+ A.  Bond
+                            previously established is to continue.
+   07-10-14                 Supplemental Answer to Discovery filed
+   07-22-14
+                            No appearance of the defendant personally.  Suggesti
+on the defendant
+                            is in custody.  Cause allotted for Plea on July 23,
+2014 at 1:30 p.m.
+                            in Courtroom A.  Bond previously established is to c
+ontinue.
+                            Proof of service on file.
+                            Supplemental Discovery filed
+   07-23-14                 On motion of Ms. Corum and without objection by Ms.
+Clark, plea
+                            allotment this date is vacated and re-allotted to Ju
+ly 25, 2014 at
+                            1:30 p.m. in Courtroom A.  Bond previously establish
+ed is to continue.
+                            E-Mail on file.
+   07-25-14                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed ARMED VIOLENCE/CATEGORY I
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/33A-2(a)  Class X
+                            Sentence: 07/25/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed MFG/DEL 1<15 GR COCAINE/ANLG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(c)(2)  Class 1
+                            Sentence: 07/25/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed POSSESSION OF METH< 5 GRAMS
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 646/60(a)  Class 3
+                            Sentence: 07/25/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  Cost Only
+                            Disposition: Guilty FELON POSS/USE WEAPON/FIREARM
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/24-1.1(a)  Class 3
+                            Sentence: 07/25/2014
+                            Sentence: Cost Only  In force
+                            Sentence: Department Of Corrections  3Yrs In force
+                            Sentence: Credit Time Served  78Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Defendant's previous probation unsuccessfu
+lly termed  In for
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  78Days I
+n force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              407.00      STATE OFFENDER DN
+A    250.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Lindsey Clark.  Appearan
+ce of the
+                            Defendant personally and by counsel, Stephanie A. Co
+rum.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 03 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Felon Poss/Use Weapon/Firea
+rm ILCS: 720
+                            5/24-1.1(a) as charged. Judgment entered in favor of
+ the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  1/26/2015.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of incarceration of   3 years in the Illinois
+ Department of
+                            Corrections. Defendant is to receive credit for  78
+days previously
+                            served. The Defendant is to submit specimens of bloo
+d, saliva, or
+                            tissue to the Illinois Department of State Police or
+ to the Department
+                            of Corrections within 45 days, at a collection site
+designated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+.  Count(s) stated
+                            in the written order are herby dismissed.    Defenda
+nt advised of
+                            right to appeal and rights pursuant to Supreme Court
+ Rule 605 and the
+                            Court finds that the defendant understands the same.
+  Fines/fees
+                            assessment entered.  Waiver of Jury on file. Sentenc
+ing Order entered
+                            this date. See Order.  Defendant remanded to the cus
+tody ofthe Sheriff
+                            for transportation to the Illinois Department of Cor
+rections.
+                            Mittimus prepared.
+                            Judgment - Sentence to Illinois Dept. of Corrections
+.
+                            Sentencing order.
+                            Fees & Fines Assessment Form on file.
+                            Waiver of jury.
+   07-30-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Statement of State's Attorney filed
+   04-28-15                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

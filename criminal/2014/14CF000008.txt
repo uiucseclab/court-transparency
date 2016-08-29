@@ -1,0 +1,245 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000008
+
+   Defendant Plaintiff
+MCELMURRY  CHARLES E
+1543 S POINTE DR
+GALESBURG IL 61401
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/02/14
+                Court Room: A
+           Next Appearance: 04/04/14  02:00
+                Birth Date: 03/11/66
+                 DEFENDANT: MCELMURRY  CHARLES E
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       50.00      BOND -10% BOND FEE            50.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+      250.00       STATE OFFENDER DNA          183.00          67.00
+       80.00      TRAFFIC/CRIMINAL SU             .00          80.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      290.00      FINES                           .00         290.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      197.34      COLLECTION FEES                 .00         197.34
+       85.80      LATE FEES                       .00          85.80
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   120861042 SHERIFF'S BOOKING FEE             34.00        01/03/14
+   120861042 BOND - ORIGINAL                  500.00        01/03/14
+   121023128 BOND -10% BOND FEE                50.00        04/09/14
+   121023128 DOCUMENT STORAGE                  15.00        04/09/14
+   121023128 AUTOMATION                        15.00        04/09/14
+   121023128 CIRCUIT CLERK FEE                100.00        04/09/14
+   121023128 COURT SECURITY                    25.00        04/09/14
+   121023128 COURT FINANCE FEE                 50.00        04/09/14
+   121023128 STATES ATTORNEY                   40.00        04/09/14
+   121023128 STATES ATTORNEY AUTOMATI           2.00        04/09/14
+   121023128 ARRESTEE'S MEDICAL                10.00        04/09/14
+   121023128 PROBATION OPER ASSISTANC          10.00        04/09/14
+   121023128  STATE OFFENDER DNA ID S         183.00        04/09/14
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG BATTERY/PEACE OFFICER
+
+         2  RESIST/PC OFF/CORR/FRFTR/INJ
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   01-02-14                 Charge 01 Count 001 AGG BATTERY/PEACE OFFICER
+                            Statute 720 5/12-3.05(d)(4)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Randall Rosenbaum appears instanter.
+Defendant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond set in the am
+ount of $5,000-ROR
+                            DENIED.  Defendant is admonished as to trial and sen
+tencing in
+                            absentia. See expanded record.
+                            Notice of arrest without warrant on file.
+   01-03-14                 Sheriff Booking Fee
+   01-09-14                 Answer to Discovery filed
+                            Proof of service on file.
+                            Discovery filed.
+   02-04-14
+                            On motion of the defendant cause allotted for Pre-Tr
+ial on March 4,
+                            2014 at 9:00 a.m. in Courtroom A.  Bond is to contin
+ue.
+   03-04-14
+                            Cause allotted for the Jury Trial Call on March 17,
+2014 at 1:00 p.m.
+                            in Courtroom A.  Bond is to continue.
+   03-07-14                 Subpoena Served.  No Fees.
+   03-12-14                 Subpoena Served.  No Fees.
+   03-17-14
+                            On motion of counsel for the defendant cause allotte
+d for Pre-Trial on
+                            April 1, 2014 at 9:00 a.m. in Courtroom A.  Bond is
+to continue.
+   03-21-14                 Proof of service on file.
+                            Supplemental Discovery filed
+   04-01-14
+                            No appearance of the defendant personally.  Motion b
+y the People for
+                            bond forfeiture and issuance of warrant.  Cause allo
+tted for hearing
+                            on the People's motion for bond forfeiture and issua
+nce of warrant on
+                            April 4, 2014 at 2:00 p.m. in Courtroom A.
+   04-04-14                 Charge 02 Count 002 RESIST/PC OFF/CORR/FRFTR/INJ
+                            Statute 720 5/31-1(a-7)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG BATTERY/PEACE OFFICER
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(d)(4)  Class 2
+                            Sentence: 04/04/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty RESIST/PC OFF/CORR/FRFTR/INJ
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/31-1(a-7)  Class 4
+                            Sentence: 04/04/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  2Yrs In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            822.00      STATE OFFENDER DN
+A    250.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Lindsey Clark.  Appearan
+ce of the
+                            Defendant personally and by counsel, Stephanie A. Co
+rum.   People
+                            withdraw their motion for bond forfeiture and issuan
+ce of warrant
+                            based on the defendant's failure to appear on April
+1, 2014.
+                            Suggestion the parties have reached a plea negotiati
+on.  Pursuant to
+                            plea negotiation the People file Count II.   Defenda
+nt arraigned on
+                            Count II.  Defendant waives preliminary hearing as t
+o Count II.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Resist/Pc Off/Corr/Frftr/In
+j ILCS: 720
+                            5/31-1(a-7) as charged. Judgment entered in favor of
+ the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 10/01/2014.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of incarceration of   2 years in the Illinois
+ Department of
+                            Corrections. Defendant is to receive credit for   2
+days previously
+                            served.  Defendant is to report to Courtroom L on Ma
+y 16, 2014 at 1:30
+                            p.m. to surrender himself to begin serving the incar
+ceration order
+                            entered this date.   The Defendant is to submit spec
+imens of blood,
+                            saliva, or tissue to the Illinois Department of Stat
+e Police or to the
+                            Department of Corrections within 45 days, at a colle
+ction site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3.    Defendant advised of right to appeal and
+ rights pursuant
+                            to Supreme Court Rule 605 and the Court finds that t
+he defendant
+                            understands the same.    Waiver of Jury on file. Sen
+tencing Order
+                            entered this date. See Order.
+                            Mittimus prepared.
+                            Defendant ordered to be returned
+   04-09-14                 Bond
+   04-14-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   04-28-14                 Statement of State's Attorney filed
+   02-13-15                 Payment Due
+   07-13-16                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

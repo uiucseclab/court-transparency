@@ -1,0 +1,243 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #15CF001571
+
+   Defendant Plaintiff
+BOYKINS  HENRY J
+245 WINDING LANE
+RANTOUL IL 61866
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 10/26/15
+                Court Room:
+           Next Appearance: 12/01/17
+                Birth Date: 10/02/84
+                 DEFENDANT: BOYKINS  HENRY J
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       50.00      BOND -10% BOND FEE            50.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN           25.00         575.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      250.00       STATE OFFENDER DNA           58.00         192.00
+      100.00      TRAUMA FUND                     .00         100.00
+       10.00      TR/CR SUR $10/$40               .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121990561 SHERIFF'S BOOKING FEE             34.00        10/26/15
+   121990561 BOND - ORIGINAL                  500.00        10/26/15
+   122078944 BOND -10% BOND FEE                50.00        12/16/15
+   122078944 DOCUMENT STORAGE                  15.00        12/16/15
+   122078944 AUTOMATION                        15.00        12/16/15
+   122078944 CIRCUIT CLERK FEE                100.00        12/16/15
+   122078944 COURT SECURITY                    25.00        12/16/15
+   122078944 COURT FINANCE FEE                 50.00        12/16/15
+   122078944 STATES ATTORNEY                   40.00        12/16/15
+   122078944 STATES ATTORNEY AUTOMATI           2.00        12/16/15
+   122078944 ARRESTEE'S MEDICAL                10.00        12/16/15
+   122078944 PROBATION MONITORING FEE          25.00        12/16/15
+   122078944 PROBATION OPER ASSISTANC          10.00        12/16/15
+   122078944 CRIME LAB                        100.00        12/16/15
+   122078944  STATE OFFENDER DNA ID S          58.00        12/16/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG UUW/VEHICLE/NO FOID
+
+         2  AGG UUW/VEHICLE/CM VIOLATION
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   10-26-15                 Charge 01 Count 001 AGG UUW/VEHICLE/NO FOID
+                            Statute 720 5/24-1.6(a)(1)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            No bond No Bond
+                            Charge 02 Count 002 AGG UUW/VEHICLE/CM VIOLATION
+                            Statute 720 5/24-1.6(a)(1)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            No bond No Bond
+                            Cause set for arraignment on
+                            Sheriff Booking Fee
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Amanda Riess appears instanter.  Defen
+dant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond of $5,000 is
+to continue.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. See
+                            expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+                            Affidavit in support of request to appoint attorney.
+                            Bail Bond Release Authorization filed.
+                            Notice of arrest without warrant on file.
+   10-27-15                 Proof(s) of service on file.
+   10-28-15                 Answer to Discovery filed
+   11-06-15                 Proof(s) of service on file.
+                            Supplemental Discovery filed
+   11-10-15                 Proof(s) of service on file.
+                            Supplemental Discovery filed
+   11-13-15                 Proof(s) of service on file.
+                            Supplemental Discovery filed
+   12-01-15                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed AGG UUW/VEHICLE/CM VIOLATION
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/24-1.6(a)(1)  Class 4
+                            Sentence: 12/01/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty AGG UUW/VEHICLE/NO FOID
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/24-1.6(a)(1)  Class 4
+                            Sentence: 12/01/2015
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  2Days In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Seized contraband is forfeited to the arre
+sting agency  In f
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Cost Only              567.00     PROBATION MONITORI
+N    600.00
+                            CRIME LAB              100.00      STATE OFFENDER DN
+A    250.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally and by counsel, George Vargas.   Defendan
+t advised as to
+                            the nature of the proceedings, the charges and the p
+ossible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly, understandin
+gly and
+                            voluntarily waives rights and enters a plea of guilt
+y to Count 01 of
+                            the charging instrument.  Finding Defendant is guilt
+y of the offense
+                            of Agg Uuw/Vehicle/No Foid ILCS: 720 5/24-1.6(a)(1)
+as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.  All financial oblig
+ations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by  5/30/2016.  Any bond posted is to be appli
+ed first to any
+                            court ordered bond assignment on file and then to al
+l restitution
+                            ordered and then to all financial obligations in thi
+s case.  Any
+                            remaining bond shall be discharged to the individual
+ who posted the
+                            bond.  Defendant is ordered to serve a period of  24
+ months probation.
+                            Defendant is ordered to serve a period of incarcerat
+ion of   2 days in
+                            the Champaign County Correctional Center. Defendant
+is to receive
+                            credit for   2 days previously served. The Defendant
+ is to submit
+                            specimens of blood, saliva, or tissue to the Illinoi
+s Department of
+                            State Police or to the Department of Corrections wit
+hin 45 days, at a
+                            collection site designated by the Champaign County C
+ourt Services
+                            Department and/or Illinois Department of State Polic
+e, in accordance
+                            with 730 ILCS 5/5-4-3.  Defendant is to obtain an ev
+aluation for
+                            alcohol and drug abuse from an agency or agent recom
+mended by the
+                            Court Services Department, and follow any recommenda
+tions contained
+                            therein as to treatment and/or counseling. Any contr
+aband seized in
+                            this matter, and any additional property listed in t
+he written order
+                            is forfeited to the arresting agency. Count(s) state
+d in the written
+                            order are herby dismissed. Defendant advised of righ
+t to appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+                            Sentencing order.
+                            Waiver of jury.
+   12-08-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   12-09-15                 Disposition entered.
+   12-16-15                 Bond
+   01-22-16                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

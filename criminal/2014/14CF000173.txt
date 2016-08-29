@@ -1,0 +1,322 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000173
+
+   Defendant Plaintiff
+DEPEW  ALLISON R
+1903 OAK PARK DR
+CHAMPAIGN IL 61822
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 02/04/14
+                Court Room:
+           Next Appearance: 08/28/15
+                Birth Date: 11/19/87
+                 DEFENDANT: DEPEW  ALLISON R
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+      500.00      *RESTITUTION AMOUNT          500.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+         .00      COUNTY ORDINANCE                .00            .00
+       10.00      STATES ATTORNEY               10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN          180.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+       70.00      TRAFFIC/CRIMINAL SU           70.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      250.00      FINES                        250.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   120913836 SHERIFF'S BOOKING FEE             34.00        02/04/14
+   120913836 BOND - ORIGINAL                  150.00        02/04/14
+   121155364 PERSONAL CHECK/CREDIT CA           1.25        06/26/14
+   121155364 BOND - ORIGINAL                  100.00        06/26/14
+   121188022 PERSONAL CHECK/CREDIT CA           1.25        07/16/14
+   121188022 BOND - ORIGINAL                   50.00        07/16/14
+   121228687 PERSONAL CHECK/CREDIT CA           1.25        08/07/14
+   121228687 BOND - ORIGINAL                   50.00        08/07/14
+   121247353 BOND - ORIGINAL                  550.00        08/18/14
+   121247359 PERSONAL CHECK/CREDIT CA          52.92        08/18/14
+   121286146 BOND -10% BOND FEE                15.00        09/09/14
+   121286146 *RESTITUTION AMOUNT              500.00        09/09/14
+   121286146 DOCUMENT STORAGE                  15.00        09/09/14
+   121286146 E-CITATION                         5.00        09/09/14
+   121286146 AUTOMATION                        15.00        09/09/14
+   121286146 CIRCUIT CLERK FEE                 75.00        09/09/14
+   121286146 COURT SECURITY                    25.00        09/09/14
+   121286146 COURT FINANCE FEE                 25.00        09/09/14
+   121286146 STATES ATTORNEY                   10.00        09/09/14
+   121286146 STATES ATTORNEY AUTOMATI           2.00        09/09/14
+   121286146 CRIME STOPPERS                     5.00        09/09/14
+   121286146 ARRESTEE'S MEDICAL                10.00        09/09/14
+   121286146 PROBATION MONITORING FEE          15.00        09/09/14
+   121286146 PROBATION OPER ASSISTANC          10.00        09/09/14
+   121286146 TRAUMA FUND                      100.00        09/09/14
+   121286146 TR/CR SUR $10/$40                 70.00        09/09/14
+   121286146 DRUG COURT PROGRAM                 3.00        09/09/14
+   121286146 *RESTITUTION AMOUNT              500.00        09/09/14
+   121455818 PERSONAL CHECK/CREDIT CA           1.25        12/17/14
+   121455818 PROBATION MONITORING FEE          15.00        12/17/14
+   121455818 DRUG COURT PROGRAM                 2.00        12/17/14
+   121455818 FINES                             33.00        12/17/14
+   121488437 PERSONAL CHECK/CREDIT CA           1.25        01/09/15
+   121488437 PROBATION MONITORING FEE          15.00        01/09/15
+   121488437 FINES                             85.00        01/09/15
+   121541169 PERSONAL CHECK/CREDIT CA           1.25        02/11/15
+   121541169 PROBATION MONITORING FEE          15.00        02/11/15
+   121541169 FINES                             85.00        02/11/15
+   121583654 PERSONAL CHECK/CREDIT CA           1.25        03/06/15
+   121583654 PROBATION MONITORING FEE          15.00        03/06/15
+   121583654 FINES                             35.00        03/06/15
+   121617459 PERSONAL CHECK/CREDIT CA           1.25        03/25/15
+   121617459 PROBATION MONITORING FEE          78.00        03/25/15
+   121617459 FINES                             12.00        03/25/15
+   121617459 ST POLICE OPERATIONS ASS          10.00        03/25/15
+   121747745 PROBATION MONITORING FEE          27.00        06/09/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  FALSE REPORT OF OFFENSE
+
+         2  FAIL NOTIFY DMG/UNATTENDED VEH
+
+         2  FAIL NOTIFY DMG/UNATTENDED VEH
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   02-04-14                 Charge 01 Count 001 FALSE REPORT OF OFFENSE
+                            Statute 720 5/26-1(a)(4)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 FAIL NOTIFY DMG/UNATTENDED VEH
+                            Statute 625 5/11-404(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Sheriff Booking Fee
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Pam Burnside appears instanter.  Defen
+dant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond is to continu
+e.  Defendant is
+                            admonished as to trial and sentencing in absentia. S
+ee expanded
+                            record.
+                            Notice of arrest without warrant on file.
+   02-10-14                 Proof of service on file.
+                            Discovery filed.
+   02-11-14                 Answer to Discovery filed
+   02-13-14                 Proof of service on file.
+                            Supplemental Discovery filed
+   03-17-14                 Motion to Continue filed
+   03-18-14                 Pre-Trial held.
+                            People appear by Asst. State's Attorney.  Defendant
+appears with
+                            Counsel.  Cause is called for pre-trial.  Motion by
+the defendant to
+                            continue.  People state no objection.  Motion is all
+owed.  Cause is
+                            continued on the defendant's motion for further pre-
+trial 4/15/14 at
+                            9:00 a.m. in Courtroom C.  Defendant is admonished a
+s to trial and
+                            sentencing in absentia.  Defendant's bond is to cont
+inue.
+   04-15-14                 Pre-Trial held.
+                            People appear by Asst. State's Attorney.  Defendant
+appears with
+                            Counsel.  Cause is called for pre-trial.  Motion by
+the defendant to
+                            continue.  People state no objection.  Motion is all
+owed.  Cause is
+                            continued on the defendant's motion for further pre-
+trial 5/13/14 at
+                            9:00 a.m. in Courtroom C.  Defendant is admonished a
+s to trial and
+                            sentencing in absentia.  Defendant's bond is to cont
+inue.
+                            Motion to Continue filed
+   05-07-14                 Diversion agreement hearing.
+                            Counsel for the state and the defendant represent th
+at the parties are
+                            prepared to enter into a diversion agreement.  With
+the agreement of
+                            the parties, the felony pretrial scheduled on May 13
+, 2014, in
+                            Courtroom C is ordered vacated.   An initial diversi
+on hearing is set
+                            for May 29, 2014 at 02:30 PM in Courtroom F.  The de
+fendant is ordered
+                            to appear.  Notice to be given by the clerk by e-mai
+l.
+   05-29-14                 Second chance program agreement.
+                            Scott M. Bennett appears for the People.  Defendant
+appears personally
+                            and by counsel, Stehpanie Corum, who appears for Kat
+ie L. Jessup.
+                            Cause called for initial diversion hearing.  Second
+Chance Program
+                            Agreement presented to the court and placed on file.
+ Cause is allotted
+                            for final diversion hearing on August 28, 2014 at 02
+:30 PM in
+                            Courtroom F.  Defendant's bond to continue.
+   06-26-14                 Check Full Cash
+   07-16-14                 Check Full Cash
+   08-07-14                 Check Full Cash
+   08-11-14                 Certificate of completion of public service work fil
+ed
+   08-18-14                 Bond Type Full Cash
+                            Miscellaneous
+   08-28-14                 Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Withhold Judgment/Supervision FAIL NOTI
+FY DMG/UNATTENDED
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-404(a)  Class A
+                            Sentence: 08/28/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Court Supervision  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  50Hrs In force
+                                      Supervised Court Service
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Court Supervision Fee  In force
+                            Fine + Cost            642.00     *RESTITUTION AMOUN
+T    500.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    180.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Scott M. Bennett.  Appea
+rance of the
+                            Defendant personally and by counsel, Katie L. Jessup
+. Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Fail Notify Dmg/Unattended
+Veh ILCS: 625
+                            5/11-404(a) as charged. Upon the plea entered this d
+ate,Defendant is
+                            sentenced to all terms and conditions as set forth i
+n the written
+                            order on guilty plea entered this date. All financia
+l obligations
+                            shall be paid in equal monthly installments to the C
+hampaign County
+                            Circuit Clerk by  2/24/2015.  Any bond posted is to
+be applied first
+                            to any court ordered bond assignment on file and the
+n to all
+                            restitution ordered and then to all financial obliga
+tions in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of 12 months
+                            Court Supervision. Defendant is ordered to perform
+50 hours of public
+                            service work under the supervision of the Champaign
+County Court
+                            Services Department.  The defendant is to be given c
+redit on public
+                            service work for any hours completed in education, t
+reatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes. Count I is dismissed. Defenda
+nt advised of
+                            right to appeal and rights pursuant to Supreme Court
+ Rule 605 and the
+                            Court finds that the defendant understands the same.
+ Waiver of Jury on
+                            file. Sentencing Order entered this date. See Order.
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed FALSE REPORT OF OFFENSE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/26-1(a)(4)  Class 4
+                            Sentence: 08/28/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Sentencing order.
+                            Waiver of jury.
+   09-08-14                 Disposition sent through ADR process this date. SOS
+                            Disposition sent through ADR process this date. SPT
+   09-09-14                 Bond
+   12-17-14                 Check
+   01-09-15                 Check
+   02-11-15                 Check
+   03-06-15                 Check
+   03-25-15                 Check
+   06-09-15                 Cash
+   08-28-15                 Disposition 02/01  Count 002  No Fine & Cost
+                            Disposition: Terminated Satisfied FAIL NOTIFY DMG/UN
+ATTENDED VEH
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-404(a)  Class A
+                            Sentence: 08/28/2015
+                            Sentence: No Sentence  In force
+   08-31-15                 Docket Order
+                            Court notes the Defendant's successful completion of
+ the terms of
+                            Court Supervision. Court Supervision is hereby Disch
+arged, and cause
+                            is ordered dismissed nunc pro tunc to 08/28/2015.
+   09-01-15                 All obligations have been met, case is closed.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

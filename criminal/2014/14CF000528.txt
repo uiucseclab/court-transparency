@@ -1,0 +1,420 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000528
+
+   Defendant Plaintiff
+DOUGLAS  JASON E
+1864 CR 1600 N
+URBANA IL 61802
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 04/22/14
+                Court Room:
+           Next Appearance: 08/22/16
+                Birth Date: 02/27/88
+                 DEFENDANT: DOUGLAS  JASON E
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      350.00      BOND -10% BOND FEE           350.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          600.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      150.00      TRAFFIC/CRIMINAL SU          150.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       10.00      PRELIMINARY HEARING           10.00            .00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+         .00       STREET VALUE DRUG              .00            .00
+      100.00      DRUG TRAFFIC PREVEN          100.00            .00
+      485.00      MANDATORY ASSESSMEN          485.00            .00
+         .00      ST POLICE SERVICES              .00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121054288 SHERIFF'S BOOKING FEE             34.00        04/29/14
+   121054288 BOND - ORIGINAL                 1000.00        04/29/14
+   121098741 SHERIFF'S BOOKING FEE             34.00        05/23/14
+   121098741 BOND - ORIGINAL                 2500.00        05/23/14
+   121285804 BOND -10% BOND FEE               350.00        09/09/14
+   121285804 DOCUMENT STORAGE                  15.00        09/09/14
+   121285804 AUTOMATION                        15.00        09/09/14
+   121285804 CIRCUIT CLERK FEE                100.00        09/09/14
+   121285804 COURT SECURITY                    25.00        09/09/14
+   121285804 COURT FINANCE FEE                 50.00        09/09/14
+   121285804 STATES ATTORNEY                   40.00        09/09/14
+   121285804 STATES ATTORNEY AUTOMATI           2.00        09/09/14
+   121285804 CRIME STOPPERS                    10.00        09/09/14
+   121285804 ARRESTEE'S MEDICAL                10.00        09/09/14
+   121285804 PROBATION MONITORING FEE          25.00        09/09/14
+   121285804 PROBATION OPER ASSISTANC          10.00        09/09/14
+   121285804 SPINAL CORD RESEARCH FUN           5.00        09/09/14
+   121285804 CRIME LAB                        100.00        09/09/14
+   121285804  STATE OFFENDER DNA ID S         250.00        09/09/14
+   121285804 TRAUMA FUND                      100.00        09/09/14
+   121285804 TR/CR SUR $10/$40                150.00        09/09/14
+   121285804 DRUG COURT PROGRAM                 5.00        09/09/14
+   121285804 PRELIMINARY HEARING               10.00        09/09/14
+   121285804 VIOLENT CRIME VICTIMS AS         100.00        09/09/14
+   121285804 DRUG TRAFFIC PREVENTION          100.00        09/09/14
+   121285804 MANDATORY ASSESSMENT             485.00        09/09/14
+   121285804 ST POLICE OPERATIONS ASS          10.00        09/09/14
+   121285804 *BOND REFUND                    1533.00        09/09/14
+   121345965 PROBATION MONITORING FEE         180.00        10/14/14
+   121452989 PROBATION MONITORING FEE          42.00        12/16/14
+   121514850 PROBATION MONITORING FEE         353.00        01/27/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+         2  POSS CANNABIS/30-500 GRAM/1ST
+
+         3  POSS AMT CON SUB EXCEPT(A)/(D)
+
+         4  DUI ANY AMOUNT OF DRUG
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   04-22-14                 Charge 01 Count 001 POSS AMT CON SUB EXCEPT(A)/(D)
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Agency: ILLINOIS STATE POLICE TASK FOR  Charge Instr
+: Information
+                            NO BOND No Bond
+                            Charge 02 Count 002 POSS CANNABIS/30-500 GRAM/1ST
+                            Statute 720 550/4(d)  Class 4  Orig.
+                            Agency: ILLINOIS STATE POLICE TASK FOR  Charge Instr
+: Information
+                            NO BOND No Bond
+                            Charge 03 Count 003 POSS AMT CON SUB EXCEPT(A)/(D)
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Agency: ILLINOIS STATE POLICE TASK FOR  Charge Instr
+: Information
+                            NO BOND No Bond
+                            Charge 04 Count 004 DUI ANY AMOUNT OF DRUG
+                            Statute 625 5/11-501(a)(6)  Class A  Orig.
+                            Agency: ILLINOIS STATE POLICE TASK FOR  Charge Instr
+: Information
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel.  Bond set in the amount of $1
+0,000-ROR DENIED.
+                            Defendant's driver's license is to be transferred fr
+om case 14-DT-172
+                            to this case. Defendant is admonished as to trial an
+d sentencing in
+                            absentia.  See expanded record.
+                            Notice of arrest without warrant on file.
+   04-23-14                 DL ON FILE Transferred from 14DT172
+   04-29-14                 Sheriff Booking Fee
+   04-30-14                 Expanded record of arraignment proceedings.
+                            Appearance and Entry of Appearance of attorney, Will
+iam Sohn, with the
+                            Defendant.  Defendant requests Preliminary hearing.
+Motion for
+                            Pre-trial Discovery Pursuant to Illinois Supreme Cou
+rt Rule 412 placed
+                            on file. Bond to continue. Assignment of Bail Bond b
+y the Defendant on
+                            file and approved. Defendant admonished as to trial
+and sentencing in
+                            absentia. See expanded record.
+   05-01-14                 Preliminary hearing allotted 5/15/14 at 8:30 a.m. is
+ in Courtroom E,
+                            not F. Counsel notified this date.
+   05-09-14                 Subpoena Served.  No Fees.
+   05-15-14                 Pretrial order after waiver or finding of probable c
+ause
+                            People appear by Sarah N. Perry.  Defendant appears
+personally and
+                            with counsel, William S. Sohn.  Cause called for pre
+liminary hearing.
+                            Witnesses sworn. Evidence heard. The Court having he
+ard the evidence
+                            on preliminary hearing and being fully advised in th
+e premises finds
+                            probable cause to believe that the Defendant has com
+mitted one or more
+                            felony offenses as charged in the information.   Def
+endant enters a
+                            plea of not guilty and requests trial by jury.  Pre-
+Trial Discovery
+                            Order on file.  Bond is raised to $25,000-ROR DENIED
+. Defendant is
+                            remanded to the custody of the Champaign County Sher
+iff. Prior bond
+                            posted is to apply.
+   05-21-14                 Proof of service on file.
+                            Discovery filed.
+   05-23-14                 Sheriff Booking Fee
+   05-28-14                 Affidavit of mailing on file.
+   06-10-14                 Stipulated Order on Substitution of Counsel
+                            Stipulated Order for Substitution of Counsel tendere
+d to the Court,
+                            approved, and placed on file. William Sohn is vacate
+d as counsel fo
+                            record, and Brett Olmstead is entered as attorney of
+ record. The
+                            pre-trial setting on 07/11/14 at 9:00 am is hereby v
+acated. Cause is
+                            re-allotted for Pre-trial
+   06-16-14                 Affidavit of mailing on file.
+   06-24-14                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   07-11-14                 Defendant's motion for continuance.
+                            People appear by Elizabeth A. Dornik.  Defendant app
+ears personally
+                            and with counsel, Brett N. Olmstead. Motion by the D
+efendant for
+                            continuance.  Motion allowed. Bond is to continue.
+   07-24-14                 Petition to Rescind Statutory Summary Suspension on
+file by the
+                            defendant by his attorney Brett N. Olmstead.
+   07-28-14                 Motion to Supopress evidence and Statements on file
+   07-29-14                 Petition to Rescind SSS set for hearing
+                            Court notes Petition to Rescind SSS on file, by Peti
+tioner/Defendant.
+                            Cause is allotted for hearing. Respondent/People are
+ directed to send
+                            Notice of Hearing.
+   07-30-14                 Affidavit of mailing on file.
+                            Notice of Hearing Filed
+   08-04-14                 Motion to Suppress allotted for hearing
+                            Court notes Defendant's Motion to Suppress on file.
+Cause is allotted
+                            for hearing. People to send Notice of Hearing.
+   08-05-14                 Affidavit of mailing on file.
+                            Notice of Hearing Filed
+                            Subpoena Served.  No Fees.
+   08-15-14                 Motion allotted for hearing
+                            People appear by Elizabeth A. Dornik. Defendant appe
+ars personally,
+                            and by counsel. Court notes setting for Petition to
+Rescind SSS
+                            previously allotted. Defendant's motion to allot Mot
+ion to Suppress
+                            previously filed to the same hearing. Motion is allo
+wed. Cause is
+                            continued for said hearing.
+   08-20-14                 Hearing on the Petition to Rescind SSS
+                            People appear by AJ Ruggieri. Defendant appears pers
+onally, and by
+                            counsel, Brett Olmstead. Pursuant to the Plea, the P
+eople confess the
+                            Petition to Rescind SSS. Defendant's Suspension is h
+ereby rescinded,
+                            and the Circuti Clerk is directed to notify the IL S
+ecretary of State.
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed POSS AMT CON SUB EXCEPT(A)/(D
+)
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/402(c)  Class 4
+                            Sentence: 08/20/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed POSS CANNABIS/30-500 GRAM/1ST
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 550/4(d)  Class 4
+                            Sentence: 08/20/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed DUI ANY AMOUNT OF DRUG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)(6)  Class A
+                            Sentence: 08/20/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  Fine + Cost
+                            Disposition: Withhold Judgment/1410 Probation POSS A
+MT CON SUB EXCEPT(
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 570/402(c)  Class 4
+                            Sentence: 08/20/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: First Offender Probation - Controlled Subs
+tances Act  24Mos
+                                      Supervised Court Service
+                            Sentence: Public Service  30Hrs In force
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Credit toward all fees and fines  3Days In
+ force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Mandatory Street Value Fine  In force
+                            Sentence: Mandatory Assessment Fine  In force
+                            Fine + Cost           1472.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    600.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    250.00     PRELIMINARY HEARIN
+G     10.00
+                            DRUG TRAFFIC PREVEN    100.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by AJ Ruggieri.  Appearance
+ of the Defendant
+                            personally and by counsel, Brett N. Olmstead.   Defe
+ndant advised as
+                            to the nature of the proceedings, the charges and th
+e possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 03
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Poss Amt Con Sub Except(A)/(D) ILCS: 720
+570/402(c), a
+                            Class 4 Felony, as charged. Upon the plea entered th
+is date, Defendant
+                            is sentenced to all terms and conditions as set fort
+h in the written
+                            order on guilty plea entered this date. All financia
+l obligations
+                            shall be paid in equal monthly installments to the C
+hampaign County
+                            Circuit Clerk by  2/16/2015.  Any bond posted is to
+be applied first
+                            to any court ordered bond assignment on file and the
+n to all
+                            restitution ordered and then to all financial obliga
+tions in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of  24 months
+                            First Offender Probation pursuant to the Controlled
+Substances Act.
+                            Defendant is ordered to perform  30 hours of public
+service work under
+                            the supervision of the Champaign County Court Servic
+es Department.
+                            The defendant is to be given credit on public servic
+e work for any
+                            hours completed in education, treatment, aftercare,
+sobriety based
+                            self-help group meetings, Victim Impact Panel and GE
+D classes. The
+                            Defendant is to submit specimens of blood, saliva, o
+r tissue to the
+                            Illinois Department of State Police or to the Depart
+ment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+.  Defendant is to
+                            obtain an evaluation for alcohol and drug abuse from
+ an agency or
+                            agent recommended by the Court Services Department,
+and follow any
+                            recommendations contained therein as to treatment an
+d/or counseling.
+                            Count(s) stated in the written order are herby dismi
+ssed. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+                            Sentencing order.
+                            Waiver of jury.
+   08-21-14                 Sworn report on file.  Defendant was tested for drug
+s.
+   08-22-14                 Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            50.0% to the General Corporate Fund of Champaign Cou
+nty, and
+                            37.5% to the Illinois State Treasury.
+   08-28-14                 Confirmation of Statutory Summary Suspension on file
+.
+                            Provisional reinstatement date 3-30-15
+   08-29-14                 Disposition sent through ADR process this date. SPC
+SPT
+                            Disposition sent through ADR process this date. SPC
+SPT
+                            Disposition sent through ADR process this date. SPC
+SPT
+                            Disposition sent through ADR process this date. SPC
+SPT
+   09-03-14                 Release of Bond Assignement on file
+   09-09-14                 Email from Court clerk filed.
+                            Bond
+   09-16-14                 Notice to rescind sent to sos.
+                            Notice to rescend was given to defts. attorney in a
+sealed envelope
+                            this date.
+                            Driver's license returned to defendant at the counte
+r.
+   09-19-14                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   10-14-14                 Court Ordered Payments
+   12-16-14                 Court Ordered Payments
+   01-27-15                 Court Ordered Payments
+   11-16-15                 Completion of Volunteer Work from Habitat for Humani
+ty on file
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

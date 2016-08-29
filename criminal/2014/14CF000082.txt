@@ -1,0 +1,428 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000082
+
+   Defendant Plaintiff
+KIRKWOOD  TYLER J
+1018 300 CR N
+PESOTUM IL 61863
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/17/14
+                Court Room:
+           Next Appearance: 08/14/15
+                Birth Date: 10/04/85
+                 DEFENDANT: KIRKWOOD  TYLER J
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+         .00      CRIME STOPPERS                  .00            .00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       25.00      PROBATION MONITORIN             .00         325.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+         .00       STATE OFFENDER DNA             .00            .00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+      325.00      PROBATION MONITORIN             .00         325.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  ROBBERY
+
+         2  BURGLARY
+
+         1  AGG BATTERY/PUBLIC PLACE
+
+         1  AGG BATTERY/PUBLIC PLACE
+
+         1  AGG BATTERY/PUBLIC PLACE
+
+         1  AGG BATTERY/PUBLIC PLACE
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   01-17-14                 Charge 01 Count 001 ROBBERY
+                            Statute 720 5/18-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 BURGLARY
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Charge 03 Count 001 AGG BATTERY/PUBLIC PLACE
+                            Statute 720 5/12-3.05(c)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and T. Allegretti appears instanter.  Defe
+ndant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  See expanded recor
+d.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+                            Bond set in the amount of $50,000. ROR DENIED.
+                            Notice of arrest without warrant on file.
+   01-28-14                 Proof of service on file.
+                            Discovery filed.
+   01-30-14                 Answer to Discovery filed
+                            Proof of service on file.
+                            Supplemental Discovery filed
+   02-13-14                 Cause allotted for plea to
+   02-14-14                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed ROBBERY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/18-1(a)  Class 2
+                            Sentence: 02/14/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2
+                            Sentence: 02/14/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 001  Cost Only
+                            Disposition: Guilty AGG BATTERY/PUBLIC PLACE
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/12-3.05(c)  Class 3
+                            Sentence: 02/14/2014
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  18Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  30Days In force
+                            Sentence: Credit Time Served  30Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: No contact order.  In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: State not to file a Petition to Revoke in
+other cases.  In f
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  18Mos In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  30Days I
+n force
+                            Cost Only              407.00     CRIME STOPPERS
+        .00
+                            PROBATION MONITORIN    325.00      STATE OFFENDER DN
+A       .00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Matthew P. Banach.  Appe
+arance of the
+                            Defendant personally, in custody and with counsel, J
+anie Miller-Jones.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 03 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Aggravated Battery ILCS: 72
+0 5/12-3.05(c) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  6/09/2015.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  18
+                            months probation pursuant to the standard terms and
+conditions of
+                            probation and the terms and conditions as set forth
+in the written
+                            order entered this date.  Defendant is ordered to se
+rve a period of
+                            incarceration of  30 days in the Champaign County Co
+rrectional Center.
+                            Defendant is to receive credit for  30 days previous
+ly served.  If not
+                            previously done so by him, the Defendant is to submi
+t specimens of
+                            blood, saliva, or tissue to the Illinois Department
+of State Police or
+                            to the Department of Corrections within 45 days, at
+a collection site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3.  Defendant is only ordered to pay the $250.
+00 genetic marker
+                            grouping analysis fee, if the defendant has not prev
+iously provided a
+                            specimen of DNA to the Illinois State Police.   Defe
+ndant is to have
+                            no contact, directly or indirectly, in person, by te
+lephone or
+                            electronically with the persons stated in the writte
+n order. Count(s)
+                            stated in the written order are herby dismissed. The
+ State agrees not
+                            to file a Petition to Revoke in the case(s) specifie
+d in the written
+                            order based solely on the basis of this conviction.
+Defendant advised
+                            of right to appeal and rights pursuant to Supreme Co
+urt Rule 605 and
+                            the Court finds that the defendant understands the s
+ame.  Defendant is
+                            ordered to report to the Court Services Department n
+o later than 4:30
+                            p.m. on 2/18/14.  Waiver of Jury on file. Sentencing
+ Order entered
+                            this date. See Order.
+   02-19-14                 Notice received from Court Services/Circuit Court th
+at the
+                            Defendant had previously provided a sample of his bl
+ood, saliva or
+                            tissue for DNA analysis.  Therefore, per Administrat
+ive Order 10-1,
+                            that part of the sentencing order has been satisfied
+.
+   03-03-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   01-21-15                 Probation Violation Report on file
+   01-28-15                 Petition to Revoke Probation filed.
+   01-30-15                 Cause allotted for hearing on
+                            People appear by Troy Lozar. Defendant is in custody
+ but refusing to
+                            appear. Court notes the Petition to Revoke on file.
+Bond set in the
+                            amount of $50,000-ROR DENIED. Cause is continued for
+ arraignment to
+                            2/2/15 at 1:30 p.m. in Courtroom F. Cause is further
+ allotted for
+                            hearing on the Petition on 2/9/15 at 10:00 a.m. in C
+ourtroom C.
+                            Cause allotted for hearing on the Petition to Revoke
+ for
+   02-02-15                 Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ra
+ndy Rosenbaum
+                            appears instanter.  General denial to the Petition i
+s entered. Cause
+                            remains allotted for hearing on the Petition on 2/9/
+15 at 10:00 a.m.
+                            in Courtroom C. Bond is to continue. Defendant is ad
+monished as to
+                            trial and sentencing in absentia.  See expanded reco
+rd.
+                            Expanded record of court proceedings on arraignment.
+   02-09-15                 PTR continued on the respondent's motion
+                            Petitioner/People appear by Asst. State's Attorney.
+                            Respondent/Defendant appears with Counsel.  Cause is
+ called for
+                            hearing on the Petition to Revoke.  Motion by the re
+spondent/defendant
+                            to continue; People/Petitioner state no objection.
+                            Respondent's/Defendant's motion to continue is allow
+ed.  By agreement,
+                            cause is continued for further proceedings on the Pe
+tition to Revoke
+                            on 3/09/15 at 9:15 a.m. in Courtroom C.  All previou
+s conditions of
+                            probation continue in full force and effect.  Bond i
+s to continue.
+   03-09-15                 PTR continued on respondent's motion
+                            Petitioner/People appear by Asst. State's Attorney.
+                            Respondent/Defendant appears with Counsel.  Cause is
+ called for
+                            hearing on the Petition to Revoke.  Motion by the re
+spondent/defendant
+                            to continue; People/Petitioner state no objection.
+                            Respondent's/Defendant's motion to continue is allow
+ed.  By agreement,
+                            cause is continued for further proceedings on the Pe
+tition to Revoke
+                            on 3/10/15 at 10:00 a.m. in Courtroom C.  All previo
+us conditions of
+                            probation continue in full force and effect.  Bond i
+s to continue.
+   03-10-15                 Disposition 03/01  Count 001  Cost Only
+                            Disposition: Revocation/Vacate/Probation AGG BATTERY
+/PUBLIC PLACE
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/12-3.05(c)  Class 3
+                            Sentence: 03/10/2015
+                            Sentence: Cost Only  In force
+                            Sentence: Department Of Corrections  2Yrs In force
+                            Sentence: Credit Time Served  72Days In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Defendant's previous probation unsuccessfu
+lly termed  In for
+                            Sentence: PTR in other cases withdrawn and dismissed
+  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Credit toward all fees and fines  42Days I
+n force
+                            Cost Only              282.00
+                            Payment Due
+                            Resentencing on petition to revoke.
+                            People/Petitioner appear by Dan Clifton who appears
+on behalf of Mr.
+                            Sullivan.  Defendant/Respondent appears personally a
+nd with counsel,
+                            Janie Miller-Jones.  Defendant/Respondent advised as
+ to the nature of
+                            the proceedings and the possible penalties that may
+be imposed and the
+                            Court finds that the defendant/respondent understand
+s the same.
+                            Finding defendant/respondent knowingly, understandin
+gly and
+                            voluntarily stipulates and admits to the allegations
+ contained in the
+                            Petition to Revoke.  Finding the same are true.  The
+ court finds that
+                            the defendant/respondent has violated the terms of h
+is sentence.
+                            Finding entered in favor of the people/petitioner an
+d against
+                            defendant/respondent.
+                            Resentencing order on petition to revoke.
+                            By agreement of the parties, cause called for resent
+encing.
+                            Statements of counsel heard.  Upon the Judgment of g
+uilt and upon the
+                            judgment revoking defendant's probation the Court re
+sentences the
+                            defendant to:  Defendant is ordered to serve a perio
+d of incarceration
+                            of   2 years, in the Illinois Department of Correcti
+ons. Defendant is
+                            to receive credit for  72 days previously served.  D
+efendant is
+                            ordered to pay all outstanding fines, fees and costs
+ previously
+                            imposed and any new fines, fees and costs incurred i
+n this matter
+                            including the fines as set forth in the written orde
+r entered this
+                            date.  Defendant is to receive credit of $210 toward
+s the fines and
+                            costs based on the additional 42 days served.  On th
+e State's motion,
+                            the Petition to Revoke in case 14-CF-82 is withdrawn
+  and dismissed.
+                            Defendant's probation in case 14-CF-82 is terminated
+ unsuccessfully.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same.
+                            Mittimus prepared.
+                            Judgment - Sentence to Illinois Dept. of Corrections
+.
+                            Fees & Fines Assessment Form on file.
+                            Disposition 03/02  Count 001  Modified Order
+                            Disposition: Modified/Trial Court AGG BATTERY/PUBLIC
+ PLACE
+                            Modified Order         412.00     PROBATION MONITORI
+N    325.00
+                            Disposition 03/03  Count 001  No Fine & Cost
+                            Disposition: Terminated Unsatisfied AGG BATTERY/PUBL
+IC PLACE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(c)  Class 3
+                            Sentence: 03/10/2015
+                            Sentence: No Sentence  In force
+   03-11-15                 Sentencing Order / Resentencing on Petition to revok
+e on
+                            file.
+   03-12-15                 Case reinstated by court.
+                            Statement of State's Attorney filed
+   03-19-15                 Disposition sent through ADR process this date. SPT
+   03-23-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

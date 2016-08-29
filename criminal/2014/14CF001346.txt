@@ -1,0 +1,358 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF001346
+
+   Defendant Plaintiff
+DELIRA MARTINEZ  EDGAR E
+508 E JEFFERSON ST
+ARCOLA IL 61910
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 09/30/14
+                Court Room:
+           Next Appearance: 12/05/16
+                Birth Date: 03/09/87
+                 DEFENDANT: DELIRA MARTINEZ  EDGAR E
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      280.00      BOND -10% BOND FEE           280.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN          221.00         139.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      320.00      TRAFFIC/CRIMINAL SU          320.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       39.00      SHERIFF FEES                  39.00            .00
+      490.00      FINES                        490.00            .00
+      350.00      DUI NEW EQUIPMENT F          350.00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+      128.00      DRIVERS EDUCATION            128.00            .00
+      400.00      DUI - 80% IL GENERA          400.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+       70.00      WARRANT SERVICE FEE           70.00            .00
+       15.00      CLERK OP & ADMIN FU           15.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121345602 SHERIFF'S BOOKING FEE             34.00        10/14/14
+   121345602 BOND - ORIGINAL                 2500.00        10/14/14
+   121358733 BOND TRANSFERS IN                300.00        10/21/14
+   121444269 WARRANT SERVICE FEE               70.00        12/10/14
+   121444269 CLERK OP & ADMIN FUND              5.00        12/10/14
+   121444349 BOND -10% BOND FEE               280.00        12/10/14
+   121444349 DOCUMENT STORAGE                  15.00        12/10/14
+   121444349 AUTOMATION                        15.00        12/10/14
+   121444349 CIRCUIT CLERK FEE                100.00        12/10/14
+   121444349 COURT SECURITY                    25.00        12/10/14
+   121444349 COURT FINANCE FEE                 50.00        12/10/14
+   121444349 STATES ATTORNEY                   40.00        12/10/14
+   121444349 STATES ATTORNEY AUTOMATI           2.00        12/10/14
+   121444349 CRIME STOPPERS                    10.00        12/10/14
+   121444349 ARRESTEE'S MEDICAL                10.00        12/10/14
+   121444349 PROBATION MONITORING FEE          15.00        12/10/14
+   121444349 PROBATION OPER ASSISTANC          10.00        12/10/14
+   121444349 SPINAL CORD RESEARCH FUN           5.00        12/10/14
+   121444349  STATE OFFENDER DNA ID S         250.00        12/10/14
+   121444349 TRAUMA FUND                      100.00        12/10/14
+   121444349 TR/CR SUR $10/$40                320.00        12/10/14
+   121444349 CLERK OP & ADMIN-SERIOUS           5.00        12/10/14
+   121444349 DRUG COURT PROGRAM                 5.00        12/10/14
+   121444349 SHERIFF FEES                      39.00        12/10/14
+   121444349 FINES                            490.00        12/10/14
+   121444349 DUI NEW EQUIPMENT FINE           350.00        12/10/14
+   121444349 VIOLENT CRIME VICTIMS AS         100.00        12/10/14
+   121444349 DRIVERS EDUCATION                128.00        12/10/14
+   121444349 DUI - IL GENERAL REVENUE         361.00        12/10/14
+   121520588 PROBATION MONITORING FEE          15.00        01/30/15
+   121520588 DUI - IL GENERAL REVENUE          39.00        01/30/15
+   121520588 FIRE PREVENTION FUND               6.00        01/30/15
+   121555070 PROBATION MONITORING FEE          41.00        02/20/15
+   121555070 FIRE PREVENTION FUND               9.00        02/20/15
+   121555070 FIRE TRUCK REVOLVING LOA          15.00        02/20/15
+   121555070 ST POLICE SERVICES FUND           10.00        02/20/15
+   121555070 ST POLICE OPERATIONS ASS          15.00        02/20/15
+   121555070 CLERK OP & ADMIN FUND             10.00        02/20/15
+   121620310 PROBATION MONITORING FEE         100.00        03/27/15
+   122032732 PROBATION MONITORING FEE          50.00        11/18/15
+   122435523 COPIES                             1.00        07/15/16
+   122435523 COPIES                             5.00        07/15/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG DUI/NO VALID DL
+
+         1  AGG DUI/NO VALID DL
+
+         2  AGG DUI/NO VALID DL
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   09-30-14                 Charge 01 Count 001 AGG DUI/NO VALID DL
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 AGG DUI/NO VALID DL
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+   10-10-14                 Warrant issued.
+                            People appear by Elizabeth A. Dornik.   Appearance o
+f   on behalf of
+                            the Defendant.  No appearance by Defendant as previo
+usly ordered by
+                            the Court.  Motion by People for bond forfeiture and
+ warrant.
+                            Objection by counsel for Defendant.  Motion is allow
+ed.  Defendant's
+                            bond is forfeited.  Warrant issued with bond set in
+the amount of $
+                            25,000.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+                            Warrant of arrest filed.
+   10-14-14                 FTA warrant service fee of $75 is still owed.
+                            The arresting agency is Champaign County Sheriff
+                            Sheriff Booking Fee
+                            Cause continued for further proceedings
+                            Expanded Record and/or Pre-trial Order
+                            Spanish interpreter appears. Defendant arraigned.  T
+he Champaign
+                            County Public Defender is appointed and Tony Allegre
+tti appears
+                            instanter.  Defendant waives preliminary hearing, en
+ters a plea of not
+                            guilty and requests trial by jury.  Pre-trial orders
+ entered.  Bond is
+                            to continue. Defendant is admonished as to trial and
+ sentencing in
+                            absentia. See expanded record.
+                            Reinstate Bond.
+                            Bond forfeiture previously entered is vacated and bo
+nd is reinstated.
+                            Bond forfeiture hearing of 11/14/14 is vacated.
+                            Expanded record of court proceedings on arraignment.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+                            Affidavit in support of request to appoint attorney.
+                            Warrant served. Service fees $39.00
+                            Released On Recognizance bond form on file.
+   10-16-14                 Proof(s) of service on file.
+                            Discovery filed.
+   10-17-14                 Answer to Discovery filed
+   10-21-14                 Bond Type Transfer Bond From    2014DT000433 DELIRA
+MARTINEZ EDGAR E
+   11-13-14                 Defendant's motion for continuance.
+                            People appear by Elizabeth A. Dornik.  Defendant app
+ears personally
+                            and with counsel, George Vargas. Spanish Interpreter
+ appears. Motion
+                            by the Defendant for continuance.  Motion allowed. B
+ond is to
+                            continue.
+   11-14-14                 EHD Eligibility Certificate filed
+   11-17-14                 Drug and alcohol evaluation sealed and placed on fil
+e.
+   12-04-14                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed AGG DUI/NO VALID DL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 12/04/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty AGG DUI/NO VALID DL
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 12/04/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  90Days In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Public Service  150Hrs In force
+                                      Supervised Court Service
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           2559.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    360.00      STATE OFFENDER DN
+A    250.00
+                            WARRANT SERVICE FEE     70.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Lindsey Clark.  Appearan
+ce of the
+                            Defendant personally and by counsel, George Vargas.
+  A Spanish
+                            interpreter is present. Cause called for sentencing.
+ Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Agg Dui/No Valid Dl ILCS: 625 5/11-501(a)
+ as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.  All financial oblig
+ations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by  6/02/2015.  Any bond posted is to be appli
+ed first to any
+                            court ordered bond assignment on file and then to al
+l restitution
+                            ordered and then to all financial obligations in thi
+s case.  Any
+                            remaining bond shall be discharged to the individual
+ who posted the
+                            bond.  Defendant is ordered to serve a period of  24
+ months probation.
+                            Defendant is ordered to serve a period of incarcerat
+ion of  90 days in
+                            the Champaign County Correctional Center. Defendant
+is to receive
+                            credit for   2 days previously served. The Defendant
+ is to submit
+                            specimens of blood, saliva, or tissue to the Illinoi
+s Department of
+                            State Police or to the Department of Corrections wit
+hin 45 days, at a
+                            collection site designated by the Champaign County C
+ourt Services
+                            Department and/or Illinois Department of State Polic
+e, in accordance
+                            with 730 ILCS 5/5-4-3. Defendant is ordered to perfo
+rm 150 hours of
+                            public service work under the supervision of the Cha
+mpaign County
+                            Court Services Department.  The defendant is to be g
+iven credit on
+                            public service work for any hours completed in educa
+tion, treatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes.  Defendant is to attend the n
+ext Victim Impact
+                            Panel presented by the Champaign County Court Servic
+es Department.
+                            Defendant is to obtain an evaluation for alcohol and
+ drug abuse within
+                            60 days from an agency or agent recommended by Court
+ Services and
+                            follow any recommendations contained therein. Count(
+s) stated in the
+                            written order are hereby dismissed. Defendant has be
+en advised of the
+                            rights of a Defendant under Supreme Court Rule 605 t
+he Court finds the
+                            Defendant understands those rights. Waiver of Jury o
+n file. Sentencing
+                            Order entered this date. See Order. Defendant is dir
+ected to report to
+                            the Champaign County Satellite Jail on December 9, 2
+014 at 9:00 a.m.
+                            for commencement of imposed sentence.
+                            Sentencing order.
+                            Waiver of jury.
+   12-10-14                 Bond
+                            Bond
+   12-18-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SOS
+SPT
+   01-30-15                 Court Ordered Payments
+   02-02-15                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   02-04-15                 Temporary Travel Permit approved and placed on file.
+ See Permit.
+   02-20-15                 Court Ordered Payments
+   03-27-15                 Cash
+   11-18-15                 Cash
+   02-17-16                 Probation Terminated Unsuccessfully
+                            People appear by Tobias Ortega. Defendant appears pe
+rsonally, and by
+                            counsel, George Vargas. Spanish Interpreter appears.
+ Pursuant to the
+                            plea in 15CF606, probation in this matter is hereby
+terminated
+                            unsuccessfully.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Terminated Unsatisfied AGG DUI/NO VALID
+ DL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 02/17/2016
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   02-23-16                 Case closed.
+   02-25-16                 Disposition sent through ADR process this date. SPT
+   04-11-16                 Pursuant to Sentencing Order in 15-CF-606,
+                            Defendant's probation in this matter is hereby unsuc
+cessfully
+                            terminated.
+   07-15-16                 Copies & Certified Copies
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,262 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #15CF000379
+
+   Defendant Plaintiff
+CLAY  JOHN L
+601 CRESCENT APT 15
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 03/19/15
+                Court Room: A
+           Next Appearance: 04/22/15  02:30
+                Birth Date: 02/05/92
+                 DEFENDANT: CLAY  JOHN L
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       10.00      DOMESTIC BATTERY                .00          10.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+       60.00      TRAFFIC/CRIMINAL SU             .00          60.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      DOMESTIC VIOLENCE               .00          10.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG DOMESTIC BATTERY/STRANGLE
+
+         2  AGG BATTERY/USE DEADLY WEAPON
+
+         3  DOM BTRY/CONTACT/1-2 PRI CONV
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   03-19-15                 Charge 01 Count 001 AGG DOMESTIC BATTERY/STRANGLE
+                            Statute 720 5/12-3.3(a-5)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 AGG BATTERY/USE DEADLY WEAPON
+                            Statute 720 5/12-3.05(f)(1)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 03 Count 003 DOM BTRY/CONTACT/1-2 PRI CONV
+                            Statute 720 5/12-3.2(a)(2)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and J. Miller-Jones appears instanter.  De
+fendant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  See expanded recor
+d.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+                            Bond set in the amount of $100,000. ROR DENIED.
+                            Defendant is to HAVE NO CONTACT WHATSOEVER WITH the
+named victim or
+                            address recited for the record.
+                            DEFENDANT ADMONISHED AS TO EXTENDED TERM SENTENCING.
+                            Expanded record of court proceedings on arraignment.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+   03-23-15                 Answer to Discovery filed
+                            Proof(s) of service on file.
+                            Discovery filed.
+   04-07-15                 Domestic Violence Surveillance Program Report on fil
+e.
+                            Domestic Violence Surveillance Program Report on fil
+e.
+   04-10-15
+                            People appear by Scott A. Larson.  Defendant appears
+, in custody, with
+                            counsel, Lindsey R. Yanchus.   Cause called for Risk
+ Assessment
+                            Hearing. Domestic Violence Surveillance Program Repo
+rt and Risk
+                            Assessment on file and considered. Motion by the Def
+endant to Vacate
+                            Order for GPS Monitoring Device. Arguments of counse
+l heard.  The
+                            Court finds the Defendant remains at risk to violate
+ order of
+                            protection.  Motion is DENIED. The Court orders the
+Defendant as a
+                            condition of bond to submit to continue electronic m
+onitoring, pending
+                            further Order of the Court.
+   04-21-15
+                            No appearance of the defendant personally.  Suggesti
+on the defendant
+                            is in custody.  On motion of the defendant cause all
+otted for Plea on
+                            April 22, 2015 at 2:30 p.m. in Courtroom A.  Bond pr
+eviously
+                            established is to continue.
+   04-22-15                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG DOMESTIC BATTERY/STRANGLE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.3(a-5)  Class 2
+                            Sentence: 04/22/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed AGG BATTERY/USE DEADLY WEAPON
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(f)(1)  Class 3
+                            Sentence: 04/22/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  Fine + Cost
+                            Disposition: Guilty DOM BTRY/CONTACT/1-2 PRI CONV
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3.2(a)(2)  Class 4
+                            Sentence: 04/22/2015
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  3Yrs In force
+                            Sentence: Credit Time Served  38Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  38Days I
+n force
+                            Fine + Cost            467.00     DOMESTIC BATTERY
+      10.00
+                             STATE OFFENDER DNA    250.00     DOMESTIC VIOLENCE
+      10.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Sarah N. Perry.  Appeara
+nce of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 03 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Dom Btry/Contact/1-2 Pri Co
+nv ILCS: 720
+                            5/12-3.2(a)(2) as charged. Judgment entered in favor
+ of the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 10/19/2015.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of incarceration of   3 years,   months in th
+e Illinois
+                            Department of Corrections. Defendant is to receive c
+redit for  38 days
+                            previously served. The Defendant is to submit specim
+ens of blood,
+                            saliva, or tissue to the Illinois Department of Stat
+e Police or to the
+                            Department of Corrections within 45 days, at a colle
+ction site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3. Count(s) stated in the written order are he
+rby dismissed.
+                            Case Number(s) stated in the written order are herby
+ dismissed.  Any
+                            bond posted in said case(s) shall be transferred to
+the instant case
+                            and shall be applied to any fines, fees, costs, asse
+ssments, and/or
+                            restitution imposed herein; any remaining bond shall
+ be used to
+                            satisfy such other of the Defendant's Champaign Coun
+ty criminal or
+                            traffic cases in which the Defendant owes an outstan
+ding balance of
+                            fines, fees, costs, assessments and/or restitution.
+ Financial
+                            assessment order entered.  Waiver of Jury on file. S
+entencing Order
+                            entered this date. See Order.  Defendant remanded to
+ the custody of
+                            the Sheriff for transportation to the Illinois Depar
+tment of
+                            Corrections.
+                            Mittimus prepared.
+                            Judgment - Sentence to Illinois Dept. of Corrections
+.
+                            Sentencing order.
+                            Fees & Fines Assessment Form on file.
+                            Supplemental Sentencing Order Imposing Fines on file
+.
+                            Waiver of jury.
+   04-23-15                 Disposition entered.
+   04-24-15                 Statement of State's Attorney filed
+   04-29-15                 Error disposition form created this date.
+                            Error disposition form created this date.
+                            Error disposition form created this date.
+   03-09-16                 Payment Due
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

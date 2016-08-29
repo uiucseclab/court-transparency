@@ -1,0 +1,158 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #15CF000888
+
+   Defendant Plaintiff
+HALEY  ROBERT H
+1022 E KERR AVE #201
+URBANA IL 61802
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 06/18/15
+                Court Room: B
+           Next Appearance: 12/03/15  09:30
+                Birth Date: 02/22/86
+                 DEFENDANT: HALEY  ROBERT H
+
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121770858 SHERIFF'S BOOKING FEE             34.00        06/22/15
+   121770858 BOND - ORIGINAL                  500.00        06/22/15
+   122079022 *BOND TRANSFERS OUT             -500.00        12/16/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  BURGLARY
+
+         2  BURGLARY
+
+         4  THEFT/STOLEN/INTENT $500<10K
+
+         4  THEFT/STOLEN/INTENT <$500
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   06-18-15                 Charge 01 Count 001 BURGLARY
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 BURGLARY
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 03 Count 004 THEFT/STOLEN/INTENT $500<10K
+                            Statute 720 5/16-1(a)(4)(A)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 04 Count 004 THEFT/STOLEN/INTENT <$500
+                            Statute 720 5/16-1(a)(4)(A)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Janie Miller-Jones appears instanter.
+ Defendant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond set in the am
+ount of $5,000-ROR
+                            DENIED. Defendant is admonished as to trial and sent
+encing in
+                            absentia. See expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+   06-22-15                 Sheriff Booking Fee
+   06-26-15                 Proof(s) of service on file.
+                            Discovery filed.
+                            Answer to Discovery filed
+   07-02-15                 Proof(s) of service on file.
+                            Supplemental Discovery filed
+   07-15-15                 Proof(s) of service on file.
+                            Supplemental Discovery filed
+   08-04-15
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   10-15-15                 Defendant's motion for continuance.
+                            People appear by Claire L. Sharples Brooks.  Defenda
+nt appears
+                            personally and with counsel, Jamie Propps. Motion by
+ the Defendant for
+                            continuance.  Motion allowed.
+   12-03-15                 Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed THEFT/STOLEN/INTENT <$500
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1(a)(4)(A)  Class A
+                            Sentence: 12/02/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed THEFT/STOLEN/INTENT $500<10K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1(a)(4)(A)  Class 3
+                            Sentence: 12/02/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2
+                            Sentence: 12/03/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2
+                            Sentence: 12/02/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Cause dismissed.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, Jamie Propp
+s.  On motion of
+                            the State this Cause is ordered dismissed and strick
+en.  Bond of the
+                            Defendant ordered transferred to 15-CF-886 for payme
+nt of fines and
+                            costs.
+   12-08-15                 Case dismissed.
+   12-09-15                 Error disposition form created this date.
+                            Error disposition form created this date.
+                            Error disposition form created this date.
+                            Error disposition form created this date.
+   12-16-15                 Bond Type Transfer Bond To    2015CF000886 HALEY ROB
+ERT H
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

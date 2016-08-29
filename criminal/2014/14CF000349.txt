@@ -1,0 +1,319 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000349
+
+   Defendant Plaintiff
+MCKENZIE  TYSON P
+533 COUNTY RD 1600 N
+BONDVILLE IL 0
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 03/12/14
+                Court Room:
+           Next Appearance: 09/30/16
+                Birth Date: 11/01/77
+                 DEFENDANT: MCKENZIE  TYSON P
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE             15.00          85.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       25.00      PROBATION MONITORIN             .00         750.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       10.00      DOMESTIC BATTERY                .00          10.00
+         .00       STATE OFFENDER DNA             .00            .00
+       60.00      TRAFFIC/CRIMINAL SU             .00          60.00
+       39.00      SHERIFF FEES                    .00          39.00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       95.00      DOMESTIC VIOLENCE               .00          95.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121047030 DOCUMENT STORAGE                  15.00        04/24/14
+   121047030 AUTOMATION                        10.00        04/24/14
+   121133592 AUTOMATION                         5.00        06/13/14
+   121133592 CIRCUIT CLERK FEE                 15.00        06/13/14
+   121628868 SHERIFF'S BOOKING FEE             34.00        04/01/15
+   121628868 BOND - ORIGINAL                 2500.00        04/01/15
+   121672567 *BOND REFUND                    2500.00        04/27/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  DOM BTRY/CONTACT/1-2 PRI CONV
+
+         2  DOM BTRY/CONTACT/1-2 PRI CONV
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   03-12-14                 Charge 01 Count 001 DOM BTRY/CONTACT/1-2 PRI CONV
+                            Statute 720 5/12-3.2(a)(2)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 DOM BTRY/CONTACT/1-2 PRI CONV
+                            Statute 720 5/12-3.2(a)(2)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Stephanie Corum appears instanter.  De
+fendant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond set in the am
+ount of
+                            $25,000-ROR DENIED. As a condition of bond, Defendan
+t is ordered to
+                            have NO CONTACT whatsoever, directly or indirectly,
+with victim and/or
+                            address as recited in open court. See expanded recor
+d.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+                            Notice of arrest without warrant on file.
+   03-24-14                 Proof of service on file.
+                            Discovery filed.
+   03-26-14                 Answer to Discovery filed
+   03-28-14                 Cause allotted for plea to
+   03-31-14                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed DOM BTRY/CONTACT/1-2 PRI CONV
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(2)  Class 4
+                            Sentence: 03/31/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty DOM BTRY/CONTACT/1-2 PRI CONV
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3.2(a)(2)  Class 4
+                            Sentence: 03/31/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  30Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  21Days In force
+                            Sentence: Credit Time Served  21Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Mental Health Treatment/Assessment  60Days
+ In force
+                            Sentence: Partner Abuse Intervention Program  60Days
+ In force
+                            Sentence: Defendant stipulates victim is a family or
+ household member.
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  30Mos In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  21Days I
+n force
+                            Fine + Cost            496.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    750.00     DOMESTIC BATTERY
+      10.00
+                             STATE OFFENDER DNA       .00     DOMESTIC VIOLENCE
+      95.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Sarah J. Carlson.  Appea
+rance of the
+                            Defendant personally and by counsel, George Vargas.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Defendant admonishe
+d as to EXTENDED
+                            TERM eligibility. Finding Defendant knowingly, under
+standingly and
+                            voluntarily waives rights and enters a plea of guilt
+y to Count 01 of
+                            the charging instrument.  Finding Defendant is guilt
+y of the offense
+                            of Dom Btry/Contact/1-2 Pri Conv ILCS: 720 5/12-3.2(
+a)(2) as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.  All financial oblig
+ations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by  9/29/2014.  Any bond posted is to be appli
+ed first to any
+                            court ordered bond assignment on file and then to al
+l restitution
+                            ordered and then to all financial obligations in thi
+s case.  Any
+                            remaining bond shall be discharged to the individual
+ who posted the
+                            bond.  Defendant is ordered to serve a period of  30
+ months probation.
+                            Defendant is ordered to serve a period of incarcerat
+ion of  21 days in
+                            the Champaign County Correctional Center. Defendant
+is to receive
+                            credit for  21 days previously served. The Defendant
+ is to submit
+                            specimens of blood, saliva, or tissue to the Illinoi
+s Department of
+                            State Police or to the Department of Corrections wit
+hin 45 days, at a
+                            collection site designated by the Champaign County C
+ourt Services
+                            Department and/or Illinois Department of State Polic
+e, in accordance
+                            with 730 ILCS 5/5-4-3.  Defendant is to obtain an ev
+aluation for
+                            alcohol and drug abuse from an agency or agent recom
+mended by the
+                            Court Services Department, and follow any recommenda
+tions contained
+                            therein as to treatment and/or counseling. Defendant
+ is to obtain a
+                            mental health evaluation within  60 days from an age
+ncy or agent
+                            recommended by the Champaign County Court Services D
+epartment, and
+                            follow any recommendations contained therein as to t
+reatment and/or
+                            counseling. Defendant is to enroll in a Partner Abus
+e Intervention
+                            Program approved by the Champaign County Court Servi
+ces Department
+                            within  60 days and successfully complete it without
+ termination. The
+                            Defendant hereby stipulates that a victim of this of
+fense is a family
+                            or household member of his within the meaning of 725
+ ILCS 5/112A-3(3);
+                            720 ILCS 5/12-3.2(b); 720 ILCS 5/12-30(d); and 730 I
+LCS 5/5-9-1.5.
+                            Count(s) stated in the written order are herby dismi
+ssed. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+   04-08-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   04-24-14                 Court Ordered Payments
+                            Notice received from Court Services/Circuit Court th
+at the
+                            Defendant had previously provided a sample of his bl
+ood, saliva or
+                            tissue for DNA analysis.  Therefore, per Administrat
+ive Order 10-1,
+                            that part of the sentencing order has been satisfied
+.
+   06-13-14                 Court Ordered Payments
+   09-26-14                 Probation Violation Report on file
+   10-23-14                 Petition to Revoke Probation filed.
+   10-24-14                 Cause set for arraignment on
+
+                            Verified information on Petition to Revoke Probation
+ on file.
+                            Probable cause to arrest determined.  Warrant issued
+.  Bond set in the
+                            amount of $25,000.00.
+                            Warrant of arrest filed.
+   04-01-15                 Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ra
+ndall Rosenbaum
+                            appears instanter.  General denial to the Petition i
+s entered.  Bond
+                            is to continue. Defendant is admonished as to trial
+and sentencing in
+                            absentia.  See expanded record.
+                            Sheriff Booking Fee
+                            Warrant served. Service fees $39.00
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+   04-10-15
+                            DEFENDANT SURRENDERS ON BOND THIS DATE.
+   04-27-15                 Bond
+   05-06-15                 Defendant motion to continue hearing on petition to
+revoke.
+                            People appear by Claire Sharples-Brooks.  Defendant
+appears
+                            personally, in custody, and with counsel, George Var
+gas.  On
+                            Defendant's motion, hearing on Petition to Revoke th
+is date is
+                            vacated.
+   05-26-15
+                            Appearance of the State's Attorney.  Defendant appea
+rs by counsel.
+                            Suggestion to the court that the defendant is in cus
+tody.  Cause is
+                            called for pre-trial.  Motion by the defendant to al
+lot the matter for
+                            plea.  Motion is allowed.  Cause is allotted for ple
+a.  Defendant's
+                            bond is to continue.
+                            Cause allotted for plea to
+   05-28-15                 Motion to withdrawn petition to revoke.
+                            People appear by Scott A. Larson.  Defendant appears
+ personally and
+                            with counsel, George Vargas. On motion of the People
+, the Petition to
+                            Revoke is withdrawn and dismissed.  Defendant's bond
+ discharged
+                            ordered transferred to 15-CF-491 for payment of fine
+s and costs.
+                            Balance, if any, to be discharged to the individual
+who posted the
+                            bond.
+   08-26-15
+                            Pursuant to plea agreement in 15-CF-491,  probation
+in this cause is
+                            terminated unsuccessfully.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

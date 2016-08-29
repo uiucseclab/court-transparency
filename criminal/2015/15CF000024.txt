@@ -1,0 +1,464 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #15CF000024
+
+   Defendant Plaintiff
+FRAZIER  TOYA D
+414 DROPSEED
+SAVOY IL 61874
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/06/15
+                Court Room: C
+           Next Appearance: 11/30/15  08:45
+                Birth Date: 03/18/70
+                 DEFENDANT: FRAZIER  TOYA D
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       65.00      BOND -10% BOND FEE            65.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+         .00       STATE OFFENDER DNA             .00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+      173.00                                   173.00            .00
+       65.00      BOND -10% BOND FEE            65.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       10.00      TR/CR SUR $10/$40             10.00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121480683 SHERIFF'S BOOKING FEE             34.00        01/06/15
+   121480683 BOND - ORIGINAL                  150.00        01/06/15
+   121826593 BOND TRANSFERS IN                500.00        07/23/15
+   121826594 BOND -10% BOND FEE                65.00        07/23/15
+   121826594 DOCUMENT STORAGE                  15.00        07/23/15
+   121826594 AUTOMATION                        15.00        07/23/15
+   121826594 CIRCUIT CLERK FEE                100.00        07/23/15
+   121826594 COURT SECURITY                    25.00        07/23/15
+   121826594 COURT FINANCE FEE                 50.00        07/23/15
+   121826594 STATES ATTORNEY                   40.00        07/23/15
+   121826594 STATES ATTORNEY AUTOMATI           2.00        07/23/15
+   121826594 ARRESTEE'S MEDICAL                10.00        07/23/15
+   121826594 PROBATION OPER ASSISTANC          10.00        07/23/15
+   121826594 TR/CR SUR $10/$40                 10.00        07/23/15
+   121826594 VIOLENT CRIME VICTIMS AS         100.00        07/23/15
+   121826594 ST POLICE SERVICES FUND           10.00        07/23/15
+   121826594 ST POLICE OPERATIONS ASS          15.00        07/23/15
+   121826594 CLERK OP & ADMIN FUND             10.00        07/23/15
+   121826594 *BOND REFUND                     173.00        07/23/15
+   122058135 BOND - ORIGINAL                  477.00        12/04/15
+   122058135 CLERK OP & ADMIN FUND            -10.00        12/04/15
+   122058135 ST POLICE OPERATIONS ASS         -15.00        12/04/15
+   122058135 ST POLICE SERVICES FUND          -10.00        12/04/15
+   122058135 VIOLENT CRIME VICTIMS AS        -100.00        12/04/15
+   122058135 TR/CR SUR $10/$40                -10.00        12/04/15
+   122058135 PROBATION OPER ASSISTANC         -10.00        12/04/15
+   122058135 ARRESTEE'S MEDICAL               -10.00        12/04/15
+   122058135 STATES ATTORNEY AUTOMATI          -2.00        12/04/15
+   122058135 STATES ATTORNEY                  -40.00        12/04/15
+   122058135 COURT FINANCE FEE                -50.00        12/04/15
+   122058135 COURT SECURITY                   -25.00        12/04/15
+   122058135 CIRCUIT CLERK FEE               -100.00        12/04/15
+   122058135 AUTOMATION                       -15.00        12/04/15
+   122058135 DOCUMENT STORAGE                 -15.00        12/04/15
+   122058135 BOND -10% BOND FEE               -65.00        12/04/15
+   122090537 BOND -10% BOND FEE                65.00        12/23/15
+   122090537 DOCUMENT STORAGE                  15.00        12/23/15
+   122090537 AUTOMATION                        15.00        12/23/15
+   122090537 CIRCUIT CLERK FEE                100.00        12/23/15
+   122090537 COURT SECURITY                    25.00        12/23/15
+   122090537 COURT FINANCE FEE                 50.00        12/23/15
+   122090537 STATES ATTORNEY                   40.00        12/23/15
+   122090537 STATES ATTORNEY AUTOMATI           2.00        12/23/15
+   122090537 ARRESTEE'S MEDICAL                10.00        12/23/15
+   122090537 PROBATION OPER ASSISTANC          10.00        12/23/15
+   122090537 TR/CR SUR $10/$40                 10.00        12/23/15
+   122090537 VIOLENT CRIME VICTIMS AS         100.00        12/23/15
+   122090537 ST POLICE SERVICES FUND           10.00        12/23/15
+   122090537 ST POLICE OPERATIONS ASS          15.00        12/23/15
+   122090537 CLERK OP & ADMIN FUND             10.00        12/23/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  THEFT CON INTENT <$500 PRIOR
+
+         1  THEFT CON INTENT <$500 PRIOR
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   01-06-15                 Charge 01 Count 001 THEFT CON INTENT <$500 PRIOR
+                            Statute 720 5/16-1(a)(1)(A)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Sheriff Booking Fee
+                            Notice of arrest without warrant on file.
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Pam Burnside appears instanter.  Defen
+dant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond is to continu
+e as posted.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. See
+                            expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+                            Affidavit in support of request to appoint attorney.
+   01-20-15                 Proof(s) of service on file.
+                            Discovery filed.
+   01-21-15                 Proof(s) of service on file.
+                            Supplemental Discovery filed
+                            Answer to Discovery filed
+   01-27-15                 Proof(s) of service on file.
+                            Supplemental Discovery filed
+   02-06-15                 Motion to Continue filed
+   02-10-15                 Pre-Trial held.
+                            People appear by Asst. State's Attorney.  Defendant
+appears by
+                            Counsel.  Representation to the Court that the deft.
+ is in treatment
+                            at Gateway.  Motion by the defendant's counsel to wa
+ive the
+                            defendant's appearance this date.  People state no o
+bjection, motion
+                            is allowed.  The appearance of the defendant this da
+te is waived by
+                            the Court so as not to disrupt the defendant's treat
+ment.  Cause is
+                            called for pre-trial.  Motion by the Deft. to Contin
+ue.  People state
+                            no objection.  Motion is allowed.  Cause is continue
+d on the
+                            defendant's motion to the next pre-trial.  Defendant
+'s bond is to
+                            continue.
+   03-09-15                 Motion to Continue filed
+   03-10-15                 Pre-Trial held.
+                            People appear by Asst. State's Attorney Dan Clifton.
+  Defendant
+                            appears with Counsel Katie Jessup.  Cause is called
+for pre-trial.
+                            Motion by the defendant to continue.  People state n
+o objection.
+                            Motion is allowed.  Cause is continued on the defend
+ant's motion for
+                            further pre-trial 4/14/15 at 9:00 a.m. in Courtroom
+C.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+Defendant's bond
+                            is to continue.
+   04-06-15                 Motion to Continue filed
+   04-14-15                 Pre-trial held.
+                            People appear by Asst. State's Attorney Mr. Clifton.
+  Defendant
+                            appears with counsel Ms. Jessup.  Cause is called fo
+r pre-trial.
+                            Motion by the defendant to continue.  People state n
+o objection.
+                            Defendant's motion to continue is allowed.  Cause is
+ continued to the
+                            next pre-trial.  Defendant is ordered to appear.  De
+fendant's bond is
+                            to continue.
+   05-11-15                 Motion to Continue filed
+   05-12-15                 Pre-Trial held.
+                            People appear by Mr. Clifton.  Defendant appears wit
+h attorney Ms.
+                            Jessup.  Cause is called for pre-trial.  Motion by t
+he defendant to
+                            continue.  People object and announce ready for tria
+l.  Comments of
+                            counsel heard.  Defendant's objection is sustained.
+ Cause is allotted
+                            for jury trial scheduling 6/1/15 at 9:00 a.m. in Cou
+rtroom C.
+                            Defendant's bond is to continue.
+   05-14-15                 Subpoena not served.
+                            Subpoena Served.  No Fees.
+   06-01-15                 Waiver of jury.
+                            Appearance of the People by Tim J. Sullivan.  Appear
+ance of the
+                            Defendant personally and by counsel, Katie L. Jessup
+.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Theft with a Prior Theft Co
+nviction ST: IL
+                            ILCS: 720 5/16-1(a)(1)(A) as charged. Judgment enter
+ed in favor of the
+                            People and against the defendant on finding of guilt
+ and for costs.
+                            Order on guilty plea.
+                            Defendant ordered to appear at the sentencing hearin
+g.  Defendant
+                            admonished as to sentencing in absentia.  Defendant
+ordered to report
+                            to the Champaign County Court Services Department.
+The Court Services
+                            Department is to prepare a pre-sentence report and f
+ile a copy of the
+                            same. Defendant also seeks TASC and Drug Court Suita
+bility Reports.
+                            Defendant's bond is to Continue.  Order on Guilty Pl
+ea entered this
+                            date.
+                            Court Services to make arrangements for preparation
+of a
+                            Order on guilty plea.
+                            Waiver of jury.
+                            Factual Basis received and ordered filed.
+                            Affidavit of mailing on file.
+   06-16-15                 Sentencing Hearing is re-allotted
+                            Due to a conflict with the Court's schedule, the sen
+tencing hearing
+                            allotted for 7/21/15 is vacated and re-allotted to 7
+/22/15 at 2:00
+                            p.m. in Courtroom C.
+   06-17-15                 Correspondence from the Judge to counsel, defendant
+and Court Services
+                            on file.
+   06-19-15                 Subpoena Served.  No Fees.
+   07-14-15                 Correspondence on file by TASC forwarded to Judge La
+dd.
+   07-22-15                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty THEFT CON INTENT <$500 PRIOR
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/16-1(a)(1)(A)  Class 4
+                            Sentence: 07/22/2015
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  42Mos In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Cost Only              477.00      STATE OFFENDER DN
+A       .00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Dan Clifton.  Appearance
+ of the Defendant
+                            personally and by counsel, Mr. Fiorentino who appear
+s on behalf of
+                            Katie L. Jessup.   By agreement of the parties, the
+plea previously
+                            entered is vacated and the Defendant advised as to t
+he nature of the
+                            proceedings, the charges and the possible penalties
+that may be
+                            imposed and the Court finds that the Defendant under
+stands the same.
+                            Finding Defendant knowingly, understandingly and vol
+untarily waives
+                            rights and enters a plea of guilty to Count 01 of th
+e charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Theft Con
+                            Intent <$500 Prior ILCS: 720 5/16-1(a)(1)(A) as char
+ged. Judgment
+                            entered in favor of the People and against the defen
+dant on finding of
+                            guilt and for costs.  Defendant is ordered to serve
+a period of
+                            incarceration of   years,  42 months in the Illinois
+ Department of
+                            Corrections. Defendant is to receive credit for   2
+days previously
+                            served.  Case Number(s) stated in the written order
+are herby
+                            dismissed.  Any bond posted in said case(s) shall be
+ transferred to
+                            the instant case and shall be applied to any fines,
+fees, costs,
+                            assessments, and/or restitution imposed herein; any
+remaining bond
+                            shall be used to satisfy such other of the Defendant
+'s Champaign
+                            County criminal or traffic cases in which the Defend
+ant owes an
+                            outstanding balance of fines, fees, costs, assessmen
+ts and/or
+                            restitution. Defendant advised of right to appeal an
+d rights pursuant
+                            to Supreme Court Rule 605 and the Court finds that t
+he defendant
+                            understands the same.   Defendant is to receive cred
+it of $10 towards
+                            the fines and costs based on the 2 days served.  All
+ financial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk.   Any bond posted is
+ to be applied
+                            first to all restitution ordered and then to all fin
+ancial obligations
+                            in this case, including the fines as set forth in th
+e written order
+                            entered this date.  Any remaining bond shall be disc
+harged to the
+                            individual who posted the bond.  Waiver of Jury on f
+ile. Sentencing
+                            Order entered this date. See Order.
+                            Mittimus prepared.
+                            Judgment - Sentence to Illinois Dept. of Corrections
+.
+                            Sentencing order.
+                            Fees & Fines Assessment Form on file.
+                            Waiver of jury.
+                            Disposition 01/01  Count 001  Cost Only
+                            Disposition: Guilty THEFT CON INTENT <$500 PRIOR
+                            Disposition Vacated: Guilty
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/16-1(a)(1)(A)  Class 4
+                            Sentence: 07/22/2015
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  42Mos In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Cost Only              477.00
+   07-23-15                 Disposition entered.
+                            Bond Type Transfer Bond From    2015CF000842 FRAZIER
+ TOYA D
+                            Bond
+                            Statement of State's Attorney filed
+   07-31-15                 Disposition sent through ADR process this date. SPT
+   08-03-15                 Motion by the defendant to continue her surrender da
+te.
+                            People appear by Mr. Sullivan.  Defendant appears wi
+th attorney Ms.
+                            Jessup.  Cause is called for hearing for the defenda
+nt to surrender to
+                            the custody of the Sheriff to commence her incarcera
+tion.  Motion by
+                            the defendant  to allow the defendant to surrender t
+o the custody of
+                            the Sheriff, Ms. Jessup tenders a document to the Co
+urt.  Comments of
+                            counsel considered.  Motion is allowed.  Cause is co
+ntinued for the
+                            defendant to surrender to the custody of the Sheriff
+ on 9/14/15 at
+                            8:45 a.m. in Courtroom C.  Defendant's bond is to co
+ntinue.
+   09-14-15                 Oral motion by the deft. to continue the stay
+                            People appear by Mr. Sullivan.  Defendant appears wi
+th attorney Ms.
+                            Jessup.  Cause is called for hearing on the defendan
+t's surrender to
+                            commence her incarceration.  Motion by the defendant
+ to continue.
+                            People state no objection to the continuance.  Motio
+n is allowed.
+                            Cause is continued for status on the defendant's mot
+ion.  Defendant's
+                            bond is to continue.
+   10-09-15                 Cause called for hearing
+                            People appear by Mr. Sullivan.  Defendant appears wi
+th attorney Ms.
+                            Corum who appears on behalf of Ms. Jessup.  Cause is
+ called for
+                            defendant to commence her incarceration.  Motion by
+the Defendant for
+                            a continuance to allow the defendant to continue wit
+h her medical
+                            treatment, defendant provides documentation to the C
+ourt, People state
+                            no objection.  Motion is allowed.  Cause is continue
+d on the
+                            defendant's motion, defendant's bond is to continue.
+                            Defendants Post-Op Report from Carle on file.
+   11-30-15                 Defendant appears.
+                            Defendant is remanded to the custody of the Sheriff
+for transportation
+                            to the Illinois Department of Corrections. Defendant
+'s bond order is
+                            vacated.  Bond, to be applied as previously ordered.
+   12-01-15                 Mittimus prepared.
+                            Amended Judgment-Sentence to Illinois Department of
+Corrections on
+                            file.
+   12-04-15                 Vacate Court Order Payments
+                            Sentence and Judgment Orders previously entered are
+ordered vacated.
+   12-09-15                 Entry of 12/4/15 is ordered corrected to vacate only
+ the defendant's
+                            Sentence to the Illinois Department of Corrections a
+s she is deceased.
+   12-10-15                 Disposition sent through ADR process this date. SPT
+   12-23-15                 Bond
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

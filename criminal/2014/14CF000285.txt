@@ -1,0 +1,297 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF000285
+
+   Defendant Plaintiff
+LEVERENZ  DREW M
+15 KING JAMES RD
+MACKINAW IL 61755
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 02/27/14
+                Court Room:
+           Next Appearance: 12/19/16
+                Birth Date: 03/25/93
+                 DEFENDANT: LEVERENZ  DREW M
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      100.00      BOND -10% BOND FEE           100.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN           75.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      200.00      TRAFFIC/CRIMINAL SU          200.00            .00
+       39.00      SHERIFF FEES                  39.00            .00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+         .00       STREET VALUE DRUG              .00            .00
+      290.00      DRUG TRAFFIC PREVEN          290.00            .00
+         .00      REGULAR DRUG FINES              .00            .00
+      495.00      MANDATORY ASSESSMEN          495.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       70.00      WARRANT SERVICE FEE           70.00            .00
+       15.00      CLERK OP & ADMIN FU           15.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121005045 SHERIFF'S BOOKING FEE             34.00        03/31/14
+   121005045 BOND - ORIGINAL                 1000.00        03/31/14
+   121156238 WARRANT SERVICE FEE               70.00        06/26/14
+   121156238 CLERK OP & ADMIN FUND              5.00        06/26/14
+   121156255 BOND -10% BOND FEE               100.00        06/26/14
+   121156255 DOCUMENT STORAGE                  15.00        06/26/14
+   121156255 AUTOMATION                        15.00        06/26/14
+   121156255 CIRCUIT CLERK FEE                100.00        06/26/14
+   121156255 COURT SECURITY                    25.00        06/26/14
+   121156255 COURT FINANCE FEE                 50.00        06/26/14
+   121156255 STATES ATTORNEY                   40.00        06/26/14
+   121156255 STATES ATTORNEY AUTOMATI           2.00        06/26/14
+   121156255 CRIME STOPPERS                    10.00        06/26/14
+   121156255 ARRESTEE'S MEDICAL                10.00        06/26/14
+   121156255 PROBATION MONITORING FEE          25.00        06/26/14
+   121156255 PROBATION OPER ASSISTANC          10.00        06/26/14
+   121156255 SPINAL CORD RESEARCH FUN           5.00        06/26/14
+   121156255 CRIME LAB                        100.00        06/26/14
+   121156255  STATE OFFENDER DNA ID S         250.00        06/26/14
+   121156255 TRAUMA FUND                      100.00        06/26/14
+   121156255 TR/CR SUR $10/$40                 68.00        06/26/14
+   121525202 PROBATION MONITORING FEE          25.00        02/02/15
+   121525202 TR/CR SUR $10/$40                132.00        02/02/15
+   121525202 SHERIFF FEES                      39.00        02/02/15
+   121525202 VIOLENT CRIME VICTIMS AS         100.00        02/02/15
+   121525202  STREET VALUE DRUG FINES          40.00        02/02/15
+   121525202 REGULAR DRUG FINES               250.00        02/02/15
+   121525202 MANDATORY ASSESSMENT             495.00        02/02/15
+   121525202 ST POLICE SERVICES FUND           10.00        02/02/15
+   121525202 ST POLICE OPERATIONS ASS          10.00        02/02/15
+   121525202 CLERK OP & ADMIN FUND             10.00        02/02/15
+   121525205 01000000000                         .00        02/02/15
+   121525212 PROBATION MONITORING FEE          25.00        02/02/15
+   121525219 *REFUND - OTHER                   30.00        02/02/15
+   121573628  STREET VALUE DRUG FINES         -40.00        02/28/15
+   121573628 DRUG TRAFFIC PREVENTION          290.00        02/28/15
+   121573628 REGULAR DRUG FINES              -250.00        02/28/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   02-27-14                 Charge 01 Count 001 POSS AMT CON SUB EXCEPT(A)/(D)
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Agency: ILLINOIS STATE POLICE TASK FOR  Charge Instr
+: Information
+                            Charging documents
+   02-28-14                 NTA dated 2/03/14 on file.
+                            Failure to appear noted in file.
+                            Failure to appear warrant.
+                            People appear by Troy Lozar.  No appearance by the D
+efendant. Motion
+                            by the People for a warrant. Motion allowed. Warrant
+ issued with bond
+                            set in the amount of $15,000.00.
+                            Failure to appear noted in file.
+   03-20-14                 Expanded record of arraignment proceedings.
+                            Defendant is arraigned.  Public Defender is appointe
+d and Stephanie
+                            Corum appears instanter.  Defendant requests Prelimi
+nary hearing.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.  Bond
+                            reduced to the amount of $1,000-ROR DENIED. See expa
+nded record.
+                            Matter allotted for the pre-trial conference
+   03-21-14                 \Correspondence from PD office to Judge Ladd on file
+.
+   03-25-14                 Warrant served. Service fees $39.00
+   03-27-14                 Subpoena Served.  No Fees.
+   03-31-14                 Sheriff Booking Fee
+   04-09-14                 Due to a conflict, PD vacated and Piraino appointed.
+                            Representation to the Court by Public Defender of a
+conflict,
+                            appointment of the Public Defender vacated and the l
+aw firm of Dodson,
+                            Piraino & Associates is appointed to represent the D
+efendant in these
+                            matters.  Public Defender is directed to tender copi
+es of the file to
+                            Dodson, Piraino & Associates.  Case remains allotted
+ for preliminary
+                            hearing on 4/15/14 at 1:30 p.m. and pre-trial on 5/1
+3/14 at 9:00 a.m.
+                            in Courtroom C.  Counsel notified by letter this dat
+e.
+   04-15-14                 Pre-trial order after waiver or finding of probable
+cause.
+                            People appear by Dan Clifton.  Defendant appears wit
+h counsel, Edwin
+                            Piraino. Defendant waives preliminary hearing, enter
+s a plea of not
+                            guilty and requests trial by jury. Pre-Trial Orders
+entered. See
+                            Orders. Bond to continue
+   05-05-14                 Affidavit of mailing on file.
+                            Discovery Answer filed
+   05-13-14                 Entry of 4/15/14 is in error, case was allotted for
+June Pre-trial.
+                            Allotment this date is vacated.
+   06-17-14
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty POSS AMT CON SUB EXCEPT(A)/(D)
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 570/402(c)  Class 4
+                            Sentence: 06/17/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  30Mos In force
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Defendant's probation to transfer to resid
+ent county  In for
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  30Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Sentence: Mandatory Street Value Fine  In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Mandatory Assessment Fine  In force
+                            Fine + Cost           1341.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN     75.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    250.00     DRUG TRAFFIC PREVE
+N    290.00
+                            WARRANT SERVICE FEE     70.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Dan Clifton.  Appearance
+ of the Defendant
+                            personally and by counsel, Edwin Piraino.   Defendan
+t advised as to
+                            the nature of the proceedings, the charges and the p
+ossible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly, understandin
+gly and
+                            voluntarily waives rights and enters a plea of guilt
+y to Count 01 of
+                            the charging instrument.  Finding Defendant is guilt
+y of the offense
+                            of Poss Amt Con Sub Except(A)/(D) ILCS: 720 570/402(
+c) as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.  All financial oblig
+ations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by  8/05/2016.  Any bond posted is to be appli
+ed first to any
+                            court ordered bond assignment on file and then to al
+l restitution
+                            ordered and then to all financial obligations in thi
+s case.  Any
+                            remaining bond shall be discharged to the individual
+ who posted the
+                            bond.  Defendant is ordered to serve a period of  30
+ months probation
+                            pursuant to the standard terms and conditions of pro
+bation and the
+                            terms and conditions as set forth in the written ord
+er entered this
+                            date.  If not previously done so by the defendant, t
+he Defendant is to
+                            submit specimens of blood, saliva, or tissue to the
+Illinois
+                            Department of State Police or to the Department of C
+orrections within
+                            45 days, at a collection site designated by the Cham
+paign County Court
+                            Services Department and/or Illinois Department of St
+ate Police, in
+                            accordance with 730 ILCS 5/5-4-3.  Defendant is only
+ ordered to pay
+                            the $250.00 genetic marker grouping analysis fee, if
+ the defendant has
+                            not previously provided a specimen of DNA to the Ill
+inois State
+                            Police.    Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.  Waiver of Jury on file. Sente
+ncing Order
+                            entered this date. See Order.  Defendant is ordered
+to report to the
+                            Court Services Department this date.
+                            Waiver of jury.
+                            Sentencing order.
+   06-20-14                 FTA warrant service fee of $75 is still owed.
+                            The arresting agency is Champaign County Sheriff's O
+ffice on the FTA
+                            Warrant served on 3/20/14.
+                            Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            37.5% to the General Corporate Fund of Champaign Cou
+nty, and
+                            50.0% to the Champaign County Sheriff.
+   06-26-14                 Bond
+                            Bond
+   06-30-14                 Disposition sent through ADR process this date. SPT
+   07-01-14                 Disposition sent through ADR process this date. SPT
+   09-19-14                 Probation tranferred to Tazewell Co. effective Sept,
+ 2014.
+                            Probation monitoring fees reduced accordingly.
+   02-02-15                 Court Ordered Payments
+                            Court Ordered Payments
+                            Refund Overpayment
+   02-28-15                 Court Ordered Payments
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

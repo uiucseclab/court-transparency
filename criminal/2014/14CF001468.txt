@@ -1,0 +1,355 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #14CF001468
+
+   Defendant Plaintiff
+MCGATH  MATTHEW
+2105 VILLAGE PARK WA
+SAVOY IL 61874
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 10/27/14
+                Court Room:
+           Next Appearance: 09/20/16
+                Birth Date: 09/10/91
+                 DEFENDANT: MCGATH  MATTHEW
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      100.00      BOND -10% BOND FEE           100.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          325.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       90.00      TR/CR SUR $10/$40             90.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      345.00      FINES                        345.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121381874 SHERIFF'S BOOKING FEE             34.00        11/04/14
+   121381874 BOND - ORIGINAL                 1000.00        11/04/14
+   121614009 BOND -10% BOND FEE               100.00        03/24/15
+   121614009 *BOND REFUND                     900.00        03/24/15
+   121651610 DOCUMENT STORAGE                  15.00        04/15/15
+   121651610 E-CITATION                         5.00        04/15/15
+   121651610 AUTOMATION                        15.00        04/15/15
+   121651610 CIRCUIT CLERK FEE                 65.00        04/15/15
+   121677231 CIRCUIT CLERK FEE                 10.00        04/29/15
+   121677231 COURT SECURITY                    25.00        04/29/15
+   121677231 COURT FINANCE FEE                 25.00        04/29/15
+   121677231 STATES ATTORNEY                   20.00        04/29/15
+   121677231 STATES ATTORNEY AUTOMATI           2.00        04/29/15
+   121677231 CRIME STOPPERS                     5.00        04/29/15
+   121677231 ARRESTEE'S MEDICAL                10.00        04/29/15
+   121677231 PROBATION MONITORING FEE          10.00        04/29/15
+   121916882 BOND - ORIGINAL                  500.00        09/14/15
+   121917293 PROBATION MONITORING FEE          25.00        09/14/15
+   121917293 PROBATION OPER ASSISTANC          10.00        09/14/15
+   121917293 TR/CR SUR $10/$40                 90.00        09/14/15
+   121917293 DRUG COURT PROGRAM                 5.00        09/14/15
+   121917293 FINES                            345.00        09/14/15
+   121917293 VIOLENT CRIME VICTIMS AS          25.00        09/14/15
+   121917988 BOND - ORIGINAL                  500.00        09/15/15
+   121920409 PROBATION MONITORING FEE         415.00        09/15/15
+   121920409 VIOLENT CRIME VICTIMS AS          50.00        09/15/15
+   121920409 ST POLICE SERVICES FUND           10.00        09/15/15
+   121920409 ST POLICE OPERATIONS ASS          15.00        09/15/15
+   121920409 CLERK OP & ADMIN FUND             10.00        09/15/15
+   121923355 EPAY RECEIVABLE                  500.00        09/17/15
+   121925574 EPAY RECEIVABLE                  500.00        09/18/15
+   122283705 PROBATION MONITORING FEE        -125.00        04/19/16
+   122283705 *REFUND - OTHER                  125.00        04/19/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG BATTERY/PEACE OFFICER
+
+         2  AGG BATTERY/PEACE OFFICER
+
+         3  AGG BATTERY/PEACE OFFICER
+
+         4  AGG BATTERY/PEACE OFFICER
+
+         5  RESIST/PC OFF/CORR EMP/FRFTR
+
+         5  RESIST/PC OFF/CORR EMP/FRFTR
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   10-27-14                 Charge 01 Count 001 AGG BATTERY/PEACE OFFICER
+                            Statute 720 5/12-3.05(d)(4)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 AGG BATTERY/PEACE OFFICER
+                            Statute 720 5/12-3.05(d)(4)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 AGG BATTERY/PEACE OFFICER
+                            Statute 720 5/12-3.05(d)(4)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 04 Count 004 AGG BATTERY/PEACE OFFICER
+                            Statute 720 5/12-3.05(d)(4)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Assignment of Bail Bond by the Defendant on file
+                            Pre Trial Order.
+                            People appear by Lindsey S. Clark.  Defendant appear
+s personally
+                            together with private counsel, Dennis G. Steeves.  E
+ntry of appearance
+                            on file.  Defendant is arraigned.  Defendant waives
+preliminary
+                            hearing, enters a plea of not guilty, and requests a
+ trial by jury.
+                            Pre-trial orders entered.  Defendant admonished as t
+o trial and
+                            sentencing in absentia.  Bond to continue.  See expa
+nded record.
+                            Expanded record of court proceedings on arraignment.
+                            Pre-trial Order after Indictment, Waive, or upon fin
+ding of
+                            probable cause.
+                            Entry of appearance filed this date.
+                            Bail Bond Release Authorization filed.
+                            Notice of arrest without warrant on file.
+                            Companion Charge
+   10-29-14                 Affidavit of mailing on file.
+                            Discovery filed.
+   11-04-14                 Sheriff Booking Fee
+   12-02-14                 By agreement, trial allotment vacated
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+                            Motion to Continue filed
+   01-06-15                 By agreement, trial allotment vacated
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+                            Motion to Continue filed
+   01-30-15                 Charge 05 Count 005 RESIST/PC OFF/CORR EMP/FRFTR
+                            Statute 720 5/31-1(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   02-03-15
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   03-20-15                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG BATTERY/PEACE OFFICER
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(d)(4)  Class 2
+                            Sentence: 03/20/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed AGG BATTERY/PEACE OFFICER
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(d)(4)  Class 2
+                            Sentence: 03/20/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed AGG BATTERY/PEACE OFFICER
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(d)(4)  Class 2
+                            Sentence: 03/20/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed AGG BATTERY/PEACE OFFICER
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(d)(4)  Class 2
+                            Sentence: 03/20/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 05/00  Count 005  Fine + Cost
+                            Disposition: Guilty RESIST/PC OFF/CORR EMP/FRFTR
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/31-1(a)  Class A
+                            Sentence: 03/20/2015
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  18Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  10Days In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Public Service  30Hrs In force
+                                      Supervised Court Service
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Submit a letter of apology  In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  18Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            852.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    325.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, Aaron Brakk
+e.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 05 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Resist/Pc Off/Corr Emp/Frft
+r ILCS: 720
+                            5/31-1(a) as charged. Judgment entered in favor of t
+he People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  9/16/2015.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  18 months probation. Defendant is ordered
+ to serve a period
+                            of incarceration of  10 days in the Champaign County
+ Correctional
+                            Center. Defendant is to receive credit for   1 days
+previously served.
+                            Defendant is ordered to perform  30 hours of public
+service work under
+                            the supervision of the Champaign County Court Servic
+es Department.
+                            The defendant is to be given credit on public servic
+e work for any
+                            hours completed in education, treatment, aftercare,
+sobriety based
+                            self-help group meetings, Victim Impact Panel and GE
+D classes.
+                            Defendant is to obtain an evaluation for alcohol and
+ drug abuse from
+                            an agency or agent recommended by the Court Services
+ Department, and
+                            follow any recommendations contained therein as to t
+reatment and/or
+                            counseling. Submit a letter of apology to the Champa
+ign County Court
+                            Services for approval of said department addressed t
+o the
+                            individual(s) listed in the written order. Count(s)
+stated in the
+                            written order are herby dismissed.   Waiver of Jury
+on file.
+                            Sentencing Order entered this date. See Order.  Defe
+ndant advised of
+                            his right to appeal.  Court finds he understands the
+ same.
+                            Sentencing order.
+                            Waiver of jury.
+   03-23-15                 Disposition entered.
+   03-24-15                 Bond
+   03-27-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   04-15-15                 Cash
+   04-29-15                 Cash
+   09-14-15                 EPAY BOND PAYMENT
+                            Bond
+   09-15-15                 EPAY BOND PAYMENT
+                            Bond
+   09-17-15                 Change of address filed with the Circuit Clerk.
+                            EPAY RECONCILIATION TRANSACTION
+                            Change of Address Form on file
+   09-18-15                 EPAY RECONCILIATION TRANSACTION
+   04-08-16
+                            Request for Early Discharge from Probation by Court
+Services.
+                            Order of Early Discharge from Probation entered. SEE
+ ORDER.
+                            Order of Early Discharge from Probation on file.
+                            Notification to State's Attorney and Court of Pendin
+g Request
+                            For Early Discharge From Probation on file.
+                            Disposition 05/01  Count 005  No Fine & Cost
+                            Disposition: Probation Terminated RESIST/PC OFF/CORR
+ EMP/FRFTR
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/31-1(a)  Class A
+                            Sentence: 04/08/2016
+                            Sentence: No Sentence  In force
+   04-18-16                 All obligations have been met, case is closed.
+   04-19-16                 Disposition sent through ADR process this date. SPT
+                            Court Ordered Payments
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF
