@@ -1,0 +1,954 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF001915
+
+   Defendant Plaintiff
+CONLEY  MATTHEW E
+1201 FALCON DR APT 6
+RANTOUL IL 61866
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 11/21/12
+                Court Room: B
+           Next Appearance: 10/14/15  09:00
+                Birth Date: 10/21/81
+                 DEFENDANT: CONLEY  MATTHEW E
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+      200.00      BOND -10% BOND FEE              .00         200.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+      100.00      TRAUMA FUND                     .00         100.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+       10.00      PRELIMINARY HEARING             .00          10.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+      200.00      BOND -10% BOND FEE           200.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        4.00      STATES ATTORNEY AUT            4.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+       20.00      TRAFFIC/CRIMINAL SU           20.00            .00
+         .00      CLERK OP & ADMIN FU             .00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+       10.00      PRELIMINARY HEARING           10.00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+       20.00      ST POLICE SERVICES            20.00            .00
+       15.00      ST POLICE OPERATION           15.00            .00
+       20.00      CLERK OP & ADMIN FU           20.00            .00
+      996.00                                   996.00            .00
+         .00      BOND -10% BOND FEE              .00            .00
+         .00      DOCUMENT STORAGE                .00            .00
+         .00      AUTOMATION                      .00            .00
+         .00      CIRCUIT CLERK FEE               .00            .00
+         .00      COURT SECURITY                  .00            .00
+         .00      COURT FINANCE FEE               .00            .00
+         .00      STATES ATTORNEY                 .00            .00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+         .00      ARRESTEE'S MEDICAL              .00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       10.00      PROBATION OPER ASSI             .00          10.00
+         .00      CLERK OP & ADMIN FU             .00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+       10.00      ST POLICE SERVICES              .00          10.00
+         .00      ST POLICE OPERATION             .00            .00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118713892 01000000000                         .00        08/01/13
+   121786061 SHERIFF'S BOOKING FEE             34.00        07/01/15
+   121786061 BOND - ORIGINAL                 2000.00        07/01/15
+   121998786 BOND -10% BOND FEE               200.00        10/30/15
+   121998786 DOCUMENT STORAGE                  15.00        10/30/15
+   121998786 AUTOMATION                        15.00        10/30/15
+   121998786 CIRCUIT CLERK FEE                100.00        10/30/15
+   121998786 COURT SECURITY                    25.00        10/30/15
+   121998786 COURT FINANCE FEE                 50.00        10/30/15
+   121998786 STATES ATTORNEY                   40.00        10/30/15
+   121998786 STATES ATTORNEY AUTOMATI           4.00        10/30/15
+   121998786 ARRESTEE'S MEDICAL                10.00        10/30/15
+   121998786 PROBATION OPER ASSISTANC          10.00        10/30/15
+   121998786  STATE OFFENDER DNA ID S         250.00        10/30/15
+   121998786 TRAUMA FUND                      100.00        10/30/15
+   121998786 TR/CR SUR $10/$40                 20.00        10/30/15
+   121998786 PRELIMINARY HEARING               10.00        10/30/15
+   121998786 VIOLENT CRIME VICTIMS AS         100.00        10/30/15
+   121998786 ST POLICE SERVICES FUND           20.00        10/30/15
+   121998786 ST POLICE OPERATIONS ASS          15.00        10/30/15
+   121998786 CLERK OP & ADMIN FUND             20.00        10/30/15
+   121998786 *BOND REFUND                     996.00        10/30/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG ASLT/USE DDLY WEAP/RIFLE
+
+         1  FELON POSS/USE WEAPON/FIREARM
+
+         1  FELON POSS/USE WEAPON/FIREARM
+
+         2  THEFT/STOLEN/INTENT $500<10K
+
+         2  THEFT/STOLEN/INTENT $500<10K
+
+         1  FELON POSS/USE WEAPON/FIREARM
+
+         1  FELON POSS/USE WEAPON/FIREARM
+
+         1  AGG ASLT/USE DDLY WEAP/RIFLE
+
+         2  THEFT/STOLEN/INTENT $500<10K
+
+         3  AGG ASLT/USE DDLY WEAP/RIFLE
+
+         4  ARMED ROBBERY
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   11-21-12                 Charge 01 Count 001 AGG ASLT/USE DDLY WEAP/RIFLE
+                            Statute 720 5/12-2(c)(1)  Class A  Orig.
+                            Agency: RANTOUL POLICE DEPARTMENT  Charge Instr: Inf
+ormation
+                            Charge 02 Count 001 AGG ASLT/USE DDLY WEAP/RIFLE
+                            Statute 720 5/12-2(c)(1)  Class A  Orig.
+                            Agency: RANTOUL POLICE DEPARTMENT  Charge Instr: Inf
+ormation
+                            Charge 03 Count 003 AGG ASLT/USE DDLY WEAP/RIFLE
+                            Statute 720 5/12-2(c)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            No bond No Bond
+                            Charging documents
+
+                            People's motion to amend Count I. Motion allowed. Co
+unt I amended on
+                            its face. Defendant arraigned. Defendant is admonish
+ed as to EXTENDED
+                            TERM Sentencing.  The Champaign County Public Defend
+er is appointed
+                            and ___________ appears instanter.  Defendant waives
+ preliminary
+                            hearing, enters a plea of not guilty and requests tr
+ial by jury.
+                            Pre-trial orders entered.  See expanded record.  Def
+endant is
+                            admonished as to trial and sentencing in absentia.
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            People's motion to amend the Information. Motion all
+owed. Information
+                            amended on its face. Defendant arraigned. Defendant
+is admonished as
+                            to EXTENDDED TERM Sentencing.  The Champaign County
+Public Defender is
+                            appointed and Scott Schmidt appears instanter.  Defe
+ndant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond is set in the
+ amount of
+                            $75,000-ROR DENIED. See expanded record.  Defendant
+is admonished as
+                            to trial and sentencing in absentia.
+                            Charge 04 Count 004 Attempt ARMED ROBBERY
+                            Statute 720 5/18-2(a)  Class 1  CSA A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 01 Count 001 FELON POSS/USE WEAPON/FIREARM
+                            Statute 720 5/24-1.1(a)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            No bond No Bond
+   11-28-12                 Discovery filed
+   11-29-12                 Answer to Discovery filed
+   01-17-13                 Supplemental Discovery filed
+   01-29-13                 Pre-trial held.
+                            People appear by Asst. State's Attorney.  Defendant
+appears by
+                            Counsel.  Suggestion to the Court that the defendant
+ is in custody.
+                            Cause is called for pre-trial.  Motion by the Defend
+ant to allot the
+                            matter for jury trial.  People announce ready.  By a
+greement of the
+                            parties, cause is allotted for jury trial scheduling
+ on 2/11/13 at
+                            9:00 a.m. in Courtroom C.  Defendant is ordered to a
+ppear.
+                            Defendant's bond is to continue.
+   02-01-13                 Proof of service on file.
+                            Proof of service on file.
+                            Proof of service on file.
+                            Proof of service on file.
+   02-04-13                 First Supplemental Answer to Discovery filed.
+   02-05-13                 Subpoena not found.
+                            Subpoena not found.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena not found.
+                            Subpoena Served.  No Fees.
+                            Motion in Limine to Alloow Impeachment of John Parke
+r with his
+                            Prior Convictions filed.
+                            Motion in Limine to exclude the use of the defendent
+'s
+                            Prior Convictions filed February 5, 2013.
+                            Second Supplemental Answer to Discovery filed.
+                            Proof of service on file.
+   02-06-13                 People's First Motion in Limine filed.
+                            Notice of Intention to Offer filed.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   02-07-13                 Case set for defendant to be arraigned on new charge
+.
+                            Supplemental Discovery filed
+   02-08-13                 Deft. arraigned on new count.
+                            People appear by Mr. Bennett.  Defendant appears in
+custody and with
+                            attorney Ms. Riess.  Count 4 was filed by the State.
+  Defendant is
+                            arraigned on Count 4 and advised as to all the possi
+ble penalties.
+                            Court finds he understands the same.  Defendant requ
+ests a preliminary
+                            hearing on Count 4.  Cause set for preliminary heari
+ng  on 2/11/13 at
+                            10:30 a.m. in Courtroom C.  Defendant's bond is to c
+ontinue.
+                            Proof of service on file.
+                            Subpoena Served.  No Fees.
+                            Proof of service on file.
+   02-11-13                 Cause continued for further proceedings.
+                            People appear by Mr. Bennett.  Defendant appear in c
+ustody and with
+                            attorney Ms. Riess.  Cause is called for Jury Trial
+scheduling.
+                            Motion by the State to Continue.  Defendant objects.
+  Arguments heard.
+                            State's Motion to Continue is allowed over the defen
+dant's objection.
+                            Cause is continued to the second week of Jury Term.
+ Command of any
+                            and all subpoenas are to continue to 2/25/13 at 10:0
+0 a.m. in
+                            Courtroom C.
+                            Pretrial order after waiver or finding of probable c
+ause
+                            People appear by Scott M. Bennett.  Defendant appear
+s personally and
+                            with counsel, Amanda Riess.  Cause called for prelim
+inary hearing.
+                            Witnesses sworn. Evidence heard. The Court having he
+ard the evidence
+                            on preliminary hearing and being fully advised in th
+e premises finds
+                            probable cause to believe that the Defendant has com
+mitted one or more
+                            felony offenses as charged in the information.   Def
+endant enters a
+                            plea of not guilty and requests trial by jury.  Pre-
+Trial Discovery
+                            Order previously on file continue.  Bond to continue
+.
+                            Third Supplemental Answer to Discovery filed.
+                            Motion in Limine to Exclude the 911 Tape, Motion in
+Limine to
+                            Allow Impeachment of Laquana Fenderson with her Prio
+r Juvenile
+                            Adjudication and Pending Case filed.
+   02-12-13                 Subpoena not found.
+                            Subpoena not found.
+   02-13-13                 Supplemental Discovery filed
+                            Subpoena Served.  No Fees.
+   02-19-13                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Supplemental Discovery filed
+   02-21-13                 Subpoena duces tecum issued returnable 2/25/13 at 10
+:00 a.m. in
+                            Courtroom C to Tara Gilman of DCFS.
+                            Supoena Duces Tecum faxed this date to DCFS.
+   02-25-13                 Information from DCFS received pursuant to the Subpo
+ena.
+                            Information received from DCFS pursuant to the subpo
+ena is received
+                            and ordered filed.
+
+                            Appearance of the People by D. Clifton for S. Bennet
+t. Appearance of
+                            the Defendant personally, in custody, and with A. Ri
+ess. Documents
+                            received pursuant to the subpoena duces tecum for th
+e People. Same to
+                            make copies for opposing counsel and return the orig
+inals to the Court
+                            file.  Cause allotted for hearing on all pending mot
+ions to 2/26/13 at
+                            10:00 a.m. in courtroom B.
+                            Cause allotted for jury trial 2/26/13 at 1:30 p.m. i
+n courtroom B.
+                            LATER:
+                            Original documents returned to the Court file.
+                            First Amended Motion in Limine to Exclude the Use of
+ the
+                            Defendant's Prior Convictions filed.
+                            Fourth Supplemental Answer to Discovery filed.
+                            Fifth Supplemental Answer to Discovery filed.
+                            Motion in Limine to Exclude Elizabeth Conley's Prior
+ Convictions filed
+                            Motion in Limine to Exclude Malik Chapple's Prior Co
+nvictions filed.
+                            Motion in Limine to Exclude Bobby Boehme's Prior Con
+victions
+                            Filed.
+                            Motion in Limine to Exclude Joseph Carter's Prior Co
+nvictions and
+                            Pending Case filed.
+                            Supplemental Discovery filed
+                            Supplemental Discovery filed
+   02-26-13                 Proof of service on file.
+                            Motion in Limine to Exclude the Defendant's Statemen
+t Regarding
+                            His Previous Drug Use filed.
+                            Motion in Limine to Exclude Testimony and Evidence t
+hat Drugs
+                            And Drug Equipment Were Found at the Parker Residenc
+e and any
+                            Reference to Drug Sales from the Parker Residence fi
+led.
+                            Motion in Limine to Exclude Testimony and Evidence T
+hat the
+                            Defendant has Previous Involvement with the Departme
+nt of Children and
+                            Family Services filed.
+                            Motion in Limine to Exclude Testimony and Evidence t
+hat the
+                            Defendant and Latisha Miller Have Had Contact Since
+his Arrest on
+                            November 20, 2012 filed.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+
+                            Appearance of the People by S. Bennett. Appearance o
+f the Defendant
+                            personally, in custody, and with A. Riess. Cause cal
+led for hearing on
+                            all pending Defendant's Motion in Limine. Hearing he
+ld on all motions
+                            and rulings rendered.
+                            State represents that they will be proceeding to tri
+al on COUNTS I AND
+                            II. On motion of the People, Count II amended on its
+ face this date.
+                            On motion of the People, COUNTS III AND IV are dismi
+ssed this date.
+                            LATER PROCEEDINGS;
+                            Cause called for jury trial. Statement of the Nature
+ of the Case,
+                            State's and Defendant's Witness Lists on file.  Firs
+t Stipulation of
+                            the Parties on file.
+                            Potential jurors are summoned into Court. Jurors are
+ selected and
+                            sworn.
+                            Opening statements presented to the jury. Trial in r
+ecess. Trial to
+                            reconvene 2/27/13 at 9:30 a.m. in courtroom B.
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed ATTEMPT ARMED ROBBERY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/18-2(a)  Class 1  CSA A  Orig.
+                            Sentence: 02/26/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed AGG ASLT/USE DDLY WEAP/RIFLE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-2(c)(1)  Class A  Orig.
+                            Sentence: 02/26/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   02-27-13
+                            Appearance of the People by S. Bennett. Appearance o
+f the Defendant,
+                            in custody, and with A. Riess. Jury trial resumes.
+                            Sworn testimony presented on behalf of the People.
+                            Court recesses. Correspondence from Juror #146 indic
+ating that after
+                            testimony has been presented, she is aware of the ci
+rcumstances of the
+                            case. Juror #146 is excused and is replaced with Alt
+ernate #1.
+                            Continued sworn testimony on behalf of the People pr
+esented to the
+                            jury.
+                            Stipulation of the parties read to the jury.
+                            People rest. Exhibits admitted into evidence.
+                            Motion on behalf of the Defendant for Directed Verdi
+ct. Motion is
+                            DENIED.
+                            Defense rests without presentation of evidence.
+                            Defendant renews Motion for Directed Verdict. Motion
+ is DENIED.
+                            Jurors are excused for the day.
+                            Jury instruction conference held.  Trial in recess.
+Trial to reconvene
+                            2/28/13 at 9:00 a.m. in courtroom B.
+   02-28-13                 Subpoena Served.  No Fees.
+
+                            Appearance of the People by S. Bennett. Appearance o
+f the Defendant
+                            personally, in custody, and with A. Riess. Jury tria
+l resumes.
+                            Continued jury instruction conference held.
+                            Closing arguments presented to the jury.
+                            Jurors are instructed as to the law and retire to de
+liberate.
+                            LATER:
+                            By agreement, deliberations conclude for the day. Ju
+rors are
+                            instructed to return for continued deliberations 3/1
+/13 at 9:00 a.m.
+                            Court is in recess for the day.
+   03-01-13
+                            Appearance of the People by S. Bennett. Appearance o
+f the Defendant
+                            personally, in custody, and with A. Riess.
+                            Jury trial continues.
+                            Jurors are summoned into Court and the Court instruc
+ts the jury that
+                            they may continue to deliberate.
+                            LATER:
+                            Jurors return into open Court and state they cannot
+reach a verdict.
+                            Court declares a mistrial. Jurors are excused.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena not served.
+   03-04-13                 Proof of service on file.
+                            Proof of service on file.
+                            Proof of service on file.
+   03-05-13                 Subpoena not found.
+   03-06-13                 Sixth Supplemental Answer to Discovery filed.
+   03-07-13                 Supplemental Discovery filed
+                            Supplemental Discovery filed
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   03-08-13                 Eigth Supplemental Answer to Discovery filed
+                            Subpoena not served.
+                            Subpoena not served.
+                            Seventh Supplemental Answer to Discovery filed
+   03-11-13
+                            Appearance of the People by S. Bennett. Appearance o
+f the Defendant
+                            personally, in custody, and with A. Riess. Cause cal
+led for jury
+                            trial.
+                            Court notes Motion for Substitution of Counsel and M
+otion to Continue
+                            on file by attorney Dan Jackson. Representation that
+ Mr. Jackson is
+                            unable to attend today's proceedings. State objects
+to Mr. Jackson's
+                            Motions.
+                            Motion to Continue on file by Amanda Riess on file.
+ Motion to
+                            Continue is DENIED.
+                            Defendant's Motion to Suppress Statements filed this
+ date is ALLOWED.
+                            All rulings made on prior pre trial Motions are to c
+ontinue in full
+                            force and effect.
+                            Cause continued for the appearance of attorney Dan J
+ackson, to enter
+                            his appearance and proceed to trial, to 3/12/13 at 9
+:00 a.m. in
+                            courtroom B.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Motion to Continue Trial filed.
+                            Motion Suppress Statements filed.
+                            Defendant's Second Motion to Continue Trial filed.
+   03-12-13                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+
+                            Appearance of the People by S. Bennett. Appearance o
+f the Defendant
+                            personally, in custody, and with A. Riess. Court not
+es Defendant's
+                            Second Motion to Continue on file.
+                            Mr. Jackson appears personally.  Court inquires if M
+r. Jackson wishes
+                            to enter his appearance and is ready for trial. Mr.
+Jackson indicates
+                            that he has just been retained and is not ready for
+trial this date.
+                            Defendant's Motion to Continue is DENIED. Mr. Jackso
+n's Motion for
+                            Substitution of Counsel is DENIED.
+                            Cause called for trial. Potential jurors are summone
+d into Court.
+                            Jurors are selected and sworn.
+                            Opening statements presented.
+                            Sworn testimony presented on behalf of the People.
+                            Trial in recess. Trial to reconvene 3/13/13 at 9:00
+a.m. in courtroom
+                            B.
+   03-13-13
+                            Appearance of the People by S. Bennett. Appearance o
+f the Defendant
+                            personally, in custody, and with A. Riess.
+                            Jury trial resumes.
+                            People's exhibit #5, a certified copy of Defendant's
+ prior conviction,
+                            admitted. People rest. Exhibits admitted into eviden
+ce.
+                            Motion by the Defendant for Directed Verdict. Motion
+ is DENIED.
+                            Sworn testimony presented on behalf o the Defendant.
+ Defense rests.
+                            Defense renews Motion for Directed Verdict. Motion i
+s DENIED.
+                            Jury instruction conference held outside the presenc
+e of the jury.
+                            Jurors return into open Court. Jurors are instructed
+ as to the law and
+                            retire to deliberate.
+                            Jurors return into open Court with the following ver
+dicts,
+                            "We, the jury, find the Defendant Matthew Conley gui
+lty of Unlawful
+                            Possession of Weapons by a Felon."
+                            "We, the jury, find the Defendant Matthew Conley gui
+lty of Theft of
+                            Property Exceeding $500.00 in Value."
+                            Judgment entered in favor of the People and against
+the Defendant and
+                            for costs.
+                            Cause allotted for Post Trial Motions, if any, and s
+entencing hearing,
+                            if reached, to 4/15/13 at 10:30 a.m. in courtroom B.
+ Court Services
+                            directed to prepare a pre sentence report with copie
+s to Court and
+                            counsel at least 3 days prior to said hearing. Defen
+dant also seeks a
+                            TASC and Drug Court evaluation.
+                            Pursuant to statute, Defendant's bond is revoked. De
+fendant to be held
+                            without bond pending said hearing.
+                            Record of exhibits received on file.
+   03-15-13                 Affidavit of Mailing of TASC Report order filed.
+   03-19-13                 Subpoena not found.
+                            Subpoena not served.
+                            Subpoena not found.
+                            Subpoena not found.
+   03-28-13                 Tasc Evaluation on file.
+   04-04-13                 Motion for Acquittal, or, in the Alternative, Motion
+ for a New Trial
+                            Filed.
+   04-10-13                 Presentence report on file.
+   04-15-13                 Statute 720 5/24-1.1(a)  Class 3  Orig.
+                            Sentence: 04/15/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Department Of Corrections  10Yrs In force
+                            Sentence: Credit Time Served  147Days In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              397.00
+                            Disposition 02/01  Count 002  Cost Only
+                            Disposition: Guilty THEFT/STOLEN/INTENT $500<10K
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/16-1(a)(4)(A)  Class 3
+                            Sentence: 04/15/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Department Of Corrections  5Yrs In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only               32.00
+                            Payment Due
+                            Sentencing Order/Order for Pre-Sentence report.
+                            Appearance of the People by Scott M. Bennett.  Appea
+rance of the
+                            Defendant personally, in custody, and by counsel, Am
+anda Riess.  Cause
+                            called for hearing on Defendant's Post Trial Motions
+. Arguments of
+                            counsel heard. Motion is DENIED.
+                            Cause called for sentencing hearing.  Witnesses swor
+n. Evidence heard.
+                            Statements of counsel heard.  Statement of the defen
+dant heard.   Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.
+As to COUNT I:
+                            Defendant is ordered to serve a period of incarcerat
+ion of  10 years
+                            in the Illinois Department of Corrections. As to COU
+NT II: Defendant
+                            is ordered to serve a period of incarceration of 5 y
+ears in the
+                            Illinois Department of Corrections. Defendant is to
+receive credit for
+                            147 days previously served. Sentences are to run CON
+CURRENTLY.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same.
+                            Mittimus prepared.
+   04-19-13                 Statement of State's Attorney filed
+   04-25-13                 Request for Notice of Appeal and Proof of Service on
+ file by
+                            pro se.  File stamped copy returned to defendant and
+ file forwarded to
+                            Judge Difanis.
+                            Notice of appeal on file.
+                            Motion to Reconsider Sentence filed.
+   04-26-13                 Motion allotted for hearing to
+                            Notice of appeal.
+                            Notice of appeal and Request for Appointment of the
+Appellate Defender
+                            on file by defendant/appellant, pro se. File stamped
+ copy returned to
+                            defendant and file forwarded to Judge Difanis.
+   04-29-13                 Notice of Hearing Filed
+   05-01-13                 Petition for Writ of Habeas Corpus Ad Prosequendum f
+iled.
+   05-30-13                 Office of the Circuit Clerk is to prepare and file a
+ Notice
+                            Appearance of the People by S. Bennett. Appearance o
+f the Defendant by
+                            S. Corum. Cause called for hearing on Defendant's Mo
+tion to Reconsider
+                            Sentence. Motion is DENIED.
+                            Office of the Circuit Clerk is to prepare and file a
+ Notice of Appeal.
+                            Office of the State Appellate Defender appointed to
+represent the
+                            defendant on the appeal.  Office of the Circuit Cler
+k is to notify the
+                            State Appellate Defender of their appointment.
+                            Transcript for appeal notice required.
+                            Appointment of counsel on appeal prepared.
+   06-03-13                 Notice of appeal prepared.
+                            Appeal Affidavit was mailed.
+                            Notice of Appeal and Appointment of Counsel on Appea
+l mailed to all
+                            Parties involved.
+   06-06-13                 Appellate Court's letter to counsel pursuant to
+                            Supreme Court Rule 312 on File.
+   06-07-13                 Appellate Defender's letter acknowledging their
+                            Appointment to represent defendant on appeal and the
+ir request to have
+                            the record filed with the Appellate Court.
+   06-13-13                 Appellate Court Docketing Order on File.
+   06-28-13                 Appeal prepared for appellate court this date.
+   08-06-13                 Record of appeal #4-13-0461 mailed this date.
+                            Certificate of mailing prepared.
+   08-12-13                 Receipt from the Appellate Court.
+                            Receipt from the Appellate Court that common law rec
+ord received from
+                            the circuit court on file.  Appellate Court No. 4-13
+-0461
+   08-15-13                 Record of exhibits sent to appeal on file.
+   08-16-13                 Receipt Of Exhibits prepared and mailed.
+                            Certificate of mailing prepared.
+   08-19-13                 White Certified Mail receipt(s) on file.
+   08-21-13                 Record of exhibits received on file.
+   07-08-14                 Prepared blueback certificate.
+   11-05-14                 Appellant's motion to supplement the record on appea
+l ALLOWED
+   11-18-14                 Case sent out for collections.
+                            Case sent out for collections.
+   02-02-15                 Motion to Release Evidence on file.
+   02-06-15
+                            Motion to Release Evidence on file. Motion is allowe
+d. The evidence
+                            listed in the written order may be released to the p
+erson listed in
+                            the written order. SEE ORDER.
+                            Order on file regarding People's Motion to Release E
+vidence.
+   02-11-15                 Record of exhibits received on file.
+   02-17-15                 Release of Exhibits on file
+                            Certificate of Compliance on file
+   05-22-15                 Order from the Appellate Court regarding Gen No. 4-1
+3-0461.
+                            It is the decision of this court that the order on a
+ppeal from the
+                            circuit court be REVERSED and the cause be REMANDED
+to the Circuit
+                            Court for the Sixth Judicial Circuit Champaign Count
+y, for such other
+                            proceedings as required by the order of this court.
+                            Case removed from Collections, current due
+                            Case removed from Collections, current due
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Reversed/Reviewing Court AGG ASLT/USE D
+DLY WEAP/RIFLE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-2(c)(1)  Class A
+                            Sentence: 05/22/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/02  Count 001  No Fine & Cost
+                            Disposition: Reversed/Reviewing Court FELON POSS/USE
+ WEAPON/FIREARM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/24-1.1(a)  Class 3
+                            Sentence: 05/22/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/03  Count 002  No Fine & Cost
+                            Disposition: Reversed/Reviewing Court THEFT/STOLEN/I
+NTENT $500<10K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1(a)(4)(A)  Class 3
+                            Sentence: 05/22/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Case reinstated by court.
+   05-26-15                 Mandate from the Appellate Court regarding Gen No. 4
+-13-0461 on file,
+                            Along with printed copy of the Appellate Order.  It
+is the decision of
+                            this court that the order on appeal from the circuit
+ court be REVERSED
+                            and the cause be REMANDED to the Circuit Court for t
+he Sixth Judicial
+                            Circuit Champaign County, for such other proceedings
+ as required by
+                            the order of this court.
+   05-27-15
+                            Cause allotted for status hearing 6/19/15 at 2:30 p.
+m. in courtroom B.
+                            State directed to prepare writ to secure Defendant's
+ presence.
+   05-28-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   06-02-15                 Re. 4-13-0461, Correspondence from the Appeallate Co
+urt on file
+   06-03-15                 Entry of appearance placed on file.
+   06-05-15                 Habeas Corpus Ad Prosequendum.
+                            Petition for Writ of Habeas Corpus Ad Prosequendumon
+ file.  Prayer of
+                            the Petition allowed.
+                            Petition, order and writ issued and sent.
+                            See affidavit of mailing.
+   06-10-15                 Receipt on file
+   06-12-15                 Motion for Substitution of Counsel on file
+   06-15-15
+                            Substitution of Counsel on file. The appointment of
+the Office of the
+                            Public Defender is VACATED. Entry of Appearance on f
+ile by D. Jackson.
+                            Order entered. SEE ORDER.
+                            Substitution of Counsel on File
+   06-19-15                 Defendant's motion for continuance.
+                            People appear by Troy Lozar.  Defendant appears pers
+onally, in
+                            custody, and with counsel, Daniel C. Jackson. Cause
+called for status
+                            hearing. Status hearing held.
+                            Defendant's bond is reset in the amount of $200,000.
+ ROR DENIED.
+   07-01-15                 Sheriff Booking Fee
+   07-09-15                 Record of exhibits received on file.
+   08-04-15
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   09-10-15                 Defendant's motion for continuance.
+                            People appear by Troy Lozar.  Defendant appears pers
+onally and with
+                            counsel, Daniel C. Jackson. Motion by the Defendant
+for continuance.
+                            Motion allowed.
+   10-14-15                 Disposition 01/04  Count 002  No Fine & Cost
+                            Disposition: Dismissed THEFT/STOLEN/INTENT $500<10K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1(a)(4)(A)  Class 3
+                            Sentence: 10/14/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/05  Count 001  Cost Only
+                            Disposition: Guilty FELON POSS/USE WEAPON/FIREARM
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/24-1.1(a)  Class 3
+                            Sentence: 10/14/2015
+                            Sentence: Cost Only  In force
+                            Sentence: Department Of Corrections  946Days In forc
+e
+                            Sentence: Credit Time Served  946Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  946Days
+In force
+                            Cost Only              712.00      STATE OFFENDER DN
+A    250.00
+                            PRELIMINARY HEARING     10.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally and by counsel, Daniel C. Jackson.   Defe
+ndant advised as
+                            to the nature of the proceedings, the charges and th
+e possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Felon Poss/Use Weapon/Firearm ILCS: 720 5
+/24-1.1(a) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.   Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of
+                            incarceration of  946 days in the Illinois Departmen
+t of Corrections.
+                            Defendant is to receive credit for 946 days previous
+ly served. The
+                            Defendant is to submit specimens of blood, saliva, o
+r tissue to the
+                            Illinois Department of State Police or to the Depart
+ment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Count(s) stated
+                            in the written order are herby dismissed. Defendant
+advised of right
+                            to appeal and rights pursuant to Supreme Court Rule
+605 and the Court
+                            finds that the defendant understands the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+                            Defendant is ordered to report for commencement of s
+entence
+                            Sentencing order.
+                            Waiver of jury.
+                            Disposition 01/06  Count 001  Modified Order
+                            Disposition: Modified/Trial Court FELON POSS/USE WEA
+PON/FIREARM
+                            Modified Order         744.00      STATE OFFENDER DN
+A    250.00
+                            PRELIMINARY HEARING     10.00
+   10-19-15                 Disposition entered.
+                            Record of exhibits received on file.
+   10-21-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   10-28-15                 Disposition entered.
+   10-30-15                 Bond
+   11-04-15
+                            Appearance of the People by C. Sharples-Brooks. Appe
+arance of the
+                            Defendant personally and with D. Jackson. Defendant
+remanded to the
+                            custody of the Sheriff for transportation to the Dep
+artment of
+                            Corrections. Defendant is admonished as to his right
+ to appeal and the
+                            Court finds he understands the same.
+                            Judgment - Sentence to Illinois Dept. of Corrections
+.
+   11-05-15                 Disposition sent through ADR process this date. SPT
+   05-19-16                 Prepared blueback certificate.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

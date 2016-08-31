@@ -1,0 +1,352 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF001563
+
+   Defendant Plaintiff
+KING  ROBIN B
+3948 E DALLAS CT
+BELLA VILLA MO 63125
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 09/20/13
+                Court Room: E
+           Next Appearance: 04/15/16
+                Birth Date: 02/10/58
+                 DEFENDANT: KING  ROBIN B
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+     2500.00      BOND -10% BOND FEE          2500.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      COURT FINANCE FEE             10.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          600.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+    22163.00                                 22163.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118805580 SHERIFF'S BOOKING FEE             20.00        09/27/13
+   118805580 BOND - ORIGINAL                25000.00        09/27/13
+   121046920 BOND -10% BOND FEE              2500.00        04/24/14
+   121046920 DOCUMENT STORAGE                  15.00        04/24/14
+   121046920 E-CITATION                         5.00        04/24/14
+   121046920 AUTOMATION                        15.00        04/24/14
+   121046920 CIRCUIT CLERK FEE                 75.00        04/24/14
+   121046920 COURT SECURITY                    25.00        04/24/14
+   121046920 COURT FINANCE FEE                 10.00        04/24/14
+   121046920 STATES ATTORNEY                   20.00        04/24/14
+   121046920 STATES ATTORNEY AUTOMATI           2.00        04/24/14
+   121046920 CRIME STOPPERS                     5.00        04/24/14
+   121046920 ARRESTEE'S MEDICAL                10.00        04/24/14
+   121046920 PROBATION MONITORING FEE          25.00        04/24/14
+   121046920 PROBATION OPER ASSISTANC          10.00        04/24/14
+   121046920 TR/CR SUR $10/$40                 10.00        04/24/14
+   121046920 DRUG COURT PROGRAM                 5.00        04/24/14
+   121046920 VIOLENT CRIME VICTIMS AS          75.00        04/24/14
+   121046920 ST POLICE SERVICES FUND           10.00        04/24/14
+   121046920 ST POLICE OPERATIONS ASS          10.00        04/24/14
+   121046920 CLERK OP & ADMIN FUND             10.00        04/24/14
+   121046920 *BOND REFUND                   22163.00        04/24/14
+   121272568 PERSONAL CHECK/CREDIT CA           1.25        08/29/14
+   121272568 PROBATION MONITORING FEE         575.00        08/29/14
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  ELEC HRSMT/OBSCENE/3+
+
+         2  ELEC HRSMT/OBSCENE/3+
+
+         3  ELEC HRSMT/OBSCENE/3+
+
+         4  ELEC HRSMT/OBSCENE/3+
+
+         5  ELEC HRSMT/OBSCENE PROPOSAL
+
+         5  ELEC HRSMT/OBSCENE PROPOSAL
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   09-20-13                 Charge 01 Count 001 ELEC HRSMT/OBSCENE/3+
+                            Statute 720 5/26.5-3(a)(1)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 ELEC HRSMT/OBSCENE/3+
+                            Statute 720 5/26.5-3(a)(1)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 03 Count 003 ELEC HRSMT/OBSCENE/3+
+                            Statute 720 5/26.5-3(a)(1)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 04 Count 004 ELEC HRSMT/OBSCENE/3+
+                            Statute 720 5/26.5-3(a)(1)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Probable cause warrant issued
+                            Verified information on file.  Witness sworn.  Evide
+nce heard.
+                            Probable cause to arrest determined, warrant issued.
+  Bond set in the
+                            amount of $250,000.00.
+                            Warrant issued.
+   09-27-13                 Sheriff Booking Fee
+                            Cause continued for further proceedings
+   09-30-13                 Warrant Served. No Fees.
+   10-15-13                 Entry of Appearance, General Plea of Not Guilty and
+Request for
+                            Jury Trial filed.
+   10-16-13                 Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            Defendant appears personally and with counsel Adam D
+ill, who appears
+                            on behalf of James Martinkus. Defendant arraigned.
+Defendant requests
+                            Preliminary hearing. Bond to continue as posted. Mot
+ion for Permission
+                            to Leave the State of Illinois and Modify Condition
+of Bond filed by
+                            the Defendant instanter. Motion allowed. The Defenda
+nt is permitted to
+                            leave the State of Illinois while on bond. All other
+ conditions of
+                            bond remain in full force and effect. See ORDER. Def
+endant is
+                            admonished as to trial and sentencing in absentia.
+See expanded
+                            record.
+                            Motion for Permission to Leave State of Illinois and
+ Modify
+                            Condition of Bond, filed.
+   10-21-13                 Motion to Modify Bond/Conditions of Release filed.
+   10-22-13                 Affidavit of mailing on file.
+                            Discovery filed.
+   10-24-13                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   10-25-13                 Proof of service on file.
+                            Supplemental Discovery filed
+   10-29-13                 Subpoena Served.  No Fees.
+   11-12-13                 Pre-trial order after waiver or finding of probable
+cause.
+                            People appear by Troy Lozar.  Defendant appears with
+ counsel, James A.
+                            Martinkus. Defendant waives preliminary hearing, ent
+ers a plea of not
+                            guilty and requests trial by jury. Pre-Trial Orders
+entered. See
+                            Orders. Bond to continue
+   11-14-13
+                            Agreed Order Modifying Bond  entered. Defendant orde
+red to have NO
+                            CONTACT WHATSOEVER with the named persons and addres
+ses in the written
+                            order. SEE ORDER.
+   12-17-13                 Motion to Dismiss on file.
+   12-20-13                 Motion to Reduce Bond on file by the defendant by hi
+s attorney
+                            James A. Martinkus.
+   01-14-14                 Defendant's motion for continuance.
+                            People appear by Troy Lozar.  Defendant appears pers
+onally and with
+                            counsel, Matthew Peek for James A. Martinkus.
+                            State's Response to Defendant's Motion to Dismiss.
+   02-07-14                 Reply Memorandum to State's Response to Defendant's
+Motion to Dismiss
+                            on file by the respondent by his attorney James A. M
+artinkus.
+   02-11-14
+                            Appearance of the People by T. Lozar. Appearance of
+the Defendant
+                            personally and with J. Martinkus. Cause called for h
+earing on
+                            Defendant's Motion to Dismiss filed December 17, 201
+3. Court considers
+                            State's Reply to the Motion to Dismiss and the Reply
+ Memorandum to
+                            State's Response to Defendant's Motion to Dismiss. A
+rguments of
+                            counsel heard.  Motion to Dismiss is DENIED.
+                            Cause allotted for pre trial.
+   04-08-14
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   04-11-14                 Charge 05 Count 005 ELEC HRSMT/OBSCENE PROPOSAL
+                            Statute 720 5/26.5-3(a)(1)  Class B  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   04-15-14                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed ELEC HRSMT/OBSCENE/3+
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/26.5-3(a)(1)  Class 4
+                            Sentence: 04/15/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed ELEC HRSMT/OBSCENE/3+
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/26.5-3(a)(1)  Class 4
+                            Sentence: 04/15/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed ELEC HRSMT/OBSCENE/3+
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/26.5-3(a)(1)  Class 4
+                            Sentence: 04/15/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed ELEC HRSMT/OBSCENE/3+
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/26.5-3(a)(1)  Class 4
+                            Sentence: 04/15/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 05/00  Count 005  Cost Only
+                            Disposition: Guilty ELEC HRSMT/OBSCENE PROPOSAL
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/26.5-3(a)(1)  Class B
+                            Sentence: 04/15/2014
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Mental Health Treatment/Assessment  60Days
+ In force
+                            Sentence: No contact order.  In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: State will not pursue charges on certain a
+cts  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Cost Only             2807.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    600.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally and by counsel, James A. Martinkus.   Def
+endant advised as
+                            to the nature of the proceedings, the charges and th
+e possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 05
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Elec Hrsmt/Obscene Proposal ILCS: 720 5/2
+6.5-3(a)(1) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by 10/15/2014.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  24
+                            months probation. Defendant is to obtain a mental he
+alth evaluation
+                            within  60 days from an agency or agent recommended
+by the Champaign
+                            County Court Services Department, and follow any rec
+ommendations
+                            contained therein as to treatment and/or counseling.
+ Defendant is to
+                            have no contact, directly or indirectly, in person,
+by telephone or
+                            electronically with the persons stated in the writte
+n order. Count(s)
+                            stated in the written order are herby dismissed. The
+ State agrees not
+                            to file any criminal charges against the Defendant b
+ases solely on
+                            conduct described in the police reports list in the
+written order.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+   04-22-14                 Bond re-assigned to Robin King on file.
+   04-23-14                 Error disposition form created this date.
+                            Error disposition form created this date.
+                            Error disposition form created this date.
+                            Error disposition form created this date.
+                            Error disposition form created this date.
+   04-24-14                 Bond
+   08-29-14                 Check
+   05-13-16                 Written order of Discharge from probation entered.
+                            Disposition 05/01  Count 005  No Fine & Cost
+                            Disposition: Probation Terminated ELEC HRSMT/OBSCENE
+ PROPOSAL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/26.5-3(a)(1)  Class B
+                            Sentence: 05/13/2016
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   05-16-16                 All obligations have been met, case is closed.
+   05-17-16                 Error disposition form created this date.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

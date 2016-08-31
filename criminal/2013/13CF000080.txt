@@ -1,0 +1,289 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF000080
+
+   Defendant Plaintiff
+BROWN  ANTONIO L
+1305 PAULA DRIVE
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/14/13
+                Court Room:
+           Next Appearance: 03/21/13
+                Birth Date: 03/18/92
+                 DEFENDANT: BROWN  ANTONIO L
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       10.00      PROBATION OPER ASSI             .00          10.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+      100.00      TRAUMA FUND                     .00         100.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      255.99      COLLECTION FEES                 .00         255.99
+      111.30      LATE FEES                       .00         111.30
+       10.00      ST POLICE OPERATION             .00          10.00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      135.24      COLLECTION FEES                 .00         135.24
+       58.80      LATE FEES                       .00          58.80
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  INVOL MANSLAUGHTER/FAMILY MBR
+
+         2  FELON POSS/USE FIREARM PRIOR
+
+         3  OBSTRUCT JUST/DESTROY EVIDENCE
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   01-14-13                 Charge 01 Count 001 INVOL MANSLAUGHTER/FAMILY MBR
+                            Statute 720 5/9-3(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 FELON POSS/USE FIREARM PRIOR
+                            Statute 720 5/24-1.1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 OBSTRUCT JUST/DESTROY EVIDENCE
+                            Statute 720 5/31-4(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned. Defendant is admonished as to N
+ON PROBATIONABLE
+                            OFFENSE and EXTENDED TERM Sentencing.  The Champaign
+ County Public
+                            Defender is appointed and Anthony Ortega appears ins
+tanter.  Defendant
+                            waives preliminary hearing, enters a plea of not gui
+lty and requests
+                            trial by jury.  Pre-trial orders entered. Bond is to
+ continue as set
+                            in the amount of $100,000-ROR DENIED.  See expanded
+record.  Defendant
+                            is admonished as to trial and sentencing in absentia
+.
+                            Notice of arrest without warrant on file.
+   01-17-13                 Discovery filed
+   01-22-13                 Answer to Discovery filed
+   03-01-13                 Motion to Continue filed
+   03-05-13
+                            Appearance of the State's Attorney.  Defendant appea
+rs by counsel.
+                            Suggestion to the court that the defendant is in cus
+tody.  Cause is
+                            called for pre-trial.  Motion by the defendant to al
+lot the matter for
+                            plea.  Motion is allowed.  Cause is allotted for ple
+a.  Defendant's
+                            bond is to continue.
+   03-08-13                 Supplemental Discovery filed
+                            Proof of service on file.
+   03-11-13                 Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed OBSTRUCT JUST/DESTROY EVIDENC
+E
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/31-4(a)  Class 4  Orig.
+                            Sentence: 03/11/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Cost Only
+                            Disposition: Guilty FELON POSS/USE FIREARM PRIOR
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/24-1.1(a)  Class 2  Orig.
+                            Sentence: 03/11/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Department Of Corrections  10Yrs In force
+                            Sentence: Credit Time Served  60Days In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              392.00
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty INVOL MANSLAUGHTER/FAMILY MBR
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/9-3(a)  Class 2  Orig.
+                            Sentence: 03/11/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Department Of Corrections  10Yrs In force
+                            Sentence: Credit Time Served  60Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Defendant's previous probation unsuccessfu
+lly termed  In for
+                            Sentence: PTR in other cases withdrawn and dismissed
+  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  60Days I
+n force
+                            Cost Only              492.00      STATE OFFENDER DN
+A    250.00
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott M. Bennett.  Appea
+rance of the
+                            Defendant personally, in custody and with counsel, J
+anie Miller-Jones.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument is ame
+nded on its face,
+                            on the Motion of the People and without objection by
+ the Defendant.
+                            Finding Defendant is guilty of the offense of Involu
+ntary Manslaughter
+                            ILCS: 720 5/9-3(f) as charged. Judgment entered in f
+avor of the People
+                            and against the defendant on finding of guilt and fo
+r costs.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk.  Any bond posted
+ is to be applied
+                            first to any court ordered bond assignment on file a
+nd then to all
+                            restitution ordered and then to all financial obliga
+tions in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of
+                            incarceration of  10 years, in the Illinois Departme
+nt of Corrections.
+                            Defendant's sentence on Count 1 is to be served conc
+urrently with his
+                            sentence on Count 2.  Defendant is to receive credit
+ for  60 days
+                            previously served. If not previously done so by him,
+ the Defendant is
+                            to submit specimens of blood, saliva, or tissue to t
+he Illinois
+                            Department of State Police or to the Department of C
+orrections within
+                            45 days, at a collection site designated by the Cham
+paign County Court
+                            Services Department and/or Illinois Department of St
+ate Police, in
+                            accordance with 730 ILCS 5/5-4-3.  On the State's mo
+tion, the Petition
+                            to Revoke in the case specified in the written order
+ is withdrawn  and
+                            dismissed. Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.  Sentencing Order entered.  Se
+e Order.
+                            Defendant is remanded to the custody of the Champaig
+n County Sheriff
+                            for transportation to the Illinois Department of Cor
+rections.
+                            Judgment-Sentence to the Illinois Department of Corr
+ections entered
+                            this date.
+                            Sentencing order.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument as ame
+nd by the Court on
+                            its face this date.  Finding Defendant is guilty of
+the offense of
+                            Unlawful Possession of Weapon by a Felon ILCS: 720 5
+/24-1.1(a) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk.  Any bond posted is
+to be applied
+                            first to any court ordered bond assignment on file a
+nd then to all
+                            restitution ordered and then to all financial obliga
+tions in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of
+                            incarceration of  10 years, in the Illinois Departme
+nt of Corrections.
+                            Defendant's sentence on Count 2 is to be served conc
+urrently with his
+                            sentence on Count 1. Defendant is to receive credit
+for  60 days
+                            previously served.
+                            Mittimus prepared.
+   03-14-13                 Statement of State's Attorney filed
+   08-19-14                 Case sent out for collections.
+                            Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

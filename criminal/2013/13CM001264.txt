@@ -1,0 +1,273 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CM001264
+
+   Defendant Plaintiff
+SMITH  DANIEL L
+501 GALAXY ST
+RANTOUL IL 61866
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 11/18/13
+                Court Room: F
+           Next Appearance: 12/29/14
+                Birth Date: 07/07/68
+                 DEFENDANT: SMITH  DANIEL L
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       10.00      STATES ATTORNEY               10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          300.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       50.00      TRAFFIC/CRIMINAL SU           50.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      195.00      FINES                        195.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118890014 SHERIFF'S BOOKING FEE             20.00        11/18/13
+   118890014 BOND - ORIGINAL                  150.00        11/18/13
+   120858702 BOND -10% BOND FEE                15.00        01/02/14
+   120858702 DOCUMENT STORAGE                  15.00        01/02/14
+   120858702 E-CITATION                         5.00        01/02/14
+   120858702 AUTOMATION                        15.00        01/02/14
+   120858702 CIRCUIT CLERK FEE                 75.00        01/02/14
+   120858702 COURT SECURITY                    25.00        01/02/14
+   121120137 PERSONAL CHECK/CREDIT CA           1.25        06/05/14
+   121120137 COURT FINANCE FEE                 25.00        06/05/14
+   121120137 STATES ATTORNEY                   10.00        06/05/14
+   121120137 STATES ATTORNEY AUTOMATI           2.00        06/05/14
+   121120137 CRIME STOPPERS                     5.00        06/05/14
+   121120137 ARRESTEE'S MEDICAL                10.00        06/05/14
+   121120137 PROBATION MONITORING FEE         300.00        06/05/14
+   121120137 PROBATION OPER ASSISTANC          10.00        06/05/14
+   121120137 TR/CR SUR $10/$40                 50.00        06/05/14
+   121120137 DRUG COURT PROGRAM                 5.00        06/05/14
+   121120137 FINES                            195.00        06/05/14
+   121120137 VIOLENT CRIME VICTIMS AS          75.00        06/05/14
+   121120137 ST POLICE OPERATIONS ASS          10.00        06/05/14
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  DOMESTIC BTRY/PHYSICAL CONTACT
+
+         2  BATTERY/MAKES PHYSICAL CONTACT
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   11-18-13                 Charge 01 Count 001 DOMESTIC BTRY/PHYSICAL CONTACT
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 BATTERY/MAKES PHYSICAL CONTACT
+                            Statute 720 5/12-3(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Sheriff Booking Fee
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel. Prior $1,500 bond is to conti
+nue. The NO
+                            CONTACT order entered in bond court on 11/17/13 rema
+ins in full force
+                            and effect.  Defendant is admonished as to trial and
+ sentencing in
+                            absentia.  See expanded record.
+                            Notice of arrest without warrant on file.
+                            Expanded record of court proceedings on arraignment.
+                            Bail Bond Release Authorization filed.
+   11-20-13                 Entry of appearance filed this date.
+   11-26-13                 Set for pre trial.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, Brett N. Olmste
+ad.  Plea of not
+                            guilty entered and Defendant requests trial by jury.
+ Cause set for
+                            pre-trial.  Defendant admonished as to trial and sen
+tencing in
+                            absentia. Bond to continue. Informations amended on
+their face. See
+                            expanded record.
+                            Expanded record of court proceedings on arraignment.
+   12-03-13                 Affidavit of mailing on file.
+   12-11-13                 Cause allotted for plea to
+   12-13-13                 Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Withhold Judgment/Supervision BATTERY/M
+AKES PHYSICAL CONT
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3(a)(2)  Class A
+                            Sentence: 12/13/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Court Supervision  12Mos In force
+                                      Supervised Court Service
+                            Sentence: No contact order.  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Fine + Cost            542.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    300.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Tim J. Sullivan.  Appear
+ance of the
+                            Defendant personally and by counsel, Brett N. Olmste
+ad.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Battery/Makes Physical Cont
+act ILCS: 720
+                            5/12-3(a)(2), a Class A Misdemeanor, as charged. Upo
+n the plea entered
+                            this date, Defendant is sentenced to all terms and c
+onditions as set
+                            forth in the written order on guilty plea entered th
+is date. All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  6/11/2014.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months Court Supervision. Defendant is
+ to have no
+                            contact, directly or indirectly, in person, by telep
+hone or
+                            electronically with the persons stated in the writte
+n order.
+                            Defendant is to obtain an evaluation for alcohol and
+ drug abuse from
+                            an agency or agent recommended by the Court Services
+ Department, and
+                            follow any recommendations contained therein as to t
+reatment and/or
+                            counseling. Count(s) stated in the written order are
+ herby dismissed.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same. Waiver of Jury on file. Sentencing Order enter
+ed this date. See
+                            Order.
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed DOMESTIC BTRY/PHYSICAL CONTAC
+T
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(2)  Class A
+                            Sentence: 12/13/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Sentencing order.
+                            Waiver of jury.
+   12-19-13                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   01-02-14                 Bond
+   01-11-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   06-05-14                 Check
+   10-23-14                 Petition to Revoke Court Supervision on file
+   10-27-14                 Verified information on Petition to Revoke Probation
+ on file
+                            Summons issued this date.
+                            Summons issued.
+   11-13-14                 Failure to appear warrant.
+                            People appear by Tim J. Sullivan.  No appearance by
+the Defendant.
+                            Motion by the People for a warrant. Motion allowed.
+Warrant issued
+                            with bond set in the amount of $  5,000.00.
+                            Failure to appear noted in file.
+                            Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $  5,000.
+00.
+                            Warrant of arrest filed.
+                            Expanded record of court proceedings on arraignment.
+   11-18-14                 Summons not served by CCSO
+                            Summons Not served on Daniel L. Smith by Champaign C
+ounty Sheriff's
+                            Office on   on file.
+   12-22-14                 Cause set for arraignment on
+                            Warrant quashed
+                            Motion to withdraw petition to revoke.
+                            People appear by Tim J. Sullivan.  No appearance by
+Defendant. On
+                            motion of the People, the warrant previously issued
+is ordered quashed
+                            and the petition to revoke is withdrawn and dismisse
+d.  Written order
+                            quashing warrant and withdrawing petition to revoke
+entered.  See
+                            order.  Defendant's bond discharged to the individua
+l who posted the
+                            bond.
+                            Motion to withdraw PTR and quash warrant.
+   12-29-14                 Copy of Quashed Warrant / Body Attachment returned f
+rom
+                            Sheriff's Office.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,228 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CM000933
+
+   Defendant Plaintiff
+ROSS  HENRY M
+708 TAWNEY CT
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 08/28/13
+                Court Room:
+           Next Appearance: 11/09/15
+                Birth Date: 10/05/73
+                 DEFENDANT: ROSS  HENRY M
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+       29.99      *RESTITUTION AMOUNT           29.99            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       10.00      STATES ATTORNEY               10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN          360.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       80.00      TRAFFIC/CRIMINAL SU           80.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      295.00      FINES                        295.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118771789 SHERIFF'S BOOKING FEE             20.00        09/09/13
+   118771789 BOND - ORIGINAL                  150.00        09/09/13
+   118906326 BOND -10% BOND FEE                15.00        11/26/13
+   118906326 *RESTITUTION AMOUNT               29.99        11/26/13
+   118906326 DOCUMENT STORAGE                   5.00        11/26/13
+   118906326 E-CITATION                         5.00        11/26/13
+   118906326 AUTOMATION                        10.00        11/26/13
+   118906326 CIRCUIT CLERK FEE                 75.00        11/26/13
+   118906326 COURT SECURITY                    10.01        11/26/13
+   118906326 *RESTITUTION AMOUNT               29.99        11/26/13
+   121707924 COURT SECURITY                    14.99        05/15/15
+   121707924 COURT FINANCE FEE                  5.01        05/15/15
+   121909098 COURT FINANCE FEE                 19.99        09/09/15
+   121909098 STATES ATTORNEY                   10.00        09/09/15
+   121909098 STATES ATTORNEY AUTOMATI           2.00        09/09/15
+   121909098 CRIME STOPPERS                     5.00        09/09/15
+   121909098 ARRESTEE'S MEDICAL                10.00        09/09/15
+   121909098 PROBATION MONITORING FEE          15.00        09/09/15
+   121909098 PROBATION OPER ASSISTANC          10.00        09/09/15
+   121909098 TR/CR SUR $10/$40                 28.01        09/09/15
+   122014857 PROBATION MONITORING FEE         345.00        11/06/15
+   122014857 TR/CR SUR $10/$40                 51.99        11/06/15
+   122014857 DRUG COURT PROGRAM                 5.00        11/06/15
+   122014857 FINES                            295.00        11/06/15
+   122014857 VIOLENT CRIME VICTIMS AS          75.00        11/06/15
+   122014857 ST POLICE OPERATIONS ASS          10.00        11/06/15
+   122020807 COPIES                             1.00        11/10/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  RETAIL THEFT/DISP MERCH/<$300
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   08-28-13                 Charge 01 Count 001 RETAIL THEFT/DISP MERCH/<$300
+                            Statute 720 5/16-25(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            George Vargas appears instanter.  Plea of not guilty
+ entered and
+                            Defendant requests trial by jury. Bond to continue.
+ Defendant is
+                            admonished as to trial and sentencing in absentia.
+See expanded
+                            record.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+                            Notice of arrest without warrant on file.
+   09-03-13                 Proof of service on file.
+   09-09-13                 Sheriff Booking Fee
+   09-23-13                 Proof of service on file.
+   10-03-13                 Defendant's motion for continuance.
+                            People appear by Tim J. Sullivan.  Defendant appears
+ personally and
+                            with counsel, Tony L. Allegretti. Motion by the Defe
+ndant for
+                            continuance.  Motion allowed.
+   11-07-13                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Withhold Judgment/Supervision RETAIL TH
+EFT/DISP MERCH/<$3
+                            Disposition Type: Guilty Plea   Defendant Plea: Not
+Guilty
+                            Statute 720 5/16-25(a)(1)  Class A
+                            Sentence: 11/07/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Court Supervision  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Stop Lifting  In force
+                            Sentence: Public Service  25Hrs In force
+                                      Supervised Court Service
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Restitution  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Fine + Cost            657.00     *RESTITUTION AMOUN
+T     29.99
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    360.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Tim J. Sullivan.  Appear
+ance of the
+                            Defendant personally and by counsel, Tony L. Allegre
+tti.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Retail Theft/Disp Merch/<$3
+00 ILCS: 720
+                            5/16-25(a)(1),a Class A Misdemeanor, as charged. Upo
+n the plea entered
+                            this date,Defendant is sentenced to all terms and co
+nditions as set
+                            forth in the written order on guilty plea entered th
+is date. All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  5/06/2014.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  24 months Court Supervision.  Defendant i
+s ordered to
+                            perform 25 hours of public service work under the su
+pervision of the
+                            Champaign County Court Services Department.  The def
+endant is to be
+                            given credit on public service work for any hours co
+mpleted in
+                            education, treatment, aftercare, sobriety based self
+-help group
+                            meetings, Victim Impact Panel and GED classes. Defen
+dant advised of
+                            right to appeal and rights pursuant to Supreme Court
+ Rule 605 and the
+                            Court finds that the defendant understands the same.
+ Waiver of Jury on
+                            file. Sentencing Order entered this date. See Order.
+                            Sentencing order.
+                            Waiver of jury.
+   11-26-13                 Bond
+   06-23-14                 Certificate of completion of public service work fil
+ed
+   05-15-15                 Cash
+   09-09-15                 Cash
+   11-06-15                 Cash
+   11-10-15                 Docket Order
+                            Court notes the Defendant's successful completion of
+ the terms of
+                            Court Supervision. Court Supervision is hereby Disch
+arged, and cause
+                            is ordered dismissed nunc pro tunc to 11-07-15.
+                            Copies & Certified Copies
+                            Mtion to Dismiss Court Supervision Case on file
+   11-13-15                 Docket Order
+                            Court notes Defendant's Pro Se pleading on file. Cou
+rt notes the
+                            action sought was granted by Docket Order on 11/10/1
+5. The Motion is
+                            denied as moot. No written Order required.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

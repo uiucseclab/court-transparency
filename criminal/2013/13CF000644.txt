@@ -1,0 +1,247 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF000644
+
+   Defendant Plaintiff
+SCRIMAGER  TAMARA
+290 APPLE TREE
+URBANA IL 0
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 04/23/13
+                Court Room:
+           Next Appearance: 07/14/14
+                Birth Date: 11/21/74
+                 DEFENDANT: SCRIMAGER  TAMARA
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       25.00      BOND -10% BOND FEE            25.00            .00
+      390.00      *RESTITUTION AMOUNT          390.00            .00
+        5.00      DOCUMENT STORAGE               2.00           3.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+         .00      CRIME STOPPERS                  .00            .00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       25.00      PROBATION MONITORIN             .00         300.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      326.03      COLLECTION FEES                 .00         326.03
+      141.75      LATE FEES                       .00         141.75
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118550137 SHERIFF'S BOOKING FEE             20.00        04/24/13
+   118550137 BOND - ORIGINAL                  250.00        04/24/13
+   118690331 BOND -10% BOND FEE                25.00        07/19/13
+   118690331 *RESTITUTION AMOUNT              225.00        07/19/13
+   118690331 *RESTITUTION AMOUNT              225.00        07/19/13
+   120849585 *RESTITUTION AMOUNT              145.00        12/23/13
+   120849585 *RESTITUTION AMOUNT              145.00        12/23/13
+   120861662 *RESTITUTION AMOUNT               20.00        01/03/14
+   120861662 DOCUMENT STORAGE                   2.00        01/03/14
+   120861662 *RESTITUTION AMOUNT               20.00        01/01/14
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  FORGERY/ISSUE/DELIVER DOCUMENT
+
+         1  FORGERY/ISSUE/DELIVER DOCUMENT
+
+         2  FORGERY/ISSUE/DELIVER DOCUMENT
+
+         3  FORGERY/ISSUE/DELIVER DOCUMENT
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   04-23-13                 Charge 01 Count 001 FORGERY/ISSUE/DELIVER DOCUMENT
+                            Statute 720 5/17-3(a)(2)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 FORGERY/ISSUE/DELIVER DOCUMENT
+                            Statute 720 5/17-3(a)(2)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 FORGERY/ISSUE/DELIVER DOCUMENT
+                            Statute 720 5/17-3(a)(2)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Notice of arrest without warrant on file.
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned. Defendant admonished as to EXTE
+NDED-TERM
+                            SENTENCING. The Champaign County Public Defender is
+appointed and
+                            Anthony Ortega appears instanter.  Defendant waives
+preliminary
+                            hearing, enters a plea of not guilty and requests tr
+ial by jury.
+                            Pre-trial orders entered.  Bond set in the amount of
+ $2,500-ROR
+                            DENIED. See expanded record.  Defendant is admonishe
+d as to trial and
+                            sentencing in absentia.
+   04-24-13                 Sheriff Booking Fee
+                            Cause continued for further proceedings
+   05-01-13                 Discovery filed
+   06-11-13
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   06-27-13                 Supplemental Discovery filed
+   07-12-13                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed FORGERY/ISSUE/DELIVER DOCUMEN
+T
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/17-3(a)(2)  Class 3  Orig.
+                            Sentence: 07/12/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed FORGERY/ISSUE/DELIVER DOCUMEN
+T
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/17-3(a)(2)  Class 3  Orig.
+                            Sentence: 07/12/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty FORGERY/ISSUE/DELIVER DOCUMENT
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/17-3(a)(2)  Class 3  Orig.
+                            Sentence: 07/12/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: No contact order.  In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Cost Only              422.00     *RESTITUTION AMOUN
+T    390.00
+                            CRIME STOPPERS            .00     PROBATION MONITORI
+N    300.00
+                             STATE OFFENDER DNA    250.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, James B. Kuehl.
+ Cause called for
+                            Sentencing. Defendant advised as to the nature of th
+e proceedings, the
+                            charges and the possible penalties that may be impos
+ed and the Court
+                            finds that the Defendant understands the same.  Find
+ing Defendant
+                            knowingly, understandingly and voluntarily waives ri
+ghts and enters a
+                            plea of guilty to Count 01 of the charging instrumen
+t.  Finding
+                            Defendant is guilty of the offense of Forgery/Issue/
+Deliver Document
+                            ILCS: 720 5/17-3(a)(2) as charged. Judgment entered
+in favor of the
+                            People and against the defendant on finding of guilt
+ and for costs.
+                            All financial obligations shall be paid in equal mon
+thly installments
+                            to the Champaign County Circuit Clerk by  1/08/2014.
+  Any bond posted
+                            is to be applied first to any court ordered bond ass
+ignment on file
+                            and then to all restitution ordered and then to all
+financial
+                            obligations in this case.  Any remaining bond shall
+be discharged to
+                            the individual who posted the bond.  Defendant is or
+dered to serve a
+                            period of  12 months probation. The Defendant is to
+submit specimens
+                            of blood, saliva, or tissue to the Illinois Departme
+nt of State Police
+                            or to the Department of Corrections within 45 days,
+at a collection
+                            site designated by the Champaign County Court Servic
+es Department
+                            and/or Illinois Department of State Police, in accor
+dance with 730
+                            ILCS 5/5-4-3. Defendant is to have no contact, direc
+tly or indirectly,
+                            in person, by telephone or electronically with the p
+ersons stated in
+                            the written order. Count(s) stated in the written or
+der are herby
+                            dismissed. Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same. Defendant is directed to repor
+t to Court
+                            Services. Waiver of Jury on file. Sentencing Order e
+ntered. See Order.
+   07-19-13                 Bond
+   12-23-13                 Court Ordered Payments
+   01-03-14                 Court Ordered Payments
+   05-13-14                 Probation Violation Report on file
+   07-30-14                 Order of Discharge from Probation entered.
+                            Order of discharge from probation on file.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Probation Terminated FORGERY/ISSUE/DELI
+VER DOCUMENT
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/17-3(a)(2)  Class 3
+                            Sentence: 07/30/2014
+                            Sentence: No Sentence  In force
+                            Case closed.
+   08-21-14                 Disposition sent through ADR process this date. SPT
+   11-25-14                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

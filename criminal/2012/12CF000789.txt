@@ -1,0 +1,403 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF000789
+
+   Defendant Plaintiff
+WILLIAMS  DONTE D
+1512 HOBSON DR APT 8
+RANTOUL IL 61866
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/21/12
+                Court Room: F
+           Next Appearance: 09/04/14
+                Birth Date: 02/25/91
+                 DEFENDANT: WILLIAMS  DONTE D
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN           50.00         550.00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAFFIC/CRIMINAL SU          100.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      180.00      FINES                        165.00          15.00
+       40.00      VICTIMS FUND-FINE               .00          40.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+         .00                                      .00            .00
+       15.00      BOND -10% BOND FEE              .00          15.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       15.00      BOND -10% BOND FEE            15.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+         .00      STATES ATTORNEY AUT             .00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+      600.00      PROBATION MONITORIN           50.00         550.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAFFIC/CRIMINAL SU          100.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      165.00      FINES                        165.00            .00
+       40.00      VICTIMS FUND-FINE               .00          40.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      213.90      COLLECTION FEES                 .00         213.90
+       93.00      LATE FEES                       .00          93.00
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117966685 SHERIFF'S BOOKING FEE             20.00        05/21/12
+   117966685 BOND - ORIGINAL                  150.00        05/21/12
+   118038694 BOND -10% BOND FEE                15.00        07/16/12
+   118038694 DOCUMENT STORAGE                   5.00        07/16/12
+   118038694 AUTOMATION                        10.00        07/16/12
+   118038694 CIRCUIT CLERK FEE                100.00        07/16/12
+   118038694 COURT SECURITY                    20.00        07/16/12
+   118107781 COURT SECURITY                     5.00        08/29/12
+   118107781 COURT FINANCE FEE                 15.00        08/29/12
+   121139482 COURT FINANCE FEE                 35.00        06/17/14
+   121139482 STATES ATTORNEY                   40.00        06/17/14
+   121139482 CRIME STOPPERS                    10.00        06/17/14
+   121139482 ARRESTEE'S MEDICAL                10.00        06/17/14
+   121139482 PROBATION MONITORING FEE          25.00        06/17/14
+   121139482  STATE OFFENDER DNA ID S          55.00        06/17/14
+   121160527 PROBATION MONITORING FEE          25.00        06/30/14
+   121160527  STATE OFFENDER DNA ID S         195.00        06/30/14
+   121160527 TR/CR SUR $10/$40                100.00        06/30/14
+   121160527 CLERK OP & ADMIN FUND             10.00        06/30/14
+   121160527 DRUG COURT PROGRAM                 5.00        06/30/14
+   121160527 FINES                            165.00        06/30/14
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  PHONE HARASSMENT THREATEN/KILL
+
+         1  PHONE HARASSMENT THREATEN/KILL
+
+         1  PHONE HARASSMENT THREATEN/KILL
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   05-21-12                 Charge 01 Count 001 PHONE HARASSMENT THREATEN/KILL
+                            Statute 720 135/1-1  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Sheriff Booking Fee
+
+                            Defendant arraigned. Defendant is admonished as to E
+XTENDED TERM
+                            SENTENCING.  The Champaign County Public Defender is
+ appointed and
+                            Stephanie Corum appears instanter.  Defendant waives
+ preliminary
+                            hearing, enters a plea of not guilty and requests tr
+ial by jury.
+                            Pre-trial orders entered. Bond is re-set in the amou
+nt of $25,000-ROR
+                            DENIED. As a condition of bond, Defendant is ordered
+ to have NO
+                            CONTACT whatsoever, direcdtly or indirectly, with th
+e Named Victim
+                            and/or the address recited in open court. Defendant
+is remanded into
+                            the custody of the Champaign County Sheriff.   See e
+xpanded record.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.
+                            Notice of arrest without warrant on file.
+   06-18-12                 Discovery filed
+   06-22-12                 Answer to Discovery filed
+   07-02-12                 Cause allotted for plea to
+   07-03-12                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty PHONE HARASSMENT THREATEN/KILL
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 135/1-1  Class 4  Orig.
+                            Sentence: 07/03/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  90Days In force
+                            Sentence: Credit Time Served  44Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Partner Abuse Intervention Program  60Days
+ In force
+                            Sentence: No contact order.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            612.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    600.00      STATE OFFENDER DN
+A    250.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, Randall B. Rose
+nbaum.   On motion
+                            of the People the typographical error with regards t
+o the victim's
+                            name is corrected.  Defendant advised as to the natu
+re of the
+                            proceedings, the charges and the possible penalties
+that may be
+                            imposed and the Court finds that the Defendant under
+stands the same.
+                            Finding Defendant knowingly, understandingly and vol
+untarily waives
+                            rights and enters a plea of guilty to Count 01 of th
+e charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Phone
+                            Harassment Threaten/Kill ILCS: 720 135/1-1 as charge
+d. Judgment
+                            entered in favor of the People and against the defen
+dant on finding of
+                            guilt and for costs.  All financial obligations shal
+l be paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk by
+                            12/31/2012.  Defendant is ordered to serve a period
+of  24 months
+                            probation. Defendant is ordered to serve a period of
+ incarceration of
+                            90 days in the Champaign County Correctional Center.
+ Defendant is to
+                            receive credit for  44 days previously served. The D
+efendant is to
+                            submit specimens of blood, saliva, or tissue to the
+Illinois
+                            Department of State Police or to the Department of C
+orrections within
+                            45 days, at a collection site designated by the Cham
+paign County Court
+                            Services Department and/or Illinois Department of St
+ate Police, in
+                            accordance with 730 ILCS 5/5-4-3. Defendant is to en
+roll in a Partner
+                            Abuse Intervention Program approved by the Champaign
+ County Court
+                            Services Department within  60 days and successfully
+ complete it
+                            without termination. Defendant is to have no contact
+, directly or
+                            indirectly, in person, by telephone or electronicall
+y with the persons
+                            stated in the written order.  Defendant advised of r
+ight to appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same.  Written Sentencing
+Order entered.
+                            See order.  Bond discharged.  Bond deposit ordered r
+eturned to the
+                            defendant.  Within 7 days of his release from incarc
+eration the
+                            defendant is ordered to report to the Champaign Coun
+ty Court Services
+                            Department.
+   07-16-12                 Bond
+   08-29-12                 Court Ordered Payments
+   05-14-14                 Probation Violation Report on file
+   05-15-14                 Change of address filed with the Circuit Clerk.
+   05-22-14                 Petition to Revoke Probation filed.
+   05-23-14                 Verified information on Petition to Revoke Probation
+ on file
+                            Summons issued this date.
+   05-30-14                 Summons returned, not found
+   06-03-14                 Summons returned, not found
+   06-17-14                 Court Ordered Payments
+                            Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and St
+ephanie Corum
+                            appears instanter.  General denial to the Petition i
+s entered. Bond
+                            set in the amount of $1,000-ROR ALLOWED. Defendant i
+s admonished as to
+                            trial and sentencing in absentia.  See expanded reco
+rd.
+                            Released On Recognizance bond form on file.
+                            Affidavit in support of request to appoint attorney.
+                            Expanded record of court proceedings on arraignment.
+   06-30-14                 Court Ordered Payments
+                            Defendant motion to continue hearing on petition to
+revoke.
+                            People appear by Claire L. Sharples Brooks.  Defenda
+nt appears
+                            personally and with counsel, Randall B. Rosenbaum.
+Cause allotted for
+                            hearing on the Petition to Revoke Probation on July
+24, 2014 at 9:00
+                            a.m. in Courtroom A.  Bond is to continue.
+   07-24-14                 Resentencing on petition to revoke.
+                            People appear by Scott A. Larson.  Defendant appears
+ personally and
+                            with counsel, Randall B. Rosenbaum.  Defendant advis
+ed as to the
+                            nature of the proceedings and the possible penalties
+ that may be
+                            imposed and the Court finds that the defendant under
+stands the same.
+                            Finding defendant knowingly understandingly and volu
+ntarily stipulates
+                            and admits to the allegations contained in the Petit
+ion to Revoke.
+                            Finding the same are true.  The court finds that the
+ defendant has
+                            violated the terms of his sentence.  Finding entered
+ in favor of the
+                            people and against defendant.  Probation order enter
+ed July 3, 2012 is
+                            revoked.  Order (Open Stipulation to PTR) entered.
+                            Order for sentencing report.
+                            Cause allotted for R-Sentencing on August 25, 2014 a
+t 11:30 a.m. in
+                            Courtroom A.  Champaign County Court Services Depart
+ment to prepare an
+                            updated pre-sentence report and provide copies to th
+e Court and
+                            Counsel at least 3 days prior to the hearing.  Defen
+dant's Bond order
+                            is to continue pending further proceedings.  Defenda
+nt is ordered to
+                            report to the Court Services Department this date.
+Defendant is
+                            admonished as to sentencing in absentia.  Order for
+Sentencing Report
+                            entered.  Defendant also seeks a TASC evaluation and
+ an Evaluation for
+                            Drug Sentencing Options.
+                            Court Services to conduct a Pre-Sentence Investigati
+on.
+                            Order for sentencing report on file.
+                            Order(Open stipulation to PTR) on file.
+                            Affidavit of mailing on file.
+   08-25-14                 Disposition 01/01  Count 001  Cost Only
+                            Disposition: Revocation/Vacate/Probation PHONE HARAS
+SMENT THREATEN/KIL
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 135/1-1  Class 4
+                            Sentence: 08/25/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  18Mos In force
+                            Sentence: Credit Time Served  44Days In force
+                            Sentence: Credit toward all fees and fines  44Days I
+n force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              297.00
+                            Resentencing order on petition to revoke.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, Randall B. Rose
+nbaum.   Cause
+                            called for resentencing.  Presentence report on file
+.  Mr. Larson and
+                            Mr. Rosenbaum indicate they have received and review
+ed the presentence
+                            report.  No evidence presented on behalf of the Peop
+le.  Documentary
+                            evidence presented on behalf of the Defendant.  Sent
+encing
+                            recommendations by Mr. Larson and Mr. Rosenbaum cons
+idered.  Defendant
+                            is afforded an opportunity to address the court.   U
+pon the Judgment
+                            of guilt and upon the judgment revoking defendant's
+probation the
+                            Court resentences the defendant to:  Defendant is or
+dered to serve a
+                            period of incarceration of  18 months in the Illinoi
+s Department of
+                            Corrections. Defendant is to receive credit for  44
+days previously
+                            served.  Defendant is to pay all statutorily imposed
+ fines, fees and
+                            costs.  Defendant is to receive a $220 credit toward
+s all fines for 44
+                            days spent in custody.  Financial assessment order e
+ntered.  Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Defendant remanded to the custody of the Sheriff for
+ transportation to
+                            the  Illinois Department of Corrections.  Bond disch
+arged.
+                            Mittimus prepared.
+                            Judgment - Sentence to Illinois Dept. of Corrections
+.
+                            Fees & Fines Assessment Form on file.
+                            Disposition 01/02  Count 001  Modified Order
+                            Disposition: Modified/Trial Court PHONE HARASSMENT T
+HREATEN/KILL
+                            Modified Order         605.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    600.00      STATE OFFENDER DN
+A    250.00
+   08-29-14                 Disposition sent through ADR process this date. SPT
+   09-03-14                 Disposition sent through ADR process this date. SPT
+                            Statement of State's Attorney filed
+   02-06-15                 Payment Due
+   06-30-16                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

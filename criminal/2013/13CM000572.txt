@@ -1,0 +1,208 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CM000572
+
+   Defendant Plaintiff
+ANDERSON  MARCUS D
+HOMELESS
+CHAMPAIGN IL 0
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 06/03/13
+                Court Room:
+           Next Appearance: 07/02/14
+                Birth Date: 01/29/72
+                 DEFENDANT: ANDERSON  MARCUS D
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      100.00      BOND -10% BOND FEE           100.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN           15.00         165.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       50.00      TRAFFIC/CRIMINAL SU           50.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       37.00      SHERIFF FEES                  37.00            .00
+       95.00      FINES                         95.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       56.93      COLLECTION FEES                 .00          56.93
+       24.75      LATE FEES                       .00          24.75
+       10.00      ST POLICE OPERATION           10.00            .00
+      401.00                                   401.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118641918 SHERIFF'S BOOKING FEE             20.00        06/19/13
+   118641918 BOND - ORIGINAL                 1000.00        06/19/13
+   118697930 BOND -10% BOND FEE               100.00        07/24/13
+   118697930 DOCUMENT STORAGE                   5.00        07/24/13
+   118697930 E-CITATION                         5.00        07/24/13
+   118697930 AUTOMATION                        10.00        07/24/13
+   118697930 CIRCUIT CLERK FEE                 75.00        07/24/13
+   118697930 COURT SECURITY                    25.00        07/24/13
+   118697930 COURT FINANCE FEE                 25.00        07/24/13
+   118697930 STATES ATTORNEY                   20.00        07/24/13
+   118697930 STATES ATTORNEY AUTOMATI           2.00        07/24/13
+   118697930 CRIME STOPPERS                     5.00        07/24/13
+   118697930 ARRESTEE'S MEDICAL                10.00        07/24/13
+   118697930 PROBATION MONITORING FEE          15.00        07/24/13
+   118697930 PROBATION OPER ASSISTANC          10.00        07/24/13
+   118697930 TR/CR SUR $10/$40                 50.00        07/24/13
+   118697930 CLERK OP & ADMIN FUND             10.00        07/24/13
+   118697930 DRUG COURT PROGRAM                 5.00        07/24/13
+   118697930 SHERIFF FEES                      37.00        07/24/13
+   118697930 FINES                             95.00        07/24/13
+   118697930 VIOLENT CRIME VICTIMS AS          75.00        07/24/13
+   118697930 ST POLICE SERVICES FUND           10.00        07/24/13
+   118697930 ST POLICE OPERATIONS ASS          10.00        07/24/13
+   118697930 *BOND REFUND                     401.00        07/24/13
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  CRIM DAMAGE TO PROPERTY <$300
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   06-03-13                 Charge 01 Count 001 CRIM DAMAGE TO PROPERTY <$300
+                            Statute 720 5/21-1(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Jim Kuehl appears instanter.  Plea of not guilty ent
+ered and Defendant
+                            requests trial by jury.  Defendant is admonished as
+to trial and
+                            sentencing in absentia. Bond is to continue as set i
+n the amount of
+                            $10,000-ROR DENIED, Prior NO CONTACT Order is to sta
+nd.  See expanded
+                            record.
+                            Notice of arrest without warrant on file.
+   06-07-13                 Proof of service of discovery materials filed.
+   06-19-13                 Sheriff Booking Fee
+   06-25-13                 Warrant issued.
+                            People appear by Tim J. Sullivan.  No appearance by
+the Defendant.
+                            Lindsey R. Yanchus appears on his behalf.  Motion by
+ People for
+                            warrant. Representation by the Court Officer that th
+e Defendant was
+                            present, but due to being disruptive, was told to le
+ave. Over
+                            objection by counsel for the defendant, motion is al
+lowed. Warrant
+                            issued with bond set in the amount of $50,000.00.
+   07-01-13                 Expanded record of arraignment proceedings.
+                            Lindsey Yanchus appears on behalf of the Defendant.
+Cause is
+                            re-allotted for Misdemeanor Pre-trial.  Defendant is
+ admonished as to
+                            trial and sentencing in absentia. Bond is to continu
+e. See expanded
+                            record.
+   07-02-13                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty CRIM DAMAGE TO PROPERTY <$300
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/21-1(a)(1)  Class A  Orig.
+                            Sentence: 07/02/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: No contact order.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            574.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    180.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Tim J. Sullivan.  Appear
+ance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Crim Damage To Property <$3
+00 ILCS: 720
+                            5/21-1(a)(1) as charged. Judgment entered in favor o
+f the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 12/30/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of 12 months Conditional Discharge. Defendant
+ is to have no
+                            contact, directly or indirectly, in person, by telep
+hone, or
+                            electronically with the persons stated in the writte
+n order. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Written Sentencing Order entered.  See order.  Waive
+r of Jury on file.
+   07-03-13                 Warrant served. Service fees $37.00
+   07-24-13                 Bond
+   11-25-14                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

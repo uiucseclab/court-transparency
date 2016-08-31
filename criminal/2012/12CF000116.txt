@@ -1,0 +1,87 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF000116
+
+   Defendant Plaintiff
+YOUNG  ROBERT C
+HOMELESS
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/26/12
+                Court Room:
+           Next Appearance: 03/24/14
+                Birth Date: 07/29/83
+                 DEFENDANT: YOUNG  ROBERT C
+
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117868819 SHERIFF'S BOOKING FEE             20.00        03/08/12
+   117868819 BOND - ORIGINAL                  150.00        03/08/12
+   117897516 *BOND TRANSFERS OUT             -150.00        03/29/12
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   01-26-12                 Charge 01 Count 001 POSS AMT CON SUB EXCEPT(A)/(D)
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and S. Schmidt appears instanter.  Defenda
+nt waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  See expanded recor
+d.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+                            Defendant is admonished as to CONSECUTIVE TERM SENTE
+NCING.
+                            Defendant's bond is set in the amount of $1500. ROR
+DENIED.
+                            Notice of arrest without warrant on file.
+   01-31-12                 Discovery filed
+   02-14-12                 Supplemental Discovery filed
+   03-02-12                 Supplemental Discovery filed
+   03-08-12                 Sheriff Booking Fee
+   03-20-12
+                            Appearance of the State's Attorney. Defendant is in
+                            custody and appears by counsel.
+   03-22-12                 Disposition 01/00  Count 001  No Fine & Cost
+                            People appear by Stephanie Weber.  Defendant appears
+ personally.
+                            Pursuant to the plea in _____, cause dismissed.  Bon
+d ordered
+                            transferred to said case.
+                            Case closed.
+   03-29-12                 Bond Type Transfer Bond To    2012CF000432 YOUNG ROB
+ERT C
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

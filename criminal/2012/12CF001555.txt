@@ -1,0 +1,41 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+                   PASS - Public Access Case Lookup System
+
+       The case number was not found. Please re-enter the case number.
+     __________________________________________________________________
+
+    The PASS system is intended to be a summary of information for the
+    public. It does not take the place of the legal information that is
+    held in the actual Court file. The Clerk of the Circuit Court of
+    Champaign County accepts no liability for discrepancies between these
+    electronic versions and the official printed documents.
+     __________________________________________________________________
+
+
+
+   CAPTION: Choose Division
+
+   CAPTION:
+
+   (*) Traffic
+   ( ) Civil
+   ( ) Criminal
+   ( ) Small Claims
+   ( ) Probate
+   ( ) City Ordinance
+   & Conservation
+
+
+
+                           Last:  _______________ Name Search
+                          First:  _______________
+   Criminal Division Birth Date:  ________        Use the format MMDDYY
+     __________________________________________________________________
+
+                         Case #:  12CF00155       Case Search
+                                                  Case Fwd Search
+     __________________________________________________________________
+
+   LOGOFF

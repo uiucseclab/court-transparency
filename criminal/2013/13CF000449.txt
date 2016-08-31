@@ -1,0 +1,85 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF000449
+
+   Defendant Plaintiff
+YBARRA  FRANK L
+1134 POMONA
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 03/18/13
+                Court Room:
+           Next Appearance: 04/13/15
+                Birth Date: 05/30/69
+                 DEFENDANT: YBARRA  FRANK L
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      250.00      BOND -10% BOND FEE           250.00            .00
+     2250.00                                  2250.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118493455 SHERIFF'S BOOKING FEE             20.00        03/19/13
+   118493455 BOND - ORIGINAL                 2500.00        03/19/13
+   118578024 BOND -10% BOND FEE               250.00        05/10/13
+   118578024 *BOND REFUND                    2250.00        05/10/13
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  FUGITIVE FROM JUSTICE
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   03-18-13                 Charge 01 Count 001 FUGITIVE FROM JUSTICE
+                            Statute 725 225/13  Class N  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Comp
+laint
+                            NO BOND No Bond
+                            Charging documents
+
+                            Appearance of the People by L. Clark. Appearance of
+the Defendant
+                            personally and in custody. Motion for appointed coun
+sel. Motion
+                            allowed. J. Kuehl appears instanter.  Cause continue
+d for further
+                            proceedings on the issue of the waiver of extradicti
+on.
+                            Bond set in the amount of $25,000. ROR DENIED.
+                            Notice of arrest without warrant on file.
+   03-19-13                 Sheriff Booking Fee
+   04-10-13                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed FUGITIVE FROM JUSTICE
+                            Disposition Type: By Bench   Defendant Plea: No Plea
+ Entered
+                            Statute 725 225/13  Class N  Orig.
+                            Sentence: 04/10/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost         250.00
+                            Case closed.
+   05-10-13                 Bond
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

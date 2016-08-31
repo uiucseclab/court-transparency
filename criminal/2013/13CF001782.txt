@@ -1,0 +1,516 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF001782
+
+   Defendant Plaintiff
+WELLS  BRIAN Z
+907 E PENNSYLVANIE
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 10/25/13
+                Court Room:
+           Next Appearance: 08/15/16
+                Birth Date: 06/27/92
+                 DEFENDANT: WELLS  BRIAN Z
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+    19405.28      *RESTITUTION AMOUNT        19405.28            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          600.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       10.00      PRELIMINARY HEARING           10.00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121343226 *RESTITUTION AMOUNT              100.00        10/10/14
+   121343226 *RESTITUTION AMOUNT                9.07        10/10/14
+   121343226 *RESTITUTION AMOUNT               90.93        10/10/14
+   121422355 BOND - ORIGINAL                  100.00        11/28/14
+   121422356 *RESTITUTION AMOUNT              100.00        11/28/14
+   121422356 *RESTITUTION AMOUNT                9.07        11/30/14
+   121422356 *RESTITUTION AMOUNT               90.93        11/30/14
+   121429177 EPAY RECEIVABLE                  100.00        12/03/14
+   121474764 BOND - ORIGINAL                  100.00        01/02/15
+   121474765 *RESTITUTION AMOUNT              100.00        01/02/15
+   121474765 *RESTITUTION AMOUNT                9.07        01/02/15
+   121474765 *RESTITUTION AMOUNT               90.93        01/02/15
+   121482099 EPAY RECEIVABLE                  100.00        01/07/15
+   121495664 BOND - ORIGINAL                   99.99        01/14/15
+   121495666 *RESTITUTION AMOUNT               99.99        01/14/15
+   121495666 *RESTITUTION AMOUNT                9.07        01/14/15
+   121495666 *RESTITUTION AMOUNT               90.92        01/14/15
+   121501783 EPAY RECEIVABLE                   99.99        01/20/15
+   121533682 *RESTITUTION AMOUNT              100.00        02/06/15
+   121533682 *RESTITUTION AMOUNT                9.07        02/06/15
+   121533682 *RESTITUTION AMOUNT               90.93        02/06/15
+   121607725 BOND - ORIGINAL                  100.00        03/20/15
+   121607726 *RESTITUTION AMOUNT              100.00        03/20/15
+   121607726 *RESTITUTION AMOUNT                9.07        03/20/15
+   121607726 *RESTITUTION AMOUNT               90.93        03/20/15
+   121616335 EPAY RECEIVABLE                  100.00        03/25/15
+   121680144 BOND - ORIGINAL                  100.00        04/30/15
+   121680145 *RESTITUTION AMOUNT              100.00        04/30/15
+   121680145 *RESTITUTION AMOUNT                9.07        04/30/15
+   121680145 *RESTITUTION AMOUNT               90.93        04/30/15
+   121686054 EPAY RECEIVABLE                  100.00        05/05/15
+   121728280 *RESTITUTION AMOUNT              200.00        05/28/15
+   121728280 *RESTITUTION AMOUNT               18.14        05/28/15
+   121728280 *RESTITUTION AMOUNT              181.86        05/28/15
+   121790194 BOND - ORIGINAL                  100.00        07/03/15
+   121790195 *RESTITUTION AMOUNT              100.00        07/03/15
+   121790195 *RESTITUTION AMOUNT                9.07        07/06/15
+   121790195 *RESTITUTION AMOUNT               90.93        07/06/15
+   121799805 EPAY RECEIVABLE                  100.00        07/09/15
+   121816688 BOND - ORIGINAL                  100.00        07/17/15
+   121816689 *RESTITUTION AMOUNT              100.00        07/17/15
+   121816689 *RESTITUTION AMOUNT                9.07        07/17/15
+   121816689 *RESTITUTION AMOUNT               90.93        07/17/15
+   121820265 EPAY RECEIVABLE                  100.00        07/21/15
+   121820287 EPAY RECEIVABLE                  100.00        07/21/15
+   121877001 BOND - ORIGINAL                  100.00        08/20/15
+   121877002 *RESTITUTION AMOUNT              100.00        08/20/15
+   121877002 *RESTITUTION AMOUNT                9.07        08/20/15
+   121877002 *RESTITUTION AMOUNT               90.93        08/20/15
+   121882557 EPAY RECEIVABLE                  100.00        08/25/15
+   121924945 BOND - ORIGINAL                  100.00        09/17/15
+   121924946 *RESTITUTION AMOUNT              100.00        09/17/15
+   121924946 *RESTITUTION AMOUNT                9.07        09/17/15
+   121924946 *RESTITUTION AMOUNT               90.93        09/17/15
+   121930334 EPAY RECEIVABLE                  100.00        09/22/15
+   121966050 BOND - ORIGINAL                  100.00        10/09/15
+   121966051 *RESTITUTION AMOUNT              100.00        10/09/15
+   121966051 *RESTITUTION AMOUNT                9.07        10/09/15
+   121966051 *RESTITUTION AMOUNT               90.93        10/09/15
+   121968669 EPAY RECEIVABLE                  100.00        10/14/15
+   122039258 BOND - ORIGINAL                  100.00        11/21/15
+   122039259 *RESTITUTION AMOUNT              100.00        11/21/15
+   122039259 *RESTITUTION AMOUNT                9.07        11/23/15
+   122039259 *RESTITUTION AMOUNT               90.93        11/23/15
+   122047592 EPAY RECEIVABLE                  100.00        11/30/15
+   122069834 BOND - ORIGINAL                  100.00        12/11/15
+   122069835 *RESTITUTION AMOUNT              100.00        12/11/15
+   122069835 *RESTITUTION AMOUNT                9.07        12/11/15
+   122069835 *RESTITUTION AMOUNT               90.93        12/11/15
+   122077505 EPAY RECEIVABLE                  100.00        12/16/15
+   122128613 BOND - ORIGINAL                  100.00        01/19/16
+   122128614 *RESTITUTION AMOUNT              100.00        01/19/16
+   122128614 *RESTITUTION AMOUNT                9.07        01/19/16
+   122128614 *RESTITUTION AMOUNT               90.93        01/19/16
+   122134081 EPAY RECEIVABLE                  100.00        01/22/16
+   122172453 BOND - ORIGINAL                  100.00        02/14/16
+   122172454 *RESTITUTION AMOUNT              100.00        02/14/16
+   122172454 *RESTITUTION AMOUNT                9.07        02/16/16
+   122172454 *RESTITUTION AMOUNT               90.93        02/16/16
+   122181555 EPAY RECEIVABLE                  100.00        02/19/16
+   122233082 BOND - ORIGINAL                  100.00        03/19/16
+   122233083 *RESTITUTION AMOUNT              100.00        03/19/16
+   122233083 *RESTITUTION AMOUNT                9.07        03/21/16
+   122233083 *RESTITUTION AMOUNT               90.93        03/21/16
+   122243668 EPAY RECEIVABLE                  100.00        03/25/16
+   122314576 BOND - ORIGINAL                  100.00        05/05/16
+   122314577 *RESTITUTION AMOUNT              100.00        05/05/16
+   122314577 *RESTITUTION AMOUNT                9.07        05/05/16
+   122314577 *RESTITUTION AMOUNT               90.93        05/05/16
+   122322930 EPAY RECEIVABLE                  100.00        05/11/16
+   122350472 *RESTITUTION AMOUNT            17405.29        05/26/16
+   122350472 DOCUMENT STORAGE                  15.00        05/26/16
+   122350472 AUTOMATION                        15.00        05/26/16
+   122350472 CIRCUIT CLERK FEE                100.00        05/26/16
+   122350472 COURT SECURITY                    25.00        05/26/16
+   122350472 COURT FINANCE FEE                 50.00        05/26/16
+   122350472 STATES ATTORNEY                   40.00        05/26/16
+   122350472 STATES ATTORNEY AUTOMATI           2.00        05/26/16
+   122350472 CRIME STOPPERS                    10.00        05/26/16
+   122350472 ARRESTEE'S MEDICAL                10.00        05/26/16
+   122350472 PROBATION MONITORING FEE         212.71        05/26/16
+   122350472 PROBATION OPER ASSISTANC          10.00        05/26/16
+   122350472  STATE OFFENDER DNA ID S         250.00        05/26/16
+   122350472 TR/CR SUR $10/$40                 10.00        05/26/16
+   122350472 DRUG COURT PROGRAM                 5.00        05/26/16
+   122350472 PRELIMINARY HEARING               10.00        05/26/16
+   122350472 VIOLENT CRIME VICTIMS AS         100.00        05/26/16
+   122350472 ST POLICE SERVICES FUND           10.00        05/26/16
+   122350472 ST POLICE OPERATIONS ASS          10.00        05/26/16
+   122350472 CLERK OP & ADMIN FUND             10.00        05/26/16
+   122350472 *RESTITUTION AMOUNT            15825.99        05/26/16
+   122350472 *RESTITUTION AMOUNT             1579.30        05/26/16
+   122388814 BOND - ORIGINAL                  387.29        06/18/16
+   122388815 PROBATION MONITORING FEE         387.29        06/18/16
+   122398612 EPAY RECEIVABLE                  387.29        06/24/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  THEFT CONTROL INTENT $500<10K
+
+         1  THEFT CONTROL INTENT $500<10K
+
+         1  THEFT CONTROL INTENT $500<10K
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   10-21-13                 Released On Recognizance bond form on file.
+                            Notice of arrest without warrant on file.
+   10-25-13                 Charge 01 Count 001 THEFT CONTROL INTENT $500<10K
+                            Statute 720 5/16-1(a)(1)(A)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Janie Miller-Jones appears instanter.
+ Defendant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered. Prior $1,000 recogn
+izance bond is to
+                            continue.  Defendant is admonished as to trial and s
+entencing in
+                            absentia. See expanded record.
+                            Affidavit in support of request for appointed attorn
+ey on file.
+   10-30-13                 Proof of service on file.
+                            Discovery filed.
+                            Answer to Discovery filed
+   11-04-13                 Proof of service on file.
+                            Supplemental Discovery filed
+   11-15-13                 Proof of service on file.
+                            Supplemental Discovery filed
+   11-27-13                 Proof of service on file.
+                            Supplemental Discovery filed
+   12-16-13                 Motion to Continue filed on file by Public Defenders
+ office.
+   12-17-13                 Pre-Trial held.  Cause is continued on the defendant
+'s motion.
+                            People appear by Asst. State's Attorney.  Defendant
+appears with
+                            Counsel.  Cause is called for pre-trial.  Motion by
+the defendant to
+                            continue.  People state no objection.  Motion is all
+owed.  Cause is
+                            continued on the defendant's motion for further pre-
+trial 1/21/14 at
+                            9:00 a.m. in Courtroom C.  Defendant is admonished a
+s to trial and
+                            sentencing in absentia.  Defendant's bond is to cont
+inue.
+   01-17-14                 Motion to Continue on file by the Public Defenders o
+ffice.
+   01-21-14                 By agreement, trial allotment vacated
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   02-14-14                 Motion to Continue filed
+   02-18-14                 Pre-Trial held.  Cause continued on deft.'s motion.
+                            People appear by Asst. State's Attorney.  Defendant
+appears with
+                            Counsel.  Cause is called for pre-trial.  Motion by
+the defendant to
+                            continue.  People state no objection.  Motion is all
+owed.  Cause is
+                            continued on the defendant's motion for further pre-
+trial 3/18/14 at
+                            9:00 a.m. in Courtroom C.  Defendant is admonished a
+s to trial and
+                            sentencing in absentia.  Defendant's bond is to cont
+inue.
+                            Diversion agreement hearing.
+                            Counsel for the state and the defendant represent th
+at the parties are
+                            prepared to enter into a diversion agreement.  With
+the agreement of
+                            the parties, the felony pretrial scheduled on March
+18, 2014, in
+                            Courtroom C is ordered vacated.   An initial diversi
+on hearing is set
+                            for March 06, 2014 at 02:30 PM in Courtroom F.  The
+defendant is
+                            ordered to appear.  Notice to be given by the clerk
+by e-mail.
+   03-06-14                 Second chance program agreement.
+                            Scott M. Bennett appears for the People.  Defendant
+appears personally
+                            and by counsel Stephanie Corum.  Cause called for in
+itial diversion
+                            hearing.  Second Chance Program Agreement presented
+to the court and
+                            placed on file. Cause is allotted for final diversio
+n hearing on June
+                            12, 2014 at 02:30 PM in Courtroom F.  Defendant's bo
+nd to continue.
+   06-12-14
+                            People appear by Scott Bennett. Defendant appears pe
+rsonally and by
+                            counsel, Katie Jessup. By agreement of the parties,
+this case is set
+                            for Pre Trial on 7/15/14 at 9:00 a.m. in Courtroom C
+. Bond is to
+                            continue.
+   07-14-14                 Motion to Continue filed
+   07-15-14                 Pre-Trial held.
+                            People appear by Asst. State's Attorney.  Defendant
+appears with
+                            Counsel.  Cause is called for pre-trial.  Motion by
+the defendant to
+                            continue.  People state no objection and request thi
+s be the last
+                            continuance.  Motion is allowed.  Cause is continued
+ on the
+                            defendant's motion for further pre-trial 8/12/14 at
+9:00 a.m. in
+                            Courtroom C.  Defendant is admonished as to trial an
+d sentencing in
+                            absentia.  Defendant's bond is to continue.
+   08-12-14
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   08-15-14                 Failure to appear warrant.
+                            Appearance of the People by Matthew P. Banach.  No a
+ppearance by the
+                            Defendant.  Appearance of Katie L. Jessup for the de
+fendant.  Motion
+                            by the People for bond forfeiture and warrant.  Obje
+ction by counsel
+                            for the Defendant.  Motion allowed over the objectio
+n.  Defendant's
+                            bond forfeited.   Cause allotted for Bond Forfeiture
+ Hearing on
+                            October 20, 2014 at 9:00 a.m. in Courtroom C.  CIRCU
+IT CLERK TO SEND
+                            NOTICE OF THE HEARING ON FORFEITURE.  Warrant to iss
+ue.  Bond set in
+                            the amount of $ 10,000.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+                            Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty THEFT CONTROL INTENT $500<10K
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/16-1(a)(1)(A)  Class 3
+                            Sentence: 08/15/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  2Days In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Restitution  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              412.00     *RESTITUTION AMOUN
+T  19405.28
+                            CRIME STOPPERS          10.00     PROBATION MONITORI
+N    600.00
+                             STATE OFFENDER DNA    250.00     PRELIMINARY HEARIN
+G     10.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Matthew P. Banach.  Appe
+arance of the
+                            Defendant personally and by counsel, Katie L. Jessup
+.  On motion of
+                            the defendant bond forfeiture previously entered thi
+s date is vacated.
+                            Bond reinstated.  Warrant quashed.  Defendant advise
+d as to the nature
+                            of the proceedings, the charges and the possible pen
+alties that may be
+                            imposed and the Court finds that the Defendant under
+stands the same.
+                            Finding Defendant knowingly, understandingly and vol
+untarily waives
+                            rights and enters a plea of guilty to Count 01 of th
+e charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Theft
+                            Control Intent $500<10k ILCS: 720 5/16-1(a)(1)(A) as
+ charged. Judgment
+                            entered in favor of the People and against the defen
+dant on finding of
+                            guilt and for costs.  All financial obligations shal
+l be paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk by
+                            6/15/2016.  Any bond posted is to be applied first t
+o any court
+                            ordered bond assignment on file and then to all rest
+itution ordered
+                            and then to all financial obligations in this case.
+ Any remaining
+                            bond shall be discharged to the individual who poste
+d the bond.
+                            Defendant is ordered to serve a period of  24 months
+ probation.
+                            Defendant is ordered to serve a period of incarcerat
+ion of   2 days in
+                            the Champaign County Correctional Center. Defendant
+is to receive
+                            credit for   2 days previously served. The Defendant
+ is to submit
+                            specimens of blood, saliva, or tissue to the Illinoi
+s Department of
+                            State Police or to the Department of Corrections wit
+hin 45 days, at a
+                            collection site designated by the Champaign County C
+ourt Services
+                            Department and/or Illinois Department of State Polic
+e, in accordance
+                            with 730 ILCS 5/5-4-3. Case Number(s) stated in the
+written order are
+                            herby dismissed.  Any bond posted in said case(s) sh
+all be transferred
+                            to the instant case and shall be applied to any fine
+s, fees, costs,
+                            assessments, and/or restitution imposed herein; any
+remaining bond
+                            shall be used to satisfy such other of the Defendant
+'s Champaign
+                            County criminal or traffic cases in which the Defend
+ant owes an
+                            outstanding balance of fines, fees, costs, assessmen
+ts and/or
+                            restitution.  Waiver of Jury on file. Sentencing Ord
+er entered this
+                            date. See Order.  Financial assessment order entered
+.  Defendant
+                            advised of his rights to appeal, court finds he unde
+rstands the same.
+                            Waiver of jury.
+                            Fees & Fines Assessment Form on file.
+                            Sentencing order.
+   08-21-14                 Disposition sent through ADR process this date. SPT
+   09-15-14                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   10-10-14                 Court Ordered Payments
+   11-28-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   12-03-14                 EPAY RECONCILIATION TRANSACTION
+   01-02-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   01-07-15                 EPAY RECONCILIATION TRANSACTION
+   01-14-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   01-20-15                 EPAY RECONCILIATION TRANSACTION
+   02-06-15                 Court Ordered Payments
+   03-20-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   03-25-15                 EPAY RECONCILIATION TRANSACTION
+   04-30-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-05-15                 EPAY RECONCILIATION TRANSACTION
+   05-28-15                 Cash
+   07-03-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   07-09-15                 EPAY RECONCILIATION TRANSACTION
+   07-17-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   07-21-15                 EPAY RECONCILIATION TRANSACTION
+                            EPAY RECONCILIATION TRANSACTION
+   08-20-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   08-25-15                 EPAY RECONCILIATION TRANSACTION
+   09-17-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   09-22-15                 EPAY RECONCILIATION TRANSACTION
+   10-09-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   10-14-15                 EPAY RECONCILIATION TRANSACTION
+   11-21-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   11-30-15                 EPAY RECONCILIATION TRANSACTION
+   12-11-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   12-16-15                 EPAY RECONCILIATION TRANSACTION
+   01-19-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   01-22-16                 EPAY RECONCILIATION TRANSACTION
+   02-14-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   02-19-16                 EPAY RECONCILIATION TRANSACTION
+   03-19-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   03-25-16                 EPAY RECONCILIATION TRANSACTION
+   05-05-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-11-16                 EPAY RECONCILIATION TRANSACTION
+   05-26-16                 Cash
+   06-18-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   06-24-16                 EPAY RECONCILIATION TRANSACTION
+   08-17-16                 Written Order of Discharge from Probation entered. S
+ee Order
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Terminated Satisfied THEFT CONTROL INTE
+NT $500<10K
+                            Disposition Type: Court Action   Defendant Plea: Gui
+lty/Mentally Ill
+                            Statute 720 5/16-1(a)(1)(A)  Class 3
+                            Sentence: 08/17/2016
+                            Disposition 01/02  Count 001  No Fine & Cost
+                            Disposition: Terminated Satisfied THEFT CONTROL INTE
+NT $500<10K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1(a)(1)(A)  Class 3
+                            Sentence: 08/17/2016
+                            Order of Discharge from Probation filed.
+                            Disposition entered.
+                            All obligations have been met, case is closed.
+   08-18-16                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,299 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF000719
+
+   Defendant Plaintiff
+CLAPP  JOHN A
+808 N LINCOLN APT 1
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/07/13
+                Court Room:
+           Next Appearance: 03/17/16
+                Birth Date: 08/07/87
+                 DEFENDANT: CLAPP  JOHN A
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       25.00      BOND -10% BOND FEE            25.00            .00
+     7480.34      *RESTITUTION AMOUNT         5815.00        1665.34
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+         .00      CRIME STOPPERS                  .00            .00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       25.00      PROBATION MONITORIN             .00         750.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      147.50      SHERIFF FEES                    .00         147.50
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118719633 SHERIFF'S BOOKING FEE             20.00        08/06/13
+   118719633 BOND - ORIGINAL                  250.00        08/06/13
+   118802464 BOND -10% BOND FEE                25.00        09/25/13
+   118802464 *RESTITUTION AMOUNT              225.00        09/25/13
+   118802464 *RESTITUTION AMOUNT              225.00        09/25/13
+   120895410 *RESTITUTION AMOUNT              200.00        01/24/14
+   120895410 *RESTITUTION AMOUNT              200.00        01/24/14
+   120950985 *RESTITUTION AMOUNT              200.00        02/27/14
+   120950985 *RESTITUTION AMOUNT              200.00        02/27/14
+   120995527 *RESTITUTION AMOUNT              200.00        03/24/14
+   120995527 *RESTITUTION AMOUNT              200.00        03/24/14
+   121060193 *RESTITUTION AMOUNT              200.00        05/01/14
+   121060193 *RESTITUTION AMOUNT              200.00        05/02/14
+   121095057 *RESTITUTION AMOUNT              200.00        05/21/14
+   121095057 *RESTITUTION AMOUNT              200.00        05/21/14
+   121121265 *RESTITUTION AMOUNT              200.00        06/06/14
+   121121265 *RESTITUTION AMOUNT              200.00        06/06/14
+   121173209 *RESTITUTION AMOUNT              200.00        07/08/14
+   121173209 *RESTITUTION AMOUNT              200.00        07/08/14
+   121265983 *RESTITUTION AMOUNT              200.00        08/27/14
+   121265983 *RESTITUTION AMOUNT              200.00        08/27/14
+   121302827 *RESTITUTION AMOUNT              200.00        09/17/14
+   121302827 *RESTITUTION AMOUNT              200.00        09/17/14
+   121353298 *RESTITUTION AMOUNT              200.00        10/17/14
+   121353298 *RESTITUTION AMOUNT              200.00        10/17/14
+   121420633 *RESTITUTION AMOUNT              200.00        11/26/14
+   121420633 *RESTITUTION AMOUNT              200.00        11/26/14
+   121485995 *RESTITUTION AMOUNT              400.00        01/08/15
+   121485995 *RESTITUTION AMOUNT              400.00        01/08/15
+   121537259 *RESTITUTION AMOUNT              200.00        02/09/15
+   121537259 *RESTITUTION AMOUNT              200.00        02/09/15
+   121600516 *RESTITUTION AMOUNT              100.00        03/17/15
+   121600516 *RESTITUTION AMOUNT              100.00        03/17/15
+   121634979 *RESTITUTION AMOUNT              100.00        04/06/15
+   121634979 *RESTITUTION AMOUNT              100.00        04/06/15
+   121694363 *RESTITUTION AMOUNT              400.00        05/08/15
+   121694363 *RESTITUTION AMOUNT              400.00        05/08/15
+   121797515 *RESTITUTION AMOUNT              200.00        07/08/15
+   121797515 *RESTITUTION AMOUNT              200.00        07/08/15
+   121881362 *RESTITUTION AMOUNT              250.00        08/24/15
+   121881362 *RESTITUTION AMOUNT              250.00        08/24/15
+   121917078 *RESTITUTION AMOUNT              250.00        09/14/15
+   121917078 *RESTITUTION AMOUNT              250.00        09/14/15
+   121955220 *RESTITUTION AMOUNT              300.00        10/05/15
+   121955220 *RESTITUTION AMOUNT              300.00        10/01/15
+   122062032 *RESTITUTION AMOUNT              200.00        12/07/15
+   122062032 *RESTITUTION AMOUNT              200.00        12/07/15
+   122128360 *RESTITUTION AMOUNT              200.00        01/19/16
+   122128360 *RESTITUTION AMOUNT              200.00        01/19/16
+   122196789 *RESTITUTION AMOUNT              200.00        02/29/16
+   122196789 *RESTITUTION AMOUNT              200.00        02/29/16
+   122249285 *RESTITUTION AMOUNT              100.00        03/30/16
+   122249285 *RESTITUTION AMOUNT              100.00        03/30/16
+   122249288 *RESTITUTION AMOUNT              100.00        03/30/16
+   122249288 *RESTITUTION AMOUNT              100.00        03/30/16
+   122306227 *RESTITUTION AMOUNT              100.00        05/02/16
+   122306227 *RESTITUTION AMOUNT              100.00        05/02/16
+   122355416 *RESTITUTION AMOUNT               20.00        05/31/16
+   122355416 *RESTITUTION AMOUNT               20.00        05/31/16
+   122402874 *RESTITUTION AMOUNT               20.00        06/27/16
+   122402874 *RESTITUTION AMOUNT               20.00        06/27/16
+   122449586 *RESTITUTION AMOUNT              250.00        07/25/16
+   122449586 *RESTITUTION AMOUNT              250.00        07/23/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  THEFT CONTROL INTENT $500<10K
+
+         1  THEFT CONTROL INTENT $500<10K
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   05-07-13                 Charge 01 Count 001 THEFT CONTROL INTENT $500<10K
+                            Statute 720 5/16-1(a)(1)(A)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charging documents
+                            Probable cause warrant issued
+                            Verified information on file.  Witness sworn.  Evide
+nce heard.
+                            Probable cause to arrest determined, warrant issued.
+  Bond set in the
+                            amount of $ 10,000.00.
+                            Warrant issued.
+   07-26-13                 Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Jamie Propps appears instanter.  Defen
+dant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  On the motion of t
+he Defendant, bond
+                            is reduced to the amount of $2,500-ROR DENIED. On th
+e motion of the
+                            Defendant, bond is modified to allow Defendant to tr
+avel outside the
+                            State of IL for residence. See expanded record.  Def
+endant is
+                            admonished as to trial and sentencing in absentia.
+   07-31-13                 Warrant Served. No Fees.
+   08-02-13                 Proof of service on file.
+                            Discovery filed.
+                            Answer to Discovery filed
+   08-06-13                 Sheriff Booking Fee
+   09-17-13                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty THEFT CONTROL INTENT $500<10K
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16-1(a)(1)(A)  Class 3
+                            Sentence: 09/17/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  30Mos In force
+                                      Supervised Court Service
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Restitution  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  30Mos In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Defendant's probation to transfer to resid
+ent county  In for
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              569.50     *RESTITUTION AMOUN
+T   7480.34
+                            CRIME STOPPERS            .00     PROBATION MONITORI
+N    750.00
+                             STATE OFFENDER DNA    250.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Stephanie Weber.  Appear
+ance of the
+                            Defendant personally and by counsel, Jamie Propps.
+ Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Theft Control Intent $500<10k ILCS: 720 5
+/16-1(a)(1)(A) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  9/17/2015.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  30
+                            months probation.  The Defendant is to submit specim
+ens of blood,
+                            saliva, or tissue to the Illinois Department of Stat
+e Police or to the
+                            Department of Corrections within 45 days, at a colle
+ction site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3.  Defendant advised of right to appeal and r
+ights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+   09-25-13                 Bond
+   10-04-13                 Affidavit of Mailing of TASC Report order filed.
+   11-07-13                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   01-24-14                 Court Ordered Payments
+   02-27-14                 Court Ordered Payments
+   03-24-14                 Court Ordered Payments
+   05-01-14                 Court Ordered Payments
+   05-21-14                 Court Ordered Payments
+   06-06-14                 Court Ordered Payments
+   07-08-14                 Court Ordered Payments
+   08-27-14                 Court Ordered Payments
+   09-17-14                 Court Ordered Payments
+   10-17-14                 Court Ordered Payments
+   11-26-14                 Court Ordered Payments
+   01-08-15                 Court Ordered Payments
+   02-09-15                 Court Ordered Payments
+   03-17-15                 Cash
+   04-06-15                 Cash
+   05-08-15                 Cash
+   07-08-15                 Cash
+   08-24-15                 Cash
+   09-14-15                 Cash
+   10-05-15                 Cash
+   12-07-15                 Cash
+   01-19-16                 Cash
+   02-29-16                 Cash
+   03-30-16                 Cash
+                            Cash
+                            Order of unsuccessful discharge from probation.
+                            Written Order of Unsuccessful Discharge from Probati
+on entered this
+                            date.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Terminated Unsatisfied THEFT CONTROL IN
+TENT $500<10K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1(a)(1)(A)  Class 3
+                            Sentence: 03/30/2016
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   04-05-16                 Case closed.
+   04-06-16                 Disposition sent through ADR process this date. SPT
+   05-02-16                 Cash
+   05-31-16                 Cash
+   06-08-16                 Payment Due
+   06-27-16                 Cash
+   07-25-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

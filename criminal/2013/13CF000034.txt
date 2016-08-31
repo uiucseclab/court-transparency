@@ -1,0 +1,335 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF000034
+
+   Defendant Plaintiff
+JONES  BERNARD N
+604 PHIILIPS
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/08/13
+                Court Room:
+           Next Appearance: 05/11/15
+                Birth Date: 02/02/94
+                 DEFENDANT: JONES  BERNARD N
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       50.00      BOND -10% BOND FEE            50.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          137.00         463.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      250.00       STATE OFFENDER DNA           63.00         187.00
+       80.00      TRAFFIC/CRIMINAL SU             .00          80.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      285.00      FINES                           .00         285.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      396.75      COLLECTION FEES                 .00         396.75
+      172.50      LATE FEES                       .00         172.50
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118373561 SHERIFF'S BOOKING FEE             20.00        01/10/13
+   118373561 BOND - ORIGINAL                  500.00        01/10/13
+   118582793 BOND -10% BOND FEE                50.00        05/14/13
+   118582793 DOCUMENT STORAGE                   5.00        05/14/13
+   118582793 AUTOMATION                        10.00        05/14/13
+   118582793 CIRCUIT CLERK FEE                100.00        05/14/13
+   118582793 COURT SECURITY                    25.00        05/14/13
+   118582793 COURT FINANCE FEE                 50.00        05/14/13
+   118582793 STATES ATTORNEY                   40.00        05/14/13
+   118582793 STATES ATTORNEY AUTOMATI           2.00        05/14/13
+   118582793 CRIME STOPPERS                    10.00        05/14/13
+   118582793 ARRESTEE'S MEDICAL                10.00        05/14/13
+   118582793 PROBATION MONITORING FEE          25.00        05/14/13
+   118582793 PROBATION OPER ASSISTANC          10.00        05/14/13
+   118582793 CRIME LAB                        100.00        05/14/13
+   118582793  STATE OFFENDER DNA ID S          63.00        05/14/13
+   118763337 PROBATION MONITORING FEE          20.00        09/04/13
+   118913045 PROBATION MONITORING FEE          10.00        12/03/13
+   120974518 PROBATION MONITORING FEE           5.00        03/12/14
+   121021750 PROBATION MONITORING FEE           5.00        04/09/14
+   121072403 PROBATION MONITORING FEE           5.00        05/08/14
+   121175121 PROBATION MONITORING FEE          10.00        07/09/14
+   121239318 PROBATION MONITORING FEE          10.00        08/13/14
+   121288124 01000000000                         .00        09/10/14
+   121288127 PROBATION MONITORING FEE           4.00        09/10/14
+   121338459 PROBATION MONITORING FEE           5.00        10/08/14
+   121384517 PROBATION MONITORING FEE           5.00        11/05/14
+   121429061 PROBATION MONITORING FEE           5.00        12/03/14
+   121482223 PROBATION MONITORING FEE           5.00        01/07/15
+   121531291 PROBATION MONITORING FEE           5.00        02/05/15
+   121578320 PROBATION MONITORING FEE          10.00        03/05/15
+   121688519 PROBATION MONITORING FEE           5.00        05/06/15
+   121737323 PROBATION MONITORING FEE           3.00        06/03/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  POSS FIREARM W/ DEFACED SER NO
+
+         1  POSS FIREARM W/ DEFACED SER NO
+
+         2  AGG UUW/VEH/FIR LOADED/NO FOID
+
+         3  AGG UUW/VEH/FIR LOADED/NO FOID
+
+         4  AGG UUW/VEH/FIR LOADED/NO FOID
+
+         5  AGG UUW/VEH/FIR LOADED/NO FOID
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   01-08-13                 Charge 01 Count 001 POSS FIREARM W/ DEFACED SER NO
+                            Statute 720 5/24-5(b)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 AGG UUW/VEH/FIR LOADED/NO FOID
+                            Statute 720 5/24-1.6(a)(1)  Class 4  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            NO BOND No Bond
+                            Charge 03 Count 003 AGG UUW/VEH/FIR LOADED/NO FOID
+                            Statute 720 5/24-1.6(a)(1)  Class 4  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            Companion Charge
+                            Charge 04 Count 004 AGG UUW/VEH/FIR LOADED/NO FOID
+                            Statute 720 5/24-1.6(a)(1)  Class 4  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            Companion Charge
+                            Charge 05 Count 005 AGG UUW/VEH/FIR LOADED/NO FOID
+                            Statute 720 5/24-1.6(a)(1)  Class 4  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            Companion Charge
+                            Charging documents
+                            Created and properly labeled court case file.
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned. The Champaign County Public Def
+ender is appointed
+                            and Laura Garcia appears instanter.  Defendant waive
+s preliminary
+                            hearing, enters a plea of not guilty and requests tr
+ial by jury.
+                            Pre-trial orders entered.  Bond is set in the amount
+ of $5,000-ROR
+                            DENIED. See expanded record.  Defendant is admonishe
+d as to trial and
+                            sentencing in absentia.
+                            Notice of arrest without warrant on file.
+   01-10-13                 Sheriff Booking Fee
+   02-01-13                 Discovery filed
+   03-12-13                 By agreement, trial allotment vacated
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   04-09-13
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   05-09-13                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed AGG UUW/VEH/FIR LOADED/NO FOI
+D
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/24-1.6(a)(1)  Class 4  Orig.
+                            Sentence: 05/09/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed AGG UUW/VEH/FIR LOADED/NO FOI
+D
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/24-1.6(a)(1)  Class 4  Orig.
+                            Sentence: 05/09/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed AGG UUW/VEH/FIR LOADED/NO FOI
+D
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/24-1.6(a)(1)  Class 4  Orig.
+                            Sentence: 05/09/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 05/00  Count 005  No Fine & Cost
+                            Disposition: Dismissed AGG UUW/VEH/FIR LOADED/NO FOI
+D
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/24-1.6(a)(1)  Class 4  Orig.
+                            Sentence: 05/09/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty POSS FIREARM W/ DEFACED SER NO
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/24-5(b)  Class 3  Orig.
+                            Sentence: 05/09/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  60Days In force
+                            Sentence: Credit Time Served  3Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: No contact order.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  3Days In
+ force
+                            Fine + Cost            802.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    600.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    250.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, Scott Schmidt.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Poss Firearm W/ Defaced Ser
+ No ILCS: 720
+                            5/24-5(b) as charged. Judgment entered in favor of t
+he People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 11/05/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  24 months probation. Defendant is ordered
+ to serve a period
+                            of incarceration of  60 days in the Champaign County
+ Correctional
+                            Center. Defendant is to receive credit for   3 days
+previously served.
+                            The Defendant is to submit specimens of blood, saliv
+a, or tissue to
+                            the Illinois Department of State Police or to the De
+partment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Defendant is to
+                            have no contact, directly or indirectly, in person,
+by telephone or
+                            electronically with the persons stated in the writte
+n order. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Written Sentencing Order entered.  See ORDER.  Defen
+dant remanded to
+                            the custody of the Sheriff to begin serving the inca
+rceration order
+                            entered this date.  Within 7 days of his release fro
+m incarceration
+                            the defendant is ordered to report to the Champaign
+County Probation
+                            and Court Services Department.    Counts II, III, IV
+ and V are
+                            withdrawn and dismissed pursuant to the plea on Coun
+t I.
+   05-14-13                 Bond
+   08-21-13                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   09-04-13                 Court Ordered Payments
+   12-03-13                 Court Ordered Payments
+   03-12-14                 Court Ordered Payments
+   04-09-14                 Court Ordered Payments
+   05-08-14                 Court Ordered Payments
+   07-09-14                 Court Ordered Payments
+   08-13-14                 Court Ordered Payments
+   09-10-14                 Court Ordered Payments
+   10-08-14                 Court Ordered Payments
+   11-05-14                 Court Ordered Payments
+   12-03-14                 Cash
+   01-07-15                 Court Ordered Payments
+   02-05-15                 Court Ordered Payments
+   03-05-15                 Cash
+   05-06-15                 Cash
+   05-11-15                 Order of Unsuccessful Discharge from Probation enter
+ed.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Terminated Unsatisfied POSS FIREARM W/
+DEFACED SER NO
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/24-5(b)  Class 3
+                            Sentence: 05/11/2015
+                            Sentence: No Sentence  In force
+   05-14-15                 Case closed.
+   05-21-15                 Disposition sent through ADR process this date. SPT
+   06-03-15                 Cash
+   08-26-15                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

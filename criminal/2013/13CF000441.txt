@@ -1,0 +1,334 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF000441
+
+   Defendant Plaintiff
+HOLT  SHAKEEM L
+1021 CLARK ST
+RANTOUL IL 61866
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 03/18/13
+                Court Room:
+           Next Appearance: 11/16/15
+                Birth Date: 10/23/93
+                 DEFENDANT: HOLT  SHAKEEM L
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      175.00      BOND -10% BOND FEE           175.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          320.00         430.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                   68.25          31.75
+      490.00      TRAFFIC/CRIMINAL SU             .00         490.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+      179.97      YOUTH DRUG ABUSE PR             .00         179.97
+         .00       STREET VALUE DRUG              .00            .00
+         .00      REGULAR DRUG FINES              .00            .00
+      490.00      MANDATORY ASSESSMEN             .00         490.00
+      539.90      DRUG FUND-COUNTY                .00         539.90
+      179.97      DRUG FINE-AGENCY 2              .00         179.97
+      179.97      DRUG FINE-AGENCY 1              .00         179.97
+      179.97      DRUG FINE-AGENCY 3              .00         179.97
+      179.97      IL STATE TREAS FINE             .00         179.97
+       10.00      ST POLICE SERVICES              .00          10.00
+     1040.69      COLLECTION FEES                 .00        1040.69
+      452.48      LATE FEES                       .00         452.48
+       10.00      ST POLICE OPERATION             .00          10.00
+      900.00                                   900.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121287498 BOND - ORIGINAL                   70.00        02/03/11
+   118491245 SHERIFF'S BOOKING FEE             20.00        03/18/13
+   118491245 BOND - ORIGINAL                  750.00        03/18/13
+   118691484 BOND -10% BOND FEE                75.00        07/19/13
+   118691484 DOCUMENT STORAGE                   5.00        07/19/13
+   118691484 AUTOMATION                        10.00        07/19/13
+   118691484 CIRCUIT CLERK FEE                100.00        07/19/13
+   118691484 COURT SECURITY                    25.00        07/19/13
+   118691484 COURT FINANCE FEE                 50.00        07/19/13
+   118691484 STATES ATTORNEY                   40.00        07/19/13
+   118691484 STATES ATTORNEY AUTOMATI           2.00        07/19/13
+   118691484 CRIME STOPPERS                    10.00        07/19/13
+   118691484 ARRESTEE'S MEDICAL                10.00        07/19/13
+   118691484 PROBATION MONITORING FEE          25.00        07/19/13
+   118691484 PROBATION OPER ASSISTANC          10.00        07/19/13
+   118691484 SPINAL CORD RESEARCH FUN           5.00        07/19/13
+   118691484 CRIME LAB                        100.00        07/19/13
+   118691484  STATE OFFENDER DNA ID S         250.00        07/19/13
+   118691484 TRAUMA FUND                       33.00        07/19/13
+   118901517 PROBATION MONITORING FEE          25.00        11/22/13
+   118901517 TRAUMA FUND                       25.00        11/22/13
+   120998878 SHERIFF'S BOOKING FEE             34.00        03/26/14
+   120998878 BOND - ORIGINAL                 1000.00        03/26/14
+   121009763 PROBATION MONITORING FEE          20.00        04/01/14
+   121067147 PROBATION MONITORING FEE          15.00        05/05/14
+   121072165 PROBATION MONITORING FEE          15.00        05/07/14
+   121126468 BOND - ORIGINAL                   30.00        06/09/14
+   121126469 PROBATION MONITORING FEE          30.00        06/09/14
+   121129055 PROBATION MONITORING FEE          20.00        06/11/14
+   121131319 EPAY RECEIVABLE                   30.00        06/12/14
+   121136486 BOND -10% BOND FEE               100.00        06/16/14
+   121136486 *BOND REFUND                     900.00        06/16/14
+   121183857 PROBATION MONITORING FEE          25.00        07/14/14
+   121183857 TRAUMA FUND                        5.00        07/14/14
+   121372866 PROBATION MONITORING FEE          20.00        10/29/14
+   121404101 PROBATION MONITORING FEE          20.00        11/17/14
+   121461490 PROBATION MONITORING FEE          20.00        12/19/14
+   121514061 PROBATION MONITORING FEE          25.00        01/27/15
+   121514061 TRAUMA FUND                        5.00        01/27/15
+   121569026 PROBATION MONITORING FEE          25.00        02/27/15
+   121569026 TRAUMA FUND                         .25        02/27/15
+   121634974 PROBATION MONITORING FEE          20.00        04/06/15
+   121693022 PROBATION MONITORING FEE          10.00        05/07/15
+   121787788 PROBATION MONITORING FEE           5.00        07/02/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  MFG/DEL CANNABIS/30-500 GRAMS
+
+         1  MFG/DEL CANNABIS/30-500 GRAMS
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   02-03-11                 Bond Type Full Cash
+                            Bond conversion error corrected this date.
+   03-18-13                 Charge 01 Count 001 MFG/DEL CANNABIS/30-500 GRAMS
+                            Statute 720 550/5(d)  Class 3  Orig.
+                            Agency: RANTOUL POLICE DEPARTMENT  Charge Instr: Inf
+ormation
+                            NO BOND No Bond
+                            Charging documents
+                            Sheriff Booking Fee
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and D. Appleman appears instanter.  Defend
+ant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  See expanded recor
+d.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+                            Bond to continue.
+                            Notice of arrest without warrant on file.
+   03-28-13                 Discovery filed
+   04-01-13                 Answer to Discovery filed
+   04-05-13                 Supplemental Discovery filed
+   04-22-13                 Supplemental Discovery filed
+   05-13-13                 Supplemental Discovery filed
+   05-14-13                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty MFG/DEL CANNABIS/30-500 GRAMS
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 550/5(d)  Class 3
+                            Sentence: 05/14/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  30Mos In force
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Substance Abuse Treatment/Evaluation  60Da
+ys In force
+                            Sentence: Defendant's previous probation unsuccessfu
+lly termed  In for
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Fine + Cost           1647.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    750.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    250.00     YOUTH DRUG ABUSE P
+R    179.97
+                            DRUG FUND-COUNTY       539.90     DRUG FINE-AGENCY 2
+     179.97
+                            DRUG FINE-AGENCY 1     179.97     DRUG FINE-AGENCY 3
+     179.97
+                            IL STATE TREAS FINE    179.97
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Stephanie Weber.  Appear
+ance of the
+                            Defendant personally and by counsel, George Vargas.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Mfg/Del Cannabis/30-500 Gra
+ms ILCS: 720
+                            550/5(d) as charged. Judgment entered in favor of th
+e People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 11/12/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  30 months probation. The Defendant is to
+submit specimens
+                            of blood, saliva, or tissue to the Illinois Departme
+nt of State Police
+                            or to the Department of Corrections within 45 days,
+at a collection
+                            site designated by the Champaign County Court Servic
+es Department
+                            and/or Illinois Department of State Police, in accor
+dance with 730
+                            ILCS 5/5-4-3.  Defendant is to obtain an evaluation
+for alcohol and
+                            drug abuse from an agency or agent recommended by th
+e Court Services
+                            Department, and follow any recommendations contained
+ therein as to
+                            treatment and/or counseling.  Defendant advised of r
+ight to appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same.
+   06-07-13                 12.5% to the youth drug abuse prevention fund
+                            37.5% to the Champaign county general corporation fu
+nd
+                            12.5% to be distributed equally among the Rantoul po
+lice dept
+                            12.5% to the campaign county sheriff
+                            12.5% to the Urbana police dept
+                            12.5% to the Mahomet police dept
+   07-19-13                 Bond
+   08-30-13                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   11-22-13                 Court Ordered Payments
+   03-06-14                 Probation Violation Report on file
+   03-12-14                 Cause set for arraignment on
+
+                            Verified information on Petition to Revoke Probation
+ on file.
+                            Probable cause to arrest determined.  Warrant issued
+.  Bond set in the
+                            amount of $ 10,000.00.
+                            Petition to Revoke Probation filed.
+   03-19-14                 Change of address filed with the Circuit Clerk.
+   03-25-14                 Charging documents
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ja
+nie Miller-Jones
+                            appears instanter.  General denial to the Petition i
+s entered.  Bond
+                            is to continue at $10,000. Defendant is admonished a
+s to trial and
+                            sentencing in absentia.  See expanded record.
+                            Warrant served. Service fees $39.00
+   03-26-14                 Sheriff Booking Fee
+   04-01-14                 Bond
+   04-07-14                 Defendant motion to continue hearing on petition to
+revoke.
+                            People appear by Sarah J. Carlson.  Defendant appear
+s personally and
+                            with counsel, George Vargas.  On Defendant's motion,
+ hearing on
+                            Petition to Revoke this date is vacated.
+                            Defendant ordered to report to Court Services this d
+ate.
+   05-05-14                 Bond
+   05-07-14                 Court Ordered Payments
+                            Bond
+   06-09-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   06-11-14                 Bond
+                            Motion to withdrawn petition to revoke.
+                            People appear by Sarah J. Carlson.  Defendant appear
+s personally and
+                            with counsel, George Vargas. On motion of the People
+, the Petition to
+                            Revoke is withdrawn and dismissed.  Defendant's bond
+ discharged to the
+                            individual who posted the bond.
+                            Defendant ordered to report to Court Services this d
+ate.
+   06-12-14                 EPAY RECONCILIATION TRANSACTION
+   06-16-14                 Bond
+   07-14-14                 Court Ordered Payments
+   10-29-14                 Court Ordered Payments
+   11-17-14                 Court Ordered Payments
+   12-19-14                 Court Ordered Payments
+   01-27-15                 Court Ordered Payments
+   02-27-15                 Cash
+   04-06-15                 Cash
+   05-07-15                 Cash
+                            Defendant request payment posted to probation
+   07-02-15                 Cash
+   12-01-15                 Order of unsuccessful discharge from probation.
+                            Written Order of Unsuccessful Discharge from Probati
+on entered this
+                            date.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Terminated Unsatisfied MFG/DEL CANNABIS
+/30-500 GRAMS
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 550/5(d)  Class 3
+                            Sentence: 12/01/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   12-08-15                 Case closed.
+   12-14-15                 Disposition sent through ADR process this date. SPT
+   03-28-16                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

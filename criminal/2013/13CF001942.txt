@@ -1,0 +1,420 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF001942
+
+   Defendant Plaintiff
+CONKLIN  GARRETT
+313 E ARMORY APT 2
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 11/22/13
+                Court Room:
+           Next Appearance: 01/27/16
+                Birth Date: 11/05/92
+                 DEFENDANT: CONKLIN  GARRETT
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       30.00      STATES ATTORNEY               30.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          600.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      170.00      TRAFFIC/CRIMINAL SU          170.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+         .00       STREET VALUE DRUG              .00            .00
+      172.50      DRUG TRAFFIC PREVEN          172.50            .00
+      500.00      MANDATORY ASSESSMEN          500.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121018141 BOND - ORIGINAL                   90.00        04/07/14
+   121018142 DOCUMENT STORAGE                  15.00        04/07/14
+   121018142 AUTOMATION                        15.00        04/07/14
+   121018142 CIRCUIT CLERK FEE                 60.00        04/07/14
+   121023967 EPAY RECEIVABLE                   90.00        04/10/14
+   121040949 BOND - ORIGINAL                  100.00        04/21/14
+   121040950 CIRCUIT CLERK FEE                 40.00        04/21/14
+   121040950 COURT SECURITY                    25.00        04/21/14
+   121040950 COURT FINANCE FEE                 35.00        04/21/14
+   121046590 EPAY RECEIVABLE                  100.00        04/24/14
+   121073605 BOND - ORIGINAL                   50.00        05/08/14
+   121073606 COURT FINANCE FEE                 15.00        05/08/14
+   121073606 STATES ATTORNEY                   30.00        05/08/14
+   121073606 STATES ATTORNEY AUTOMATI           2.00        05/08/14
+   121073606 CRIME STOPPERS                     3.00        05/08/14
+   121079236 EPAY RECEIVABLE                   50.00        05/13/14
+   121094986 BOND - ORIGINAL                   90.00        05/21/14
+   121094987 CRIME STOPPERS                     7.00        05/21/14
+   121094987 ARRESTEE'S MEDICAL                10.00        05/21/14
+   121094987 PROBATION MONITORING FEE          73.00        05/21/14
+   121100635 EPAY RECEIVABLE                   90.00        05/27/14
+   121135460 BOND - ORIGINAL                   80.00        06/14/14
+   121135461 PROBATION MONITORING FEE          80.00        06/14/14
+   121143456 EPAY RECEIVABLE                   80.00        06/19/14
+   121158858 BOND - ORIGINAL                   69.50        06/29/14
+   121158859 PROBATION MONITORING FEE          69.50        06/29/14
+   121168099 EPAY RECEIVABLE                   69.50        07/03/14
+   121181943 BOND - ORIGINAL                   70.00        07/14/14
+   121181944 PROBATION MONITORING FEE          70.00        07/14/14
+   121190167 EPAY RECEIVABLE                   70.00        07/17/14
+   121206981 BOND - ORIGINAL                   80.00        07/25/14
+   121206982 PROBATION MONITORING FEE          80.00        07/25/14
+   121212694 EPAY RECEIVABLE                   80.00        07/30/14
+   121258452 BOND - ORIGINAL                  100.00        08/24/14
+   121258453 PROBATION MONITORING FEE         100.00        08/24/14
+   121267896 EPAY RECEIVABLE                  100.00        08/28/14
+   121295305 BOND - ORIGINAL                   85.00        09/14/14
+   121295306 PROBATION MONITORING FEE          85.00        09/14/14
+   121303806 EPAY RECEIVABLE                   85.00        09/18/14
+   121336173 BOND - ORIGINAL                  100.00        10/06/14
+   121336174 PROBATION MONITORING FEE          42.50        10/06/14
+   121336174 PROBATION OPER ASSISTANC          10.00        10/06/14
+   121336174 SPINAL CORD RESEARCH FUN           5.00        10/06/14
+   121336174 CRIME LAB                         42.50        10/06/14
+   121341271 EPAY RECEIVABLE                  100.00        10/09/14
+   121357095 BOND - ORIGINAL                   75.00        10/21/14
+   121357096 CRIME LAB                         57.50        10/21/14
+   121357096  STATE OFFENDER DNA ID S          17.50        10/21/14
+   121364911 EPAY RECEIVABLE                   75.00        10/24/14
+   121378080 BOND - ORIGINAL                   90.00        11/02/14
+   121378081  STATE OFFENDER DNA ID S          90.00        11/02/14
+   121388084 EPAY RECEIVABLE                   90.00        11/06/14
+   121401892 BOND - ORIGINAL                   75.00        11/16/14
+   121401893  STATE OFFENDER DNA ID S          75.00        11/16/14
+   121410773 EPAY RECEIVABLE                   75.00        11/20/14
+   121422468 BOND - ORIGINAL                   75.00        11/29/14
+   121422469  STATE OFFENDER DNA ID S          67.50        11/29/14
+   121422469 TRAUMA FUND                        7.50        11/29/14
+   121432116 EPAY RECEIVABLE                   75.00        12/04/14
+   121452585 BOND - ORIGINAL                   50.00        12/16/14
+   121452586 TRAUMA FUND                       50.00        12/16/14
+   121460423 EPAY RECEIVABLE                   50.00        12/19/14
+   121516114 BOND - ORIGINAL                   50.00        01/28/15
+   121516115 TRAUMA FUND                       42.50        01/28/15
+   121516115 TR/CR SUR $10/$40                  7.50        01/28/15
+   121524383 EPAY RECEIVABLE                   50.00        02/02/15
+   121566994 BOND - ORIGINAL                  100.00        02/27/15
+   121566995 TR/CR SUR $10/$40                100.00        02/27/15
+   121575693 EPAY RECEIVABLE                  100.00        03/04/15
+   121632794 BOND - ORIGINAL                  110.00        04/06/15
+   121632795 TR/CR SUR $10/$40                 62.50        04/06/15
+   121632795 DRUG COURT PROGRAM                 5.00        04/06/15
+   121632795 VIOLENT CRIME VICTIMS AS          42.50        04/06/15
+   121640615 EPAY RECEIVABLE                  110.00        04/09/15
+   121720719 BOND - ORIGINAL                   75.00        05/22/15
+   121720720 VIOLENT CRIME VICTIMS AS          57.50        05/22/15
+   121720720 DRUG TRAFFIC PREVENTION           17.50        05/22/15
+   121726800 EPAY RECEIVABLE                   75.00        05/28/15
+   121746129 BOND - ORIGINAL                  200.00        06/08/15
+   121746130 DRUG TRAFFIC PREVENTION          155.00        06/08/15
+   121746130 MANDATORY ASSESSMENT              45.00        06/08/15
+   121752733 EPAY RECEIVABLE                  200.00        06/11/15
+   121803339 BOND - ORIGINAL                  150.00        07/10/15
+   121803340 MANDATORY ASSESSMENT             150.00        07/10/15
+   121809868 EPAY RECEIVABLE                  150.00        07/15/15
+   121909377 BOND - ORIGINAL                  315.00        09/09/15
+   121909378 MANDATORY ASSESSMENT             305.00        09/09/15
+   121909378 ST POLICE OPERATIONS ASS          10.00        09/09/15
+   121914911 EPAY RECEIVABLE                  315.00        09/14/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  MFG/DEL CANNABIS/10-30 GRAMS
+
+         1  MFG/DEL CANNABIS/10-30 GRAMS
+
+         2  POSSESS DRUG PARAPHERNALIA
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   11-22-13                 Charge 01 Count 001 MFG/DEL CANNABIS/10-30 GRAMS
+                            Statute 720 550/5(c)  Class 4  Orig.
+                            Agency: ILLINOIS STATE POLICE TASK FOR  Charge Instr
+: Information
+                            Charge 02 Count 002 POSSESS DRUG PARAPHERNALIA
+                            Statute 720 600/3.5(a)  Class A  Orig.
+                            Agency: ILLINOIS STATE POLICE TASK FOR  Charge Instr
+: Information
+                            Companion Charge
+                            Charging documents
+                            Recognizance bond
+                            Pre Trial Order.
+                            People appear by Dan Clifton.  Defendant appears per
+sonally together
+                            with private counsel, John M. Wilkie.  Entry of appe
+arance on file.
+                            Defendant is arraigned.  Defendant waives preliminar
+y hearing, enters
+                            a plea of not guilty and requests a trial by jury.
+Pre-trial orders
+                            entered.  Bond set in the amount of $1,000-ROR ALLOW
+ED. Defendant
+                            admonished as to trial and sentencing in absentia.
+See Expanded
+                            Record.
+   11-26-13                 Affidavit of mailing on file.
+                            Discovery filed.
+   12-06-13                 On motion of Mr. Wilkie and without objection by Ms.
+ Sharples
+                            Brooks, pre-trial allotment of January 7, 2014 is va
+cated and the
+                            cause is allotted for Plea on January 27, 2014 at 2:
+30 p.m. in
+                            Courtroom A.  Mr. Wilkie to notify his client.
+   12-19-13                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   01-27-14                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed POSSESS DRUG PARAPHERNALIA
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 600/3.5(a)  Class A
+                            Sentence: 01/27/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Withhold Judgment/710 Probation MFG/DEL
+ CANNABIS/10-30 GR
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 550/5(c)  Class 4
+                            Sentence: 01/27/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: First Offender Probation - Controlled Subs
+tances Act  24Mos
+                                      Supervised Court Service
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Mandatory Assessment Fine  In force
+                            Sentence: Mandatory Street Value Fine  In force
+                            Sentence: Public Service  30Hrs In force
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Seized contraband is forfeited to the arre
+sting agency  In f
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           1147.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    600.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    250.00     DRUG TRAFFIC PREVE
+N    172.50
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, John M. Wil
+kie.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Mfg/Del Cannabis/10-30 Gram
+s ILCS: 720
+                            550/5(c) as charged.  Judgment deferred.   Upon the
+plea entered this
+                            date, Defendant is sentenced to all terms and condit
+ions as set forth
+                            in the written sentencing order entered this date. A
+ll financial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  7/28/2014.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  24
+                            months First Offender Probation pursuant to the Cont
+rolled Substances
+                            Act.       Defendant is ordered to perform  30 hours
+ of public service
+                            work under the supervision of the Champaign County C
+ourt Services
+                            Department.  The defendant is to be given credit on
+public service
+                            work for any hours completed in education, treatment
+, aftercare,
+                            sobriety based self-help group meetings, Victim Impa
+ct Panel and GED
+                            classes. The Defendant is to submit specimens of blo
+od, saliva, or
+                            tissue to the Illinois Department of State Police or
+ to the Department
+                            of Corrections within 45 days, at a collection site
+designated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+.  Defendant is to
+                            obtain an evaluation for alcohol and drug abuse from
+ an agency or
+                            agent recommended by the Court Services Department,
+and follow any
+                            recommendations contained therein as to treatment an
+d/or counseling.
+                            Any contraband seized in this matter, and any additi
+onal property
+                            listed in the written order is forfeited to the arre
+sting agency.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+                            Cause allotted for Review of the First Offender Prob
+ation on January
+                            27, 2016 at 9:00 a.m. in Courtroom A.  Appearance of
+ the parties on
+                            said date is excused.
+                            Cause allotted for Review of First Offender Probatio
+n on
+   01-29-14                 Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            50.0% to the General Corporate Fund of Champaign Cou
+nty, and
+                            37.5% to the Illinois State Treasury.
+   02-03-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   03-19-14                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   04-07-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   04-10-14                 EPAY RECONCILIATION TRANSACTION
+   04-21-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   04-24-14                 EPAY RECONCILIATION TRANSACTION
+   05-08-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-13-14                 EPAY RECONCILIATION TRANSACTION
+   05-21-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-27-14                 EPAY RECONCILIATION TRANSACTION
+   06-14-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   06-19-14                 EPAY RECONCILIATION TRANSACTION
+   06-29-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   07-03-14                 EPAY RECONCILIATION TRANSACTION
+   07-14-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   07-17-14                 EPAY RECONCILIATION TRANSACTION
+   07-25-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   07-30-14                 EPAY RECONCILIATION TRANSACTION
+   08-24-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   08-28-14                 EPAY RECONCILIATION TRANSACTION
+   09-14-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   09-18-14                 EPAY RECONCILIATION TRANSACTION
+   10-06-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   10-09-14                 EPAY RECONCILIATION TRANSACTION
+   10-21-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   10-24-14                 EPAY RECONCILIATION TRANSACTION
+   11-02-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   11-06-14                 EPAY RECONCILIATION TRANSACTION
+   11-16-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   11-20-14                 EPAY RECONCILIATION TRANSACTION
+   11-29-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   12-04-14                 EPAY RECONCILIATION TRANSACTION
+   12-16-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   12-19-14                 EPAY RECONCILIATION TRANSACTION
+   01-28-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   02-02-15                 EPAY RECONCILIATION TRANSACTION
+   02-27-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   03-04-15                 EPAY RECONCILIATION TRANSACTION
+   04-06-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   04-09-15                 EPAY RECONCILIATION TRANSACTION
+   05-22-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-28-15                 EPAY RECONCILIATION TRANSACTION
+   06-08-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   06-11-15                 EPAY RECONCILIATION TRANSACTION
+   07-10-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   07-15-15                 EPAY RECONCILIATION TRANSACTION
+   09-09-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   09-14-15                 EPAY RECONCILIATION TRANSACTION
+   02-01-16                 First Offender Probation terminated successfully.  I
+nformation is
+                            ordered dismissed.  Defendant is discharged.  Order
+of Discharge from
+                            Probation and Case Dismissal entered.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Probation Terminated MFG/DEL CANNABIS/1
+0-30 GRAMS
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 550/5(c)  Class 4
+                            Sentence: 02/01/2016
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   02-09-16                 All obligations have been met, case is closed.
+   02-10-16                 Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

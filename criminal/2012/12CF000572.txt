@@ -1,0 +1,390 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF000572
+
+   Defendant Plaintiff
+MOHAMMED  ANIL A
+408 E HEALEY ST APT
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 04/13/12
+                Court Room:
+           Next Appearance: 01/05/15
+                Birth Date: 11/23/89
+                 DEFENDANT: MOHAMMED  ANIL A
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       20.00      BOND -10% BOND FEE              .00          20.00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       50.00      TRAFFIC/CRIMINAL SU             .00          50.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      200.00      FINES                           .00         200.00
+       20.00      VICTIMS FUND-FINE               .00          20.00
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00      BOND -10% BOND FEE              .00            .00
+       94.24      *RESTITUTION AMOUNT           94.24            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN           75.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       50.00      TRAFFIC/CRIMINAL SU           50.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      195.00      FINES                        195.00            .00
+       20.00      VICTIMS FUND-FINE             20.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118015107 PERSONAL CHECK/CREDIT CA           1.25        06/27/12
+   118015107 BOND - ORIGINAL                  200.00        06/27/12
+   118056299 COPIES                             1.00        07/30/12
+   118056299 COPIES                              .50        07/30/12
+   118144172 *RESTITUTION AMOUNT               94.24        09/20/12
+   118144172 DOCUMENT STORAGE                   5.00        09/20/12
+   118144172 E-CITATION                         5.00        09/20/12
+   118144172 AUTOMATION                        10.00        09/20/12
+   118144172 CIRCUIT CLERK FEE                 85.76        09/20/12
+   118144172 *RESTITUTION AMOUNT               94.24        09/20/12
+   118269577 CIRCUIT CLERK FEE                 14.24        12/03/12
+   118269577 COURT SECURITY                    25.00        12/03/12
+   118269577 COURT FINANCE FEE                 50.00        12/03/12
+   118269577 STATES ATTORNEY                   20.00        12/03/12
+   118269577 STATES ATTORNEY AUTOMATI           2.00        12/03/12
+   118269577 CRIME STOPPERS                     5.00        12/03/12
+   118269577 ARRESTEE'S MEDICAL                10.00        12/03/12
+   118269577 PROBATION MONITORING FEE          75.00        12/03/12
+   118269577 PROBATION OPER ASSISTANC          10.00        12/03/12
+   118269577 TR/CR SUR $10/$40                 50.00        12/03/12
+   118269577 DRUG COURT PROGRAM                 5.00        12/03/12
+   118269577 FINES                            195.00        12/03/12
+   118269577 VICTIMS FUND-FINE                 20.00        12/03/12
+   118269577 ST POLICE OPERATIONS ASS          10.00        12/03/12
+   118269577 PERSONAL CHECK/CREDIT CA          15.00        12/03/12
+   121708792 BOND - ORIGINAL                  136.00        05/15/15
+   121848303 AUTOMATION                          .00        08/05/15
+   121848303 DOCUMENT STORAGE                    .00        08/05/15
+   121848303 CIRCUIT CLERK FEE                   .00        08/05/15
+   121848303 COURT FINANCE FEE                   .00        08/05/15
+   121848303 LIBRARY FEE                         .00        08/05/15
+   121848303 COURT SECURITY                      .00        08/05/15
+   121848303 TR/CR SUR $10/$40                   .00        08/05/15
+   121848303 BOND -10% BOND FEE                  .00        08/05/15
+   121848303 PROBATION MONITORING FEE            .00        08/05/15
+   121848303 MISCELLANEOUS                       .00        08/05/15
+   121848303 NOTICES MAILED 1ST CLASS            .00        08/05/15
+   121848303 BOND FORFEITURE                     .00        08/05/15
+   121848303 FINES                               .00        08/05/15
+   121848303 % BREAKDOWN-COUNTY                  .00        08/05/15
+   121848303 ABANDONED BOND PROCESSIN            .00        08/05/15
+   121848303 VICTIMS FUND-FINE                   .00        08/05/15
+   121848303 DRIVERS EDUCATION                   .00        08/05/15
+   121848303 CLERK OP & ADMIN FUND               .00        08/05/15
+   121848303 PRISONER REVIEW BOARD               .00        08/05/15
+   121848303 % BREAKDOWN-STATE                   .00        08/05/15
+   121848303  STATE OFFENDER DNA ID S            .00        08/05/15
+   121848303 DUI CRIME LAB                       .00        08/05/15
+   121848303 TRAUMA FUND                         .00        08/05/15
+   121848303 ST DNA ID FUND-ADMIN FEE            .00        08/05/15
+   121848303 DOMESTIC BATTERY                    .00        08/05/15
+   121848303 VIOLATE OP-DOMESTIC ABUS            .00        08/05/15
+   121848303 TRAFFIC SCHOOL TUITION              .00        08/05/15
+   121848303 CLERK OP & ADMIN-SERIOUS            .00        08/05/15
+   121848303 FIRE PREVENTION FUND                .00        08/05/15
+   121848303 FIRE TRUCK REVOLVING LOA            .00        08/05/15
+   121848303 CERTIFIED MAILING                   .00        08/05/15
+   121848303 CERTIFIED COPIES                    .00        08/05/15
+   121848303 JURY COST                           .00        08/05/15
+   121848303 DRUG TRAFFIC PREVENTION             .00        08/05/15
+   121848303 MAIL FEE-EXPUNGEMENTS               .00        08/05/15
+   121848303 UNCLAIMED PROPERTY TO ST            .00        08/05/15
+   121848303 ABANDONED BONDS                     .00        08/05/15
+   121848303 FORECLOSURE MEDIATION FU            .00        08/05/15
+   121848303 ABAND RESIDENT RELIEF FU            .00        08/05/15
+   121848303 STATE GUARDIANSHIP AND A            .00        08/05/15
+   121848303 FORECLOS PREVENT GRADUAT            .00        08/05/15
+   121848303 *BOND REFUND                        .00        08/05/15
+   121848745 01000000000                         .00        08/05/15
+   121848751 01000000000                         .00        08/05/15
+   121848759 01000000000                         .00        08/05/15
+   121849279 01000000000                         .00        08/05/15
+   121849316 CIRCUIT CLERK FEE                 60.00        08/05/15
+   121849316 CERTIFIED COPIES                  10.00        08/05/15
+   121849316 MAIL FEE-EXPUNGEMENTS              6.00        08/05/15
+   121849316 *BOND REFUND                      60.00        08/05/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  BURGLARY
+
+         1  BURGLARY
+
+         1  BURGLARY
+
+         2  CRIM DMG/GOVT PROP/KNOW/<$500
+
+         3  KNOWINGLY DMG PROP/SCHOOL <300
+
+         3  KNOWINGLY DMG PROP/SCHOOL <300
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   04-13-12                 NO BOND No Bond
+                            Charge 02 Count 002 CRIM DMG/GOVT PROP/KNOW/<$500
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 CRIM DMG/GOVT PROP/KNOW/<$500
+                            Statute 720 5/21-4(1)(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel.  Defendant is admonished as t
+o trial and
+                            sentencing in absentia. Bond is set in the amount of
+ $1,000/ROR
+                            ALLOWED.  See expanded record.
+                            Charge 03 Count 003 KNOWINGLY DMG PROP/SCHOOL <300
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   04-16-12                 Released On Recognizance bond form on file.
+   04-19-12                 Entry of appearance filed this date.
+   04-27-12                 Expanded record of arraignment proceedings.
+                            People appear by Marley C. Nelson.  Defendant appear
+s personally
+                            together with private counsel, J. S. Beckett.  Entry
+ of appearance on
+                            file.  Defendant is arraigned.  Defendant waives pre
+liminary hearing,
+                            enters a plea of not guilty and requests a trial by
+jury.  Pre-trial
+                            orders entered.  Defendant admonished as to trial an
+d sentencing in
+                            absentia.  See Expanded Record.
+                            Bond to continue.
+                            Defendant's bond is modified and he is granted permi
+ssion to the leave
+                            the State of Illinois.
+   05-16-12                 Discovery filed
+   06-01-12
+                            Counsel for the state and the defendant represent th
+at the parties are
+                            prepared to enter into a diversion agreement.  With
+the agreement of
+                            the parties, the felony pretrial scheduled on June 1
+2, 2012,  in
+                            Courtroom A is ordered vacated.   An initial diversi
+on hearing is set
+                            for June 27, 2012 at 02:30 PM in Courtroom F.  The d
+efendant is
+                            ordered to appear.  Notice to be given by the clerk
+by e-mail.
+   06-27-12                 Check Full Cash
+                            Second chance program agreement.
+                            Scott M. Bennett appears for the state.  Defendant a
+ppears personally
+                            and by counsel J. S. Beckett.  The cause is called f
+or an initial
+                            diversion hearing.   Written diversion agreement pre
+sented to the
+                            court.   The cause is allotted for a final diversion
+ hearing on
+                            October 10, 2012 at 02:30 PM in Courtroom F.
+   07-09-12                 Certificate of completion of Under the Influence onl
+ine
+                            Education Course filed.
+   07-30-12                 Copies & Certified Copies
+   09-04-12                 Certificate of completion of public service work fil
+ed
+   09-11-12
+                            By agreement of the parties, cause is allotted for f
+inal Diversion
+                            hearing.
+   09-12-12                 Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Vacated Trial Court BURGLARY
+                            Disposition Vacated: Withhold Judgment/Supervision
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Sentence: 09/12/2012
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Disposition 03/00  Count 003  Fine + Cost
+                            Disposition: Withhold Judgment/Supervision KNOWINGLY
+ DMG PROP/SCHOOL <
+                            Disposition Vacated: Withhold Judgment/Supervision
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Sentence: 09/12/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Court Supervision  3Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  25Hrs In force
+                                      Supervised Court Service
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Sentence: Restitution  In force
+                            Fine + Cost            512.00     *RESTITUTION AMOUN
+T     94.24
+                            E-CITATION               5.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN     75.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott M. Bennett.  Appea
+rance of the
+                            Defendant personally and by counsel, J. S. Beckett.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 03 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Knowingly Dmg Prop/School <
+300 ILCS: 720
+                            5/21-1(1)(a), a Class A Misdemeanor, as charged. Upo
+n the plea entered
+                            this date, Defendant is sentenced to all terms and c
+onditions as set
+                            forth in the written order on guilty plea entered th
+is date. All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 12/11/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  3 months Court Supervision. Defendant is
+ordered to perform
+                            25 hours of public service work under the supervisio
+n of the Champaign
+                            County Court Services Department.  The defendant is
+to be given credit
+                            on public service work for any hours completed in ed
+ucation,
+                            treatment, aftercare, sobriety based self-help group
+ meetings, Victim
+                            Impact Panel and GED classes. Defendant is ordered t
+o complete the
+                            Under the Influence on-line education calss through
+3rd Millenium
+                            Classrooms, under the supervision if the Champaign C
+ounty Court
+                            Services Department within 30 days. Count(s) stated
+in the written
+                            order are herby dismissed. Defendant advised of righ
+t to appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same. Written Sentencing O
+rder entered. See
+                            Order.
+                            Disposition 01/02  Count 001  No Fine & Cost
+                            Disposition: Dismissed BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Sentence: 09/12/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed CRIM DMG/GOVT PROP/KNOW/<$500
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/21-4(1)(a)  Class 4  Orig.
+                            Sentence: 09/12/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   09-20-12                 Bond
+   12-03-12                 Court Ordered Payments
+                            Credit Card Convenience Fee
+   01-03-13                 Order of Discharge and Dismissal
+                            Order of Discharge and Dismissal entered. See Order.
+                            Disposition 03/01  Count 003  Manual Calculations
+                            Disposition: Terminated Satisfied KNOWINGLY DMG PROP
+/SCHOOL <300
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Sentence: 01/03/2013
+                            Sentence: No Sentence  In force
+                            Case closed.
+   01-08-13                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   05-15-15                 Cash Full Cash
+                            Petition to Expunge on file by defendant, by and thr
+ough his
+                            Attorney, J. Steven Beckett.
+   05-20-15                 Affidavit of mailing for expungment created.
+                            Expungement petition delivery receipt  on file.
+                            Expungement petition delivery receipt  on file.
+                            Expungement petition delivery receipt  on file.
+   06-02-15                 Expungement petition delivery receipt  on file.
+   08-03-15                 Expungement Evaluation Form and Record search comple
+ted and
+                            forwarded to court.
+                            Order to Expunge entered this date. See Order.
+   08-05-15                 Miscellaneous
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

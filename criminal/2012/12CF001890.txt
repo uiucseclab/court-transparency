@@ -1,0 +1,215 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF001890
+
+   Defendant Plaintiff
+PEREZ-VILLA  JOSE
+40 ROWENA DR
+URBANA IL 61802
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 11/16/12
+                Court Room:
+           Next Appearance: 07/23/14
+                Birth Date: 12/20/83
+                 DEFENDANT: PEREZ-VILLA  JOSE
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       20.00      BOND -10% BOND FEE            20.00            .00
+      250.00      *RESTITUTION AMOUNT          250.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN          270.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+         .00      SPINAL CORD RESEARC             .00            .00
+         .00      SP MERIT BOARD                  .00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+         .00      TRAUMA FUND                     .00            .00
+      130.00      TRAFFIC/CRIMINAL SU          130.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      495.00      FINES                        495.00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+       52.00      DRIVERS EDUCATION             52.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118401869 BOND TRANSFERS IN                200.00        01/24/13
+   118428317 BOND -10% BOND FEE                20.00        02/06/13
+   118428317 *RESTITUTION AMOUNT              180.00        02/06/13
+   118428317 *RESTITUTION AMOUNT              180.00        02/06/13
+   118501901 01000000000                         .00        03/26/13
+   118508452 *RESTITUTION AMOUNT               70.00        03/28/13
+   118508452 DOCUMENT STORAGE                   5.00        03/28/13
+   118508452 AUTOMATION                        10.00        03/28/13
+   118508452 CIRCUIT CLERK FEE                100.00        03/28/13
+   118508452 COURT SECURITY                    25.00        03/28/13
+   118508452 COURT FINANCE FEE                 50.00        03/28/13
+   118508452 STATES ATTORNEY                   40.00        03/28/13
+   118508452 STATES ATTORNEY AUTOMATI           2.00        03/28/13
+   118508452 CRIME STOPPERS                    10.00        03/28/13
+   118508452 ARRESTEE'S MEDICAL                10.00        03/28/13
+   118508452 PROBATION MONITORING FEE          15.00        03/28/13
+   118508452 PROBATION OPER ASSISTANC          10.00        03/28/13
+   118508452  STATE OFFENDER DNA ID S         250.00        03/28/13
+   118508452 TR/CR SUR $10/$40                103.00        03/28/13
+   118508452 *RESTITUTION AMOUNT               70.00        03/28/13
+   118513270 PROBATION MONITORING FEE         255.00        04/02/13
+   118513270 TR/CR SUR $10/$40                 27.00        04/02/13
+   118513270 CLERK OP & ADMIN FUND             10.00        04/02/13
+   118513270 DRUG COURT PROGRAM                 5.00        04/02/13
+   118513270 FINES                            495.00        04/02/13
+   118513270 VIOLENT CRIME VICTIMS AS         100.00        04/02/13
+   118513270 DRIVERS EDUCATION                 52.00        04/02/13
+   118513270 ST POLICE SERVICES FUND           10.00        04/02/13
+   118513270 ST POLICE OPERATIONS ASS          10.00        04/02/13
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  DRIVING RVK/SUSP DUI/SSS 3RD
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   11-16-12                 Charge 01 Count 001 DRIVING RVK/SUSP DUI/SSS 3RD
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charging documents
+                            Created and properly labeled court case file.
+   11-30-12
+                            Defendant appears personally and with counsel, John
+Wilkie. By
+                            agreement, an interpreter is appointed.  Cause conti
+nued for the
+                            appearance of an interpreter.  Bond to continue.
+   12-12-12                 Discovery filed
+   01-17-13                 EHD Eligibility Certificate filed
+   01-23-13                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty DRIVING RVK/SUSP DUI/SSS 3RD
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Sentence: 01/23/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  18Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  90Days In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Fine + Cost           1084.00     *RESTITUTION AMOUN
+T    250.00
+                            CRIME STOPPERS          10.00     PROBATION MONITORI
+N    270.00
+                             STATE OFFENDER DNA    250.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Aj Ruggieri.  Appearance
+ of the Defendant
+                            personally and by counsel, John Wilkie. Interpreter
+is present.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Driving Rvk/Susp Dui/Sss 3r
+d ILCS: 625
+                            5/6-303(a) as charged. Judgment entered in favor of
+the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  7/22/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  18 months Conditional Discharge. Defendan
+t is ordered to
+                            serve a period of incarceration of  90 days in the C
+hampaign County
+                            Correctional Center. Defendant is to receive credit
+for   1 days
+                            previously served. The Defendant is to submit specim
+ens of blood,
+                            saliva, or tissue to the Illinois Department of Stat
+e Police or to the
+                            Department of Corrections within 45 days, at a colle
+ction site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3. Defendant advised of right to appeal and ri
+ghts pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same. Waiver of jury on file. Senten
+cing Order
+                            entered. See Order. Order of Imprisonment entered. S
+ee Order.
+                            Defendant is directed to report to the Satellite jai
+l on January 30,
+                            2013 at 9:00 a.m. for commencement of the imposed se
+ntence.
+   01-24-13                 Bond Type Transfer Bond From    2012TR018669 PEREZE-
+VILLA JOSE
+   02-05-13                 ISP Supplemental Court Disposition prepared and mail
+ed.
+                            Report of Felony Conviction prepared / mailed.
+   02-06-13                 Bond
+   03-28-13                 Court Ordered Payments
+   04-02-13                 Court Ordered Payments
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

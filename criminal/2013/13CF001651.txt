@@ -1,0 +1,417 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF001651
+
+   Defendant Plaintiff
+JOHNSON  CJ
+1008 CRESCENT DRIVE
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 10/02/13
+                Court Room:
+           Next Appearance: 04/22/16
+                Birth Date: 12/07/51
+                 DEFENDANT: JOHNSON  CJ
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       10.00      PROBATION MONITORIN           43.00         197.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+         .00       STATE OFFENDER DNA             .00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121117595 DOCUMENT STORAGE                  15.00        06/04/14
+   121117595 AUTOMATION                        15.00        06/04/14
+   121217617 CIRCUIT CLERK FEE                 30.00        08/01/14
+   121300061 CIRCUIT CLERK FEE                 15.00        09/16/14
+   121349407 CIRCUIT CLERK FEE                 15.00        10/15/14
+   121452018 CIRCUIT CLERK FEE                 15.00        12/15/14
+   121490548 CIRCUIT CLERK FEE                 15.00        01/12/15
+   121539323 CIRCUIT CLERK FEE                 10.00        02/10/15
+   121539323 COURT SECURITY                     5.00        02/10/15
+   121708238 COURT SECURITY                    15.00        05/15/15
+   121752644 COURT SECURITY                     5.00        06/11/15
+   121752644 COURT FINANCE FEE                 10.00        06/11/15
+   121858876 COURT FINANCE FEE                 30.00        08/11/15
+   121918940 COURT FINANCE FEE                 10.00        09/15/15
+   121918940 STATES ATTORNEY                    5.00        09/15/15
+   121967672 STATES ATTORNEY                   15.00        10/13/15
+   122051563 STATES ATTORNEY                   20.00        12/01/15
+   122051563 STATES ATTORNEY AUTOMATI           2.00        12/01/15
+   122051563 CRIME STOPPERS                     8.00        12/01/15
+   122188666 CRIME STOPPERS                     2.00        02/23/16
+   122188666 ARRESTEE'S MEDICAL                10.00        02/23/16
+   122188666 PROBATION MONITORING FEE           3.00        02/23/16
+   122237157 PROBATION MONITORING FEE          10.00        03/22/16
+   122237157 PROBATION OPER ASSISTANC           5.00        03/22/16
+   122292089 PROBATION MONITORING FEE          10.00        04/22/16
+   122292089 PROBATION OPER ASSISTANC           5.00        04/22/16
+   122365389 PROBATION MONITORING FEE          10.00        06/06/16
+   122365389 TR/CR SUR $10/$40                 10.00        06/06/16
+   122479523 PROBATION MONITORING FEE          10.00        08/11/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  THEFT CONTROL INTENT $500<10K
+
+         1  THEFT CONTROL INTENT $500<10K
+
+         1  THEFT CONTROL INTENT $500<10K
+
+         1  THEFT CONTROL INTENT $500<10K
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   09-30-13                 Notice of arrest without warrant on file.
+                            Released On Recognizance bond form on file.
+   10-02-13                 Charge 01 Count 001 THEFT CONTROL INTENT $500<10K
+                            Statute 720 5/16-1(a)(1)(A)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+   10-03-13                 Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned. Defendant is admonished as to E
+XTENDED TERM
+                            SENTENCING. The Champaign County Public Defender is
+appointed and
+                            Lindsey Yanchus appears instanter.  Defendant waives
+ preliminary
+                            hearing, enters a plea of not guilty and requests tr
+ial by jury.
+                            Pre-trial orders entered.  Prior $1,000 recognizance
+ bond is to
+                            continue. Defendant is admonished as to trial and se
+ntencing in
+                            absentia. See expanded record.
+   10-04-13                 Proof of service on file.
+                            Discovery filed.
+                            Answer to Discovery filed
+   10-17-13                 Proof of service on file.
+                            Supplemental Discovery filed
+                            Answer to Discovery filed
+   11-18-13                 Motion to Continue on file by Public Defenders offic
+e.
+   11-19-13                 By agreement, trial allotment vacated
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   12-04-13                 Case allotted for plea
+   01-02-14                 Order on guilty plea.
+                            Appearance of the People by Matthew P. Banach.  Appe
+arance of the
+                            Defendant personally and by counsel, Mr. Allegetti w
+ho appears on
+                            behalf of Katie L. Jessup.   Defendant advised as to
+ the nature of the
+                            proceedings, the charges and the possible penalties
+that may be
+                            imposed and the Court finds that the Defendant under
+stands the same.
+                            Finding Defendant knowingly understandingly and volu
+ntarily waives
+                            rights and enters a plea of guilty to Count 01 of th
+e charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Theft
+                            Control Intent $500<10k ST: IL ILCS: 720 5/16-1(a)(1
+)(A) as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.
+                            Order on guilty plea.
+                            Defendant ordered to appear at the sentencing hearin
+g.  Defendant
+                            admonished as to sentencing in absentia.  Defendant
+ordered to report
+                            to the Champaign County Court Services Department.
+The Court Services
+                            Department is to prepare a pre-sentence report and f
+ile a copy of the
+                            same. Order on Guilty Plea entered this date.   Defe
+ndant's bond is to
+                            Continue.
+                            Court Services to make arrangements for preparation
+of a
+                            Factual Basis received and ordered filed.
+   02-14-14                 Sentencing Hearing re-allotted due to deft.'s illnes
+s
+                            Due to the Defendant's illness and without objection
+ by the People,
+                            the sentencing hearing allotted this date is vacated
+ and re-allotted
+                            to 3/24/14 at 1:30 p.m. in Courtroom C.  Defendant's
+ bond is to
+                            continue.
+   03-24-14                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty THEFT CONTROL INTENT $500<10K
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/16-1(a)(1)(A)  Class 3
+                            Sentence: 03/24/2014
+                            Sentence: Cost Only  In force
+                            Sentence: Department Of Corrections  5Yrs In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Cost Only              407.00
+                            Payment Due
+                            Warrant issued.  No Bond.
+                            No bond warrant.
+                            Motion by the People for a warrant.  Motion is allow
+ed over the
+                            objection of counsel for the defendant.  On motion o
+f the People,
+                            warrant to issue with No Bond.
+                            Sentencing Order/Order for Pre-Sentence report.
+                            Appearance of the People by Matthew P. Banach.  Appe
+arance of the
+                            Defendant by counsel, Katie L. Jessup.  No appearanc
+e by the
+                            defendant.  Motion by the People for Sentencing in a
+bsentia.
+                            Objection by Ms. Jessup.  Arguments heard.  Motion i
+s allowed over Ms.
+                            Jessup's objection.  Cause called for sentencing in
+absentia.
+                            Statements of counsel heard.  All financial obligati
+ons shall be paid
+                            in equal monthly installments to the Champaign Count
+y Circuit Clerk
+                            including a Violent Crime Victim's Assistance Act fe
+e, and Court
+                            costs.  Defendant is to receive credit of $10 toward
+s the fines, costs
+                            and fees based on the 2 days served.   Any bond post
+ed is to be
+                            applied first to any court ordered bond assignment o
+n file and then to
+                            all restitution ordered and then to all financial ob
+ligations in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of
+                            incarceration of   5 years,  in the Illinois Departm
+ent of
+                            Corrections. Defendant is to receive credit for   2
+days previously
+                            served. Judgment-Sentence to the Illinois Department
+ of Corrections
+                            entered this date.
+                            Mittimus prepared.
+   03-26-14                 Statement of State's Attorney filed
+   04-03-14                 Disposition sent through ADR process this date. SPT
+   04-10-14                 Motion for Reconsideration of Sentence set for heari
+ng.
+                            PD to send notice.
+                            Notice of Hearing Filed
+   04-14-14                 Circuit Clerk received the following transcripts:
+                            January 2, 2014, HNL, Alan Richey
+   04-22-14                 Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Vacated Trial Court THEFT CONTROL INTEN
+T $500<10K
+                            Disposition Vacated: Guilty
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1(a)(1)(A)  Class 3
+                            Sentence: 04/22/2014
+                            Disposition 01/02  Count 001  Cost Only
+                            Disposition: Guilty THEFT CONTROL INTENT $500<10K
+                            Disposition Vacated: Guilty
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/16-1(a)(1)(A)  Class 3
+                            Sentence: 04/22/2014
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Sentence: No contact order.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              407.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    240.00      STATE OFFENDER DN
+A       .00
+                            Payment Due
+                            Warrant Quashed
+                            Sentencing Order/Order for Pre-Sentence report.
+                            Appearance of the People by Matthew P. Banach.  Appe
+arance of the
+                            Defendant personally and by counsel, Katie L. Jessup
+.  Cause called
+                            for hearing on the Defendant's Motion to Reconsider
+Sentence.
+                            Statements of counsel heard.  Motion is allowed.  Th
+e Court vacates
+                            the order of commitment to the Illinois Department o
+f Corrections
+                            entered on 3/24/14.  All financial obligations shall
+ be paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk by
+                            12/15/2015.  Any bond posted is to be applied first
+to any court
+                            ordered bond assignment on file and then to all rest
+itution ordered
+                            and then to all financial obligations in this case.
+ Any remaining
+                            bond shall be discharged to the individual who poste
+d the bond.
+                            Defendant is ordered to serve a period of  24 months
+ probation
+                            pursuant to the standard terms and conditions entere
+d this date.  If
+                            not previously done so by him, the Defendant is to s
+ubmit specimens of
+                            blood, saliva, or tissue to the Illinois Department
+of State Police or
+                            to the Department of Corrections within 45 days, at
+a collection site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3.  Defendant is only ordered to pay the $250.
+00 genetic marker
+                            grouping analysis fee, if the defendant has not prev
+iously provided a
+                            specimen of DNA to the Illinois State Police.   Defe
+ndant is ordered
+                            to pay $10 per month probation service fee, $10 loca
+l anti-crime fee
+                            and the costs.  Defendant is ordered to cooperate wi
+th any referrals
+                            and recommendations for treatment and/or counseling.
+ Defendant is to
+                            have no contact, directly or indirectly, in person,
+by telephone or
+                            electronically with the persons stated in the writte
+n order. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Motion by the defendant to quash the warrant.  Motio
+n allowed.
+                            Warrant issued 3/24/14 is ordered quashed.  See Orde
+r Quashing Arrest
+                            Warrant or Body Attachment entered this date.  Defen
+dant is ordered to
+                            report to the Court Services Department.  Written Or
+der of Conditions
+                            to be entered.
+                            Rule 604(d) Certificate on file.
+                            Order quashing arrest warrant or body attachment.
+   04-30-14                 Disposition sent through ADR process this date. SPT
+                            Manual disposition form created this date. SPT
+                            Copy of Quashed Warrant filed
+   05-14-14                 Notice received from Court Services/Circuit Court th
+at the
+                            Defendant had previously provided a sample of his bl
+ood, saliva or
+                            tissue for DNA analysis.  Therefore, per Administrat
+ive Order 10-1,
+                            that part of the sentencing order has been satisfied
+.
+   05-16-14                 Written Order of Conditions entered.
+   06-04-14                 Court Ordered Payments
+   08-01-14                 Court Ordered Payments
+   09-16-14                 Court Ordered Payments
+   10-15-14                 Court Ordered Payments
+   12-15-14                 Court Ordered Payments
+   01-12-15                 Court Ordered Payments
+   02-10-15                 Court Ordered Payments
+   05-15-15                 Cash
+   06-11-15                 Cash
+   08-11-15                 Cash
+   09-15-15                 Cash
+   10-13-15                 Cash
+   12-01-15                 Cash
+   02-23-16                 Cash
+   03-22-16                 Cash
+   04-22-16                 Cash
+   04-26-16                 Order of unsuccessful discharge from probation.
+                            Written Order of Unsuccessful Discharge from Probati
+on entered this
+                            date.
+                            Disposition 01/03  Count 001  No Fine & Cost
+                            Disposition: Terminated Unsatisfied THEFT CONTROL IN
+TENT $500<10K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1(a)(1)(A)  Class 3
+                            Sentence: 04/26/2016
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   04-27-16                 Case closed.
+   04-28-16                 Disposition sent through ADR process this date. SPT
+   06-06-16                 Cash
+   08-11-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

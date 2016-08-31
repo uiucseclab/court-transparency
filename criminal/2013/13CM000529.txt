@@ -1,0 +1,281 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CM000529
+
+   Defendant Plaintiff
+GUTHRIDGE  SARAH J
+903 S MATTIS
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/23/13
+                Court Room:
+           Next Appearance: 10/06/14
+                Birth Date: 08/03/92
+                 DEFENDANT: GUTHRIDGE  SARAH J
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+      228.50      *RESTITUTION AMOUNT          228.50            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          300.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       50.00      TRAFFIC/CRIMINAL SU           50.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      195.00      FINES                        195.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118600114 SHERIFF'S BOOKING FEE             20.00        05/23/13
+   118600114 BOND - ORIGINAL                  150.00        05/23/13
+   118839315 BOND -10% BOND FEE                15.00        10/18/13
+   118839315 *RESTITUTION AMOUNT              135.00        10/18/13
+   118839315 *RESTITUTION AMOUNT              135.00        10/18/13
+   118864687 BOND - ORIGINAL                   25.00        11/01/13
+   118864688 *RESTITUTION AMOUNT               25.00        11/01/13
+   118864688 *RESTITUTION AMOUNT               25.00        11/04/13
+   118872903 EPAY RECEIVABLE                   25.00        11/06/13
+   118904729 BOND - ORIGINAL                   25.00        11/26/13
+   118904730 *RESTITUTION AMOUNT               25.00        11/26/13
+   118904730 *RESTITUTION AMOUNT               25.00        11/26/13
+   118910476 EPAY RECEIVABLE                   25.00        12/02/13
+   120852805 BOND - ORIGINAL                   25.00        12/27/13
+   120852806 *RESTITUTION AMOUNT               25.00        12/27/13
+   120852806 *RESTITUTION AMOUNT               25.00        12/27/13
+   120858141 EPAY RECEIVABLE                   25.00        01/02/14
+   120909535 BOND - ORIGINAL                   25.00        01/31/14
+   120909536 *RESTITUTION AMOUNT               18.50        01/31/14
+   120909536 DOCUMENT STORAGE                   5.00        01/31/14
+   120909536 E-CITATION                         1.50        01/31/14
+   120909536 *RESTITUTION AMOUNT               18.50        01/31/14
+   120915255 EPAY RECEIVABLE                   25.00        02/05/14
+   120953601 BOND - ORIGINAL                  100.00        02/28/14
+   120953602 E-CITATION                         3.50        02/28/14
+   120953602 AUTOMATION                        10.00        02/28/14
+   120953602 CIRCUIT CLERK FEE                 75.00        02/28/14
+   120953602 COURT SECURITY                    11.50        02/28/14
+   120962531 EPAY RECEIVABLE                  100.00        03/05/14
+   121003120 BOND - ORIGINAL                  100.00        03/28/14
+   121003121 COURT SECURITY                    13.50        03/28/14
+   121003121 COURT FINANCE FEE                 25.00        03/28/14
+   121003121 STATES ATTORNEY                   20.00        03/28/14
+   121003121 STATES ATTORNEY AUTOMATI           2.00        03/28/14
+   121003121 CRIME STOPPERS                     5.00        03/28/14
+   121003121 ARRESTEE'S MEDICAL                10.00        03/28/14
+   121003121 PROBATION MONITORING FEE          24.50        03/28/14
+   121011064 EPAY RECEIVABLE                  100.00        04/02/14
+   121057260 BOND - ORIGINAL                  640.50        04/30/14
+   121057261 PROBATION MONITORING FEE         275.50        04/30/14
+   121057261 PROBATION OPER ASSISTANC          10.00        04/30/14
+   121057261 TR/CR SUR $10/$40                 50.00        04/30/14
+   121057261 DRUG COURT PROGRAM                 5.00        04/30/14
+   121057261 FINES                            195.00        04/30/14
+   121057261 VIOLENT CRIME VICTIMS AS          75.00        04/30/14
+   121057261 ST POLICE SERVICES FUND           10.00        04/30/14
+   121057261 ST POLICE OPERATIONS ASS          10.00        04/30/14
+   121057261 CLERK OP & ADMIN FUND             10.00        04/30/14
+   121064964 EPAY RECEIVABLE                  640.50        05/05/14
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  RETAIL THEFT/DISP MERCH/<$300
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   05-23-13                 Charge 01 Count 001 RETAIL THEFT/DISP MERCH/<$300
+                            Statute 720 5/16-25(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Sheriff Booking Fee
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Lindsey Yanchus appears instanter.  Plea of not guil
+ty entered and
+                            Defendant requests trial by jury.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia.  Bond is to continue as
+posted. See
+                            expanded record.
+   05-28-13                 Proof of service of discovery materials filed.
+   06-14-13                 Motion for Substitution of Counsel filed.
+                            Entry of Appearance filed.
+   06-17-13
+                            Given the Entry of Appearance of Anthony Novak on fi
+le, the pre trial
+                            date is moved to 6/28/13 at 9:30 a.m. in Courtroom E
+. Counsel notified
+                            this date.
+   06-28-13                 Defendant's motion for continuance.
+                            People appear by Tim J. Sullivan.  Defendant appears
+ personally and
+                            with counsel,  . Motion by the Defendant for continu
+ance.  Motion
+                            allowed.
+   08-09-13                 Defendant's motion for continuance.
+                            People appear by Sarah N. Perry.  Defendant appears
+personally and
+                            with counsel, Anthony Novak. Motion by the Defendant
+ for continuance.
+                            Motion allowed.
+   09-06-13                 Defendant's motion for continuance.
+                            People appear by Sarah N. Perry.  Defendant appears
+personally and
+                            with counsel, Blake Weaver, who appears for Anthony
+Novak. Motion by
+                            the Defendant for continuance.  Motion allowed.
+   10-04-13                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty RETAIL THEFT/DISP MERCH/<$300
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16-25(a)(1)  Class A
+                            Sentence: 10/04/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  20Hrs In force
+                                      Supervised Court Service
+                            Sentence: Stop Lifting  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Restitution  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Fine + Cost            557.00     *RESTITUTION AMOUN
+T    228.50
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    300.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Sarah N. Perry.  Appeara
+nce of the
+                            Defendant personally and by counsel, Anthony Novak.
+ Defendant advised
+                            as to the nature of the proceedings, the charges, an
+d the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly,
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Retail Theft/Disp Merch/<$300 ILCS: 720 5
+/16-25(a)(1) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  4/02/2014.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of 12
+                            months Conditional Discharge. Defendant is ordered t
+o perform 20 hours
+                            of public service work under the supervision of the
+Champaign County
+                            Court Services Department.  The defendant is to be g
+iven credit on
+                            public service work for any hours completed in educa
+tion, treatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes.  Defendant advised of right t
+o appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See order.
+                            Sentencing order.
+                            Waiver of jury.
+   10-18-13                 Bond
+   10-31-13                 Defendant's Motion for Extension of Time to Pay Cost
+s filed
+                            and forwarded to court.
+   11-01-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   11-06-13                 Defendant's Motion for Extension of Time to Pay Cost
+s filed
+                            October 31, 2013 is allowed.  Defendant is granted a
+n additional 180
+                            days to pay the financial obligations in this matter
+.
+                            EPAY RECONCILIATION TRANSACTION
+   11-26-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   12-02-13                 EPAY RECONCILIATION TRANSACTION
+   12-27-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   01-02-14                 EPAY RECONCILIATION TRANSACTION
+   01-31-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   02-05-14                 EPAY RECONCILIATION TRANSACTION
+   02-28-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   03-05-14                 EPAY RECONCILIATION TRANSACTION
+   03-28-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   04-02-14                 EPAY RECONCILIATION TRANSACTION
+   04-30-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-05-14                 EPAY RECONCILIATION TRANSACTION
+   09-24-14                 Certificate of completion of public service work fil
+ed
+                            Certificate of Completing of Third Millennium
+                            Classroom online course filed.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

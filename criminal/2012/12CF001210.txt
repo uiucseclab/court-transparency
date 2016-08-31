@@ -1,0 +1,218 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF001210
+
+   Defendant Plaintiff
+DUCKWORTH  DONNIE R
+31 S. GRIFFIN STREET
+DANVILLE IL 61832
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 07/30/12
+                Court Room:
+           Next Appearance: 08/21/14
+                Birth Date: 03/23/83
+                 DEFENDANT: DUCKWORTH  DONNIE R
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       30.00      BOND -10% BOND FEE            30.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN           25.00         575.00
+       10.00      DOMESTIC BATTERY              10.00            .00
+       60.00      TRAFFIC/CRIMINAL SU           55.00           5.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      PRELIMINARY HEARING             .00          10.00
+         .00      FINES                           .00            .00
+       24.00      VICTIMS FUND-FINE               .00          24.00
+      190.00      DOMESTIC VIOLENCE               .00         190.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      290.15      COLLECTION FEES                 .00         290.15
+      126.15      LATE FEES                       .00         126.15
+       10.00      ST POLICE OPERATION             .00          10.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118056868 SHERIFF'S BOOKING FEE             20.00        07/30/12
+   118056868 BOND - ORIGINAL                  300.00        07/30/12
+   118107379 BOND -10% BOND FEE                30.00        08/29/12
+   118107379 DOCUMENT STORAGE                   5.00        08/29/12
+   118107379 E-CITATION                         5.00        08/29/12
+   118107379 AUTOMATION                        10.00        08/29/12
+   118107379 CIRCUIT CLERK FEE                 75.00        08/29/12
+   118107379 COURT SECURITY                    25.00        08/29/12
+   118107379 COURT FINANCE FEE                 25.00        08/29/12
+   118107379 STATES ATTORNEY                   20.00        08/29/12
+   118107379 CRIME STOPPERS                     5.00        08/29/12
+   118107379 ARRESTEE'S MEDICAL                10.00        08/29/12
+   118107379 PROBATION MONITORING FEE          25.00        08/29/12
+   118107379 DOMESTIC BATTERY                  10.00        08/29/12
+   118107379 TR/CR SUR $10/$40                 55.00        08/29/12
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG BATTERY/PUBLIC PLACE
+
+         2  DOMESTIC BTRY/PHYSICAL CONTACT
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   07-30-12                 Charge 01 Count 001 AGG BATTERY/PUBLIC PLACE
+                            Statute 720 5/12-3.05(c)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Sheriff Booking Fee
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned.  Public Defender is appointe
+d and George
+                            Vargas appears instanter.  Defendant requests Prelim
+inary hearing.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.  See
+                            expanded record.
+                            Bond to continue.
+                            Defendant is to HAVE NO CONTACT WITH the named victi
+m or address
+                            recited for the record.
+                            Defendant is admonished as to EXTENDED TERM SENTENCI
+NG.
+                            Notice of arrest without warrant on file.
+                            Charge 02 Count 002 DOMESTIC BTRY/PHYSICAL CONTACT
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   07-31-12                 Discovery filed
+                            Answer to Discovery filed
+   08-10-12                 Subpoena Served.  No Fees.
+   08-16-12                 Supplemental Discovery filed
+   08-21-12                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG BATTERY/PUBLIC PLACE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(c)  Class 3  Orig.
+                            Sentence: 08/21/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty DOMESTIC BTRY/PHYSICAL CONTACT
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Sentence: 08/21/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  2Days In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Partner Abuse Intervention Program  60Days
+ In force
+                            Sentence: Defendant stipulates victim is a family or
+ household member.
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            321.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    600.00
+                            DOMESTIC BATTERY        10.00     PRELIMINARY HEARIN
+G     10.00
+                            DOMESTIC VIOLENCE      190.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally and by counsel, Jamie Propps.   Defendant
+ advised as to the
+                            nature of the proceedings, the charges and the possi
+ble penalties that
+                            may be imposed and the Court finds that the Defendan
+t understands the
+                            same.  Finding Defendant knowingly, understandingly
+and voluntarily
+                            waives rights and enters a plea of guilty to Count 0
+2 of the charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Domestic
+                            Btry/Physical Contact ILCS: 720 5/12-3.2(a)(2) as ch
+arged. Judgment
+                            entered in favor of the People and against the defen
+dant on finding of
+                            guilt and for costs.  All financial obligations shal
+l be paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk by
+                            2/19/2013.  Any bond posted is to be applied first t
+o any court
+                            ordered bond assignment on file and then to all rest
+itution ordered
+                            and then to all financial obligations in this case.
+ Any remaining
+                            bond shall be discharged to the individual who poste
+d the bond.
+                            Defendant is ordered to serve a period of  24 months
+ Conditional
+                            Discharge. Defendant is ordered to serve a period of
+ incarceration of
+                            3 days in the Champaign County Correctional Center.
+Defendant is to
+                            receive credit for   3 days previously served. Defen
+dant is to enroll
+                            in a Partner Abuse Intervention Program approved by
+the Champaign
+                            County Court Services Department within  60 days and
+ successfully
+                            complete it without termination. The Defendant hereb
+y stipulates that
+                            a victim of this offense is a family or household me
+mber of his within
+                            the meaning of 725 ILCS 5/112A-3(3); 720 ILCS 5/12-3
+.2(b); 720 ILCS
+                            5/12-30(d); and 730 ILCS 5/5-9-1.5. Count(s) stated
+in the written
+                            order are herby dismissed. Defendant advised of righ
+t to appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same.
+   08-29-12                 Bond
+   04-19-13                 Certificate of Completion filed.
+   01-30-15                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

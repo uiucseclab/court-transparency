@@ -1,0 +1,454 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CM000125
+
+   Defendant Plaintiff
+CANNON  JOSEPH
+313 N THIRD
+FISHER IL 61843
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 02/11/13
+                Court Room: F
+           Next Appearance: 06/19/15  10:00
+                Birth Date: 07/27/83
+                 DEFENDANT: CANNON  JOSEPH
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      265.00      BOND -10% BOND FEE           265.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN           15.00         165.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       50.00      TRAFFIC/CRIMINAL SU           50.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       50.00      PUBLIC DEFENDER               50.00            .00
+      190.00      FINES                        190.00            .00
+        2.00      NOTICES MAILED 1ST             2.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+     1776.00                                  1776.00            .00
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      ST POLICE OPERATION             .00          10.00
+      265.00      BOND -10% BOND FEE           265.00            .00
+       15.00      DOCUMENT STORAGE               5.00          10.00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    10.00           5.00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+      180.00      PROBATION MONITORIN           15.00         165.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       50.00      TRAFFIC/CRIMINAL SU           50.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       54.55      SHERIFF FEES                    .00          54.55
+       50.00      PUBLIC DEFENDER               50.00            .00
+      190.00      FINES                        190.00            .00
+        2.00      NOTICES MAILED 1ST             2.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       80.92      COLLECTION FEES                 .00          80.92
+       35.18      LATE FEES                       .00          35.18
+       10.00      ST POLICE OPERATION           10.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118434770 SHERIFF'S BOOKING FEE             20.00        02/11/13
+   118434770 BOND - ORIGINAL                  150.00        02/11/13
+   118436627 SHERIFF'S BOOKING FEE             20.00        02/12/13
+   118436627 BOND - ORIGINAL                 2500.00        02/12/13
+   118613999 BOND -10% BOND FEE               265.00        06/03/13
+   118613999 DOCUMENT STORAGE                   5.00        06/03/13
+   118613999 E-CITATION                         5.00        06/03/13
+   118613999 AUTOMATION                        10.00        06/03/13
+   118613999 CIRCUIT CLERK FEE                 75.00        06/03/13
+   118613999 COURT SECURITY                    25.00        06/03/13
+   118613999 COURT FINANCE FEE                 25.00        06/03/13
+   118613999 STATES ATTORNEY                   20.00        06/03/13
+   118613999 STATES ATTORNEY AUTOMATI           2.00        06/03/13
+   118613999 CRIME STOPPERS                     5.00        06/03/13
+   118613999 ARRESTEE'S MEDICAL                10.00        06/03/13
+   118613999 PROBATION MONITORING FEE          15.00        06/03/13
+   118613999 PROBATION OPER ASSISTANC          10.00        06/03/13
+   118613999 TR/CR SUR $10/$40                 50.00        06/03/13
+   118613999 CLERK OP & ADMIN FUND             10.00        06/03/13
+   118613999 DRUG COURT PROGRAM                 5.00        06/03/13
+   118613999 PUBLIC DEFENDER                   50.00        06/03/13
+   118613999 FINES                            190.00        06/03/13
+   118613999 NOTICES MAILED 1ST CLASS           2.00        06/03/13
+   118613999 VIOLENT CRIME VICTIMS AS          75.00        06/03/13
+   118613999 ST POLICE SERVICES FUND           10.00        06/03/13
+   118613999 ST POLICE OPERATIONS ASS          10.00        06/03/13
+   118613999 *BOND REFUND                    1776.00        06/03/13
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG ASLT/USE DDLY WEAP/RIFLE
+
+         1  AGG ASLT/USE DDLY WEAP/RIFLE
+
+         1  AGG ASLT/USE DDLY WEAP/RIFLE
+
+         2  CRIM DAMAGE TO PROPERTY <$300
+
+         3  POSSESS DRUG PARAPHERNALIA
+
+         4  VIO BAIL BOND/FAMILY MEMBER
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   02-11-13                 Charge 01 Count 001 AGG ASLT/USE DDLY WEAP/RIFLE
+                            Statute 720 5/12-2(c)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 CRIM DAMAGE TO PROPERTY <$300
+                            Statute 720 5/21-1(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 POSSESS DRUG PARAPHERNALIA
+                            Statute 720 600/3.5(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 04 Count 004 VIO BAIL BOND/FAMILY MEMBER
+                            Statute 720 5/32-10(b)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Sheriff Booking Fee
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            George Vargas appears instanter.  Plea of not guilty
+ entered and
+                            Defendant requests trial by jury.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia.  Bond is set in the amou
+nt of $25,000-ROR
+                            ALLOWED. See expanded record.
+   02-12-13                 Sheriff Booking Fee
+                            Cause continued for further proceedings
+                            Notice of arrest without warrant on file.
+   02-21-13                 Proof of service of discovery materials filed.
+   03-22-13                 Supplemental Discovery filed
+   03-28-13
+                            Court notes the courthouse was closed due to weather
+ on 3/25/13. Pre
+                            Trial allotment is vacated. Cause re allotted for Pr
+e Trial on 4/18/13
+                            at 8:30 a.m. in Courtroom E. State's Attorney notifi
+ed. Circuit Clerk
+                            to send notice to the Defendant.
+   04-02-13                 Notice prepared and mailed.
+   04-18-13
+                            By agreement, cause is set for jury trial call. Defe
+ndant ordered to
+                            appear. Bond to continue.
+   05-21-13                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty AGG ASLT/USE DDLY WEAP/RIFLE
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-2(c)(1)  Class A  Orig.
+                            Sentence: 05/21/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  2Days In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Attorney Fees  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            797.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    180.00
+                            PUBLIC DEFENDER         50.00     NOTICES MAILED 1ST
+       2.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Agg Aslt/Use Ddly Weap/Rifl
+e ILCS: 720
+                            5/12-2(c)(1) as charged. Judgment entered in favor o
+f the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 11/18/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months probation. Defendant is ordered
+ to serve a period
+                            of incarceration of 2 days in the Champaign County C
+orrectional
+                            Center. Defendant is to receive credit for 2 days pr
+eviously served.
+                            Counts II, III and IV are herby dismissed.  Defendan
+t advised of right
+                            to appeal and rights pursuant to Supreme Court Rule
+605 and the Court
+                            finds that the defendant understands the same. Waive
+r of Jury on file.
+                            Sentencing Order entered this date. See Order.
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed CRIM DAMAGE TO PROPERTY <$300
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/21-1(a)(1)  Class A  Orig.
+                            Sentence: 05/21/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed POSSESS DRUG PARAPHERNALIA
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 600/3.5(a)  Class A  Orig.
+                            Sentence: 05/21/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed VIO BAIL BOND/FAMILY MEMBER
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/32-10(b)  Class A  Orig.
+                            Sentence: 05/21/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   06-03-13                 Bond
+   04-10-14                 Probation Violation Report on file
+   04-22-14                 Petition to Revoke Probation filed.
+   04-30-14                 Verified information on Petition to Revoke Probation
+ on file
+                            Expanded record of arraignment proceedings.
+                            Verified information on Petition to Revoke Probation
+ on file.
+                            Summons issued.
+                            Summons issued.
+   05-08-14                 Summons not served.
+   05-21-14
+                            Summons NOT FOUND. Verified information on Petition
+to Revoke
+                            Probation on file.  Probable cause to arrest determi
+ned.  Warrant
+                            issued.  Bond set in the amount of $10,000.00.
+                            Warrant of arrest filed.
+   05-29-14                 Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ja
+nie Miller-Jones
+                            appears instanter.  General denial to the Petition i
+s entered. Bond is
+                            to continue. Defendant is admonished as to trial and
+ sentencing in
+                            absentia.  See expanded record.
+                            Warrant served. Service fees $54.55
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+   06-06-14                 Disposition 01/01  Count 001  Cost Only
+                            Disposition: Revocation/Vacate/Probation AGG ASLT/US
+E DDLY WEAP/RIFLE
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-2(c)(1)  Class A
+                            Sentence: 06/09/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  60Days In force
+                            Sentence: Credit Time Served  13Days In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              212.00
+                            Payment Due
+                            Resentencing on petition to revoke.
+                            Appearance of the People by Tim J. Sullivan.  Appear
+ance of the
+                            Defendant in custody and by counsel, Tony Allegretti
+. Defendant
+                            advised as to the nature of the proceedings and the
+possible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly, understandin
+gly and
+                            voluntarily stipulates and admits to the allegations
+ contained in the
+                            Petition to Revoke.  Finding the same are true.  The
+ court finds that
+                            the Defendant has violated the terms of his sentence
+.  Finding entered
+                            in favor of the People and against Defendant.   All
+financial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by 12/03/2014.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of 12
+                            months PROBATION. Defendant is ordered to serve a pe
+riod of
+                            incarceration of  60 days in the Champaign County Co
+rrectional Center.
+                            Defendant is to receive credit for 13 days previousl
+y served.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same. Sentencing Order/Resentencing on Petition to R
+evoke entered this
+                            date. See Order.
+                            Sentencing Order/Resentencing on Petition to Revoke.
+                            Disposition 01/02  Count 001  Modified Order
+                            Disposition: Modified/Trial Court AGG ASLT/USE DDLY
+WEAP/RIFLE
+                            Modified Order         871.55     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    180.00     PUBLIC DEFENDER
+      50.00
+                            NOTICES MAILED 1ST       2.00
+   06-17-14                 Disposition sent through ADR process this date. SPT
+   07-08-14                 Disposition sent through ADR process this date. SPT
+   04-02-15                 Probation Violation Report on file
+   04-08-15                 Petition to revoke probation on file.
+                            Cause set for arraignment on
+
+                            Verified information on Petition to Revoke Probation
+ on file
+                            Summons issued this date.
+                            Copy of summons issued on file.
+                            file.
+   04-20-15                 Summons not served by CCSO
+                            Summons Not served on Joseph Cannon by Champaign Cou
+nty Sheriff's
+                            Office on   on file.
+   04-21-15                 Summons not served by CCSO
+                            Summons Not served on Joseph Cannon by Champaign Cou
+nty Sheriff's
+                            Office on   on file.
+   04-22-15                 Summons not served by CCSO
+                            Summons Not served on Joseph Cannon by Champaign Cou
+nty Sheriff's
+                            Office on   on file.
+   04-29-15                 People appear by Lindsey Clark. No appearance by the
+ Defendant.
+                            Summons on file showing the Defendant NOT FOUND. Ali
+as summons to
+                            issue.
+   04-30-15                 Verified information on file.  Alias summons prepare
+d.
+                            ALIAS summons issued this date.
+                            Alias summons.
+   05-08-15                 Alias Summons not served
+                            Alias Summons not served
+                            Alias Summons not served
+   05-20-15                 Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and R.
+ Rosenbaum appears
+                            instanter.  General denial to the Petition is entere
+d.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+See expanded
+                            record.
+                            Bond set in the amount of $1000. ROR ALLOWED.
+                            Released On Recognizance bond form on file.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+   06-02-15                 Recognizance Bond on file
+   06-17-15                 Email received from Asst. State's Attorney Jacob Cro
+egaert. On motion
+                            of the People, the Petition to Revoke is withdrawn a
+nd dismissed. The
+                            Defendant's Probation is hereby terminated. Bond is
+discharged.
+                            Hearing allotted 6/19/15 is vacated. Counsel and Cou
+rt Services
+                            notified this date.
+   07-13-16                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

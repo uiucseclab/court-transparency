@@ -1,0 +1,796 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF000925
+
+   Defendant Plaintiff
+LOGAN  DERRICK B
+1728 PAULA DR
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 06/13/12
+                Court Room:
+           Next Appearance: 04/18/16
+                Birth Date: 03/11/74
+                 DEFENDANT: LOGAN  DERRICK B
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+        2.00      NOTICES MAILED 1ST             2.00            .00
+      133.00      BOND FORFEITURE              133.00            .00
+     1367.00      UNSATISFIED JUDGMEN             .00        1367.00
+       50.00      BOND -10% BOND FEE            50.00            .00
+        2.00      NOTICES MAILED 1ST             2.00            .00
+      448.00      BOND FORFEITURE              448.00            .00
+     4552.00      UNSATISFIED JUDGMEN             .00        4552.00
+         .00                                      .00            .00
+       75.00      BOND -10% BOND FEE            75.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN           25.00         375.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       40.00      MOTION TO VACATE              40.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      193.00      TRAFFIC/CRIMINAL SU          193.00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+         .00      PRELIMINARY HEARING             .00            .00
+         .00      SHERIFF FEES                    .00            .00
+         .00      FINES                           .00            .00
+         .00      NOTICES MAILED 1ST              .00            .00
+         .00      VIOLENT CRIME VICTI             .00            .00
+         .00       STREET VALUE DRUG              .00            .00
+         .00      MANDATORY ASSESSMEN             .00            .00
+         .00      ST POLICE SERVICES              .00            .00
+         .00      ST POLICE OPERATION             .00            .00
+       70.00      WARRANT SERVICE FEE           70.00            .00
+        5.00      CLERK OP & ADMIN FU            5.00            .00
+      240.00      BOND -10% BOND FEE              .00         240.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+      400.00      PROBATION MONITORIN             .00         400.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       40.00      MOTION TO VACATE                .00          40.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+      100.00      CRIME LAB                       .00         100.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+      100.00      TRAFFIC/CRIMINAL SU             .00         100.00
+      250.00      SERIOUS TR VIOLATIO             .00         250.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      PRELIMINARY HEARING             .00          10.00
+      111.00      SHERIFF FEES                    .00         111.00
+        2.00      NOTICES MAILED 1ST              .00           2.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+      500.00       STREET VALUE DRUG              .00         500.00
+      375.00      MANDATORY ASSESSMEN             .00         375.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       70.00      WARRANT SERVICE FEE             .00          70.00
+       15.00      CLERK OP & ADMIN FU             .00          15.00
+      240.00      BOND -10% BOND FEE           240.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       15.00      AUTOMATION                    15.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+      800.00      PROBATION MONITORIN          800.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       40.00      MOTION TO VACATE              40.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      193.00      TRAFFIC/CRIMINAL SU          193.00            .00
+         .00      SERIOUS TR VIOLATIO             .00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       10.00      PRELIMINARY HEARING           10.00            .00
+      111.00      SHERIFF FEES                  95.00          16.00
+        4.00      NOTICES MAILED 1ST             4.00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+      500.00       STREET VALUE DRUG              .00         500.00
+      375.00      MANDATORY ASSESSMEN             .00         375.00
+      581.00      BOND FORFEITURE              581.00            .00
+     5919.00      UNSATISFIED JUDGMEN             .00        5919.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       70.00      WARRANT SERVICE FEE           70.00            .00
+       15.00      CLERK OP & ADMIN FU            5.00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117998337 SHERIFF'S BOOKING FEE             20.00        06/14/12
+   117998337 BOND - ORIGINAL                  150.00        06/14/12
+   118129888 BOND -10% BOND FEE                15.00        09/12/12
+   118129888 NOTICES MAILED 1ST CLASS           2.00        09/12/12
+   118129888 BOND FORFEITURE                  133.00        09/12/12
+   118491104 SHERIFF'S BOOKING FEE             20.00        03/18/13
+   118491104 BOND - ORIGINAL                  500.00        03/18/13
+   118628460 BOND -10% BOND FEE                50.00        06/11/13
+   118628460 NOTICES MAILED 1ST CLASS           2.00        06/11/13
+   118628460 BOND FORFEITURE                  448.00        06/11/13
+   118659351 SHERIFF'S BOOKING FEE             20.00        07/01/13
+   118659351 BOND - ORIGINAL                  750.00        07/01/13
+   118847540 BOND TRANSFERS IN                375.00        10/23/13
+   118852530 BOND -10% BOND FEE                75.00        10/25/13
+   118852530 DOCUMENT STORAGE                   5.00        10/25/13
+   118852530 AUTOMATION                        10.00        10/25/13
+   118852530 CIRCUIT CLERK FEE                100.00        10/25/13
+   118852530 COURT SECURITY                    25.00        10/25/13
+   118852530 COURT FINANCE FEE                 50.00        10/25/13
+   118852530 STATES ATTORNEY                   40.00        10/25/13
+   118852530 STATES ATTORNEY AUTOMATI           2.00        10/25/13
+   118852530 CRIME STOPPERS                    10.00        10/25/13
+   118852530 ARRESTEE'S MEDICAL                10.00        10/25/13
+   118852530 PROBATION MONITORING FEE          25.00        10/25/13
+   118852530 PROBATION OPER ASSISTANC          10.00        10/25/13
+   118852530 MOTION TO VACATE                  40.00        10/25/13
+   118852530 SPINAL CORD RESEARCH FUN           5.00        10/25/13
+   118852530 CRIME LAB                        100.00        10/25/13
+   118852530  STATE OFFENDER DNA ID S         250.00        10/25/13
+   118852530 TRAUMA FUND                      100.00        10/25/13
+   118852530 TR/CR SUR $10/$40                193.00        10/25/13
+   118852530 WARRANT SERVICE FEE               70.00        10/25/13
+   118852530 CLERK OP & ADMIN FUND              5.00        10/25/13
+   121535167 BOND TRANSFERS IN               1000.00        02/09/15
+   121617525 BOND -10% BOND FEE               100.00        03/25/15
+   121617525 DOCUMENT STORAGE                  10.00        03/25/15
+   121617525 AUTOMATION                         5.00        03/25/15
+   121617525 PROBATION MONITORING FEE         775.00        03/25/15
+   121617525 DRUG COURT PROGRAM                 5.00        03/25/15
+   121617525 PRELIMINARY HEARING               10.00        03/25/15
+   121617525 SHERIFF FEES                      95.00        03/25/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   06-13-12                 Charge 01 Count 001 POSS AMT CON SUB EXCEPT(A)/(D)
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned.  Public Defender is appointe
+d and Katie Jessup
+                            appears instanter.  Defendant requests Preliminary h
+earing.  Defendant
+                            is admonished as to trial and sentencing in absentia
+.  Bond is set in
+                            the amount of $1,500/ROR DENIED. See expanded record
+.
+
+   06-14-12                 Sheriff Booking Fee
+                            Notice of arrest without warrant on file.
+   06-21-12                 Subpoena Served.  No Fees.
+   06-22-12                 Pretrial order after waiver or finding of probable c
+ause
+                            People appear by Sarah J. Carlson.  Defendant appear
+s personally and
+                            with counsel, Scott Schmidt.  Cause called for preli
+minary hearing.
+                            Witnesses sworn. Evidence heard. The Court having he
+ard the evidence
+                            on preliminary hearing and being fully advised in th
+e premises finds
+                            probable cause to believe that the Defendant has com
+mitted one or more
+                            felony offenses as charged in the information.   Def
+endant enters a
+                            plea of not guilty and requests trial by jury.  Pre-
+Trial Discovery
+                            Order on file.  Bond to continue.
+   07-02-12                 Discovery filed
+   07-18-12                 Supplemental Discovery filed
+   08-07-12
+                            Appearance of the People by Sarah J. Carlson.  No ap
+pearance by the
+                            Defendant.  Appearance of  Anthony Ortega.  Motion b
+y the People for
+                            bond forfeiture and warrant.  Objection by counsel f
+or the Defendant.
+                            Motion allowed over the objection.  Defendant's bond
+ forfeited.
+                            CIRCUIT CLERK TO SEND NOTICE OF THE HEARING ON FORFE
+ITURE.  Warrant to
+                            issue.  Bond set in the amount of $  5,000.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+   08-10-12                 Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $  5,000.
+00.
+   08-13-12                 Bond forfeiture notice prepared and mailed.
+   09-10-12
+                            Appearance of the People by Scott A. Larson.  No app
+earance by the
+                            Defendant.  A. Ortega appears for the defendant.  Pr
+oof of Notice of
+                            Hearing with proof of service on file.  Judgment is
+entered on the
+                            forfeiture in the amount of $1500.  Defendant's bond
+ posted to apply.
+                            Warrant issued August 10, 2012 continues in full for
+ce and effect.
+                            Disposition 01/00  Count 001  Bond Forfeiture
+                            Disposition: Judgment on Forfeiture POSS AMT CON SUB
+ EXCEPT(A)/(D)
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/402(c)  Class 4
+                            Sentence: 09/10/2012
+                            Sentence: No Sentence  In force
+                            Bond Forfeiture        148.00     NOTICES MAILED 1ST
+       2.00
+                            UNSATISFIED JUDGMEN   1367.00
+   09-12-12                 Bond
+   12-26-12                 Case sent out for collections.
+   03-18-13                 Sheriff Booking Fee
+                            Cause continued for further proceedings
+                            Defendant's motion for continuance.
+                            People appear by Lindsey S. Clark.  Defendant appear
+s personally and
+                            with counsel, David Appleman. Defendant appears purs
+uant to the
+                            warrant issued.
+                            Bond to continue.
+                            Warrant served. Service fees $37.00
+   05-07-13                 Failure to appear warrant.
+                            Appearance of the People by Scott A. Larson.  No app
+earance by the
+                            Defendant.  Appearance of  Anthony Ortega for the de
+fendant.  Motion
+                            by the People for bond forfeiture and warrant.  Obje
+ction by counsel
+                            for the Defendant.  Motion allowed over the objectio
+n.  Defendant's
+                            bond forfeited. Cause allotted for hearing on the bo
+nd forfeiture to
+                            June 7, 2013 at 2:30 p.m. in Courtroom A.  CIRCUIT C
+LERK TO SEND
+                            NOTICE OF THE HEARING ON FORFEITURE.  Warrant to iss
+ue.  Bond set in
+                            the amount of $  7,500.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+   05-08-13                 Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $  7,500.
+00.
+   05-09-13                 Bond forfeiture notice prepared and mailed.
+   05-15-13                 Circuit Clerk mail returned undeliverable on file.
+   06-07-13                 Judgment on bond forfeiture.
+                            Appearance of the People by Lindsey Clark.  No appea
+rance by the
+                            Defendant.  A. Ortega appears for the Defendant.   P
+roof of Notice of
+                            Hearing by mail to the defendant's last known addres
+s on file.  Return
+                            mailing on file indicating the defendant is no longe
+r at that address.
+                            Judgment is entered on the forfeiture in the amount
+of $5,000 plus
+                            costs.    Defendant's bond posted to apply.  Warrant
+ issued May 8,
+                            2013 continues in full force and effect.
+                            Disposition 01/01  Count 001  Bond Forfeiture
+                            Disposition: Judgment on Forfeiture POSS AMT CON SUB
+ EXCEPT(A)/(D)
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Sentence: 06/07/2013
+                            Sentence: No Sentence  In force
+                            Bond Forfeiture        498.00     NOTICES MAILED 1ST
+       2.00
+                            UNSATISFIED JUDGMEN   4552.00
+   06-11-13                 Bond
+   06-28-13                 Expanded Record and/or Pre-trial Order
+                            Anthony Ortega appears on behalf of the Defendant. C
+ause is
+                            re-allotted for Felony Pre-trial.  See expanded reco
+rd.  Bond is to
+                            continue. Defendant is admonished as to trial and se
+ntencing in
+                            absentia.
+   07-01-13                 FTA warrant service fee of $75 is still owed.
+                            The arresting agency is
+                            Champaign Police Dept.
+                            Sheriff Booking Fee
+                            Cause continued for further proceedings
+   07-03-13                 Warrant served. Service fees $37.00
+   08-06-13                 By agreement, trial allotment vacated
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   09-10-13                 Failure to appear warrant.
+                            Appearance of the People by Lindsey S. Clark.  No ap
+pearance by the
+                            Defendant.  Appearance of  Stephanie A. Corum.  Moti
+on by the People
+                            for bond forfeiture and warrant.  Objection by couns
+el for the
+                            Defendant.  Motion allowed over the objection.  Defe
+ndant's bond
+                            forfeited. CIRCUIT CLERK TO SEND NOTICE OF THE HEARI
+NG ON FORFEITURE.
+                            Warrant to issue.  Bond set in the amount of $ 10,00
+0.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+                            Warrant Quashed
+                            Later:  Warrant quashed, B/F vacated. Pre-Trial held
+.
+                            Later:
+                            People appear by Ms. Clark. Defendant appears late w
+ith counsel Mr.
+                            Kuehl.  Motion by the defendant to vacate the order
+for warrant and
+                            vacate bond forfeiture.  People state no objection.
+ Motion is
+                            allowed.  Order for Warrant is vacated, bond forfeit
+ure vacated.
+                            Defendant's bond is reinstated.  Cause is called for
+ pre-trial.
+                            Motion by the defendant to allot the matter for plea
+.  Motion allowed.
+                            Cause is allotted for Plea on 9/23/13 at 1:30 p.m. i
+n Courtroom A.
+                            Defendant is ordered to appear.  Defendant's bond is
+ to continue.
+   09-23-13                 Failure to appear warrant.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  No appearance
+                            by the Defendant.  Appearance of Stephanie A. Corum
+for the defendant.
+                            Motion by the People for bond forfeiture and warrant
+.  Objection by
+                            counsel for the Defendant.  Motion allowed over the
+objection.
+                            Defendant's bond forfeited.  Cause allotted for Hear
+ing on the Bond
+                            Forfeiture on October 23, 2013 at 1:00 p.m. in Court
+room A.  CIRCUIT
+                            CLERK TO SEND NOTICE OF THE HEARING ON FORFEITURE.
+Warrant to issue.
+                            Bond set in the amount of $100,000.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+   09-25-13                 Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $100,000.
+00.
+   09-30-13                 Bond forfeiture notice prepared and mailed.
+   10-02-13                 Cause set for arraignment on
+                            Reinstate Bond.
+                            Bond forfeiture previously entered is vacated and bo
+nd is reinstated.
+                            Bond forfeiture hearing of 10/23/13 is vacated.
+                            Warrant served. Service fees $37.00
+
+
+                            People appear by Lindsey Clark. Defendant appears in
+ custody pursuant
+                            to apprehension on the failure to appear warrant. As
+st. Public
+                            Defender Amanda Riess appears on his behalf. Cause r
+e allotted for pre
+                            trial on 11/5/13 at 9:00 a.m. in Courtroom A.
+   10-07-13                 Circuit Clerk mail returned undeliverable on file.
+   10-18-13                 Disposition 01/02  Count 001  Fine + Cost
+                            Disposition: Guilty POSS AMT CON SUB EXCEPT(A)/(D)
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 570/402(c)  Class 4
+                            Sentence: 10/18/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  30Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  25Days In force
+                            Sentence: Credit Time Served  25Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Defendant's probation to transfer to resid
+ent county  In for
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  30Mos In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  25Days I
+n force
+                            Sentence: Mandatory Street Value Fine  In force
+                            Sentence: Mandatory Assessment Fine  In force
+                            Fine + Cost            630.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    400.00     MOTION TO VACATE
+      40.00
+                            CRIME LAB              100.00      STATE OFFENDER DN
+A    250.00
+                            PRELIMINARY HEARING       .00     NOTICES MAILED 1ST
+        .00
+                            WARRANT SERVICE FEE     70.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Lindsey S. Clark.  Appea
+rance of the
+                            Defendant personally and by counsel, Dennis Steeves,
+ who appears on
+                            behalf of Baku Patel. Appointment of the Public Defe
+nder is vacated.
+                            Stipulation for Substitution of Counsel on file. See
+ Order.  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Poss Amt Con Sub Except(A)/
+(D) ILCS: 720
+                            570/402(c) as charged. Judgment entered in favor of
+the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  4/16/2014.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  30 months probation. Defendant is ordered
+ to serve a period
+                            of incarceration of  25 days in the Champaign County
+ Correctional
+                            Center. Defendant is to receive credit for  25 days
+previously served.
+                            The Defendant is to submit specimens of blood, saliv
+a, or tissue to
+                            the Illinois Department of State Police or to the De
+partment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+.  Defendant is to
+                            obtain an evaluation for alcohol and drug abuse from
+ an agency or
+                            agent recommended by the Court Services Department,
+and follow any
+                            recommendations contained therein as to treatment an
+d/or counseling.
+                            Case Numbers 13-CF-1643, 11-TR-22938, and 11-TR-2293
+9 are herby
+                            dismissed.  Any bond posted in said cases shall be t
+ransferred to the
+                            instant case and shall be applied to any fines, fees
+, costs,
+                            assessments, and/or restitution imposed herein; any
+remaining bond
+                            shall be used to satisfy such other of the Defendant
+'s Champaign
+                            County criminal or traffic cases in which the Defend
+ant owes an
+                            outstanding balance of fines, fees, costs, assessmen
+ts and/or
+                            restitution.  Defendant advised of right to appeal a
+nd rights pursuant
+                            to Supreme Court Rule 605 and the Court finds that t
+he defendant
+                            understands the same. Waiver of Jury on file. Senten
+cing Order entered
+                            this date. See Order.
+   10-22-13                 ISP Supplemental Court Disposition prepared and mail
+ed.
+                            Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            37.5% to the General Corporate Fund of Champaign Cou
+nty, and
+                            50.0% to the Champaign Police Department.
+   10-23-13                 Bond Type Transfer Bond From    2011TR022939 LOGAN D
+ERRICK B
+   10-25-13                 Bond
+   09-15-14                 Cause set for arraignment on
+                            Petition to revoke probation on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned on the Petition to Revoke.  On D
+efendant's motion,
+                            cause is continued for appearance of counsel.  Bond
+to continue.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.  See
+                            expanded record.
+                            Probation Violation Report on file
+                            Expanded record of court proceedings on arraignment.
+   09-25-14                 Expanded record of court proceedings on arraignment.
+                            Expanded record of arraignment proceedings.
+                            People appear by Steven D. Ziegler.  Defendant appea
+rs personally.
+                            Champaign County Public Defender is appointed to rep
+resent the
+                            Defendant. Tony Allegretti appears instanter. Genera
+l denial to the
+                            Petition to Revoke is entered.  Defendant admonished
+ as to trial and
+                            sentencing in absentia. Bond to continue. See Expand
+ed Record.
+   10-17-14                 Defendant's motion to continue allowed.
+                            People appear by Sarah Carlson. Defendant appears pe
+rsonally and by
+                            counsel, Amanda Riess. Cause called for hearing on t
+he pending
+                            Petition to Revoke. Motion on behalf of the Defendan
+t for a
+                            continuance. Motion allowed. Cause is re-allotted fo
+r hearing on the
+                            Petition to November 18, 2014 at 9:00 a.m. in Courtr
+oom C. Bond to
+                            continue.
+   11-18-14
+                            PTR continued on respondent's motion
+                            Petitioner/People appear by Asst. State's Attorney.
+                            Respondent/Defendant appears with Counsel.  Cause is
+ called for
+                            hearing on the Petition to Revoke.  Motion by the re
+spondent/defendant
+                            to continue; People/Petitioner state no objection.
+                            Respondent's/Defendant's motion to continue is allow
+ed.  By agreement,
+                            cause is continued for further proceedings on the Pe
+tition to Revoke
+                            on 12/09/14 at 9:00 a.m. in Courtroom C to track wit
+h 14-CF-1269.  All
+                            previous conditions of probation continue in full fo
+rce and effect.
+                            Bond is to continue.
+   12-09-14                 PTR  continued for status
+                            Petitioner/People appear by Asst. State's Attorney.
+                            Respondent/Defendant appears with Counsel.  Cause is
+ called for
+                            hearing on the Petition to Revoke.  Motion by the re
+spondent/defendant
+                            to continue; People/Petitioner state no objection.
+                            Respondent's/Defendant's motion to continue is allow
+ed.  By agreement,
+                            cause is continued for further proceedings on the Pe
+tition to Revoke
+                            on 1/5/15 at 9:00 a.m. in Courtroom C.  All previous
+ conditions of
+                            probation continue in full force and effect.  Bond i
+s to continue.
+   01-05-15                 PTR continued on respondent's motion.
+                            Petitioner/People appear by Asst. State's Attorney.
+                            Respondent/Defendant appears with Counsel.  Cause is
+ called for
+                            hearing on the Petition to Revoke.  Motion by the re
+spondent/defendant
+                            to continue; People/Petitioner state no objection.
+                            Respondent's/Defendant's motion to continue is allow
+ed.  By agreement,
+                            cause is continued for further proceedings on the Pe
+tition to Revoke
+                            on 1/13/15 at 9:00 a.m. in Courtroom C.  All previou
+s conditions of
+                            probation continue in full force and effect.  Bond i
+s to continue.
+                            Cause allotted for hearing on the PTR on 2/2/15 at 3
+:00 p.m. in
+                            Courtroom F. Hearing allotted 1/13/15 in Courtroom C
+ is vacated.
+   02-02-15                 People appear by Dan Clifton. No appearance by the D
+efendant. Amanda
+                            Riess appears on the Defendant's behalf. Motion by t
+he People for a
+                            bench warrant and bond forfeiture. Motion allowed ov
+er objection by
+                            Ms. Riess. Warrant is ordered to issue. Bond set in
+the amount of
+                            $10,000. Cause allotted for bond forfeiture hearing
+on 3/18/15 at 1:30
+                            p.m. in Courtroom F. CIRCUIT CLERK to send notice.
+                            Disposition 01/03  Count 001  Cost Only
+                            Disposition: Revocation/Vacate/Probation POSS AMT CO
+N SUB EXCEPT(A)/(D
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 570/402(c)  Class 4
+                            Sentence: 02/02/2015
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  2Yrs In force
+                            Sentence: Credit Time Served  22Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: State will not pursue charges on certain a
+cts  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only             1993.00     PROBATION MONITORI
+N    400.00
+                            MOTION TO VACATE        40.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    250.00     PRELIMINARY HEARIN
+G     10.00
+                            NOTICES MAILED 1ST       2.00     WARRANT SERVICE FE
+E     70.00
+                            Payment Due
+                            Resentencing on petition to revoke.
+                            LATER:
+                            Appearance of the People by Dan Clifton.  Appearance
+ of the Defendant
+                            personally and by counsel, Amanda Riess. Prior order
+ for warrant and
+                            bond forfeiture is vacated.
+                            Defendant advised as to the nature of the proceeding
+s and the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily stipulates and admits to the allegat
+ions contained in
+                            the Petition to Revoke.  Finding the same are true.
+ The court finds
+                            that the Defendant has violated the terms of his sen
+tence.  Finding
+                            entered in favor of the People and against Defendant
+.   All financial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  2/06/2015.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of
+                            incarceration of 2 years in the Illinois Department
+of Corrections.
+                            Defendant is to receive credit for 22 days previousl
+y served. The
+                            Defendant is to submit specimens of blood, saliva, o
+r tissue to the
+                            Illinois Department of State Police or to the Depart
+ment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Case Numbers
+                            14-CF-1269, 14-TR-12747 and 14-TR-12478 are hereby d
+ismissed.  Any
+                            bond posted in said cases shall be transferred to th
+e instant case and
+                            shall be applied to any fines, fees, costs, assessme
+nts, and/or
+                            restitution imposed herein; any remaining bond shall
+ be used to
+                            satisfy such other of the Defendant's Champaign Coun
+ty criminal or
+                            traffic cases in which the Defendant owes an outstan
+ding balance of
+                            fines, fees, costs, assessments and/or restitution.
+The State agrees
+                            not to file any criminal charges against the Defenda
+nt bases solely on
+                            conduct described in the police reports list in the
+written order.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same.  Defendant is remanded to the custody of the C
+hampaign County
+                            Sheriff for transportation to the Department of Corr
+ections.
+                            Sentencing Order / Resentencing on Petition to Revok
+e entered this
+                            date. See Order.
+                            Sentencing Order / Resentencing on Petition to revok
+e on
+                            file.
+                            Disposition 01/04  Count 001  Modified Order
+                            Disposition: Modified/Trial Court POSS AMT CON SUB E
+XCEPT(A)/(D)
+                            Modified Order        2517.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    800.00     MOTION TO VACATE
+      40.00
+                            CRIME LAB              100.00      STATE OFFENDER DN
+A    250.00
+                            PRELIMINARY HEARING     10.00     NOTICES MAILED 1ST
+       4.00
+                            UNSATISFIED JUDGMEN   5919.00     WARRANT SERVICE FE
+E     70.00
+   02-03-15                 Judgment-Sentence to Illinois Department of Correcti
+ons entered.
+                            Judgment - Sentence to Illinois Dept. of Corrections
+.
+   02-04-15                 Statement of State's Attorney filed
+   02-09-15                 Bond Type Transfer Bond From    2014CF001269 LOGAN D
+ERRICK B
+   02-12-15                 Disposition sent through ADR process this date. SPT
+   03-25-15                 Case removed from Collections, current due
+                            Bond
+   04-02-15                 Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

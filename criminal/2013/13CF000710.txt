@@ -1,0 +1,555 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF000710
+
+   Defendant Plaintiff
+SKILLINGS  DANIEL
+1012 WEST MAPLE STRE
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/06/13
+                Court Room:
+           Next Appearance: 04/07/14
+                Birth Date: 04/24/79
+                 DEFENDANT: SKILLINGS  DANIEL
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       10.00      STATES ATTORNEY                 .00          10.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+         .00      CRIME STOPPERS                  .00            .00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+         .00      SPINAL CORD RESEARC             .00            .00
+         .00       STATE OFFENDER DNA             .00            .00
+         .00      TRAUMA FUND                     .00            .00
+      190.00      TR/CR SUR $10/$40               .00         190.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+         .00      DRIVERS EDUCATION               .00            .00
+       10.00      ST POLICE SERVICES              .00          10.00
+         .00      ST POLICE OPERATION             .00            .00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DOCUMENT STORAGE                .00           5.00
+        5.00      AUTOMATION                      .00           5.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+      100.00      COURT FINANCE FEE               .00         100.00
+       60.00      STATES ATTORNEY                 .00          60.00
+        4.00      STATES ATTORNEY AUT             .00           4.00
+         .00      CRIME STOPPERS                  .00            .00
+       20.00      ARRESTEE'S MEDICAL              .00          20.00
+       20.00      PROBATION OPER ASSI             .00          20.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+      100.00      TRAUMA FUND                     .00         100.00
+      380.00      TR/CR SUR $10/$40               .00         380.00
+        5.00      CLERK OP & ADMIN-SE             .00           5.00
+         .00      DRUG COURT PROGRAM              .00            .00
+         .00      DUI NEW EQUIPMENT F             .00            .00
+      200.00      VIOLENT CRIME VICTI             .00         200.00
+       76.00      DRIVERS EDUCATION               .00          76.00
+         .00      DUI - IL GENERAL RE             .00            .00
+       15.00      FIRE PREVENTION FUN             .00          15.00
+       15.00      FIRE TRUCK REVOLVIN             .00          15.00
+         .00      IL STATE TREAS FINE             .00            .00
+       20.00      ST POLICE SERVICES              .00          20.00
+      370.19      COLLECTION FEES                 .00         370.19
+      160.95      LATE FEES                       .00         160.95
+       10.00      ST POLICE OPERATION             .00          10.00
+       20.00      CLERK OP & ADMIN FU             .00          20.00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       50.00      STATES ATTORNEY                 .00          50.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+      100.00      TRAUMA FUND                     .00         100.00
+      190.00      TR/CR SUR $10/$40               .00         190.00
+        5.00      CLERK OP & ADMIN-SE             .00           5.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+         .00      FINES                           .00            .00
+      350.00      DUI NEW EQUIPMENT F             .00         350.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       76.00      DRIVERS EDUCATION               .00          76.00
+      325.00      DUI - IL GENERAL RE             .00         325.00
+       15.00      FIRE PREVENTION FUN             .00          15.00
+       15.00      FIRE TRUCK REVOLVIN             .00          15.00
+       10.00      ST POLICE SERVICES              .00          10.00
+         .00      ST POLICE OPERATION             .00            .00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  RESIDENTIAL BURGLARY
+
+         2  RECEIVE/POSS/SELL STOLEN VEH
+
+         2  RECEIVE/POSS/SELL STOLEN VEH
+
+         3  AGG DUI/NO VALID DL
+
+         4  AGG DUI/NO VALID DL
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   05-06-13                 Charge 01 Count 001 RESIDENTIAL BURGLARY
+                            Statute 720 5/19-3(a)  Class 1  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 RECEIVE/POSS/SELL STOLEN VEH
+                            Statute 625 5/4-103(a)(1)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 03 Count 003 AGG DUI/NO VALID DL
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 04 Count 004 AGG DUI/NO VALID DL
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Defendant admonished as to NON-
+PROBATIONABLE
+                            OFFENSE. Champaign County Public Defender is appoint
+ed and Jamie
+                            Propps appears instanter.  Plea of not guilty entere
+d and Defendant
+                            requests trial by jury.  Defendant is admonished as
+to trial and
+                            sentencing in absentia.  Bond set in the amount of $
+75,000-ROR DENIED.
+                            As a condition of bond, Defendant is ordered to have
+ NO CONTACT
+                            whatsoever, directly or indirectly, with victim and/
+or address as
+                            recited in open court. See expanded record.
+   05-08-13                 Notice of arrest without warrant on file.
+   05-10-13                 Sworn report on file.  Defendant tested a BAL of .16
+9
+                            Discovery filed
+   05-13-13                 Answer to Discovery filed
+   05-23-13                 Supplemental Discovery filed
+   05-28-13                 Confirmation of Statutory Summary Suspension on file
+.
+                            Provisional reinstatement date
+                            12-31-13
+   07-01-13                 By agreement, trial allotment vacated
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   08-13-13                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed RESIDENTIAL BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-3(a)  Class 1
+                            Sentence: 08/13/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Order on Guilty Plea.
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Counts 02 and 03 of the charging instrumen
+t.  Finding
+                            Defendant is guilty of the offense of Unlawful Posse
+ssion of a Stolen
+                            Vehicle ILCS: 625 5/4-103(a)(1) and Aggravated Drivi
+ng Under the
+                            Influence of Alcohol ILCS: 625 5/11-501(a)(1) as cha
+rged.   Cause
+                            allotted for sentencing on September 20, 2013 at 10:
+00 AM in Courtroom
+                            E.  Defendant is ordered to appear and is advised of
+ sentencing in
+                            absentia.  Defendant is ordered to obtain a substanc
+e abuse evaluation
+                            prior to the hearing.  Court Services is directed to
+ prepare a
+                            pre-sentence report for sentencing.  Waiver of Jury
+on file.  Count 1
+                            is hereby dismissed pursuant to the plea.  Orders on
+ Guilty Plea
+                            entered this date.  See orders.  Defendant  is order
+ed to obtain a
+                            mental health evaluation prior to the sentencing hea
+ring.  The Court
+                            Services Department is ordered to pay all necessary
+costs for the
+                            evaluation.  Written order ordering Defendant  to ob
+tain the
+                            evaluation entered.  See order.
+                            Court Services to make arrangements for preparation
+of a
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed AGG DUI/NO VALID DL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 08/13/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Factual basis on file
+   08-14-13                 Affidavit of Mailing of TASC Report order filed.
+   09-20-13
+                            People appear by Sarah Perry. Defendant appears in c
+ustody and with
+                            counsel, Lindsey Yanchus. Cause called for sentencin
+g hearing. Motion
+                            by the Defendant to continue. Motion allowed. Cause
+continued for
+                            sentencing hearing to 10/4/13 at 10:00 a.m. in Court
+room F. Bond to
+                            continue.
+                            Tasc on file
+   10-04-13                 People appear by Elizabeth Dornik. Defendant appears
+ in custody and
+                            with counsel, Lindsey Yanchus. Motion by the Defenda
+nt to continue
+                            sentencing hearing due to lack of mental health eval
+uation. Motion
+                            allowed. Sentencing hearing is continued to 10/17/13
+ at 2:30 p.m. in
+                            Courtroom F. Defendant's bond to continue.
+   10-17-13                 Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty RECEIVE/POSS/SELL STOLEN VEH
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/4-103(a)(1)  Class 2
+                            Sentence: 10/17/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  3Yrs In force
+                            Sentence: Credit Time Served  165Days In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  165Days
+In force
+                            Fine + Cost            537.00     CRIME STOPPERS
+        .00
+                             STATE OFFENDER DNA       .00
+                            Payment Due
+                            Sentencing Order/Order for Pre-Sentence report.
+                            AS TO COUNT II:
+                            SENTENCE IS TO RUN CONCURRENT WITH THE SENTENCE IMPO
+SED IN COUNT III.
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.  Cause called
+                            for sentencing hearing. Consent to Participate in th
+e Impact
+                            Incarceration Program, Consent for Disclosure of Con
+fidential
+                            Substance Abuse Information Drug Court Referral, and
+ TASC evaluation
+                            placed on file.   Statements of counsel heard.  Stat
+ement of the
+                            defendant heard. All financial obligations shall be
+paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk by
+                            4/15/2014.  Any bond posted is to be applied first t
+o any court
+                            ordered bond assignment on file and then to all rest
+itution ordered
+                            and then to all financial obligations in this case.
+ Any remaining
+                            bond shall be discharged to the individual who poste
+d the bond.
+                            Defendant is ordered to serve a period of incarcerat
+ion of 3 years in
+                            the Illinois Department of Corrections. Defendant is
+ to receive credit
+                            for 165 days previously served.  Defendant advised o
+f right to appeal
+                            and rights pursuant to Supreme Court Rule 605 and th
+e Court finds that
+                            the defendant understands the same. Sentencing Order
+ entered this
+                            date. See Order.
+                            Judgment-Sentence to Illinois Department of Correcti
+ons entered.
+                            Disposition 03/00  Count 003  Fine + Cost
+                            Disposition: Guilty AGG DUI/NO VALID DL
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 10/17/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  3Yrs In force
+                            Sentence: Credit Time Served  165Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Credit toward all fees and fines  165Days
+In force
+                            Fine + Cost           1468.00     CRIME STOPPERS
+      10.00
+                            Payment Due
+                            Sentencing Order/Order for Pre-Sentence report.
+                            AS TO COUNT III:
+                            SENTENCE IS TO RUN CONCURRENT WITH THE SENTENCE IMPO
+SED IN COUNT II.
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.  Cause called
+                            for sentencing hearing.  Statements of counsel heard
+.  Statement of
+                            the defendant heard.  All financial obligations shal
+l be paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk by
+                            4/15/2014.  Any bond posted is to be applied first t
+o any court
+                            ordered bond assignment on file and then to all rest
+itution ordered
+                            and then to all financial obligations in this case.
+ Any remaining
+                            bond shall be discharged to the individual who poste
+d the bond.
+                            Defendant is ordered to serve a period of incarcerat
+ion of 3 years in
+                            the Illinois Department of Corrections. Defendant is
+ to receive credit
+                            for 165 days previously served. The Defendant is to
+submit specimens
+                            of blood, saliva, or tissue to the Illinois Departme
+nt of State Police
+                            or to the Department of Corrections within 45 days,
+at a collection
+                            site designated by the Champaign County Court Servic
+es Department
+                            and/or Illinois Department of State Police, in accor
+dance with 730
+                            ILCS 5/5-4-3. Defendant advised of right to appeal a
+nd rights pursuant
+                            to Supreme Court Rule 605 and the Court finds that t
+he defendant
+                            understands the same. Sentencing Order entered this
+date. See Order.
+                            Mittimus prepared.
+                            Disposition 02/01  Count 002  Modified Order
+                            Disposition: Modified/Trial Court RECEIVE/POSS/SELL
+STOLEN VEH
+                            Modified Order        1185.00     CRIME STOPPERS
+        .00
+                             STATE OFFENDER DNA    250.00     IL STATE TREAS FIN
+E       .00
+                            COLLECTION FEES        370.19     LATE FEES
+     160.95
+   10-18-13                 Statement of State's Attorney filed
+   10-21-13                 Report of Felony Conviction prepared / mailed.
+   11-01-13                 Motion for Reconsideration of Sentence on file.
+   11-05-13                 Cause allotted for hearing on Defendant's Motion for
+                            Reconsideration of Sentence on 11/19/13 at 2:30 p.m.
+ in Courtroom F.
+                            Counsel notified this date.
+   11-06-13                 Circuit Clerk received the following transcripts:
+                            August 13, 2013, JRK, Laura B. Workman
+   11-19-13                 Office of the Circuit Clerk is to prepare and file a
+ Notice
+                            People appear by Elizabeth Dornik. Defendant appears
+ by counsel,
+                            Lindsey Yanchus. Cause called for hearing on the Def
+endant's Motion
+                            for Reconsideration of Sentence filed November 1, 20
+13. On oral motion
+                            of the Defendant, Motion is amended on its face. Mot
+ion received and
+                            reviewed by the Court. Motion is DENIED. No written
+order entered.
+                            Counsel for the Defendant states the Defendant wishe
+s to appeal.
+                            Office of the Circuit Clerk is to prepare and file a
+ Notice of Appeal.
+                            Office of the State Appellate Defender appointed to
+represent the
+                            defendant on the appeal.  Office of the Circuit Cler
+k is to notify the
+                            State Appellate Defender of their appointment.
+                            Transcript for appeal notice required.
+                            Rule 604(d) Certificate on file.
+   11-22-13                 Notice of appeal prepared.
+                            Appointment of counsel on appeal prepared.
+                            Appeal Affidavit was mailed.
+   12-02-13                 Appellate Court's letter to counsel pursuant to
+                            Supreme Court Rule 312 on File.
+   12-10-13                 Appellate Defender's letter acknowledging their
+                            Appointment to represent defendant on appeal and the
+ir request to have
+                            the record filed with the Appellate Court.
+   12-16-13                 Appellate Court Docketing Order on File.
+   12-23-13                 Circuit Clerk received the following transcripts:
+                            May 6, 2013, RPK, Laura B. Workman
+                            July 1, 2013, JRK, Tammy Sue Cobb
+                            September 20, 2013, JRK, Joni E. Markel
+                            October 4, 2013, JRK, Alan Richey
+                            October 17, 2013, JRK, Alan Richey
+                            November 19, 2013, JRK, Laura B. Workman
+   01-22-14                 Appeal prepared for appellate court this date.
+                            Record of appeal #4-13-1047 Mailed this date.
+                            Certificate of Certified mailing prepared.
+   01-27-14                 Receipt from the Appellate Court.
+                            Receipt from the Appellate Court that common law rec
+ord received from
+                            the circuit court on file.  Appellate Court No. 4-13
+-1047
+   02-27-14                 Order from the Appellate Court received this date. C
+ause allotted for
+                            hearing to properly admonish the Defendant pursuant
+to Supreme Court
+                            Rule 605 (b) and (c) on 3/18/14 at 2:30 p.m. in Cour
+troom F. Counsel
+                            notified this date. Ms. Yanchus to prepare a writ fo
+r the Defendant.
+   03-18-14                 Hearing this date is vacated. Cause is continued to
+4/1/14 at 2:30 p.m
+                            in Courtroom F. Counsel notified via email. Ms. Yanc
+hus is to prepare
+                            a writ for the Defendant.
+   03-19-14                 Petition for Writ of Habeus Corpus Ad Prosequendum.
+Prayer of the
+                            Petition is allowed. Writ to issue returnable 4/1/14
+ at 2:30 p.m. in
+                            Courtroom F. See Order.
+                            Appellate Court receipt common law.
+                            Appellate Court receipt common law record returned t
+o circuit court on
+                            file.   Appellate Court No. 4-13-1047
+   03-20-14                 Petition, order and writ issued and sent.
+                            See affidavit of mailing.
+   04-01-14                 Office of the Circuit Clerk is to prepare and file a
+ Notice
+                            People appear by Sarah Perry. Defendant appears in c
+ustody of the
+                            Department of Corrections and with counsel, Lindsey
+Yanchus. Cause
+                            called for hearing re proper appeal admonishments. T
+he Defendant is
+                            properly advised of his right to appeal pursuant to
+Supreme Court Rule
+                            605 (b) and (c). Rule 604(d) Certificate placed on f
+ile instanter.
+                            Cause called for hearing on the Defendant's Motion f
+or Reconsideration
+                            of Sentence. Arguments heard. Motion is DENIED. Moti
+on by the
+                            Defendant to appeal. The Defendant Office of the Cir
+cuit Clerk is to
+                            prepare and file a Notice of Appeal. Office of the S
+tate Appellate
+                            Defender appointed to represent the defendant on the
+ appeal.  Office
+                            of the Circuit Clerk is to notify the State Appellat
+e Defender of
+                            their appointment.
+                            Transcript for appeal notice required.
+                            Appointment of counsel on appeal prepared.
+                            Rule 604(d) Certificate on file.
+   04-03-14                 Notice of appeal prepared.
+                            Appeal Affidavit was mailed.
+   04-09-14                 Appellate Court's letter to counsel pursuant to
+                            Supreme Court Rule 312 on File.
+   04-21-14                 Appellate Defender's letter acknowledging their
+                            Appointment to represent defendant on appeal and the
+ir request to have
+                            the record filed with the Appellate Court.
+                            Appellate Court Docketing Order on File.
+   05-01-14                 Circuit Clerk received the following transcripts:
+                            April 1, 2014, JRK, Alan Richey
+   06-03-14                 Record of Appeal, #4-14-0263, mailed this date.
+                            Certificate of Certified mailing prepared.
+   06-10-14                 Receipt from the Appellate Court.
+                            Receipt from the Appellate Court that common law rec
+ord received from
+                            the circuit court on file.  Appellate Court No. 4-14
+-0263.
+   06-11-14                 Prepared blueback certificate.
+   11-18-14                 Case sent out for collections.
+   12-26-14                 Re. 4-14-0263 Mandate from the Apellant Court
+                            Appellant's motion to supplement the record on appea
+l ALLOWED.
+   09-22-15                 Case removed from Collections, current due
+                            Case sent out for collections.
+   09-25-15                 Copy of fees and fines mailed to Appellate Court  on
+ 9/23/15.
+   03-31-16                 Mandate from Appellate Court Regarding Gen. No. 4-14
+-0263 on file,
+                            Along with printed copy of Appellate Order. It is th
+e decision of this
+                            court that the order on appeal from the circuit cour
+t be AFFIRMED IN
+                            PART, VACATED IN PART  and the cause be REMANDED  to
+ the Circuit Court
+                            for the Sixth Judicial Circuit, Champaign County, fo
+r such proceedings
+                            as required by the order of this court.
+   05-09-16                 Appellate Court receipt common law.
+                            Appellate Court receipt common law record returned t
+o circuit court on
+                            file.   Appellate Court No. 4-14-0263
+   06-07-16                 Order (on fees) entered this date. See Order.
+   06-15-16                 Copies of 6/7/16 Order are mailed to the Defendant a
+nd hand delivered
+                            to the State's Attorney this date.
+   07-11-16                 Return to Sender - Returned mail on file.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

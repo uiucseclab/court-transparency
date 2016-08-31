@@ -1,0 +1,295 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF000699
+
+   Defendant Plaintiff
+BLANSON  ERNYSE R
+2405 CAMPBELL
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/03/12
+                Court Room:
+           Next Appearance: 05/14/13
+                Birth Date: 02/10/93
+                 DEFENDANT: BLANSON  ERNYSE R
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       35.00      BOND -10% BOND FEE              .00          35.00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       50.00      TRAFFIC/CRIMINAL SU             .00          50.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      200.00      FINES                           .00         200.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       15.00      BOND -10% BOND FEE            15.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       10.00      STATES ATTORNEY               10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          150.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       50.00      TRAFFIC/CRIMINAL SU           49.58            .42
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      190.00      FINES                        190.00            .00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+       37.54      COLLECTION FEES               23.39          14.15
+       49.05      LATE FEES                       .00          49.05
+       75.28      TAX INTERCEPT                 44.50          30.78
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117944764 SHERIFF'S BOOKING FEE             20.00        05/03/12
+   117944764 BOND - ORIGINAL                  150.00        05/03/12
+   118233017 BOND - ORIGINAL                  200.00        11/14/12
+   118271005 BOND -10% BOND FEE                15.00        12/04/12
+   118271005 DOCUMENT STORAGE                   5.00        12/04/12
+   118271005 E-CITATION                         5.00        12/04/12
+   118271005 AUTOMATION                        10.00        12/04/12
+   118271005 CIRCUIT CLERK FEE                 50.00        12/04/12
+   118271005 PROBATION MONITORING FEE          75.00        12/04/12
+   118271005 FINES                            190.00        12/04/12
+   121657082 CIRCUIT CLERK FEE                 14.28        05/22/15
+   121657082 COLLECTION FEES                    1.19        05/22/15
+   122322361 CIRCUIT CLERK FEE                 10.72        05/07/16
+   122322361 COURT SECURITY                    25.00        05/07/16
+   122322361 COURT FINANCE FEE                 25.00        05/07/16
+   122322361 STATES ATTORNEY                   10.00        05/07/16
+   122322361 STATES ATTORNEY AUTOMATI           2.00        05/07/16
+   122322361 CRIME STOPPERS                     5.00        05/07/16
+   122322361 ARRESTEE'S MEDICAL                10.00        05/07/16
+   122322361 PROBATION MONITORING FEE          75.00        05/07/16
+   122322361 PROBATION OPER ASSISTANC          10.00        05/07/16
+   122322361 TR/CR SUR $10/$40                 49.58        05/07/16
+   122322361 COLLECTION FEES                   22.20        05/07/16
+   122322361 TAX INTERCEPT                     44.50        05/07/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  OBSTRUCT JUST/DESTROY EVIDENCE
+
+         1  OBSTRUCT JUST/DESTROY EVIDENCE
+
+         1  OBSTRUCT JUST/DESTROY EVIDENCE
+
+         2  OBSTRUCTING IDENTIFICATION
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   05-03-12                 Charge 01 Count 001 OBSTRUCT JUST/DESTROY EVIDENCE
+                            Statute 720 5/31-4(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Sheriff Booking Fee
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel.  Defendant is admonished as t
+o trial and
+                            sentencing in absentia.  Bond to continue as posted.
+ See expanded
+                            record.
+                            Charge 02 Count 002 OBSTRUCTING IDENTIFICATION
+                            Statute 720 5/31-4.5(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   05-11-12                 Entry of Appearance, Plea of Not Guilty and Request
+for Jury Trial
+                            Filed.
+   05-17-12                 Expanded record of arraignment proceedings.
+                            People appear by Steven D. Ziegler.  Defendant appea
+rs personally
+                            together with private counsel, Edwin Piraino.  Entry
+ of appearance on
+                            file. Defendant waives preliminary hearing, enters a
+ plea of not
+                            guilty and requests a trial by jury.  Pre-trial orde
+rs entered.
+                            Defendant admonished as to trial and sentencing in a
+bsentia. Bond is
+                            to continue.  See Expanded Record.
+   05-22-12                 Discovery filed
+   07-03-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   07-09-12
+                            Counsel for the state and the defendant represent th
+at the parties are
+                            prepared to enter into a diversion agreement.  With
+the agreement of
+                            the parties, the felony pretrial scheduled on July 3
+1, 2012, in
+                            Courtroom F is ordered vacated.   An initial diversi
+on hearing is set
+                            for July 25, 2012 at 02:30 PM in Courtroom F.  The d
+efendant is
+                            ordered to appear.  Notice to be given by the clerk
+by e-mail.
+   07-25-12                 Second chance program agreement.
+                            Scott M. Bennett appears for the state.  Defendant a
+ppears personally
+                            and by counsel Edwin Piraino.  The cause is called f
+or an initial
+                            diversion hearing.   Written diversion agreement pre
+sented to the
+                            court.   The cause is allotted for a final diversion
+ hearing on
+                            November 14, 2012 at 02:30 PM in Courtroom F.
+   11-14-12                 Bond Type Full Cash
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Vacated Trial Court OBSTRUCT JUST/DESTR
+OY EVIDENCE
+                            Disposition Vacated: Withhold Judgment/Supervision
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/31-4(a)  Class 4  Orig.
+                            Sentence: 11/14/2012
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Withhold Judgment/Supervision OBSTRUCTI
+NG IDENTIFICATION
+                            Disposition Vacated: Withhold Judgment/Supervision
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/31-4.5(a)  Class A
+                            Sentence: 11/14/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Court Supervision  6Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  25Hrs In force
+                                      Supervised Court Service
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Fine + Cost            522.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    150.00     COLLECTION FEES
+      37.54
+                            LATE FEES               49.05     TAX INTERCEPT
+      75.28
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott M. Bennett.  Appea
+rance of the
+                            Defendant personally and by counsel, Edwin Piraino.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Obstructing Identification
+ILCS: 720
+                            5/31-4.5(a), A Class A Misdemeanor, as charged. Upon
+ the plea entered
+                            this date, Defendant is sentenced to all terms and c
+onditions as set
+                            forth in the written order on guilty plea entered th
+is date. All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  5/13/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of   6 months Court Supervision. Defendant is
+ ordered to
+                            perform  25 hours of public service work, within the
+ first 2 Months of
+                            Court Supervision, under the supervision of the Cham
+paign County Court
+                            Services Department.  The defendant is to be given c
+redit on public
+                            service work for any hours completed in education, t
+reatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes. Count(s) stated in the writte
+n order are herby
+                            dismissed. Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same. Written Sentencing Order enter
+ed. See Order.
+                            Defendant is ordered to report to Court Services imm
+ediately.
+                            Disposition 01/02  Count 001  No Fine & Cost
+                            Disposition: Dismissed OBSTRUCT JUST/DESTROY EVIDENC
+E
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/31-4(a)  Class 4  Orig.
+                            Sentence: 11/14/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   11-20-12                 Certificate of completion of public service work fil
+ed
+   12-04-12                 Bond
+   03-20-14                 Case sent out for collections.
+   05-22-15                 Cash
+   05-07-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,359 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF000337
+
+   Defendant Plaintiff
+BALTIMORE  DERIC
+33 121ST PL E
+CHICAGO IL 60628
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 03/05/12
+                Court Room:
+           Next Appearance: 04/14/14
+                Birth Date: 01/31/90
+                 DEFENDANT: BALTIMORE  DERIC
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       45.00      BOND -10% BOND FEE            45.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN           25.00         425.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+         .00      MOTION TO VACATE                .00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      250.00      TRAFFIC/CRIMINAL SU           83.00         167.00
+        5.00      CLERK OP & ADMIN-SE             .00           5.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      PRELIMINARY HEARING             .00          10.00
+      240.00      FINES                           .00         240.00
+      350.00      DUI NEW EQUIPMENT F             .00         350.00
+         .00      VICTIMS FUND-FINE               .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+      100.00      DRIVERS EDUCATION               .00         100.00
+      400.00      DUI - 80% IL GENERA             .00         400.00
+       15.00      FIRE PREVENTION FUN             .00          15.00
+       15.00      FIRE TRUCK REVOLVIN             .00          15.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      642.39      COLLECTION FEES                 .00         642.39
+      279.30      LATE FEES                       .00         279.30
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117863733 SHERIFF'S BOOKING FEE             20.00        03/05/12
+   117863733 BOND - ORIGINAL                  150.00        03/05/12
+   117865644 BOND TRANSFERS IN                300.00        03/06/12
+   118033874 COPIES                             1.00        07/12/12
+   118033874 COPIES                             1.00        07/12/12
+   118033874 CERTIFIED COPIES                   2.00        07/12/12
+   118190178 BOND -10% BOND FEE                45.00        10/18/12
+   118190178 DOCUMENT STORAGE                   5.00        10/18/12
+   118190178 E-CITATION                         5.00        10/18/12
+   118190178 AUTOMATION                        10.00        10/18/12
+   118190178 CIRCUIT CLERK FEE                 75.00        10/18/12
+   118190178 COURT SECURITY                    25.00        10/18/12
+   118190178 COURT FINANCE FEE                 25.00        10/18/12
+   118190178 STATES ATTORNEY                   20.00        10/18/12
+   118190178 STATES ATTORNEY AUTOMATI           2.00        10/18/12
+   118190178 CRIME STOPPERS                     5.00        10/18/12
+   118190178 ARRESTEE'S MEDICAL                10.00        10/18/12
+   118190178 PROBATION MONITORING FEE          25.00        10/18/12
+   118190178 PROBATION OPER ASSISTANC          10.00        10/18/12
+   118190178 SPINAL CORD RESEARCH FUN           5.00        10/18/12
+   118190178 TRAUMA FUND                      100.00        10/18/12
+   118190178 TR/CR SUR $10/$40                 83.00        10/18/12
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG DUI/NO VALID DL
+
+         2  DRVG UNDER INFLU/BAC 0.08
+
+         2  DRVG UNDER INFLU/BAC 0.08
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   03-05-12                 NO BOND No Bond
+                            Charge 01 Count 001 AGG DUI/NO VALID DL
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Sheriff Booking Fee
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel.  Defendant is admonished as t
+o trial and
+                            sentencing in absentia. Bond is to continue as trans
+ferred from
+                            12DT133.  See expanded record.
+                            Notice of arrest without warrant on file.
+                            Charge 02 Count 002 DRVG UNDER INFLU/BAC 0.08
+                            Statute 625 5/11-501(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+   03-06-12                 Bond Type Transfer Bond From    2012DT000133 BALTIMO
+RE DERIC A
+   03-20-12
+                            People appear by Duke Harris. No appearance by the D
+efendant. Court
+                            notes the date on the bond out sheet is 3/30/12. Mot
+ion for warrant
+                            taken under advisement until said date.
+   03-23-12                 Motion to Quash and Recall Bond Forfeiture Warrant f
+or Arrest Order
+                            Filed.
+                            Appearance of Attorney on file by Steven G. Watkins.
+                            Expanded record of arraignment proceedings.
+                            Appearance of attorney Steven G. Watkins with the De
+fendant.  Entry of
+                            Appearance on file. Defendant requests Preliminary h
+earing. Petition
+                            to Rescind Statutory Summary Suspension filed by the
+ Defendant this
+                            date. Cause allotted for Preliminary hearing and hea
+ring on the
+                            Petition on 4/5/12 at 8:30 a.m. in Courtroom E. Peop
+le's request for a
+                            warrant is withdrawn. Hearing allotted 3/30/12 is va
+cated. Bond to
+                            continue.
+   04-05-12                 Pretrial order after waiver or finding of probable c
+ause
+                            People appear by Andrea I. Bergstrom.  Defendant app
+ears personally
+                            and with counsel, Steven G. Watkins.  Cause called f
+or preliminary
+                            hearing and hearing on the Defendant's Petition to R
+escind Statutory
+                            Summary Suspension. Witnesses sworn. Evidence heard.
+ People's Exhibits
+                            1 and 2 admitted. The Court having heard the evidenc
+e on preliminary
+                            hearing and being fully advised in the premises find
+s probable cause
+                            to believe that the Defendant has committed one or m
+ore felony
+                            offenses as charged in the information. Petition to
+Rescind is denied.
+                            Defendant enters a plea of not guilty and requests t
+rial by jury.
+                            Pre-Trial Discovery Order on file. Cause allotted fo
+r pre trial on
+                            5/3/12 at 10:30 a.m. in Courtroom E. Bond to continu
+e.
+   04-12-12                 Subpoena Served.  No Fees.
+   04-18-12                 Discovery filed
+   05-02-12
+                            People appear by Samuel A. Rosenberg.  Defendant app
+ears personally
+                            and with counsel, Steven G. Watkins. Motion by the p
+arties to vacate
+                            the 5/3/12 hearing and proceed with pre trial this d
+ate. Motion
+                            allowed. Motion by the Defendant for continuance.  M
+otion allowed.
+   06-08-12                 Motion to Quash Arrest and Suppress Evidence
+                            People appear by Andrea Bergstrom. Defendant appears
+ personally and
+                            with counsel, Steven Watkins. Motion to Quash Arrest
+ and Suppress
+                            Evidence filed by the Defendant instanter. Cause set
+ for hearing on
+                            the Motion on 7/11/12 at 2:00 p.m. in Courtroom E. B
+ond to continue.
+   07-11-12
+                            Appearance of the People by A. Bergstrom.  Appearanc
+e of the Defendant
+                            personally and with A. Ivy for S. Watkins.  Cause ca
+lled for hearing
+                            on Defendant's Motion to Quash Arrest and Suppress E
+vidence. On file
+                            this date, is State's Motion to Deny Defendant's Mot
+ion to Quash
+                            Arrest and Suppress Evidence. State's Motion is DENI
+ED. Motion by Mr.
+                            Ivy, on behalf of Mr. Watkins, for continuance. Obje
+ction by the
+                            State. Motion allowed over the objection. Cause re a
+llotted for
+                            hearing on the Motion to Suppress.
+                            Cause is allotted for trial and trial scheduling on
+   07-12-12                 Copies & Certified Copies
+                            Certified Copies
+   07-23-12
+                            Appearance of the People by Andrea I. Bergstrom.  Ap
+pearance of the
+                            Defendant personally and by counsel, Steven G. Watki
+ns. Defendant is
+                            arraigned on Count II, filed instanter.  Defendant a
+dvised as to the
+                            nature of the proceedings, the charges and the possi
+ble penalties that
+                            may be imposed and the Court finds that the Defendan
+t understands the
+                            same.  Finding Defendant knowingly, understandingly
+and voluntarily
+                            waives rights and enters a plea of guilty to Count 0
+2 of the charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Drvg Under
+                            Influ/Bac 0.08 ILCS: 625 5/11-501(a)(1) as charged.
+  Cause allotted
+                            for sentencing on September 11, 2012 at 11:30 AM in
+Courtroom E.
+                            Defendant is ordered to appear and is advised of sen
+tencing in
+                            absentia.  Defendant is ordered to obtain a substanc
+e abuse evaluation
+                            prior to the hearing.  Court Services is directed to
+ prepare a
+                            pre-sentence report for sentencing. The State agrees
+ to dismiss Count
+                            I.  Waiver of Jury on file. Order on Guilty Plea ent
+ered this date.
+                            See Order.
+
+                            Disposition 02/00  Count 002  Awaiting Sentencing
+                            Disposition: Guilty DRVG UNDER INFLU/BAC 0.08
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)(1)  Class A  Orig.
+   09-11-12                 Expanded record.
+                            People appear by AJ Ruggieri. Defendant appears pers
+onally. No
+                            appearance by Defendant's counsel of record, Steven
+Watkins. Cause is
+                            continued for sentencing to 10/12/12 at 11:00 a.m. i
+n Courtroom E.
+                            Attorney Steven Watkins is to be personally present
+at that hearing.
+                            See ORDER.
+   10-12-12                 Disposition 02/01  Count 002  Fine + Cost
+                            Disposition: Guilty DRVG UNDER INFLU/BAC 0.08
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 625 5/11-501(a)(1)  Class A  Orig.
+                            Sentence: 10/12/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  18Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  75Hrs In force
+                                      Supervised Court Service
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  60Da
+ys In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Fine + Cost           1842.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    450.00
+                            MOTION TO VACATE          .00     PRELIMINARY HEARIN
+G     10.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing Order/Order for Pre-Sentence report.
+                            Appearance of the People by Elizabeth A. Taylor.  Ap
+pearance of the
+                            Defendant personally and by counsel, Steven G. Watki
+ns.  Cause called
+                            for sentencing hearing.  Statements of counsel heard
+.  Statement of
+                            the defendant heard.  All financial obligations shal
+l be paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk by
+                            10/11/2013.  Any bond posted is to be applied first
+to any court
+                            ordered bond assignment on file and then to all rest
+itution ordered
+                            and then to all financial obligations in this case.
+ Any remaining
+                            bond shall be discharged to the individual who poste
+d the bond.
+                            Defendant is ordered to serve a period of  18 months
+ Conditional
+                            Discharge. Defendant is ordered to perform  75 hours
+ of public service
+                            work under the supervision of the Champaign County C
+ourt Services
+                            Department.  The defendant is to be given credit on
+public service
+                            work for any hours completed in education, treatment
+, aftercare,
+                            sobriety based self-help group meetings, Victim Impa
+ct Panel and GED
+                            classes.  Defendant is to attend the next Victim Imp
+act Panel
+                            presented by the Champaign County Court Services Dep
+artment.
+                            Defendant is to obtain an evaluation for alcohol and
+ drug abuse from
+                            an agency or agent recommended by the Court Services
+ Department, and
+                            follow any recommendations contained therein as to t
+reatment and/or
+                            counseling. Count 1 is dismissed. Defendant advised
+of right to appeal
+                            and rights pursuant to Supreme Court Rule 605 and th
+e Court finds that
+                            the defendant understands the same. Sentencing Order
+ entered this
+                            date. See Order.
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG DUI/NO VALID DL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Sentence: 10/12/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Drug & Alcohol Evaluation on file
+   10-16-12                 Drug and alcohol evaluation on file.
+   10-17-12                 Report of Court Disposition sent to Secretary of Sta
+te.
+   10-18-12                 Bond
+   08-28-14                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,221 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF000176
+
+   Defendant Plaintiff
+GROVES  TERRANCE L
+1002 E KERR
+URBANA IL 61802
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/31/13
+                Court Room:
+           Next Appearance: 03/16/15
+                Birth Date: 03/30/90
+                 DEFENDANT: GROVES  TERRANCE L
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       25.00      BOND -10% BOND FEE            25.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       30.00      STATES ATTORNEY               30.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN           25.00         575.00
+       10.00      PROBATION OPER ASSI            8.00           2.00
+       80.00      TRAFFIC/CRIMINAL SU             .00          80.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      290.00      FINES                           .00         290.00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      364.67      COLLECTION FEES                 .00         364.67
+      158.55      LATE FEES                       .00         158.55
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118421623 SHERIFF'S BOOKING FEE             20.00        02/01/13
+   118421623 BOND - ORIGINAL                  250.00        02/01/13
+   118511372 BOND -10% BOND FEE                25.00        04/01/13
+   118511372 DOCUMENT STORAGE                   5.00        04/01/13
+   118511372 E-CITATION                         5.00        04/01/13
+   118511372 AUTOMATION                        10.00        04/01/13
+   118511372 CIRCUIT CLERK FEE                 75.00        04/01/13
+   118511372 COURT SECURITY                    25.00        04/01/13
+   118511372 COURT FINANCE FEE                 25.00        04/01/13
+   118511372 STATES ATTORNEY                   30.00        04/01/13
+   118511372 STATES ATTORNEY AUTOMATI           2.00        04/01/13
+   118511372 CRIME STOPPERS                     5.00        04/01/13
+   118511372 ARRESTEE'S MEDICAL                10.00        04/01/13
+   118511372 PROBATION MONITORING FEE          25.00        04/01/13
+   118511372 PROBATION OPER ASSISTANC           8.00        04/01/13
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  FORGERY/ISSUE/DELIVER DOCUMENT
+
+         2  FORGERY/ISSUE/DELIVER DOCUMENT
+
+         2  FORGERY/ISSUE/DELIVER DOCUMENT
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   01-31-13                 Charge 01 Count 001 FORGERY/ISSUE/DELIVER DOCUMENT
+                            Statute 720 5/17-3(a)(2)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Created and properly labeled court case file.
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and David Appleman appears instanter.  Def
+endant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond is set in the
+ amount of
+                            $2,500-ROR DENIED. See expanded record.  Defendant i
+s admonished as to
+                            trial and sentencing in absentia.
+                            Notice of arrest without warrant on file.
+                            Charge 02 Count 002 ATTEMPT FORGERY/ISSUE/DELIVER DO
+CUMENT
+                            Statute 720 5/17-3(a)(2)  Class A  CSA A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   02-01-13                 Sheriff Booking Fee
+   02-07-13                 Discovery filed
+   03-12-13
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   03-14-13                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed FORGERY/ISSUE/DELIVER DOCUMEN
+T
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/17-3(a)(2)  Class 3  Orig.
+                            Sentence: 03/14/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty ATTEMPT FORGERY/ISSUE/DELIVER DO
+CUMENT
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/17-3(a)(2)  Class A  CSA A  Orig.
+                            Sentence: 03/14/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  2Days In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Fine + Cost            697.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    600.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Sarah J. Carlson.  Appea
+rance of the
+                            Defendant personally and by counsel, Anthony Ortega.
+   Count II on
+                            file.  Defendant arraigned on Count II>  Defendant a
+dvised as to the
+                            nature of the proceedings, the charges and the possi
+ble penalties that
+                            may be imposed and the Court finds that the Defendan
+t understands the
+                            same.  Finding Defendant knowingly, understandingly
+and voluntarily
+                            waives rights and enters a plea of guilty to Count 0
+2 of the charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Attempt
+                            Forgery/Issue/Deliver Document ILCS: 720 5/17-3(a)(2
+) as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.  All financial oblig
+ations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by  9/10/2013.  Any bond posted is to be appli
+ed first to any
+                            court ordered bond assignment on file and then to al
+l restitution
+                            ordered and then to all financial obligations in thi
+s case.  Any
+                            remaining bond shall be discharged to the individual
+ who posted the
+                            bond.  Defendant is ordered to serve a period of  24
+ months probation.
+                            Defendant is ordered to serve a period of incarcerat
+ion of   2 days in
+                            the Champaign County Correctional Center. Defendant
+is to receive
+                            credit for   2 days previously served. Count(s) stat
+ed in the written
+                            order are herby dismissed. Defendant advised of righ
+t to appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same.  Written Sentencing
+Order entered.
+                            See ORDER.
+   04-01-13                 Bond
+   12-09-13                 Discovery filed.
+   04-06-15                 Order of Unsuccessful Discharge from Probation enter
+ed.
+                            Disposition 02/01  Count 002  No Fine & Cost
+                            Disposition: Terminated Unsatisfied Attempt FORGERY/
+ISSUE/DELIVER DOCU
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/17-3(a)(2)  Class A  CSA A
+                            Sentence: 04/06/2015
+                            Sentence: No Sentence  In force
+   04-28-15                 Case closed.
+   05-04-15                 Disposition sent through ADR process this date. SPT
+   05-27-15                 Case sent out for collections.
+   02-17-16                 Prepared blueback certificate.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

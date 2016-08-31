@@ -1,0 +1,291 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF000322
+
+   Defendant Plaintiff
+TOOMBS  KENYO T
+208 W ELLS AVE
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 02/25/13
+                Court Room: B
+           Next Appearance: 04/29/13  09:00
+                Birth Date: 12/10/76
+                 DEFENDANT: TOOMBS  KENYO T
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      100.00      BOND -10% BOND FEE           100.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      210.00      TRAFFIC/CRIMINAL SU          193.00          17.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       37.00      SHERIFF FEES                    .00          37.00
+         .00      FINES                           .00            .00
+        2.00      NOTICES MAILED 1ST              .00           2.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+      340.00       STREET VALUE DRUG              .00         340.00
+      180.00      MANDATORY ASSESSMEN             .00         180.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      245.30      COLLECTION FEES                 .00         245.30
+      106.65      LATE FEES                       .00         106.65
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118455111 SHERIFF'S BOOKING FEE             20.00        02/25/13
+   118455111 BOND - ORIGINAL                 1000.00        02/25/13
+   118576933 BOND -10% BOND FEE               100.00        05/09/13
+   118576933 DOCUMENT STORAGE                   5.00        05/09/13
+   118576933 AUTOMATION                        10.00        05/09/13
+   118576933 CIRCUIT CLERK FEE                100.00        05/09/13
+   118576933 COURT SECURITY                    25.00        05/09/13
+   118576933 COURT FINANCE FEE                 50.00        05/09/13
+   118576933 STATES ATTORNEY                   40.00        05/09/13
+   118576933 STATES ATTORNEY AUTOMATI           2.00        05/09/13
+   118576933 ARRESTEE'S MEDICAL                10.00        05/09/13
+   118576933 PROBATION OPER ASSISTANC          10.00        05/09/13
+   118576933 SPINAL CORD RESEARCH FUN           5.00        05/09/13
+   118576933 CRIME LAB                        100.00        05/09/13
+   118576933  STATE OFFENDER DNA ID S         250.00        05/09/13
+   118576933 TRAUMA FUND                      100.00        05/09/13
+   118576933 TR/CR SUR $10/$40                193.00        05/09/13
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  OTHER AMT NARCOTIC SCHED I&II
+
+         2  POSS AMT CON SUB EXCEPT(A)/(D)
+
+         3  CRIM TRES TO RES/PERS PRESENT
+
+         4  CRIM DAMAGE TO PROPERTY <$300
+
+         5  POSSESS CANNABIS< 2.5 GRAMS
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   02-25-13                 Charge 01 Count 001 OTHER AMT NARCOTIC SCHED I&II
+                            Statute 720 570/401(d)(i)  Class 2  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            NO BOND No Bond
+                            Charge 02 Count 002 POSS AMT CON SUB EXCEPT(A)/(D)
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            NO BOND No Bond
+                            Charge 03 Count 003 CRIM TRES TO RES/PERS PRESENT
+                            Statute 720 5/19-4(a)(2)  Class 4  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            NO BOND No Bond
+                            Charge 04 Count 004 CRIM DAMAGE TO PROPERTY <$300
+                            Statute 720 5/21-1(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            Charge 05 Count 005 POSSESS CANNABIS< 2.5 GRAMS
+                            Statute 720 550/4(a)  Class C  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            NO BOND No Bond
+                            Charge 05 Count 005 POSSESS CANNABIS< 2.5 GRAMS
+                            Statute 720 550/4(a)  Class C  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Sheriff Booking Fee
+                            Failure to appear warrant.
+                            People appear by Lindsey Clark.  No appearance by th
+e Defendant.
+                            Motion by the People for a warrant. Motion allowed.
+ Defendant's bond
+                            is forfeited and cause allotted for hearing on the b
+ond forfeiture.
+                            Warrant issued with bond set in the amount of $100,0
+00.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+                            Failure to appear noted in file.
+                            Notice of arrest without warrant on file.
+   02-27-13                 Bond forfeiture notice prepared and mailed.
+   02-28-13                 Warrant served. Service fees $37.00
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned. Defendant admonished as to CLAS
+S X SENTENCING.
+                            Defendant admonished as to EXTENDED-TERM SENTENCING.
+ The Champaign
+                            County Public Defender is appointed and Stephanie Co
+rum appears
+                            instanter.  Defendant waives preliminary hearing, en
+ters a plea of not
+                            guilty and requests trial by jury. Pre-trial orders
+entered. Bond to
+                            continue.  Bond forfeiture hearing previously set is
+ vacated. See
+                            expanded record.  Defendant is admonished as to tria
+l and sentencing
+                            in absentia.
+   03-06-13                 Discovery filed
+   03-07-13                 Answer to Discovery filed
+   04-15-13
+   04-16-13                 Suggestion that the Defendant is in custody.
+   04-22-13                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   04-23-13                 Supplemental Discovery filed
+   04-24-13                 Subpoena Served.  No Fees.
+   04-29-13                 Disposition 05/00  Count 005  No Fine & Cost
+                            Disposition: Dismissed POSSESS CANNABIS< 2.5 GRAMS
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 550/4(a)  Class C  Orig.
+                            Sentence: 04/29/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed CRIM DAMAGE TO PROPERTY <$300
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/21-1(a)(1)  Class A  Orig.
+                            Sentence: 04/29/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed CRIM TRES TO RES/PERS PRESENT
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-4(a)(2)  Class 4  Orig.
+                            Sentence: 04/29/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed OTHER AMT NARCOTIC SCHED I&II
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(d)(i)  Class 2  Orig.
+                            Sentence: 04/29/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty POSS AMT CON SUB EXCEPT(A)/(D)
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Sentence: 04/29/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  4Yrs In force
+                            Sentence: Credit Time Served  64Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  64Days I
+n force
+                            Fine + Cost           1359.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    250.00     NOTICES MAILED 1ST
+       2.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Stephanie Weber.  Appear
+ance of the
+                            Defendant personally and by counsel, George Vargas.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same. Defendant admonished
+ as to EXTENDED
+                            TERM SENTENCING. Finding Defendant knowingly, unders
+tandingly and
+                            voluntarily waives rights and enters a plea of guilt
+y to Count 02 of
+                            the charging instrument.  Finding Defendant is guilt
+y of the offense
+                            of Poss Amt Con Sub Except(A)/(D) ILCS: 720 570/402(
+c) as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.   Any bond posted is
+ to be applied
+                            first to any court ordered bond assignment on file a
+nd then to all
+                            restitution ordered and then to all financial obliga
+tions in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of
+                            incarceration of   4 years in the Illinois Departmen
+t of Corrections.
+                            Defendant is to receive credit for  64 days previous
+ly served. The
+                            Defendant is to submit specimens of blood, saliva, o
+r tissue to the
+                            Illinois Department of State Police or to the Depart
+ment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Count(s) stated
+                            in the written order are herby dismissed. Defendant
+advised of right
+                            to appeal and rights pursuant to Supreme Court Rule
+605 and the Court
+                            finds that the defendant understands the same.
+                            Mittimus prepared.
+                            Statement of State's Attorney filed
+                            Statement of State's Attorney filed
+   05-01-13                 Subpoena Served.  No Fees.
+   05-06-13
+                            Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            37.5% to the General Corporate Fund of Champaign Cou
+nty, and
+                            50.0% to the Champaign Police Department.
+   05-09-13                 Bond
+   08-19-14                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

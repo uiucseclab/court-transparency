@@ -1,0 +1,341 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF001099
+
+   Defendant Plaintiff
+COLEMAN  JAMES K
+4259 W KAMERLING
+CHICAGO IL 60651
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 07/11/12
+                Court Room:
+           Next Appearance: 09/30/13
+                Birth Date: 12/15/60
+                 DEFENDANT: COLEMAN  JAMES K
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       65.00      BOND -10% BOND FEE            65.00            .00
+        6.00      NOTICES MAILED 1ST             6.00            .00
+      504.00      BOND FORFEITURE              504.00            .00
+       70.00      WARRANT SERVICE FEE           70.00            .00
+        5.00      CLERK OP & ADMIN FU            5.00            .00
+         .00                                      .00            .00
+       65.00      BOND -10% BOND FEE            65.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       40.00      MOTION TO VACATE              40.00            .00
+         .00      SPINAL CORD RESEARC             .00            .00
+      250.00       STATE OFFENDER DNA          101.10         148.90
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+      116.90      SHERIFF FEES                 116.90            .00
+        6.00      NOTICES MAILED 1ST              .00           6.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      101.74      COLLECTION FEES                 .00         101.74
+       44.24      LATE FEES                       .00          44.24
+       10.00      ST POLICE OPERATION             .00          10.00
+       70.00      WARRANT SERVICE FEE           70.00            .00
+       15.00      CLERK OP & ADMIN FU            5.00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118085121 BOND TRANSFERS IN                150.00        08/15/12
+   118384725 SHERIFF'S BOOKING FEE             20.00        01/15/13
+   118384725 BOND - ORIGINAL                  500.00        01/15/13
+   118511299 BOND -10% BOND FEE                65.00        04/01/13
+   118511299 NOTICES MAILED 1ST CLASS           6.00        04/01/13
+   118511299 BOND FORFEITURE                  504.00        04/01/13
+   118511299 WARRANT SERVICE FEE               70.00        04/01/13
+   118511299 CLERK OP & ADMIN FUND              5.00        04/01/13
+   118789675 BOND - ORIGINAL                  650.00        09/18/13
+   118789675 CLERK OP & ADMIN FUND             -5.00        09/18/13
+   118789675 WARRANT SERVICE FEE              -70.00        09/18/13
+   118789675 BOND FORFEITURE                 -504.00        09/18/13
+   118789675 NOTICES MAILED 1ST CLASS          -6.00        09/18/13
+   118789675 BOND -10% BOND FEE               -65.00        09/18/13
+   118792356 BOND -10% BOND FEE                65.00        09/19/13
+   118792356 DOCUMENT STORAGE                   5.00        09/19/13
+   118792356 AUTOMATION                        10.00        09/19/13
+   118792356 CIRCUIT CLERK FEE                100.00        09/19/13
+   118792356 COURT SECURITY                    25.00        09/19/13
+   118792356 COURT FINANCE FEE                 50.00        09/19/13
+   118792356 STATES ATTORNEY                   40.00        09/19/13
+   118792356 STATES ATTORNEY AUTOMATI           2.00        09/19/13
+   118792356 ARRESTEE'S MEDICAL                10.00        09/19/13
+   118792356 PROBATION OPER ASSISTANC          10.00        09/19/13
+   118792356 MOTION TO VACATE                  40.00        09/19/13
+   118792356  STATE OFFENDER DNA ID S         101.10        09/19/13
+   118792356 SHERIFF FEES                     116.90        09/19/13
+   118792356 WARRANT SERVICE FEE               70.00        09/19/13
+   118792356 CLERK OP & ADMIN FUND              5.00        09/19/13
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  DRIVING RVK/SUSP DUI/SSS 2ND
+
+         1  DRIVING RVK/SUSP DUI/SSS 2ND
+
+         1  DRIVING RVK/SUSP DUI/SSS 2ND
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   07-11-12                 Charge 01 Count 001 DRIVING RVK/SUSP DUI/SSS 2ND
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   07-12-12                 Created and properly labeled court case file.
+                            Cause set for arraignment on
+   07-16-12                 Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Chris Mellon appears instanter.  Defen
+dant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  See expanded recor
+d.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+
+                            Defendant admonished as to the possibility of EXTEND
+ED TERM
+                            SENTENCING.
+   07-19-12                 Discovery filed
+                            Answer to Discovery filed
+   08-15-12                 Bond Type Transfer Bond From    2012TR009242 COLEMAN
+ JAMES K
+   08-22-12
+                            By agreement, cause to be reallotted for pre-trial.
+   09-26-12
+                            Defendant ordered to appear.
+   10-10-12                 Motion for Continuance filed.
+   10-11-12                 Subpoena Served.  No Fees.
+   10-15-12
+                            People appear by Aj Ruggieri.  No appearance of the
+defendant.
+                            Counsel appears for the defendant.  Motion by the Pe
+ople for a warrant
+                            and bond forfeiture.  Motion is allowed over the obj
+ection of counsel
+                            for the defendant.  Bond forfeited. Warrant to issue
+ with bond set in
+                            the amount of $  5,000.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+   10-17-12
+                            Warrant issued.
+   10-24-12                 Bond forfeiture notice prepared and mailed.
+   11-16-12
+                            People appear by Timothy Sullivan.  No appearance by
+ defendant.  Cause
+                            called for hearing on bond forfeiture.  Motion by pe
+ople for bond
+                            forfeiture judgment.  Arguments heard.  Motion is de
+nied.  Cause
+                            continued for hearing on 12/12/12 at 8:30 am in Cour
+troom L for
+                            hearing on bond forfeiture.  Circuit Clerk to send n
+otice.
+                            Circuit clerk to send notice.
+   11-20-12                 Notice prepared and mailed.
+   12-12-12
+                            By agreement, cause to be reallotted for pre-trial.
+   01-09-13                 Warrant served. Service fees $116.90
+                            Expanded Record on Arraignment
+                            Court notes cause remains allotted for hearing on 01
+/16/13 at 8:30 am
+                            in L. No Order entered.
+   01-11-13
+                            By agreement, cause to be reallotted for pre-trial.
+ THIS WILL BE THE
+                            FINAL PRETRIAL.
+   01-15-13                 Sheriff Booking Fee
+   02-13-13
+                            People appear by Aj Ruggieri.  No appearance of the
+defendant.
+                            Counsel appears for the defendant.  Motion by the Pe
+ople for a warrant
+                            and bond forfeiture.  Motion is allowed over the obj
+ection of counsel
+                            for the defendant.  Bond forfeited. Warrant to issue
+ with bond set in
+                            the amount of $  5,000.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+
+                            Warrant issued.
+   02-19-13                 Bond forfeiture notice prepared and mailed.
+   03-27-13                 Disposition 01/00  Count 001  Bond Forfeiture
+                            Disposition: Judgment on Forfeiture DRIVING RVK/SUSP
+ DUI/SSS 2ND
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Sentence: 03/27/2013
+                            Sentence: No Sentence  In force
+                            Bond Forfeiture        574.00     NOTICES MAILED 1ST
+       6.00
+                            WARRANT SERVICE FEE     70.00
+
+                            Notice of hearing this date and proof of service the
+reof upon
+                            Defendant on file and approved.  Finding the Defenda
+nt has failed to
+                            appear to answer the charge.  Circuit Clerk directed
+ to notify the
+                            Secretary of State pursuant to Supreme Court Rule 55
+6(a).  Judgment
+                            entered on the bond forfeiture in favor of the Peopl
+e and against the
+                            Defendant.  Bond, if any, to apply.
+                            Clerk to send notice in accordance with SC Rule 556
+                            FTA warrant service fee of $75 is still owed.
+                            The arresting agency is Champaign County Sheriff for
+ the FTA arrest of
+                            1-08-2013.
+                            Report of Felony Conviction prepared / mailed.
+   04-01-13                 Bond
+   07-29-13                 Pro Se correspondence on file by defendant with
+                            Notice of Filing (2), Application to Sue or Defend a
+s a Poor Person,
+                            Motion for Appointment of Counsel, Motion to Dismiss
+ and Motion for
+                            Speedy Trial and/or Quash Warrant. File stamped copy
+ returned to
+                            Defendant and file forwarded to Judge McPheters.
+   08-09-13                 Habeas Corpus Ad Prosequendum.
+                            Petition for Writ of Habeas Corpus Ad Prosequendumon
+ file.  Prayer of
+                            the Petition allowed. See Order entered.
+   08-13-13                 Petition, order and writ issued and sent.
+                            See affidavit of mailing.
+   09-17-13                 Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Vacated Trial Court DRIVING RVK/SUSP DU
+I/SSS 2ND
+                            Disposition Vacated: Judgment on Forfeiture
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/6-303(a)  Class 4
+                            Sentence: 09/17/2013
+   09-18-13                 Vacate Court Order Payments
+                            Disposition 01/02  Count 001  Cost Only
+                            Disposition: Guilty DRIVING RVK/SUSP DUI/SSS 2ND
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/6-303(a)  Class 4
+                            Sentence: 09/18/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Department Of Corrections  1Yrs In force
+                            Sentence: Credit Time Served  56Days In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  56Days I
+n force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              578.90     MOTION TO VACATE
+      40.00
+                             STATE OFFENDER DNA    250.00     NOTICES MAILED 1ST
+       6.00
+                            WARRANT SERVICE FEE     70.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel, Erin S. Mattson
+.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Driving Rvk/Susp Dui/Sss 2n
+d ILCS: 625
+                            5/6-303(a) as charged. Judgment entered in favor of
+the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  3/17/2014.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of incarceration of 1 year in the Illinois De
+partment of
+                            Corrections. Defendant is to receive credit for  56
+days previously
+                            served.    The Defendant is to submit specimens of b
+lood, saliva, or
+                            tissue to the Illinois Department of State Police or
+ to the Department
+                            of Corrections within 45 days, at a collection site
+designated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+                            ALL PRIOR BOND FORFEITURE JUDGMENTS ARE VACATED.
+                            Mittimus prepared.
+                            ISP Supplemental Court Disposition prepared and mail
+ed.
+                            Report of Felony Conviction prepared / mailed.
+   09-19-13                 Bond
+                            Statement of State's Attorney filed
+   10-30-13                 Warrant served. Service fees $0
+   08-22-14                 Payment Due
+   02-11-15                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

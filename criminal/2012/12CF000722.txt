@@ -1,0 +1,371 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF000722
+
+   Defendant Plaintiff
+LEBBIE  SAHR
+300 MARCO
+RANTOUL IL 61866
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/07/12
+                Court Room: F
+           Next Appearance: 02/09/15
+                Birth Date: 12/31/90
+                 DEFENDANT: LEBBIE  SAHR
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      200.00      BOND -10% BOND FEE           200.00            .00
+     3892.41      *RESTITUTION AMOUNT         2978.46         913.95
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       25.00      PROBATION MONITORIN             .00         600.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+      200.00       STATE OFFENDER DNA             .00         200.00
+       10.00      TR/CR SUR $10/$40               .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+       37.00      SHERIFF FEES                    .00          37.00
+        4.00      VICTIMS FUND-FINE               .00           4.00
+         .00      VIOLENT CRIME VICTI             .00            .00
+       10.00      ST POLICE SERVICES              .00          10.00
+      713.77      COLLECTION FEES                2.84         710.93
+      312.81      LATE FEES                       .00         312.81
+        5.70      TAX INTERCEPT                  5.70            .00
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117962754 SHERIFF'S BOOKING FEE             20.00        05/17/12
+   117962754 BOND - ORIGINAL                 2000.00        05/17/12
+   118192574 BOND TRANSFERS IN               1000.00        10/19/12
+   118192575 BOND -10% BOND FEE               200.00        10/19/12
+   118192575 *RESTITUTION AMOUNT             2800.00        10/19/12
+   118192575 *RESTITUTION AMOUNT             2800.00        10/19/12
+   121446271 BOND - ORIGINAL                  150.00        12/11/14
+   121446272 *RESTITUTION AMOUNT              150.00        12/11/14
+   121446272 *RESTITUTION AMOUNT              150.00        12/11/14
+   121452887 EPAY RECEIVABLE                  150.00        12/16/14
+   122371473 BOND -10% BOND FEE                  .00        05/07/16
+   122371473 *RESTITUTION AMOUNT                 .00        05/07/16
+   122371473 DOCUMENT STORAGE                    .00        05/07/16
+   122371473 AUTOMATION                          .00        05/07/16
+   122371473 CIRCUIT CLERK FEE                   .00        05/07/16
+   122371473 COURT SECURITY                      .00        05/07/16
+   122371473 COURT FINANCE FEE                   .00        05/07/16
+   122371473 STATES ATTORNEY                     .00        05/07/16
+   122371473 STATES ATTORNEY AUTOMATI            .00        05/07/16
+   122371473 CRIME STOPPERS                      .00        05/07/16
+   122371473 ARRESTEE'S MEDICAL                  .00        05/07/16
+   122371473 VICTIMS FUND-NO FINE                .00        05/07/16
+   122371473 PROBATION MONITORING FEE            .00        05/07/16
+   122371473 PROBATION OPER ASSISTANC            .00        05/07/16
+   122371473  STATE OFFENDER DNA ID S            .00        05/07/16
+   122371473 TR/CR SUR $10/$40                   .00        05/07/16
+   122371473 CLERK OP & ADMIN FUND               .00        05/07/16
+   122371473 SHERIFF FEES                        .00        05/07/16
+   122371473 VICTIMS FUND-FINE                   .00        05/07/16
+   122371473 VIOLENT CRIME VICTIMS AS            .00        05/07/16
+   122371473 ST POLICE SERVICES FUND             .00        05/07/16
+   122371473 COLLECTION FEES                     .00        05/07/16
+   122371473 LATE FEES                           .00        05/07/16
+   122371473 TAX INTERCEPT                       .00        05/07/16
+   122371473 ST POLICE OPERATIONS ASS            .00        05/07/16
+   122371473 *BOND REFUND                        .00        05/07/16
+   122378119 *RESTITUTION AMOUNT               28.46        06/09/16
+   122378119 COLLECTION FEES                    2.84        06/09/16
+   122378119 TAX INTERCEPT                      5.70        06/09/16
+   122378119 *RESTITUTION AMOUNT               28.46        06/13/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG BATTERY/GREAT BODILY HARM
+
+         1  AGG BATTERY/GREAT BODILY HARM
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   05-07-12                 Charge 01 Count 001 AGG BATTERY/GREAT BODILY HARM
+                            Statute 720 5/12-3.05(a)(1)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Warrant - expanded record of arraignment proceedings
+.
+                            Verified information on file.  Witness sworn.  Evide
+nce heard.
+                            Probable cause to arrest determined, warrant issued.
+  Bond set in the
+                            amount of $ 50,000.00.
+                            Warrant issued.
+   05-08-12                 Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Katie Jessup appears instanter.  Defen
+dant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond to continue.
+As a condition of
+                            bond, Defendant is ordered to have NO CONTACT whatso
+ever, directly or
+                            indirectly, with victim as recited in open court. Se
+e expanded record.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.
+                            Warrant served. Service fees $37.00
+   05-10-12                 Motion allotted for hearing to
+                            Motion to Reduce Bond filed.
+   05-16-12
+                            Appearance of the People by L. Clark. Appearance of
+the Defendant
+                            personally, in custody, and with G. Vargas. Cause ca
+lled for hearing
+                            on Defendant's Motion to Reduce Bond. Arguments of c
+ounsel heard.
+                            Motion is allowed. Defendant's bond is reduced to th
+e amount of
+                            $20,000. ROR DENIED. Defendant is to HAVE NO CONTACT
+ WITH the named
+                            victim.
+   05-17-12                 Sheriff Booking Fee
+   05-24-12                 Discovery filed
+   05-25-12                 Answer to Discovery filed
+   06-04-12                 Supplemental Discovery filed
+   06-25-12                 Motion to Continue Trial filed.
+   06-26-12
+                            People appear by Stephanie Weber.  Defendant appears
+ personally and
+                            with counsel, Kavita Uppal on behalf of Mark Johnson
+. Entry of
+                            Appearance on file by Mark Johnson this date. The ap
+pointment of the
+                            Office of the Public Defender is VACATED. Motion by
+the Defendant for
+                            continuance.  Motion allowed.
+                            Appearance, Motion to Continue filed.
+   06-29-12                 Subpoena Served.  No Fees.
+   08-01-12                 Supplemental Discovery filed
+   08-21-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   09-25-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   09-28-12                 EHD Eligibility Certificate filed
+   10-09-12                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty AGG BATTERY/GREAT BODILY HARM
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3.05(a)(1)  Class 3
+                            Sentence: 10/09/2012
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  120Days In force
+                            Sentence: Credit Time Served  10Days In force
+                            Sentence: Not eligible for good time credit.  In for
+ce
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: No contact order.  In force
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  10Days I
+n force
+                            Sentence: Restitution  In force
+                            Cost Only              533.00     *RESTITUTION AMOUN
+T   3892.41
+                            CRIME STOPPERS          10.00     PROBATION MONITORI
+N    600.00
+                             STATE OFFENDER DNA    200.00     COLLECTION FEES
+     719.47
+                            LATE FEES              312.81     TAX INTERCEPT
+        .00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Stephanie Weber.  Appear
+ance of the
+                            Defendant personally and by counsel, K. Uppal.   Def
+endant advised as
+                            to the nature of the proceedings, the charges and th
+e possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Agg Battery/Great Bodily Harm ILCS: 720 5
+/12-3.05(a)(1) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  4/08/2013.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  24
+                            months probation. Defendant is ordered to serve a pe
+riod of
+                            incarceration of 120 days in the Champaign County Co
+rrectional Center.
+                            Defendant is to receive credit for  10 days previous
+ly served.
+                            Defendant is NOT entitled to day for day good time c
+redit under the
+                            County Jail Good Behavior Allowance Act. The Defenda
+nt is to submit
+                            specimens of blood, saliva, or tissue to the Illinoi
+s Department of
+                            State Police or to the Department of Corrections wit
+hin 45 days, at a
+                            collection site designated by the Champaign County C
+ourt Services
+                            Department and/or Illinois Department of State Polic
+e, in accordance
+                            with 730 ILCS 5/5-4-3. Defendant is to have no conta
+ct, directly or
+                            indirectly, in person, by telephone or electronicall
+y with the persons
+                            stated in the written order. Case Number(s) stated i
+n the written
+                            order are herby dismissed.  Any bond posted in said
+case(s) shall be
+                            transferred to the instant case and shall be applied
+ to any fines,
+                            fees, costs, assessments, and/or restitution imposed
+ herein; any
+                            remaining bond shall be used to satisfy such other o
+f the Defendant's
+                            Champaign County criminal or traffic cases in which
+the Defendant owes
+                            an outstanding balance of fines, fees, costs, assess
+ments and/or
+                            restitution. Defendant advised of right to appeal an
+d rights pursuant
+                            to Supreme Court Rule 605 and the Court finds that t
+he defendant
+                            understands the same.
+                            Defendant is ordered to report to the satellite jail
+   10-15-12                 deft shall be entitled to credit or refund of up to
+his pro rata share
+                            Of the total amount if and when the co-defts in 12CF
+720 and 12CF721
+                            pay restitution
+   10-19-12                 Bond Type Transfer Bond From    2012CF000997 LEBBIE
+SAHR A
+                            Bond
+   12-04-13                 Change of address per email from S/A Victim Witness
+office on file for
+                            D. McCaffrey.
+   08-21-14                 Probation Violation Report on file
+   08-26-14                 Petition to Revoke Probation filed.
+   09-04-14                 Verified information on Petition to Revoke Probation
+ on file
+                            Summons issued this date.
+                            Summons issued on file.
+   09-16-14                 Summons not served by CCSO
+                            Summons Not served on Sahr Lebbie by Champaign Count
+y Sheriff's Office
+                            on   on file.
+   09-25-14                 Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and To
+ny Allegretti
+                            appears instanter.  General denial to the Petition i
+s entered.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. Bond
+                            set in the amount of $1,000-ROR ALLOWED. See expande
+d record.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+                            Released On Recognizance bond form on file.
+   10-28-14                 Restitution amount adjusted to reflect payments by c
+o-defendants
+                            In 12CF720 and 12CF721, per pro-rata order.
+   11-12-14                 Defendant motion to continue hearing on petition to
+revoke.
+                            People appear by Sarah J. Carlson.  Defendant appear
+s personally and
+                            with counsel, George Vargas.  On Defendant's motion,
+ hearing on
+                            Petition to Revoke this date is vacated. Defendant o
+rdered to report
+                            to Court Services this date.
+   12-11-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   12-16-14                 EPAY RECONCILIATION TRANSACTION
+   02-04-15                 Motion to withdrawn petition to revoke.
+                            People appear by Claire L. Sharples Brooks.  Defenda
+nt appears
+                            personally and with counsel, George Vargas. On motio
+n of the People,
+                            the Petition to Revoke is withdrawn and dismissed.
+Defendant's bond
+                            discharged to the individual who posted the bond.
+                            Probation is terminated unsuccessfully.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Terminated Unsatisfied AGG BATTERY/GREA
+T BODILY HARM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(a)(1)  Class 3
+                            Sentence: 02/04/2015
+                            Sentence: No Sentence  In force
+                            Case closed.
+   05-12-15                 Case sent out for collections.
+   06-09-16                 Collection Tax Intercept Payment
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

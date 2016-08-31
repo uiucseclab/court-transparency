@@ -1,0 +1,234 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF000555
+
+   Defendant Plaintiff
+ROBERTS  BRANDON W
+ADDRESS UNKNOWN
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 04/11/12
+                Court Room:
+           Next Appearance: 06/21/13
+                Birth Date: 02/22/93
+                 DEFENDANT: ROBERTS  BRANDON W
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      419.85      *RESTITUTION AMOUNT          100.00         319.85
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        5.00      CRIME STOPPERS                  .00           5.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       25.00      PROBATION MONITORIN           25.00         275.00
+       50.00      TRAFFIC/CRIMINAL SU             .00          50.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      190.00      FINES                           .00         190.00
+       20.00      VICTIMS FUND-FINE               .00          20.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      368.06      COLLECTION FEES                 .00         368.06
+      160.03      LATE FEES                       .00         160.03
+       10.00      ST POLICE OPERATION             .00          10.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118039129 PROBATION MONITORING FEE          25.00        07/17/12
+   118116138 PERSONAL CHECK/CREDIT CA           1.25        09/05/12
+   118116138 *RESTITUTION AMOUNT               25.00        09/05/12
+   118116138 *RESTITUTION AMOUNT               25.00        09/05/12
+   118265947 PERSONAL CHECK/CREDIT CA           1.25        12/03/12
+   118265947 *RESTITUTION AMOUNT               25.00        12/03/12
+   118265947 *RESTITUTION AMOUNT               25.00        12/05/12
+   118265971 PERSONAL CHECK/CREDIT CA           1.25        12/03/12
+   118265971 *RESTITUTION AMOUNT               25.00        12/03/12
+   118265971 *RESTITUTION AMOUNT               25.00        12/05/12
+   118419149 PERSONAL CHECK/CREDIT CA           1.25        01/31/13
+   118419149 *RESTITUTION AMOUNT               25.00        01/31/13
+   118419149 *RESTITUTION AMOUNT               25.00        01/31/13
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  BURGLARY
+
+         2  RETAIL THEFT/DISP MERCH/<$300
+
+         2  RETAIL THEFT/DISP MERCH/<$300
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   04-11-12                 NO BOND No Bond
+                            Charge 01 Count 001 BURGLARY
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 RETAIL THEFT/DISP MERCH/<$300
+                            Statute 720 5/16-25(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Christopher Mellon appears instanter.
+ Defendant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond is set in the
+ amount of
+                            $1,000-ROR ALLOWED. See expanded record.  Defendant
+is admonished as
+                            to trial and sentencing in absentia.
+   04-12-12                 Released On Recognizance bond form on file.
+   04-19-12                 Discovery filed
+   06-11-12                 Supplemental Discovery filed
+   06-12-12
+                            Defendant appears with S. Corum for S. Schmidt.  Cau
+se allotted for
+                            Plea on June 21, 2012 at 3:30 p.m. in Courtroom A.
+                            Bond to continue.
+   06-21-12                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Sentence: 06/21/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty RETAIL THEFT/DISP MERCH/<$300
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16-25(a)(1)  Class A  Orig.
+                            Sentence: 06/21/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  40Hrs In force
+                                      Supervised Court Service
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: State will not pursue charges on certain a
+cts  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Fine + Cost            467.00     *RESTITUTION AMOUN
+T    419.85
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    300.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Duke C. Harris.  Appeara
+nce of the
+                            Defendant personally and by counsel, Scott Schmidt.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Retail Theft/Disp Merch/<$3
+00 ILCS: 720
+                            5/16-25(a)(1) as charged. Judgment entered in favor
+of the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 12/18/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months probation. Defendant is ordered
+ to perform  40
+                            hours of public service work under the supervision o
+f the Champaign
+                            County Court Services Department.  The defendant is
+to be given credit
+                            on public service work for any hours completed in ed
+ucation,
+                            treatment, aftercare, sobriety based self-help group
+ meetings, Victim
+                            Impact Panel and GED classes. Count(s) stated in the
+ written order are
+                            herby dismissed. The State agrees not to file any cr
+iminal charges
+                            against the Defendant bases solely on conduct descri
+bed in the police
+                            reports list in the written order. Defendant advised
+ of right to
+                            appeal and rights pursuant to Supreme Court Rule 605
+ and the Court
+                            finds that the defendant understands the same. Defen
+dant's Motion to
+                            Transfer Supervision of Probation is allowed. Superv
+ision of Probation
+                            Order previously entered is to be transferred to sta
+te of Missouri.
+                            Sentencing Order entered this date. See order.
+   06-27-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   07-17-12                 Court Ordered Payments
+   09-05-12                 Check
+   12-03-12                 Check
+                            Check
+   01-31-13                 Check
+   02-10-14                 Order of Unsuccessful Discharge from Probation enter
+ed.
+                            Disposition 02/01  Count 002  No Fine & Cost
+                            Disposition: Terminated Unsatisfied RETAIL THEFT/DIS
+P MERCH/<$300
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-25(a)(1)  Class A
+                            Sentence: 02/10/2014
+                            Sentence: No Sentence  In force
+                            Case closed.
+   03-04-14                 Disposition sent through ADR process this date. SPT
+   11-18-14                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

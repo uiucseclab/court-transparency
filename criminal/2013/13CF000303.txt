@@ -1,0 +1,331 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF000303
+
+   Defendant Plaintiff
+OTTO  LARRY M
+102 SMITH
+CADWELL IL 61911
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 02/21/13
+                Court Room:
+           Next Appearance: 06/03/15
+                Birth Date: 09/21/90
+                 DEFENDANT: OTTO  LARRY M
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       50.00      BOND -10% BOND FEE            50.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          593.50           6.50
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      200.00      TRAFFIC/CRIMINAL SU          200.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       37.00      SHERIFF FEES                  37.00            .00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+       30.00       STREET VALUE DRUG            30.00            .00
+      250.00      REGULAR DRUG FINES           250.00            .00
+      495.00      MANDATORY ASSESSMEN          495.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118466853 SHERIFF'S BOOKING FEE             20.00        03/04/13
+   118466853 BOND - ORIGINAL                  500.00        03/04/13
+   118636795 BOND -10% BOND FEE                50.00        06/17/13
+   118636795 DOCUMENT STORAGE                   5.00        06/17/13
+   118636795 AUTOMATION                        10.00        06/17/13
+   118636795 CIRCUIT CLERK FEE                100.00        06/17/13
+   118636795 COURT SECURITY                    25.00        06/17/13
+   118636795 COURT FINANCE FEE                 50.00        06/17/13
+   118636795 STATES ATTORNEY                   40.00        06/17/13
+   118636795 STATES ATTORNEY AUTOMATI           2.00        06/17/13
+   118636795 CRIME STOPPERS                    10.00        06/17/13
+   118636795 ARRESTEE'S MEDICAL                10.00        06/17/13
+   118636795 PROBATION MONITORING FEE          25.00        06/17/13
+   118636795 PROBATION OPER ASSISTANC          10.00        06/17/13
+   118636795 SPINAL CORD RESEARCH FUN           5.00        06/17/13
+   118636795 CRIME LAB                        100.00        06/17/13
+   118636795  STATE OFFENDER DNA ID S          58.00        06/17/13
+   118707725 PERSONAL CHECK/CREDIT CA           1.25        07/30/13
+   118707725 PROBATION MONITORING FEE           8.75        07/30/13
+   118754237 PERSONAL CHECK/CREDIT CA           1.25        08/27/13
+   118754237 PROBATION MONITORING FEE          18.75        08/27/13
+   118822308 PERSONAL CHECK/CREDIT CA           1.25        10/07/13
+   118822308 PROBATION MONITORING FEE          18.75        10/07/13
+   118895733 PERSONAL CHECK/CREDIT CA           1.25        11/20/13
+   118895733 PROBATION MONITORING FEE          25.00        11/20/13
+   118895733  STATE OFFENDER DNA ID S          13.75        11/20/13
+   118914298 PERSONAL CHECK/CREDIT CA           1.25        12/03/13
+   118914298 PROBATION MONITORING FEE          25.00        12/03/13
+   118914298  STATE OFFENDER DNA ID S          13.75        12/03/13
+   120857516 PERSONAL CHECK/CREDIT CA           1.25        12/31/13
+   120857516 PROBATION MONITORING FEE          25.00        12/31/13
+   120857516  STATE OFFENDER DNA ID S          13.75        12/31/13
+   120901980 PERSONAL CHECK/CREDIT CA           1.25        01/28/14
+   120901980 PROBATION MONITORING FEE           8.75        01/28/14
+   120981028 PERSONAL CHECK/CREDIT CA           1.25        03/17/14
+   120981028 PROBATION MONITORING FEE           8.75        03/17/14
+   121020784 PERSONAL CHECK/CREDIT CA           1.25        04/08/14
+   121020784 PROBATION MONITORING FEE          13.75        04/08/14
+   121074783 PERSONAL CHECK/CREDIT CA           1.25        05/09/14
+   121074783 PROBATION MONITORING FEE           8.75        05/09/14
+   121149781 PERSONAL CHECK/CREDIT CA           1.25        06/23/14
+   121149781 PROBATION MONITORING FEE          25.00        06/23/14
+   121149781  STATE OFFENDER DNA ID S          23.75        06/23/14
+   121191674 PERSONAL CHECK/CREDIT CA           1.25        07/17/14
+   121191674 PROBATION MONITORING FEE          23.75        07/17/14
+   121235900 PERSONAL CHECK/CREDIT CA           1.25        08/11/14
+   121235900 PROBATION MONITORING FEE          23.75        08/11/14
+   121317911 PERSONAL CHECK/CREDIT CA           1.25        09/25/14
+   121317911 PROBATION MONITORING FEE          25.00        09/25/14
+   121317911  STATE OFFENDER DNA ID S           8.75        09/25/14
+   121430836 PERSONAL CHECK/CREDIT CA           1.25        12/03/14
+   121430836 PROBATION MONITORING FEE          18.75        12/03/14
+   121469623 PROBATION MONITORING FEE          25.00        12/29/14
+   121469623  STATE OFFENDER DNA ID S           5.00        12/29/14
+   121513439 PERSONAL CHECK/CREDIT CA           1.25        01/26/15
+   121513439 PROBATION MONITORING FEE           8.75        01/26/15
+   121537253 PROBATION MONITORING FEE          10.00        02/09/15
+   121660431 PERSONAL CHECK/CREDIT CA           1.25        04/20/15
+   121660431 PROBATION MONITORING FEE          13.75        04/20/15
+   121660450 PERSONAL CHECK/CREDIT CA           1.25        04/20/15
+   121660450 PROBATION MONITORING FEE           8.75        04/20/15
+   121734218 PROBATION MONITORING FEE         224.75        06/02/15
+   121734218  STATE OFFENDER DNA ID S         113.25        06/02/15
+   121734218 TRAUMA FUND                      100.00        06/02/15
+   121734218 TR/CR SUR $10/$40                200.00        06/02/15
+   121734218 DRUG COURT PROGRAM                 5.00        06/02/15
+   121734218 SHERIFF FEES                      37.00        06/02/15
+   121734218 VIOLENT CRIME VICTIMS AS         100.00        06/02/15
+   121734218  STREET VALUE DRUG FINES          30.00        06/02/15
+   121734218 REGULAR DRUG FINES               250.00        06/02/15
+   121734218 MANDATORY ASSESSMENT             495.00        06/02/15
+   121734218 ST POLICE OPERATIONS ASS          10.00        06/02/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   02-21-13                 Charge 01 Count 001 POSS AMT CON SUB EXCEPT(A)/(D)
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            Charging documents
+                            Created and properly labeled court case file.
+                            Probable cause warrant issued
+                            Verified information on file.  Witness sworn.  Evide
+nce heard.
+                            Probable cause to arrest determined, warrant issued.
+  Bond set in the
+                            amount of $  5,000.00.
+                            Warrant issued.
+   02-27-13                 Entry of appearance filed this date.
+   03-04-13                 Sheriff Booking Fee
+                            Cause continued for further proceedings
+                            Expanded Record/Pre-trial & Discovery Orders
+                            People appear by Lindsey Clark.  Defendant appears p
+ersonally together
+                            with private counsel, Brian E. King.  Entry of appea
+rance on file.
+                            Defendant is arraigned.  Defendant waives preliminar
+y hearing, enters
+                            a plea of not guilty and requests a trial by jury.
+Pre-trial orders
+                            entered.  Defendant admonished as to trial and sente
+ncing in absentia.
+                            Bond is to continue. See Expanded Record.
+                            Warrant served. Service fees $37.00
+   04-17-13                 Discovery Answer filed
+   04-23-13
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   06-03-13                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Withhold Judgment/1410 Probation POSS A
+MT CON SUB EXCEPT(
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Sentence: 06/03/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: First Offender Probation - Controlled Subs
+tances Act  24Mos
+                                      Supervised Court Service
+                            Sentence: Public Service  30Hrs In force
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Defendant's probation to transfer to resid
+ent county  In for
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Fine + Cost           1534.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    600.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    250.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Matthew P. Banach.  Appe
+arance of the
+                            Defendant personally and by counsel, Brian E. King.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Unlawful Possession of a Co
+ntrolled Substance
+                            ILCS: 720 570/402(c) as charged. Judgment entered in
+ favor of the
+                            People and against the defendant on finding of guilt
+ and for costs.
+                            All financial obligations shall be paid in equal mon
+thly installments
+                            to the Champaign County Circuit Clerk by  2/03/2015.
+  Any bond posted
+                            is to be applied first to any court ordered bond ass
+ignment on file
+                            and then to all restitution ordered and then to all
+financial
+                            obligations in this case.  Any remaining bond shall
+be discharged to
+                            the individual who posted the bond.  Defendant is or
+dered to serve a
+                            period of  24 months First Offender Probation pursua
+nt to the
+                            Controlled Substances Act. Defendant is ordered to p
+erform  30 hours
+                            of public service work under the supervision of the
+Champaign County
+                            Court Services Department.  The defendant is to be g
+iven credit on
+                            public service work for any hours completed in educa
+tion, treatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes.  If the defendant has not pre
+viously done so
+                            then, the Defendant is to submit specimens of blood,
+ saliva, or tissue
+                            to the Illinois Department of State Police or to the
+ Department of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+.  Defendant is
+                            ordered to pay the $250 genetic marker grouping anal
+ysis fee if he has
+                            not previously provided a specimen of DNA to the Ill
+inois State
+                            Police.  Defendant advised of right to appeal and ri
+ghts pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.    Sentencing Order entered.
+See Order.
+                            Defendant is ordered to report to the Court Services
+ Dept.  Copy of
+                            Sentencing Order is tendered to the defendant in ope
+n Court.
+   06-13-13
+                            Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            37.5% to the General Corporate Fund of Champaign Cou
+nty, and
+                            50.0% to the Champaign Police Department.
+   06-17-13                 Bond
+   07-30-13                 Check
+   08-05-13                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   08-27-13                 Check
+   10-07-13                 Check
+   10-23-13                 Submitted material returned for more information.
+   11-20-13                 Check
+   12-03-13                 Check
+   12-31-13                 Check
+   01-28-14                 Check
+   03-17-14                 Check
+   04-08-14                 Check
+   05-09-14                 Check
+   06-23-14                 Check
+   07-17-14                 Check
+   08-11-14                 Check
+   09-25-14                 Check
+   10-06-14                 Submitted material returned for more information.
+   12-03-14                 Check
+   12-29-14                 Court Ordered Payments
+   01-26-15                 Check
+   02-09-15                 Court Ordered Payments
+   04-20-15                 Check
+                            Check
+   06-02-15                 Cash
+   06-16-15                 Written order of Discharge from probation entered.
+                            Case is ordered dismissed.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Probation Terminated POSS AMT CON SUB E
+XCEPT(A)/(D)
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/402(c)  Class 4
+                            Sentence: 06/16/2015
+                            Sentence: No Sentence  In force
+   06-17-15                 Case closed.
+   06-26-15                 Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

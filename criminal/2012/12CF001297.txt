@@ -1,0 +1,306 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF001297
+
+   Defendant Plaintiff
+KOPKO  CHASE M
+705 E CALIFORNIA
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 08/13/12
+                Court Room:
+           Next Appearance: 03/25/13
+                Birth Date: 07/14/87
+                 DEFENDANT: KOPKO  CHASE M
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      115.00      BOND -10% BOND FEE           115.00            .00
+       65.00      *RESTITUTION AMOUNT           65.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN          180.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+      130.00      TRAFFIC/CRIMINAL SU          130.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       37.00      SHERIFF FEES                  37.00            .00
+      485.00      FINES                        485.00            .00
+        2.00      NOTICES MAILED 1ST             2.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+      404.00                                   404.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118082118 SHERIFF'S BOOKING FEE             20.00        08/14/12
+   118082118 BOND - ORIGINAL                  150.00        08/14/12
+   118102531 SHERIFF'S BOOKING FEE             20.00        08/27/12
+   118102531 BOND - ORIGINAL                 1000.00        08/27/12
+   118481144 BOND - ORIGINAL                  565.00        03/12/13
+   118495720 BOND -10% BOND FEE               115.00        03/20/13
+   118495720 *RESTITUTION AMOUNT               65.00        03/20/13
+   118495720 DOCUMENT STORAGE                   5.00        03/20/13
+   118495720 E-CITATION                         5.00        03/20/13
+   118495720 AUTOMATION                        10.00        03/20/13
+   118495720 CIRCUIT CLERK FEE                 75.00        03/20/13
+   118495720 COURT SECURITY                    25.00        03/20/13
+   118495720 COURT FINANCE FEE                 25.00        03/20/13
+   118495720 STATES ATTORNEY                   20.00        03/20/13
+   118495720 STATES ATTORNEY AUTOMATI           2.00        03/20/13
+   118495720 ARRESTEE'S MEDICAL                10.00        03/20/13
+   118495720 PROBATION MONITORING FEE         180.00        03/20/13
+   118495720 PROBATION OPER ASSISTANC          10.00        03/20/13
+   118495720 TR/CR SUR $10/$40                130.00        03/20/13
+   118495720 CLERK OP & ADMIN FUND             10.00        03/20/13
+   118495720 DRUG COURT PROGRAM                 5.00        03/20/13
+   118495720 SHERIFF FEES                      37.00        03/20/13
+   118495720 FINES                            485.00        03/20/13
+   118495720 NOTICES MAILED 1ST CLASS           2.00        03/20/13
+   118495720 VIOLENT CRIME VICTIMS AS          75.00        03/20/13
+   118495720 ST POLICE SERVICES FUND           10.00        03/20/13
+   118495720 ST POLICE OPERATIONS ASS          10.00        03/20/13
+   118495720 *BOND REFUND                     404.00        03/20/13
+   118495720 *RESTITUTION AMOUNT               65.00        03/20/13
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  CRIM TRES TO RES/PERS PRESENT
+
+         2  KNOWINGLY DAMAGE PROP<$300
+
+         3  CRIM TRESPASS TO RESIDENCE
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   08-13-12                 Charge 01 Count 001 CRIM TRES TO RES/PERS PRESENT
+                            Statute 720 5/19-4(a)(2)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 KNOWINGLY DAMAGE PROP<$300
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Created and properly labeled court case file.
+
+                            People appear by Scott M. Bennett. Defendant does no
+t appear, nor
+                            anyone on his behalf. Cause continued for Proof of N
+otice.
+                            Notice of arrest without warrant on file.
+                            Charge 03 Count 003 CRIM TRESPASS TO RESIDENCE
+                            Statute 720 5/19-4(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   08-14-12                 Sheriff Booking Fee
+                            Failure to appear warrant.
+                            People appear by Troy Lozar.  No appearance by the D
+efendant. Motion
+                            by the People for a warrant. Motion allowed.  Defend
+ant's bond is
+                            forfeited and cause allotted for hearing on the bond
+ forfeiture.
+                            Warrant issued with bond set in the amount of $ 10,0
+00.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+                            Failure to appear noted in file.
+   08-17-12                 Bond forfeiture notice prepared and mailed.
+   08-20-12                 Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Pam Burnside appears instanter.  Defen
+dant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond is to continu
+e. See expanded
+                            record.  Defendant is admonished as to trial and sen
+tencing in
+                            absentia.
+
+                            Bond forfeiture previously entered is vacated and bo
+nd is reinstated.
+                            Bond forfeiture hearing of 10/03/2012 is vacated.
+   08-21-12                 Warrant served. Service fees $37.00
+   08-24-12                 Discovery filed
+   08-27-12                 Sheriff Booking Fee
+                            Answer to Discovery filed
+   10-22-12
+                            Counsel for the state and the defendant represent th
+at the parties are
+                            prepared to enter into a diversion agreement.  With
+the agreement of
+                            the parties, the felony pretrial scheduled on Octobe
+r 23, 2012,  in
+                            Courtroom B is ordered vacated.   An initial diversi
+on hearing is set
+                            for November 14, 2012 at 02:30 PM in Courtroom B.  T
+he defendant is
+                            ordered to appear.  Notice to be given by the clerk
+by e-mail.
+   11-14-12                 Second chance program agreement on file.
+                            Scott M. Bennett appears for the state.  Defendant a
+ppears personally
+                            and by counsel Jamie Propps.  The cause is called fo
+r an initial
+                            diversion hearing.   Written diversion agreement pre
+sented to the
+                            court.   The cause is allotted for a final diversion
+ hearing on March
+                            13, 2013 at 02:30 PM in Courtroom F.
+   02-25-13                 Certificate of completion of public service work fil
+ed
+   03-12-13                 Bond Type Full Cash
+   03-13-13                 Disposition 03/00  Count 003  Fine + Cost
+                            Disposition: Guilty CRIM TRESPASS TO RESIDENCE
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/19-4(a)  Class A  Orig.
+                            Sentence: 03/13/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  3Days In force
+                            Sentence: Credit Time Served  3Days In force
+                            Sentence: Substance Abuse Treatment/Evaluation  60Da
+ys In force
+                            Sentence: Public Service  25Hrs In force
+                                      Supervised Court Service
+                            Sentence: No contact order.  In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Sentence: Credit toward all fees and fines  3Days In
+ force
+                            Fine + Cost           1059.00     *RESTITUTION AMOUN
+T     65.00
+                            E-CITATION               5.00     PROBATION MONITORI
+N    180.00
+                            NOTICES MAILED 1ST       2.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott M. Bennett.  Appea
+rance of the
+                            Defendant personally and by counsel, Jamie Propps.
+ Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 03
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Crim Trespass To Residence ILCS: 720 5/19
+-4(a) as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.  All financial oblig
+ations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by  9/09/2013.  Any bond posted is to be appli
+ed first to any
+                            court ordered bond assignment on file and then to al
+l restitution
+                            ordered and then to all financial obligations in thi
+s case.  Any
+                            remaining bond shall be discharged to the individual
+ who posted the
+                            bond.  Defendant is ordered to serve a period of  12
+ months
+                            Conditional Discharge. Defendant is ordered to serve
+ a period of
+                            incarceration of   3 days in the Champaign County Co
+rrectional Center.
+                            Defendant is to receive credit for   3 days previous
+ly served.
+                            Defendant is to obtain an evaluation for alcohol and
+ drug abuse from
+                            an agency or agent recommended by the Court Services
+ Department, and
+                            follow any recommendations contained therein as to t
+reatment and/or
+                            counseling. Defendant is ordered to perform  25 hour
+s of public
+                            service work under the supervision of the Champaign
+County Court
+                            Services Department.  The defendant is to be given c
+redit on public
+                            service work for any hours completed in education, t
+reatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes. Defendant is to have no conta
+ct, directly or
+                            indirectly, in person, by telephone or electronicall
+y with the persons
+                            stated in the written order. Counts I and II are her
+by dismissed.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same.  Waiver of Jury on file. Sentencing Order ente
+red this date. See
+                            Order.
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed CRIM TRES TO RES/PERS PRESENT
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-4(a)(2)  Class 4  Orig.
+                            Sentence: 03/13/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed KNOWINGLY DAMAGE PROP<$300
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Sentence: 03/13/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   03-20-13                 Bond
+   04-01-13                 Bond ref ck141614, C Kopko, returned attempted not k
+nown.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

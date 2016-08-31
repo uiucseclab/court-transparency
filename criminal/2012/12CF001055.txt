@@ -1,0 +1,465 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF001055
+
+   Defendant Plaintiff
+STUMP  DALE R
+546 CR 1500 E
+TOLONO IL 61880
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 07/02/12
+                Court Room:
+           Next Appearance: 12/07/15
+                Birth Date: 03/08/67
+                 DEFENDANT: STUMP  DALE R
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      375.00      BOND -10% BOND FEE           375.00            .00
+       90.00      *RESTITUTION AMOUNT           90.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+         .00      CRIME STOPPERS                  .00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       25.00      PROBATION MONITORIN          350.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       40.00      MOTION TO VACATE              40.00            .00
+         .00       STATE OFFENDER DNA             .00            .00
+       10.00      TR/CR SUR $10/$40             10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+       45.00      SHERIFF FEES                  45.00            .00
+        4.00      NOTICES MAILED 1ST             4.00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       70.00      WARRANT SERVICE FEE           70.00            .00
+        5.00      CLERK OP & ADMIN FU            5.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118037753 SHERIFF'S BOOKING FEE             20.00        07/16/12
+   118037753 BOND - ORIGINAL                  500.00        07/16/12
+   118169717 SHERIFF'S BOOKING FEE             20.00        10/04/12
+   118169717 BOND - ORIGINAL                  750.00        10/04/12
+   118636030 BOND TRANSFERS IN               2500.00        06/17/13
+   118636032 BOND -10% BOND FEE               125.00        06/17/13
+   118636032 *BOND REFUND                    1125.00        06/17/13
+   118636466 BOND -10% BOND FEE               250.00        06/17/13
+   118636466 *RESTITUTION AMOUNT               90.00        06/17/13
+   118636466 DOCUMENT STORAGE                   5.00        06/17/13
+   118636466 AUTOMATION                        10.00        06/17/13
+   118636466 CIRCUIT CLERK FEE                100.00        06/17/13
+   118636466 COURT SECURITY                    25.00        06/17/13
+   118636466 COURT FINANCE FEE                 50.00        06/17/13
+   118636466 STATES ATTORNEY                   40.00        06/17/13
+   118636466 STATES ATTORNEY AUTOMATI           2.00        06/17/13
+   118636466 ARRESTEE'S MEDICAL                10.00        06/17/13
+   118636466 PROBATION MONITORING FEE          25.00        06/17/13
+   118636466 PROBATION OPER ASSISTANC          10.00        06/17/13
+   118636466 MOTION TO VACATE                  40.00        06/17/13
+   118636466  STATE OFFENDER DNA ID S         250.00        06/17/13
+   118636466 TR/CR SUR $10/$40                 10.00        06/17/13
+   118636466 CLERK OP & ADMIN FUND             10.00        06/17/13
+   118636466 SHERIFF FEES                      45.00        06/17/13
+   118636466 NOTICES MAILED 1ST CLASS           4.00        06/17/13
+   118636466 VIOLENT CRIME VICTIMS AS         100.00        06/17/13
+   118636466 ST POLICE SERVICES FUND           10.00        06/17/13
+   118636466 ST POLICE OPERATIONS ASS          10.00        06/17/13
+   118636466 WARRANT SERVICE FEE               70.00        06/17/13
+   118636466 CLERK OP & ADMIN FUND              5.00        06/17/13
+   118636466 *RESTITUTION AMOUNT               90.00        06/17/13
+   118636479 *BOND TRANSFERS OUT             -412.00        06/17/13
+   118636481 *BOND REFUND                     917.00        06/17/13
+   118703910 PROBATION MONITORING FEE         250.00        07/29/13
+   118703910  STATE OFFENDER DNA ID S        -250.00        07/29/13
+   118721625 PROBATION MONITORING FEE          25.00        08/07/13
+   118825430 PROBATION MONITORING FEE          25.00        10/09/13
+   118878620 PROBATION MONITORING FEE          25.00        11/12/13
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  BURGLARY
+
+         2  BURGLARY
+
+         3  BURGLARY
+
+         4  BURGLARY
+
+         5  BURGLARY
+
+         6  FORGERY/ISSUE/DELIVER DOCUMENT
+
+         6  FORGERY/ISSUE/DELIVER DOCUMENT
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   07-02-12                 Charge 01 Count 001 BURGLARY
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 BURGLARY
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 03 Count 003 BURGLARY
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 04 Count 004 BURGLARY
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 05 Count 005 BURGLARY
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 06 Count 006 FORGERY/ISSUE/DELIVER DOCUMENT
+                            Statute 720 5/17-3(a)(2)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Defendant is admonished as to E
+XTENDED TERM
+                            Sentencing.  The Champaign County Public Defender is
+ appointed and
+                            Scott Schmidt appears instanter.  Defendant waives p
+reliminary
+                            hearing, enters a plea of not guilty and requests tr
+ial by jury.
+                            Pre-trial orders entered.  Bond is set in the amount
+ of $5,000-ROR
+                            DENIED. See expanded record.  Defendant is admonishe
+d as to trial and
+                            sentencing in absentia.
+                            Notice of arrest without warrant on file.
+   07-16-12                 Sheriff Booking Fee
+   07-23-12                 Discovery filed
+   08-22-12                 Supplemental Discovery filed
+   09-04-12                 Failure to appear warrant.
+                            Appearance of the People by Duke C. Harris.  No appe
+arance by the
+                            Defendant.  Appearance of Scott Schmidt for the defe
+ndant.  Motion by
+                            the People for bond forfeiture and warrant.  Objecti
+on by counsel for
+                            the Defendant.  Motion allowed over the objection.
+Defendant's bond
+                            forfeited. CIRCUIT CLERK TO SEND NOTICE OF THE HEARI
+NG ON FORFEITURE.
+                            Warrant to issue.  Bond set in the amount of $  7,50
+0.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+   09-06-12
+                            Warrant issued.  Bond set in the amount of $  7,500.
+00.
+   09-12-12                 Bond forfeiture notice prepared and mailed.
+   09-17-12                 Expanded record of arraignment proceedings.
+                            Katie Jessup appears on behalf of the Defendant. Cau
+se is re-allotted
+                            for Felony Pre-trial. Bond is to continue. See expan
+ded record.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.
+
+                            Bond forfeiture previously entered is vacated and bo
+nd is reinstated.
+                            Bond forfeiture hearing of 10/15/12 is vacated.
+   09-18-12                 Warrant served. Service fees $45.00
+   09-26-12                 Circuit Clerk mail returned undeliverable on file.
+   10-04-12                 FTA warrant service fee of $75 is still owed.
+                            The arresting agency is Champaign County Sheriff for
+ the FTA arrest of
+                            10-03-12.
+                            Sheriff Booking Fee
+   11-06-12                 Set for Trial-Defendant Appears
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   11-15-12                 Subpoena Served.  No Fees.
+   11-19-12                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   11-26-12                 Subpoena Served.  No Fees.
+
+                            People appear by Assistant State's Attorney Duke Har
+ris. Walter Ding
+                            appears on behalf of the Defendant. Substitution of
+Counsel placed on
+                            file. Bond Assignment placed on file. On motion of t
+he Defendant and
+                            without objection, cause is continued to the next tr
+ial term.
+   11-30-12                 Subpoena Served.  No Fees.
+   12-05-12                 Subpoena Served.  No Fees.
+   12-11-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   01-15-13                 Failure to appear warrant.
+                            Appearance of the People by Scott A. Larson.  No app
+earance by the
+                            Defendant.  Appearance of  Walter Ding for the defen
+dant.  Motion by
+                            the People for bond forfeiture and warrant.  Objecti
+on by counsel for
+                            the Defendant.  Motion allowed over the objection.
+Defendant's bond
+                            forfeited. CIRCUIT CLERK TO SEND NOTICE OF THE HEARI
+NG ON FORFEITURE.
+                            Warrant to issue.  Bond set in the amount of $ 10,00
+0.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+   01-17-13                 Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $ 10,000.
+00.
+   01-22-13                 Bond forfeiture notice prepared and mailed.
+   02-19-13
+                            People appear by Scott Larson. Defendant appears per
+sonally and by
+                            counsel, Walter Ding. On Defendant's motion, Bond Fo
+rfeiture order
+                            previously entered is vacated. Warrant is ordered qu
+ashed. Defendant's
+                            bond is reinstated. On Defendant's motion, cause is
+continued for
+                            further proceedings to March 12, 2013 at 9:00 a.m. i
+n Courtroom A.
+                            Defendant's bond to continue.
+                            Warrant Quashed
+   03-12-13
+                            No appearance of the defendant personally.  Suggesti
+on the defendant
+                            is in custody.  On defendant's motion cause allotted
+ for Pre-Trial on
+                            April 9, 2013 at 9:00 a.m. in Courtroom A.  Bond pre
+viously
+                            established to continue.
+   04-09-13                 Set for Trial-Defendant Appears
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+                            Copy of Quashed Warrant filed
+   04-22-13
+                            Cause allotted for possible Plea to June 5, 2013 at
+3:30 p.m. in
+                            Courtroom A.  Bond to continue.
+   06-05-13                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Sentence: 06/05/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Sentence: 06/05/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Sentence: 06/05/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Sentence: 06/05/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 05/00  Count 005  No Fine & Cost
+                            Disposition: Dismissed BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Sentence: 06/05/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 06/00  Count 006  Cost Only
+                            Disposition: Guilty FORGERY/ISSUE/DELIVER DOCUMENT
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/17-3(a)(2)  Class 3
+                            Sentence: 06/05/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  30Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  90Days In force
+                            Sentence: Credit Time Served  5Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  5Days In
+ force
+                            Sentence: Restitution  In force
+                            Cost Only              817.00     *RESTITUTION AMOUN
+T     90.00
+                            CRIME STOPPERS            .00     PROBATION MONITORI
+N    350.00
+                            MOTION TO VACATE        40.00      STATE OFFENDER DN
+A       .00
+                            NOTICES MAILED 1ST       4.00     WARRANT SERVICE FE
+E     70.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, Walter Ding.
+Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly u
+nderstandingly and
+                            voluntarily waives rights and enters a plea of guilt
+y to Count 06 of
+                            the charging instrument.  Finding Defendant is guilt
+y of the offense
+                            of Forgery/Issue/Deliver Document ILCS: 720 5/17-3(a
+)(2) as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.  All financial oblig
+ations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by 12/02/2013.   Defendant is ordered to serve
+ a period of  30
+                            months probation. Defendant is ordered to serve a pe
+riod of
+                            incarceration of  90 days in the Champaign County Co
+rrectional Center.
+                            Defendant is to receive credit for   5 days previous
+ly served. The
+                            Defendant is to submit specimens of blood, saliva, o
+r tissue to the
+                            Illinois Department of State Police or to the Depart
+ment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Count(s) stated
+                            in the written order are herby dismissed. Case Numbe
+r(s) stated in the
+                            written order are herby dismissed.  Any bond posted
+in said case(s)
+                            shall be transferred to the instant case and shall b
+e applied to any
+                            fines, fees, costs, assessments, and/or restitution
+imposed herein;
+                            any remaining bond shall be used to satisfy such oth
+er of the
+                            Defendant's Champaign County criminal or traffic cas
+es in which the
+                            Defendant owes an outstanding balance of fines, fees
+, costs,
+                            assessments and/or restitution. Defendant advised of
+ right to appeal
+                            and rights pursuant to Supreme Court Rule 605 and th
+e Court finds that
+                            the defendant understands the same.  Written Sentenc
+ing Order entered.
+                            See ORDER.   Bond released.  Bond deposit is to be p
+aid over to
+                            counsel for the defendant pursuant to the assignment
+ of bond filed
+                            this date.    Defendant remanded to the custody of t
+he Sheriff.
+                            Within 7 days of his release from incarceration the
+defendant is to
+                            report to the Champaign County Probation and Court S
+ervices
+                            Department.
+   06-17-13                 Bond Type Transfer Bond From    2013CF000354 STUMP D
+ALE
+                            Bond
+                            Bond
+                            Bond Type Transfer Bond To    2013TR000656 STUMP DAL
+E R III
+                            Bond
+   07-23-13                 Defendant's change of address filed
+   07-29-13                 Court Ordered Payments
+                            Notice received from Court Services/Circuit Court th
+at the
+                            Defendant had previously provided a sample of his bl
+ood, saliva or
+                            tissue for DNA analysis.  Therefore, per Administrat
+ive Order 10-1,
+                            that part of the sentencing order has been satisfied
+.
+   08-07-13                 Court Ordered Payments
+   10-09-13                 Court Ordered Payments
+   11-12-13                 Court Ordered Payments
+   12-31-13                 Order of Unsuccessful Discharge from Probation enter
+ed.
+                            Disposition 06/01  Count 006  Manual Calculations
+                            Disposition: Terminated Unsatisfied FORGERY/ISSUE/DE
+LIVER DOCUMENT
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/17-3(a)(2)  Class 3
+                            Sentence: 12/31/2013
+                            Sentence: No Sentence  In force
+                            Case closed.
+   01-24-14                 Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

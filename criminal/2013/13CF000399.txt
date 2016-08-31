@@ -1,0 +1,272 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF000399
+
+   Defendant Plaintiff
+MOCKABEE  ARIAN J
+316 ROYAL CT
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 03/11/13
+                Court Room:
+           Next Appearance: 06/24/14
+                Birth Date: 06/30/78
+                 DEFENDANT: MOCKABEE  ARIAN J
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+         .00      CRIME STOPPERS                  .00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       25.00      PROBATION MONITORIN          300.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       54.20      COLLECTION FEES               54.20            .00
+       70.80      LATE FEES                     70.80            .00
+      108.64      TAX INTERCEPT                108.64            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118479697 SHERIFF'S BOOKING FEE             20.00        03/11/13
+   118479697 BOND - ORIGINAL                  150.00        03/11/13
+   118665437 BOND -10% BOND FEE                15.00        07/03/13
+   118665437 DOCUMENT STORAGE                   5.00        07/03/13
+   118665437 E-CITATION                         5.00        07/03/13
+   118665437 AUTOMATION                        10.00        07/03/13
+   118665437 CIRCUIT CLERK FEE                 75.00        07/03/13
+   118665437 COURT SECURITY                    25.00        07/03/13
+   118665437 COURT FINANCE FEE                 15.00        07/03/13
+   121523266 COURT FINANCE FEE                 10.00        03/31/15
+   121523266 STATES ATTORNEY                   16.17        03/31/15
+   121523266 COLLECTION FEES                    2.18        03/31/15
+   121558490 STATES ATTORNEY                    3.83        04/28/15
+   121558490 STATES ATTORNEY AUTOMATI           2.00        04/28/15
+   121558490 ARRESTEE'S MEDICAL                10.00        04/28/15
+   121558490 PROBATION MONITORING FEE          46.33        04/28/15
+   121558490 COLLECTION FEES                    5.18        04/28/15
+   121656708 PROBATION MONITORING FEE          44.49        05/19/15
+   121656708 COLLECTION FEES                    3.70        05/19/15
+   121616797 PROBATION MONITORING FEE          26.76        06/02/15
+   121616797 COLLECTION FEES                    2.43        06/02/15
+   121616797 LATE FEES                          2.44        06/02/15
+   121749911 PROBATION MONITORING FEE          24.39        06/06/15
+   121749911 COLLECTION FEES                    2.44        06/06/15
+   121749911 TAX INTERCEPT                      4.88        06/06/15
+   121762361 PROBATION MONITORING FEE          37.04        06/16/15
+   121762361 COLLECTION FEES                    3.70        06/16/15
+   121762361 TAX INTERCEPT                      7.42        06/16/15
+   121783464 PROBATION MONITORING FEE         109.88        06/30/15
+   121783464 PROBATION OPER ASSISTANC          10.00        06/30/15
+   121783464 TR/CR SUR $10/$40                 10.00        06/30/15
+   121783464 CLERK OP & ADMIN FUND             10.00        06/30/15
+   121783464 DRUG COURT PROGRAM                 5.00        06/30/15
+   121783464 VIOLENT CRIME VICTIMS AS          73.57        06/30/15
+   121783464 COLLECTION FEES                   21.81        06/30/15
+   121783464 TAX INTERCEPT                     43.74        06/30/15
+   121791477 VIOLENT CRIME VICTIMS AS           1.43        07/14/15
+   121791477 ST POLICE SERVICES FUND           10.00        07/14/15
+   121791477 COLLECTION FEES                    4.00        07/14/15
+   121791477 LATE FEES                         18.60        07/14/15
+   121791477 TAX INTERCEPT                      8.01        07/14/15
+   121791477 ST POLICE OPERATIONS ASS          10.00        07/14/15
+   121803933 COLLECTION FEES                    3.91        07/21/15
+   121803933 LATE FEES                         38.66        07/21/15
+   121803933 TAX INTERCEPT                      8.35        07/21/15
+   121772099 PROBATION MONITORING FEE          11.11        08/25/15
+   121772099 COLLECTION FEES                    1.12        08/25/15
+   121772099 TAX INTERCEPT                      2.40        08/25/15
+   121806315 COLLECTION FEES                    2.57        08/04/15
+   121806315 LATE FEES                         11.10        08/04/15
+   121806315 TAX INTERCEPT                     19.85        08/04/15
+   121810028 COLLECTION FEES                    1.16        09/01/15
+   121810028 TAX INTERCEPT                     13.99        09/01/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG BATTERY/PUBLIC PLACE
+
+         2  BATTERY/CAUSE BODILY HARM
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   03-11-13                 Charge 01 Count 001 AGG BATTERY/PUBLIC PLACE
+                            Statute 720 5/12-3.05(c)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Sheriff Booking Fee
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned.  Public Defender is appointe
+d and Jim Kuehl
+                            appears instanter.  Defendant requests Preliminary h
+earing.  Defendant
+                            is admonished as to trial and sentencing in absentia
+. Bond is to
+                            continue as posted. As a condition of bond, Defendan
+t is ordered to
+                            have NO CONTACT whatsoever, directly or indirectly,
+with the victim
+                            recited in open court.  See expanded record.
+                            NO BOND No Bond
+   03-28-13                 Pre-trial order after waiver or finding of probable
+cause.
+                            People appear by Sarah J. Carlson.  Defendant appear
+s with counsel,
+                            Walter Ding. Defendant waives preliminary hearing, e
+nters a plea of
+                            not guilty and requests trial by jury. Pre-Trial Ord
+ers entered. See
+                            Orders. Bond to continue
+   04-10-13                 Discovery filed
+   05-07-13                 By agreement, trial allotment vacated
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   06-11-13
+                            On defendant's motion cause allotted for the Jury Tr
+ial Call on June
+                            24, 2013 at 1:00 p.m. in Courtroom A.  Bond to conti
+nue.
+   06-21-13                 Subpoena not served.
+                            Subpoena Served.  No Fees.
+   06-24-13                 Charge 02 Count 002 BATTERY/CAUSE BODILY HARM
+                            Statute 720 5/12-3(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG BATTERY/PUBLIC PLACE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(c)  Class 3  Orig.
+                            Sentence: 06/24/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Cost Only
+                            Disposition: Guilty BATTERY/CAUSE BODILY HARM
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3(a)(1)  Class A
+                            Sentence: 06/24/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: No contact order.  In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Cost Only              322.00     CRIME STOPPERS
+        .00
+                            PROBATION MONITORIN    300.00     COLLECTION FEES
+      54.20
+                            LATE FEES               70.80     TAX INTERCEPT
+     108.64
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, Walter Ding.
+Count II on file.
+                            Defendant arraigned on Count II.  Defendant advised
+as to the nature
+                            of the proceedings, the charges and the possible pen
+alties that may be
+                            imposed and the Court finds that the Defendant under
+stands the same.
+                            Finding Defendant knowingly understandingly and volu
+ntarily waives
+                            rights and enters a plea of guilty to Count 02 of th
+e charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of
+                            Battery/Cause Bodily Harm ILCS: 720 5/12-3(a)(1) as
+charged. Judgment
+                            entered in favor of the People and against the defen
+dant on finding of
+                            guilt and for costs.  All financial obligations shal
+l be paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk by
+                            12/23/2013.  Any bond posted is to be applied first
+to any court
+                            ordered bond assignment on file and then to all rest
+itution ordered
+                            and then to all financial obligations in this case.
+ Any remaining
+                            bond shall be discharged to the individual who poste
+d the bond.
+                            Defendant is ordered to serve a period of  12 months
+ Conditional
+                            Discharge. Defendant is to have no contact, directly
+ or indirectly, in
+                            person, by telephone or electronically with the pers
+ons stated in the
+                            written order. Count(s) stated in the written order
+are herby
+                            dismissed. Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.   Written Sentencing Order ent
+ered.  See ORDER.
+   07-03-13                 Bond
+   11-18-14                 Case sent out for collections.
+   03-31-15                 Court Ordered Payments
+   04-28-15                 Cash
+   05-19-15                 Cash
+   06-02-15                 Cash
+   06-06-15                 Cash
+   06-16-15                 Cash
+   06-30-15                 Cash
+   07-14-15                 Cash
+   07-21-15                 Cash
+   08-04-15                 Cash
+   08-25-15                 Cash
+   09-01-15                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

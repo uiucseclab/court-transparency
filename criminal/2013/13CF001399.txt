@@ -1,0 +1,290 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF001399
+
+   Defendant Plaintiff
+MOTLEY  ANTHONY D
+206 E HILL
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 08/26/13
+                Court Room: A
+           Next Appearance: 12/27/13  09:30
+                Birth Date: 04/04/73
+                 DEFENDANT: MOTLEY  ANTHONY D
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       45.00      BOND -10% BOND FEE            45.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+      250.00       STATE OFFENDER DNA          153.00          97.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+       37.00      SHERIFF FEES                    .00          37.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       94.53      COLLECTION FEES                 .00          94.53
+       41.10      LATE FEES                       .00          41.10
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118751798 SHERIFF'S BOOKING FEE             20.00        08/26/13
+   118751798 BOND - ORIGINAL                  150.00        08/26/13
+   118919177 BOND TRANSFERS IN                150.00        12/05/13
+   118919780 BOND TRANSFERS IN                150.00        12/05/13
+   120830513 BOND -10% BOND FEE                45.00        12/11/13
+   120830513 DOCUMENT STORAGE                   5.00        12/11/13
+   120830513 AUTOMATION                        10.00        12/11/13
+   120830513 CIRCUIT CLERK FEE                100.00        12/11/13
+   120830513 COURT SECURITY                    25.00        12/11/13
+   120830513 COURT FINANCE FEE                 50.00        12/11/13
+   120830513 STATES ATTORNEY                   40.00        12/11/13
+   120830513 STATES ATTORNEY AUTOMATI           2.00        12/11/13
+   120830513 ARRESTEE'S MEDICAL                10.00        12/11/13
+   120830513 PROBATION OPER ASSISTANC          10.00        12/11/13
+   120830513  STATE OFFENDER DNA ID S         153.00        12/11/13
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  BURGLARY
+
+         2  THEFT CON INTENT <$500 PRIOR
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   08-26-13                 Charge 01 Count 001 BURGLARY
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Sheriff Booking Fee
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned. Defendant admonished as to NON-
+PROBATIONABLE
+                            OFFENSE. Defendant admonished CLASS X SENTENCING. Th
+e Champaign County
+                            Public Defender is appointed and Lindsey Yanchus app
+ears instanter.
+                            Defendant waives preliminary hearing, enters a plea
+of not guilty and
+                            requests trial by jury.  Pre-trial orders entered.
+Bond to continue.
+                            See expanded record.  Defendant is admonished as to
+trial and
+                            sentencing in absentia.
+                            Notice of arrest without warrant on file.
+                            Charge 02 Count 002 THEFT CON INTENT <$500 PRIOR
+                            Statute 720 5/16-1(a)(1)(A)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   09-04-13                 Proof of service on file.
+                            Discovery filed.
+   09-05-13                 Answer to Discovery filed
+   10-08-13
+                            Defendant appears with L. Yanchus for S. Corum.  On
+motion of the
+                            defendant cause allotted for the Jury Trial Call on
+October 28, 2013
+                            at 1:00 p.m. in Courtroom A.  Bond to continue.
+   10-15-13                 Subpoena Served.  No Fees.
+   10-18-13                 Subpoena Served.  No Fees.
+   10-28-13
+                            Cause allotted for possible Plea on December 2, 2013
+ at 2:30 p.m. in
+                            Courtroom A.  Bond to continue.
+   10-31-13                 Subpoena not served.
+   11-08-13                 Proof of service on file.
+                            Supplemtenal Discovery on file.
+   12-02-13                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2
+                            Sentence: 12/02/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Cost Only
+                            Disposition: Guilty THEFT CON INTENT <$500 PRIOR
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16-1(a)(1)(A)  Class 4
+                            Sentence: 12/02/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Department Of Corrections  18Mos In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              474.00      STATE OFFENDER DN
+A    250.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Assistant State's Attorn
+ey Scott Larson.
+                            Appearance of the Defendant personally and by counse
+l, Stephanie A.
+                            Corum.   Defendant admonished as to the charges cont
+ained in Count 02
+                            of the charging information and the possible penalti
+es that may be
+                            imposed. Defendant admonished as to EXTENDED-TERM SE
+NTENCING.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Theft Con Intent <$500 Prio
+r ILCS: 720
+                            5/16-1(a)(1)(A) as charged. Judgment entered in favo
+r of the People
+                            and against the defendant on finding of guilt and fo
+r costs.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  6/02/2014.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of incarceration of  18 months in the Illinoi
+s Department of
+                            Corrections. Defendant is to receive credit for   2
+days previously
+                            served.    The Defendant is to submit specimens of b
+lood, saliva, or
+                            tissue to the Illinois Department of State Police or
+ to the Department
+                            of Corrections within 45 days, at a collection site
+designated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Count(s) stated
+                            in the written order are herby dismissed. Case Numbe
+r(s) stated in the
+                            written order are herby dismissed.  Any bond posted
+in said case(s)
+                            shall be transferred to the instant case and shall b
+e applied to any
+                            fines, fees, costs, assessments, and/or restitution
+imposed herein;
+                            any remaining bond shall be used to satisfy such oth
+er of the
+                            Defendant's Champaign County criminal or traffic cas
+es in which the
+                            Defendant owes an outstanding balance of fines, fees
+, costs,
+                            assessments and/or restitution. Defendant advised of
+ right to appeal
+                            and rights pursuant to Supreme Court Rule 605 and th
+e Court finds that
+                            the defendant understands the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+                            Motion by the Defendant to stay imposed sentence. Mo
+tion allowed.
+                            Defendant is ordered to report for commencement of i
+mposed sentence on
+                            December 26, 2013 at 9:00 a.m. in Courtroom A.
+                            Mittimus prepared.
+                            Judgment - Sentence to Illinois Dept. of Corrections
+.
+   12-05-13                 Bond Type Transfer Bond From    2013TR005578 MOTLEY
+ANTHONY D
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Bond Type Transfer Bond From    2013TR010099 MOTLEY
+ANTHONY D
+   12-11-13                 Bond
+   12-26-13
+                            Defendant appears by Stephanie Corum.  No appearance
+ of the defendant
+                            personally.  Fax from Carle Foundation Hospital tend
+ered to the court
+                            by Ms. Corum.  Motion by the People for arrest warra
+nt to issue.
+                            Cause allotted for Hearing on the Motion for arrest
+warrant to issue
+                            on December 27, 2013 at 9:30 a.m. in Courtroom A.
+   12-27-13                 No bond warrant.
+                            People appear by Lindsey Clark.  No appearance of th
+e defendant.
+                            Stephanie A. Corum appears for the defendant.  Motio
+n by the People
+                            for a warrant to issue based on the defendant's fail
+ure to appear on
+                            December 26, 2013 as required by the order entered D
+ecember 2, 2013.
+                            Motion is allowed.  Warrant to issue with No Bond.
+When the defendant
+                            is apprehended on the warrant he is to be brought be
+fore this court.
+                            Warrant issued.  No Bond.
+   12-30-13                 Statement of State's Attorney filed
+   01-09-14                 Representation the defendant was apprehended on the
+no bond warrant on
+                            January 8, 2014.  Defendant remanded to the custody
+of the Sheriff for
+                            transportation to the Illinois Department of Correct
+ions.
+                            Cause set for arraignment on
+                            Warrant served. Service fees $37.00
+                            Expanded record of court proceedings on arraignment.
+                            E-Mail on file.
+   01-14-14
+   09-11-14                 Payment Due
+   10-26-15                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

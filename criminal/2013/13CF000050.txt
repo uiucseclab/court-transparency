@@ -1,0 +1,469 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF000050
+
+   Defendant Plaintiff
+BROWN  KYRELL N
+104 E WASHINGTON ST
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/10/13
+                Court Room: A
+           Next Appearance: 02/23/16  01:30
+                Birth Date: 06/14/93
+                 DEFENDANT: BROWN  KYRELL N
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       50.00      BOND -10% BOND FEE            50.00            .00
+        2.00      NOTICES MAILED 1ST             2.00            .00
+      448.00      BOND FORFEITURE              448.00            .00
+     4552.00      UNSATISFIED JUDGMEN             .00        4552.00
+         .00                                      .00            .00
+     1570.44      COLLECTION FEES                 .00        1570.44
+      682.80      LATE FEES                       .00         682.80
+      100.00      BOND -10% BOND FEE           100.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN           25.00         400.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       10.00      DOMESTIC BATTERY              10.00            .00
+       60.00      TRAFFIC/CRIMINAL SU           60.00            .00
+       75.00      SHERIFF FEES                  75.00            .00
+         .00      FINES                           .00            .00
+        2.00      NOTICES MAILED 1ST             2.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+      125.00      DOMESTIC VIOLENCE            125.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+      138.00      COLLECTION FEES                 .00         138.00
+       60.00      LATE FEES                       .00          60.00
+       10.00      ST POLICE OPERATION           10.00            .00
+       70.00      WARRANT SERVICE FEE           70.00            .00
+       15.00      CLERK OP & ADMIN FU           15.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118402163 SHERIFF'S BOOKING FEE             20.00        01/24/13
+   118402163 BOND - ORIGINAL                  500.00        01/24/13
+   118628392 BOND -10% BOND FEE                50.00        06/11/13
+   118628392 NOTICES MAILED 1ST CLASS           2.00        06/11/13
+   118628392 BOND FORFEITURE                  448.00        06/11/13
+   118769441 SHERIFF'S BOOKING FEE             20.00        09/06/13
+   118769441 BOND - ORIGINAL                 1000.00        09/06/13
+   118900199 BOND -10% BOND FEE               100.00        11/22/13
+   118900199 DOCUMENT STORAGE                   5.00        11/22/13
+   118900199 E-CITATION                         5.00        11/22/13
+   118900199 AUTOMATION                        10.00        11/22/13
+   118900199 CIRCUIT CLERK FEE                 75.00        11/22/13
+   118900199 COURT SECURITY                    25.00        11/22/13
+   118900199 COURT FINANCE FEE                 25.00        11/22/13
+   118900199 STATES ATTORNEY                   20.00        11/22/13
+   118900199 STATES ATTORNEY AUTOMATI           2.00        11/22/13
+   118900199 CRIME STOPPERS                     5.00        11/22/13
+   118900199 ARRESTEE'S MEDICAL                10.00        11/22/13
+   118900199 PROBATION MONITORING FEE          25.00        11/22/13
+   118900199 PROBATION OPER ASSISTANC          10.00        11/22/13
+   118900199 DOMESTIC BATTERY                  10.00        11/22/13
+   118900199 TR/CR SUR $10/$40                 60.00        11/22/13
+   118900199 DRUG COURT PROGRAM                 5.00        11/22/13
+   118900199 SHERIFF FEES                      75.00        11/22/13
+   118900199 NOTICES MAILED 1ST CLASS           2.00        11/22/13
+   118900199 VIOLENT CRIME VICTIMS AS          75.00        11/22/13
+   118900199 DOMESTIC VIOLENCE                125.00        11/22/13
+   118900199 ST POLICE SERVICES FUND           10.00        11/22/13
+   118900199 ST POLICE OPERATIONS ASS          10.00        11/22/13
+   118900199 WARRANT SERVICE FEE               70.00        11/22/13
+   118900199 CLERK OP & ADMIN FUND             15.00        11/22/13
+   118900199 *BOND REFUND                     226.00        11/22/13
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG BTRY/PREGNANT/HANDICAPPED
+
+         2  DOMESTIC BATTERY/BODILY HARM
+
+         2  DOMESTIC BATTERY/BODILY HARM
+
+         2  DOMESTIC BATTERY/BODILY HARM
+
+         3  DOMESTIC BATTERY/BODILY HARM
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   01-10-13                 Charge 01 Count 001 AGG BTRY/PREGNANT/HANDICAPPED
+                            Statute 720 5/12-3.05(d)(2)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Created and properly labeled court case file.
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and J. Propps appears instanter.  Defendan
+t waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  See expanded recor
+d.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+                            Bond set in the amount of $5000. ROR DENIED.
+                            Defendant is to HAVE NO CONTACT WITH the named victi
+m or address
+                            recited for the record.
+                            Charge 02 Count 002 DOMESTIC BATTERY/BODILY HARM
+                            Statute 720 5/12-3.2(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   01-11-13                 Notice of arrest without warrant on file.
+   01-16-13                 Discovery filed
+   01-24-13                 Sheriff Booking Fee
+   03-12-13
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   04-24-13                 Failure to appear warrant.
+                            Appearance of the People by Scott A. Larson.  No app
+earance by the
+                            Defendant.  Appearance of Scott Schmidt for the defe
+ndant.  Motion by
+                            the People for bond forfeiture and warrant.  Objecti
+on by counsel for
+                            the Defendant.  Motion allowed over the objection.
+Defendant's bond
+                            forfeited. Cause allotted for Bond Forfeiture Hearin
+g on June 5, 2013
+                            at 1:30 p.m. in Courtroom A.  CIRCUIT CLERK TO SEND
+NOTICE OF THE
+                            HEARING ON FORFEITURE.  Warrant to issue.  Bond set
+in the amount of $
+                            10,000.00.
+                            Count II placed on file.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+   04-25-13                 Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $ 10,000.
+00.
+                            Bond forfeiture notice prepared and mailed.
+   06-05-13                 Judgment on bond forfeiture.
+                            Appearance of the People by Scott A. Larson.  No app
+earance by the
+                            Defendant.  S. Schmidt appears for the defendant.  P
+roof of Notice of
+                            Hearing by mail on file and approved.  Judgment is e
+ntered on the
+                            forfeiture in the amount of $5,000 plus costs.  Defe
+ndant's bond
+                            posted to apply.  Warrant issued April 25, 2013 cont
+inues in full
+                            force and effect.
+                            Disposition 02/00  Count 002  Bond Forfeiture
+                            Disposition: Judgment on Forfeiture DOMESTIC BATTERY
+/BODILY HARM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(1)  Class A  Orig.
+                            Sentence: 06/05/2013
+                            Sentence: No Sentence  In force
+                            Bond Forfeiture        498.00     NOTICES MAILED 1ST
+       2.00
+                            UNSATISFIED JUDGMEN   4552.00
+   06-11-13                 Bond
+   08-30-13                 Expanded Record and/or Pre-trial Order
+                            Amanda Riess appears on behalf of the Defendant. Cau
+se is re-allotted
+                            for Felony Pre-trial. Bond is to continue. See expan
+ded record.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.
+   09-03-13                 Certificate of service on file.
+                            Warrant of arrest filed.
+   09-06-13                 FTA warrant service fee of $75 is still owed.
+                            The arresting agency is
+                            Parkland Police Dept.
+                            Sheriff Booking Fee
+   10-08-13                 Failure to appear warrant.
+                            Appearance of the People by Scott A. Larson.  No app
+earance by the
+                            Defendant.  Appearance of S. Corum for James B. Kueh
+l for the
+                            defendant.  Motion by the People for bond forfeiture
+ and warrant.
+                            Objection by counsel for the Defendant.  Motion allo
+wed over the
+                            objection.  Defendant's bond forfeited. Cause allott
+ed for Bond
+                            Forfeiture Hearing on November 12, 2013 at 9:30 a.m.
+ in Courtroom A.
+                            CIRCUIT CLERK TO SEND NOTICE OF THE HEARING ON FORFE
+ITURE.  Warrant to
+                            issue.  Bond set in the amount of $ 10,000.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+   10-10-13                 Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $ 10,000.
+00.
+                            Bond forfeiture notice prepared and mailed.
+   10-21-13                 Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            People appear by Julia Rietz.  Defendant appears in-
+custody and by
+                            counsel, Tony Allegretti.  Cause re-allotted for fel
+ony pre-trial.
+                            Bond to continue. Bond forfeiture date previously en
+tered is vacated.
+                            Defendant admonished as to trial and sentencing in a
+bsentia.  See
+                            expanded record.
+   10-24-13                 Warrant served. Service fees $37.00
+   11-05-13
+                            James Kuehl appears for the Defendant.  No appearanc
+e of the defendant
+                            personally.  Suggestion the defendant is in custody.
+  Defendant moves
+                            for a continuance.  People announce ready for trial.
+  Cause allotted
+                            for the Jury Trial Call on November 18, 2013 at 1:00
+ p.m. in Courtroom
+                            A.  Bond previously established to continue.
+   11-12-13                 Cause allotted for plea to
+                            Subpoena Served.  No Fees.
+   11-13-13                 Charge 03 Count 003 DOMESTIC BATTERY/BODILY HARM
+                            Statute 720 5/12-3.2(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG BTRY/PREGNANT/HANDICAPPED
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(d)(2)  Class 3
+                            Sentence: 11/13/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed DOMESTIC BATTERY/BODILY HARM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(1)  Class A
+                            Sentence: 11/13/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/01  Count 002  Fine + Cost
+                            Disposition: Guilty DOMESTIC BATTERY/BODILY HARM
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/12-3.2(a)(1)  Class A
+                            Sentence: 11/13/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  15Days In force
+                            Sentence: Credit Time Served  15Days In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Partner Abuse Intervention Program  60Days
+ In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Credit toward all fees and fines  15Days I
+n force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            532.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    425.00     DOMESTIC BATTERY
+      10.00
+                            NOTICES MAILED 1ST       2.00     DOMESTIC VIOLENCE
+     125.00
+                            WARRANT SERVICE FEE     70.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, James B. Kuehl.
+   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Domestic Battery/Bodily Har
+m ILCS: 720
+                            5/12-3.2(a)(1) as charged. Judgment entered in favor
+ of the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  5/12/2014.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  24 months probation. Defendant is ordered
+ to serve a period
+                            of incarceration of  15 days in the Champaign County
+ Correctional
+                            Center. Defendant is to receive credit for  15 days
+previously served.
+                            Defendant is to obtain an evaluation for alcohol and
+ drug abuse from
+                            an agency or agent recommended by the Court Services
+ Department, and
+                            follow any recommendations contained therein as to t
+reatment and/or
+                            counseling. Defendant is to enroll in a Partner Abus
+e Intervention
+                            Program approved by the Champaign County Court Servi
+ces Department
+                            within  60 days and successfully complete it without
+ termination.
+                            Count(s) stated in the written order are herby dismi
+ssed. Case
+                            Number(s) stated in the written order are herby dism
+issed.  Any bond
+                            posted in said case(s) shall be transferred to the i
+nstant case and
+                            shall be applied to any fines, fees, costs, assessme
+nts, and/or
+                            restitution imposed herein; any remaining bond shall
+ be used to
+                            satisfy such other of the Defendant's Champaign Coun
+ty criminal or
+                            traffic cases in which the Defendant owes an outstan
+ding balance of
+                            fines, fees, costs, assessments and/or restitution.
+  Waiver of Jury
+                            on file. Sentencing Order entered this date. See Ord
+er.  Defendant
+                            discharged from incarceration.  Within 24 hours the
+defendant is to
+                            report to the Champaign County Probation and Court S
+ervices Department
+                            for intake services.
+   11-18-13                 Report to ISP for possible firearms disqualification
+.
+                            Misdemeanor Domestic Violence FOID notification sent
+ to ISP.
+   11-20-13                 Subpoena Served.  No Fees.
+   11-22-13                 Bond
+   11-03-14                 Prepared blueback certificate.
+   07-01-15                 Probation transferred to McLean Co. effective April,
+ 2015.
+                            Probation monitoring fees reduced accordingly.
+   09-10-15                 Probation Violation Report on file
+   09-11-15                 Verified information on Petition to Revoke Probation
+ on file
+                            Summons issued this date.
+                            Summons issued.
+                            Petition to Revoke Probation filed.
+   09-16-15                 Summons not served by CCSO
+                            Summons Not served on Kyrell N. Brown by Champaign C
+ounty Sheriff's
+                            Office on   on file.
+   10-06-15                 Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ra
+ndall Rosenbaum
+                            appears instanter.  General denial to the Petition i
+s entered.  Bond
+                            set in the amount of $1,000-ROR ALLOWED. Defendant i
+s admonished as to
+                            trial and sentencing in absentia.  See expanded reco
+rd.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+                            Released On Recognizance bond form on file.
+   10-26-15                 Defendant motion to continue hearing on petition to
+revoke.
+                            People appear by Scott A. Larson.  Defendant appears
+ with Lindsey
+                            Yanchus.  On motion of defendant's counsel, cause al
+lotted for further
+                            proceedings on the petition to revoke probation on N
+ovember 30, 2015
+                            at 1:30 p.m. in Courtroom A.  Bond is to continue.
+   11-30-15                 By agreement, cause continued.
+                            People appear by Scott Larson.  Defendant appears pe
+rsonally and with
+                            counsel, Tony L. Allegretti. By agreement, cause is
+re-allotted for
+                            hearing on the Petition to Revoke.
+   02-17-16
+                            By agreement cause allotted for further proceedings
+on the petition to
+                            revoke probation to February 23, 2016 at 1:30 p.m..
+in Courtroom A.
+                            Bond is to continue.
+   02-18-16                 At the request of Assistant State's Attorney Scott L
+arson, Petition
+                            to Revoke Probation filed 9/11/15 is withdrawn and d
+ismissed.
+                            Defendant is discharged as to that petition.  Defend
+ant's bond is
+                            released.  Probation order entered 11/14/13 is termi
+nated.  Hearing
+                            allotment for 2/23/16 is vacated.
+                            Disposition 02/02  Count 002  No Fine & Cost
+                            Disposition: Probation Terminated DOMESTIC BATTERY/B
+ODILY HARM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(1)  Class A
+                            Sentence: 02/18/2016
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            E-mail on file.
+   02-23-16                 Case closed.
+   02-25-16                 Disposition sent through ADR process this date. SPT
+   05-03-16                 Prepared blueback certificate.
+   06-06-16                 Case sent out for collections.
+                            Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

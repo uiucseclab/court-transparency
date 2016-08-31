@@ -1,0 +1,255 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF001964
+
+   Defendant Plaintiff
+MENDOZA  GIOVANNI J
+4420 N MEADE
+CHICAGO IL 60630
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 12/03/12
+                Court Room:
+           Next Appearance: 02/19/14
+                Birth Date: 01/13/93
+                 DEFENDANT: MENDOZA  GIOVANNI J
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+      500.00      *RESTITUTION AMOUNT          500.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       10.00      STATES ATTORNEY               10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          300.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       30.00      TRAFFIC/CRIMINAL SU           30.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       95.00      FINES                         95.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118268012 SHERIFF'S BOOKING FEE             20.00        12/03/12
+   118268012 BOND - ORIGINAL                  150.00        12/03/12
+   118418793 BOND - ORIGINAL                  500.00        01/31/13
+   118472404 BOND -10% BOND FEE                15.00        03/06/13
+   118472404 *RESTITUTION AMOUNT              500.00        03/06/13
+   118472404 DOCUMENT STORAGE                   5.00        03/06/13
+   118472404 E-CITATION                         5.00        03/06/13
+   118472404 AUTOMATION                        10.00        03/06/13
+   118472404 CIRCUIT CLERK FEE                 75.00        03/06/13
+   118472404 COURT SECURITY                    25.00        03/06/13
+   118472404 COURT FINANCE FEE                 15.00        03/06/13
+   118472404 *RESTITUTION AMOUNT              500.00        03/06/13
+   120936571 COURT FINANCE FEE                 10.00        02/19/14
+   120936571 STATES ATTORNEY                   10.00        02/19/14
+   120936571 STATES ATTORNEY AUTOMATI           2.00        02/19/14
+   120936571 CRIME STOPPERS                     5.00        02/19/14
+   120936571 ARRESTEE'S MEDICAL                10.00        02/19/14
+   120936571 PROBATION MONITORING FEE         300.00        02/19/14
+   120936571 PROBATION OPER ASSISTANC          10.00        02/19/14
+   120936571 TR/CR SUR $10/$40                 30.00        02/19/14
+   120936571 DRUG COURT PROGRAM                 5.00        02/19/14
+   120936571 FINES                             95.00        02/19/14
+   120936571 VIOLENT CRIME VICTIMS AS          75.00        02/19/14
+   120936571 ST POLICE OPERATIONS ASS          10.00        02/19/14
+   120936571 PERSONAL CHECK/CREDIT CA          30.00        02/19/14
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  KNOW DAMAGE PROP >$300-10K
+
+         2  KNOWINGLY DAMAGE PROP<$300
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   12-03-12                 Charge 01 Count 001 KNOW DAMAGE PROP >$300-10K
+                            Statute 720 5/21-1(1)(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Sheriff Booking Fee
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Pam Burnside appears instanter.  Defen
+dant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond is to continu
+e as posted. See
+                            expanded record.  Defendant is admonished as to tria
+l and sentencing
+                            in absentia.
+                            Charge 02 Count 002 KNOWINGLY DAMAGE PROP<$300
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   12-04-12                 Notice of arrest without warrant on file.
+   12-05-12                 Discovery filed
+   12-06-12                 Answer to Discovery filed
+   01-22-13                 By agreement, trial allotment vacated
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+                            Motion to Continue Trial filed.
+   01-31-13                 Bond Type Full Cash
+   02-19-13                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed KNOW DAMAGE PROP >$300-10K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/21-1(1)(a)  Class 4  Orig.
+                            Sentence: 02/19/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Withhold Judgment/Supervision KNOWINGLY
+ DAMAGE PROP<$300
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Sentence: 02/19/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Court Supervision  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  4Days In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Fine + Cost            402.00     *RESTITUTION AMOUN
+T    500.00
+                            E-CITATION               5.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    300.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Stephanie Weber.  Appear
+ance of the
+                            Defendant personally and by counsel, George Vargas.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Knowingly Damage Prop<$300
+ILCS: 720
+                            5/21-1(1)(a) as charged. Upon the plea entered this
+date,Defendant is
+                            sentenced to all terms and conditions as set forth i
+n the written
+                            order on guilty plea entered this date. All financia
+l obligations
+                            shall be paid in equal monthly installments to the C
+hampaign County
+                            Circuit Clerk by  8/19/2013.  Any bond posted is to
+be applied first
+                            to any court ordered bond assignment on file and the
+n to all
+                            restitution ordered and then to all financial obliga
+tions in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of  12 months
+                            Court Supervision. Defendant is ordered to serve a p
+eriod of
+                            incarceration of   4 days in the Champaign County Co
+rrectional Center.
+                            Defendant is to receive credit for   1 days previous
+ly served.
+                            Count(s) stated in the written order are herby dismi
+ssed. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Defendant is ordered to report for commencement of s
+entence
+   02-22-13                 Order
+                            Appearance of the People by T. Lozar. Appearance of
+the Defendant
+                            personally and with G. Vargas. Defendant remanded to
+ the custody of
+                            the Sheriff to begin the sentence imposed. Defendant
+ admonished as to
+                            the appeal rights and the Court finds he understands
+ the same.  Order
+                            of Imprisonment entered. SEE ORDER.
+   03-06-13                 Bond
+   08-22-13                 Defendant's Motion for Extension of Time to Pay Cost
+s filed
+                            and forwarded to court.
+   08-26-13                 Motion for Extension of Time to Pay Costs
+                            Motion for Extension of Time to Pay Costs on file. C
+opies provided to
+                            the State and Defense counsel this date.
+   02-19-14                 Court Ordered Payments
+                            Credit Card Convenience Fee
+   05-15-14                 Motion to Dismiss on file by the defendant Pro Se an
+d fowarded
+                            to court.
+   05-22-14                 Motion allotted for hearing to
+   06-16-14
+                            Appearance of the People by T. Lozar. Appearance of
+the Defendant
+                            personally and pro se. Cause called for hearing on D
+efendant's Motion
+                            to Dismiss filed May 15, 2014. Defendant tenders a r
+eceipt showing
+                            this matter has been paid in full. No objection to t
+he motion by the
+                            People. Motion allowed. Cause dismissed based upon c
+ompletion of the
+                            terms of Court Supervision. Defendant may submit a w
+ritten order.
+                            Copy of receipt on file.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

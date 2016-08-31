@@ -1,0 +1,608 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF000852
+
+   Defendant Plaintiff
+FRANKLIN  RICHARD K
+605 W SHURBET
+THOMASBORO IL 61878
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/30/13
+                Court Room: E
+           Next Appearance: 11/24/14
+                Birth Date: 07/03/50
+                 DEFENDANT: FRANKLIN  RICHARD K
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+     1000.00      BOND -10% BOND FEE              .00        1000.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+        5.00      E-CITATION                      .00           5.00
+       15.00      AUTOMATION                      .00          15.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+        5.00      CRIME STOPPERS                  .00           5.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       25.00      PROBATION MONITORIN             .00         600.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+         .00      TRAFFIC SCHOOL TUIT             .00            .00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       37.00      SHERIFF FEES                    .00          37.00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+     1000.00      BOND -10% BOND FEE          1000.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+       10.00      E-CITATION                    10.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        4.00      STATES ATTORNEY AUT            4.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+      600.00      PROBATION MONITORIN          401.00         199.00
+       20.00      PROBATION OPER ASSI             .00          20.00
+       20.00      TRAFFIC/CRIMINAL SU             .00          20.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       37.00      SHERIFF FEES                    .00          37.00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+       20.00      ST POLICE SERVICES              .00          20.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       20.00      CLERK OP & ADMIN FU             .00          20.00
+     9000.00                                  9000.00            .00
+         .00      BOND -10% BOND FEE              .00            .00
+         .00      DOCUMENT STORAGE                .00            .00
+        5.00      E-CITATION                      .00           5.00
+         .00      AUTOMATION                      .00            .00
+         .00      CIRCUIT CLERK FEE               .00            .00
+         .00      COURT SECURITY                  .00            .00
+         .00      COURT FINANCE FEE               .00            .00
+         .00      STATES ATTORNEY                 .00            .00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+         .00      ARRESTEE'S MEDICAL              .00            .00
+       10.00      PROBATION OPER ASSI             .00          10.00
+         .00      TRAFFIC SCHOOL TUIT             .00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+       10.00      ST POLICE SERVICES              .00          10.00
+         .00      ST POLICE OPERATION             .00            .00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118624309 SHERIFF'S BOOKING FEE             20.00        06/07/13
+   118624309 BOND - ORIGINAL                10000.00        06/07/13
+   121400636 BOND -10% BOND FEE              1000.00        11/14/14
+   121400636 *BOND REFUND                    9000.00        11/14/14
+   122262623 DOCUMENT STORAGE                  15.00        04/06/16
+   122262623 E-CITATION                        10.00        04/06/16
+   122262623 AUTOMATION                         5.00        04/06/16
+   122288206 AUTOMATION                        10.00        04/20/16
+   122288206 CIRCUIT CLERK FEE                 30.00        04/20/16
+   122323661 CIRCUIT CLERK FEE                 45.00        05/11/16
+   122323661 COURT SECURITY                     5.00        05/11/16
+   122336131 COURT SECURITY                    20.00        05/18/16
+   122336131 COURT FINANCE FEE                 10.00        05/18/16
+   122372693 COURT FINANCE FEE                 15.00        06/08/16
+   122372693 STATES ATTORNEY                   25.00        06/08/16
+   122395298 STATES ATTORNEY                   15.00        06/22/16
+   122395298 STATES ATTORNEY AUTOMATI           4.00        06/22/16
+   122395298 CRIME STOPPERS                     5.00        06/22/16
+   122395298 ARRESTEE'S MEDICAL                10.00        06/22/16
+   122395298 PROBATION MONITORING FEE          16.00        06/22/16
+   122407600 PROBATION MONITORING FEE          40.00        06/29/16
+   122432028 PROBATION MONITORING FEE          60.00        07/13/16
+   122443720 PROBATION MONITORING FEE          75.00        07/20/16
+   122454657 PROBATION MONITORING FEE          50.00        07/27/16
+   122467292 PROBATION MONITORING FEE          40.00        08/03/16
+   122487891 PROBATION MONITORING FEE          80.00        08/17/16
+   122498651 PROBATION MONITORING FEE          40.00        08/24/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG CRIM SEX ABUSE/VICTIM <13
+
+         2  AGG CRIM SEX ABUSE/VICTIM <13
+
+         3  CRIM SEXUAL ABUSE/CONSENT
+
+         3  CRIM SEXUAL ABUSE/CONSENT
+
+         4  CRIM SEXUAL ABUSE/CONSENT
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   05-30-13                 Charge 01 Count 001 AGG CRIM SEX ABUSE/VICTIM <13
+                            Statute 720 5/11-1.60(c)(1)(i)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 AGG CRIM SEX ABUSE/VICTIM <13
+                            Statute 720 5/11-1.60(c)(1)(i)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Probable cause warrant issued
+                            Verified information on file.  Witness sworn.  Evide
+nce heard.
+                            Probable cause to arrest determined, warrant issued.
+  Bond set in the
+                            amount of $100,000.00.
+                            Warrant issued.
+                            Companion Charge
+                            Companion Charge
+   06-03-13                 Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Jim Kuehl appears instanter.  Defendan
+t waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond is to continu
+e. As a condition
+                            of bond, Defendant is ordered to have NO CONTACT wha
+tsoever, directly
+                            or indirectly, with the named victim(s).  See expand
+ed record.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.
+                            Warrant served. Service fees $37.00
+   06-07-13                 Sheriff Booking Fee
+   06-19-13                 Entry of Appearance filed by Baku Patel.
+                            Assignment of Bail Bond by the Defendant filed.
+                            Discovery filed
+                            Stipulation for Substitution of Counsel on file.  Ap
+pointment of the
+                            Office of the Public Defender to represent the Defen
+dant is
+                            terminated.  Attorney Baku Patel enters his appearan
+ce as Defendant's
+                            counsel.  Cause continued for further proceedings 11
+:00 a.m., August
+                            6, 2013, Courtroom A.  Bond, as previously set, cont
+inues.
+   07-02-13                 Notice of Intent to Present Evidence Under 725 ILCS
+5/115-10 filed.
+                            State's Motion to Admit Statements Under 725 ILCS 11
+5-10 filed.
+   08-06-13
+                            Defendant appears with R. Durenberger.  Cause allott
+ed for 115-10
+                            hearing on September 23, 2013 at 3:00 p.m. in Courtr
+oom A.  Bond to
+                            continue.
+   08-29-13                 Subpoena Served.  No Fees.
+   09-12-13                 Subpoena Served.  No Fees.
+   09-19-13                 Subpoena Served.  No Fees.
+   09-23-13
+                            Defendant appears with Mr. Brakke.  Cause called for
+ hearing on the
+                            State's Motion to Admit Statements Under 725 ILCS 11
+5-10.  On motion
+                            of Assistant State's Attorney Clark the State's Moti
+on to Admit
+                            Statements Under 725 ILCS 115-10 and the notice is a
+mended on its
+                            face.  Testimony heard on behalf of the People.   Ca
+use recessed to be
+                            reconvened by further order of the court.  DVD's ten
+dered by agreement
+                            to the Court for review prior to the hearing this da
+te, tendered to
+                            the Champaign County Security Officer for safe keepi
+ng.
+   09-25-13                 By agreement of Assistant State's Attorney Clark and
+ Mr. Brakke
+                            cause allotted for continued hearing on the motion t
+o admit statements
+                            under 725 ILCS 115-10 on October 8, 2013 at 1:30 p.m
+. in Courtroom A.
+                            Ms. Clark and Mr. Brakke to notify their parties.
+   10-08-13
+                            Defendant appears personally and with Mr. Brakke.  H
+earing on the
+                            State's motion to admit statements under 725 ILCS 11
+5-10 resumed.
+                            Motion on behalf of the People to excuse and separat
+e witnesses.
+                            Motion allowed.  Sign language interpreter appears f
+or a witness.
+                            Further testimony presented on behalf of the People.
+  Defendant
+                            presents no evidence.  Arguments of counsel heard.
+Court takes the
+                            motion under advisement.  Court to rule in writing a
+t the earliest
+                            practicable time.  Cause allotted for Pre-Trial on N
+ovember 5, 2013 at
+                            11:00 a.m. in Courtroom A.  Bond to continue.
+   11-05-13
+                            D. Steeves appears with the defendant.   On motion o
+f defendant's
+                            counsel cause allotted for Pre-Trial on December 3,
+2013 at 11:00 a.m.
+                            in Courtroom A.  Bond to continue.
+   11-13-13                 The Court has considered the STATE'S MOTION TO ADMIT
+                            STATEMENTS UNDER 725 ILCS 115-10.  The Court conside
+red the testimony
+                            presented at the hearings herein on September 23, 20
+13 and October 8,
+                            2013.
+                            Pursuant to the statutory hearsay exception created
+by 725 ILCS
+                            5/115-10, the State seeks to present at trial testim
+ony as to
+                            statements made by the alleged victim named in COUNT
+ ONE of the
+                            INFORMATION to her mother, Jamie Hermansen, her gran
+dmother, Denise
+                            Sheldon, Thomasboro Police Officer Michael Martinez,
+ and DCFS Child
+                            Protective Investigator Janis Caffrey about conduct
+of the Defendant
+                            which the state charges constitutes the offense of
+                            AGGRAVATED CRIMINAL SEXUAL ABUSE.  The Court finds t
+hat the testimony
+                            regarding the time, content, and circumstances of ea
+ch statement
+                            provides sufficient indicia of reliability to permit
+ testimony in
+                            regard to such statements to be presented at trial.
+  State's motion
+                            as to such statements is allowed.
+                            The State also seeks to present at trial pursuant to
+ 725 ILCS 5/115-10
+                            testimony as to statements made by the alleged victi
+m named in COUNT
+                            TWO of the INFORMATION to Thomasboro Police Chief  K
+eith Willis and
+                            DCFS Child Protection Specialist Demetria Candler ab
+out conduct of the
+                            Defendant which the state charges constitutes the of
+fense of
+                            AGGRAVATED CRIMINAL SEXUAL ABUSE.  The Court finds t
+hat the time,
+                            content and circumstances of the statements of the a
+lleged victim to
+                            Police Chief Willis provide sufficient indicia of re
+liability to
+                            permit testimony in regard to such statements to be
+presented at
+                            trial.  State's motion as to the statements made by
+the alleged victim
+                            to Police Chief Willis is allowed.
+                            The statements made by the alleged victim to Child P
+rotection
+                            Specialist Candler were made during an interview at
+the Child Advocacy
+                            Center.  The Court viewed the video recording made d
+uring the
+                            interview.  Child Protection Specialist Candler prop
+erly conducted the
+                            interview pursuant to the RATAC child interview prot
+ocol.  From her
+                            demeanor, conduct and responses to Candler's questio
+ns, the alleged
+                            victim appeared to be distracted and not to be fully
+ involved in the
+                            interview.  The Court finds that the time, content a
+nd circumstances
+                            of the statements of the alleged victim to Child Pro
+tection Specialist
+                            Candler during the Child Advocacy Center interview d
+o not provide
+                            sufficient indicia of reliability to permit testimon
+y in regard to
+                            such statements to be presented at trial.  State's m
+otion as the
+                            statements made by the alleged victim to Child Prote
+ction Specialist
+                            Candler is denied.
+                            Cause is continued for further proceedings 11:00 a.m
+., December 3,
+                            2013, Courtroom A.  Defendant's bond is continued.
+   12-03-13
+                            Defendant appears with Aadam Alikham.  On motion of
+the defendant
+                            cause allotted for Pre-Trial on January 7, 2014 at 1
+1:00 a.m. in
+                            Courtroom A.  Bond is to continue.
+   12-05-13                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   01-08-14                 Due to inclement weather and the closing of the Cour
+thouse on
+                            Tuesday, January 7, 2014, the Pre-Trial allotment of
+ January 7, 2014
+                            is vacated and the cause is re-allotted for Pre-Tria
+l on February 4,
+                            2014 at 11:00 a.m. in Courtroom A.  Bond is to conti
+nue.
+   02-04-14
+                            By agreement cause allotted for Pre-Trial on March 4
+, 2014 at 11:00
+                            a.m. in Courtroom A.  Bond is to continue.
+   03-04-14
+                            Defendant appears with Dennis Steeves.  Cause allott
+ed for the Jury
+                            Trial Call on March 17, 2014 at 1:00 p.m. in Courtro
+om A.  Bond is to
+                            continue.
+   03-05-14                 Jury trial call allotment of March 17, 2014 is vacat
+ed. Cause allotted
+                            for Jury Trial on May 6, 2014 at 9:00 a.m. in Courtr
+oom A.  Mr. Patel
+                            to advise his client.
+   03-10-14                 Suggestion by Mr. Patel that he is not available on
+May 6, 2014.
+                            Without objection by Ms. Clark jury trial allotment
+of May 6, 2014 is
+                            vacated.  Suggestion by Ms. Clark is not available o
+n the week of May
+                            12, 2014.  By agreement cause allotted for Jury Tria
+l on June 10, 2014
+                            at 9:00 a.m. in Courtroom A.  Mr. Patel to inform hi
+s client.
+   05-29-14                 Subpoena Served.  No Fees.
+   06-02-14                 Subpoena Served.  No Fees.
+   06-05-14                 Subpoena Served on file
+   06-10-14                 Charge 03 Count 003 Attempt CRIM SEXUAL ABUSE/CONSEN
+T
+                            Statute 720 5/11-1.50(a)(2)  Class A  CSA A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 04 Count 004 Attempt CRIM SEXUAL ABUSE/CONSEN
+T
+                            Statute 720 5/11-1.50(a)(2)  Class A  CSA A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+
+                            Suggestion the parties have reached a plea negotiati
+on.  Pursuant to
+                            the plea negotiation the People file Counts III and
+IV.  Defendant
+                            arraigned on Counts III and IV.  Further pursuant to
+ the plea
+                            negotiations, the defendant offers to tender a plea
+of guilty to
+                            Counts III and IV.  Defendant advised as to the natu
+re of the
+                            proceedings, the charges and the possible penalties
+that may be
+                            imposed and the court finds that the defendant under
+stands the same.
+                            Finding the defendant knowingly understandingly and
+voluntarily waives
+                            rights and enters a plea of guilty to Counts III and
+ IV.  Finding the
+                            defendant is guilty of the offenses of Attempt Aggra
+vated Sexual
+                            Abuse, a Class A Misdemeanor and Attempt Aggravated
+Criminal Sexual
+                            Abuse, a Class A Misdemeanor as charged in Counts II
+I and IV.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            the finding of guilty and costs.  Defendant is order
+ed to obtain a sex
+                            offender evaluation.  Court conditionally concurs wi
+th the sentencing
+                            recommendations as stated in the written sentencing
+order entered this
+                            date.  Sentencing order entered conditionally and ma
+y be reconsidered
+                            upon the results of the sex offender evaluation.
+Cause allotted for
+                            Confirmation Hearing on August 11, 2014 at 3:00 p.m.
+ in Courtroom A.
+                            Motion by the People to withdraw and dismiss Counts
+I and II.  Motion
+                            allowed.  Counts I and II ordered dismissed and stri
+cken.
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG CRIM SEX ABUSE/VICTIM <13
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/11-1.60(c)(1)(i)  Class 2
+                            Sentence: 06/10/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed AGG CRIM SEX ABUSE/VICTIM <13
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/11-1.60(c)(1)(i)  Class 2
+                            Sentence: 06/10/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Sentencing order to be entered at confirmation heari
+ng.
+                            Waiver of jury.
+   06-17-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   06-19-14                 Sentencing hearing confirmation on August 11, 2014 i
+s vacated and the
+                            cause is re-allotted for Sentencing Hearing Confirma
+tion on August 12,
+                            2014 at 1:00 p.m. in Courtroom A.  Mr. Patel to noti
+fy his client.
+                            E-Mail on file.
+   08-07-14                 Proof of service and victim impact statement on file
+.
+   08-12-14
+                            Defendant appears with Dennis Steeves.  Motion by th
+e defendant for a
+                            continuance to enable the defendant to relocate to s
+atisfy the
+                            requirements which will be placed on his as a convic
+ted sex offender.
+                            Cause allotted for Further Proceedings on September
+2, 2014 at 1:30
+                            p.m. in Courtroom A.  Bond continued pending further
+ proceedings.
+   09-02-14
+                            Defendant appears with Dennis Steeves.  Report conce
+rning the
+                            defendant's need to relocate to comply with the requ
+irements now
+                            placed upon him as a convicted sex offender heard.
+Cause allotted for
+                            further proceedings on October 15, 2014 at 11:30 a.m
+. in Courtroom A.
+   10-15-14
+                            Defendant appears with Dennis Steeves.  Motion on be
+half of the
+                            defendant for further continuance.  Motion allowed.
+ Cause allotted
+                            for further proceedings on November 12, 2014 at 11:0
+0 a.m. in
+                            Courtroom A.
+   11-12-14                 Disposition 03/00  Count 003  Cost Only
+                            Disposition: Guilty Attempt CRIM SEXUAL ABUSE/CONSEN
+T
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/11-1.50(a)(2)  Class A  CSA A
+                            Sentence: 11/12/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: No contact order.  In force
+                            Sentence: Sex Offender Treatment/Evaluation  In forc
+e
+                            Sentence: Sex offender registration  In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only             1379.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    600.00     TRAFFIC SCHOOL TUI
+T       .00
+                            Payment Due
+                            Disposition 04/00  Count 004  Cost Only
+                            Disposition: Guilty Attempt CRIM SEXUAL ABUSE/CONSEN
+T
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/11-1.50(a)(2)  Class A  CSA A
+                            Sentence: 11/12/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: No contact order.  In force
+                            Sentence: Sex Offender Treatment/Evaluation  In forc
+e
+                            Sentence: Sex offender registration  In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only               37.00     TRAFFIC SCHOOL TUI
+T       .00
+                            Payment Due
+                            Sentencing Order/Order for Pre-Sentence report.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, Dennis Stee
+ves.  Suggestion
+                            the defendant is now residing in a place of residenc
+e that meets the
+                            requirements of the sex offender conviction.  Senten
+cing order of June
+                            10, 2014 is confirmed.  Defendant is ordered to serv
+e a period of  24
+                            months probation.  Defendant is to obtain an evaluat
+ion for alcohol
+                            and drug abuse from an agency or agent recommended b
+y the Court
+                            Services Department, and follow any recommendations
+contained therein
+                            as to treatment and/or counseling. Defendant is to h
+ave no contact,
+                            directly or indirectly, in person, by telephone or e
+lectronically with
+                            the persons stated in the written order. Obtain an e
+valuation for Sex
+                            Offender treatment within   days from an agency or a
+gent recommended
+                            by the Champaign County Court Services Department an
+d follow any
+                            recommendations contained therein as to treatment an
+d/or counseling.
+                            Comply with the requirements of the Sex Offender Reg
+istration Act (730
+                            ILCS 150/1 et seq) within   days. Count(s) stated in
+ the written order
+                            are herby dismissed.    Defendant advised of right t
+o appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same.
+                            Disposition 03/01  Count 003  Modified Order
+                            Disposition: Modified/Trial Court Attempt CRIM SEXUA
+L ABUSE/CONSENT
+                            Modified Order        1426.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    600.00
+   11-14-14                 Bond
+   11-21-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   12-05-14                 Illinois Sex Offender Registration Act Notification
+Form
+                            Filed.
+   02-04-15                 Medical Testing Form on file.
+   06-08-15                 Letter from Court to counsel on file.
+   04-06-16                 Cash
+   04-20-16                 Cash
+   05-11-16                 Cash
+   05-18-16                 Cash
+   06-08-16                 Cash
+   06-22-16                 Cash
+   06-29-16                 Cash
+   07-13-16                 Cash
+   07-20-16                 Cash
+   07-27-16                 Cash
+   08-03-16                 Cash
+   08-17-16                 Cash
+   08-24-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

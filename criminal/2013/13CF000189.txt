@@ -1,0 +1,492 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF000189
+
+   Defendant Plaintiff
+BRAVO  ALEJANDRO
+57 E SPRINGFIELD AV
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 02/04/13
+                Court Room:
+           Next Appearance: 07/03/15
+                Birth Date: 10/08/91
+                 DEFENDANT: BRAVO  ALEJANDRO
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       50.00      BOND -10% BOND FEE            50.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          600.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      150.00      DUI CRIME LAB                150.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      320.00      TRAFFIC/CRIMINAL SU          320.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      495.00      FINES                        495.00            .00
+      350.00      DUI NEW EQUIPMENT F          350.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+      128.00      DRIVERS EDUCATION            128.00            .00
+      400.00      DUI - 80% IL GENERA          400.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118437971 BOND TRANSFERS IN                500.00        02/12/13
+   118679889 BOND -10% BOND FEE                50.00        07/12/13
+   118679889 DOCUMENT STORAGE                   5.00        07/12/13
+   118679889 E-CITATION                         5.00        07/12/13
+   118679889 AUTOMATION                        10.00        07/12/13
+   118679889 CIRCUIT CLERK FEE                 75.00        07/12/13
+   118679889 COURT SECURITY                    25.00        07/12/13
+   118679889 STATES ATTORNEY                   20.00        07/12/13
+   118679889 STATES ATTORNEY AUTOMATI           2.00        07/12/13
+   118679889 CRIME STOPPERS                     5.00        07/12/13
+   118679889 ARRESTEE'S MEDICAL                10.00        07/12/13
+   118679889 PROBATION MONITORING FEE          25.00        07/12/13
+   118679889 PROBATION OPER ASSISTANC          10.00        07/12/13
+   118679889 SPINAL CORD RESEARCH FUN           5.00        07/12/13
+   118679889 DUI CRIME LAB                    150.00        07/12/13
+   118679889 TRAUMA FUND                      100.00        07/12/13
+   118679889 TR/CR SUR $10/$40                  3.00        07/12/13
+   118743690 BOND - ORIGINAL                  130.00        08/20/13
+   118743950 PROBATION MONITORING FEE          25.00        08/20/13
+   118743950 TR/CR SUR $10/$40                105.00        08/20/13
+   118749491 EPAY RECEIVABLE                  130.00        08/23/13
+   118783609 BOND - ORIGINAL                  200.00        09/16/13
+   118785484 PROBATION MONITORING FEE          25.00        09/16/13
+   118785484 TR/CR SUR $10/$40                175.00        09/16/13
+   118793083 EPAY RECEIVABLE                  200.00        09/19/13
+   118862792 BOND - ORIGINAL                  160.00        10/31/13
+   118863426 PROBATION MONITORING FEE          25.00        10/31/13
+   118863426 TR/CR SUR $10/$40                 37.00        10/31/13
+   118863426 CLERK OP & ADMIN-SERIOUS           5.00        10/31/13
+   118863426 CLERK OP & ADMIN FUND             10.00        10/31/13
+   118863426 DRUG COURT PROGRAM                 5.00        10/31/13
+   118863426 FINES                             78.00        10/31/13
+   118869947 EPAY RECEIVABLE                  160.00        11/05/13
+   118897882 BOND - ORIGINAL                   80.00        11/21/13
+   118898812 PROBATION MONITORING FEE          25.00        11/21/13
+   118898812 FINES                             55.00        11/21/13
+   118904659 EPAY RECEIVABLE                   80.00        11/26/13
+   120852811 BOND - ORIGINAL                   80.00        12/27/13
+   120852985 PROBATION MONITORING FEE          25.00        12/27/13
+   120852985 FINES                             55.00        12/27/13
+   120858149 EPAY RECEIVABLE                   80.00        01/02/14
+   120889394 BOND - ORIGINAL                  100.00        01/21/14
+   120889812 PROBATION MONITORING FEE          25.00        01/21/14
+   120889812 FINES                             75.00        01/21/14
+   120894729 EPAY RECEIVABLE                  100.00        01/24/14
+   121003031 BOND - ORIGINAL                   45.00        03/27/14
+   121003095 PROBATION MONITORING FEE          25.00        03/27/14
+   121003095 FINES                             20.00        03/27/14
+   121007844 EPAY RECEIVABLE                   45.00        04/01/14
+   121051022 BOND - ORIGINAL                   50.00        04/27/14
+   121052659 PROBATION MONITORING FEE          25.00        04/27/14
+   121052659 FINES                             25.00        04/27/14
+   121059788 EPAY RECEIVABLE                   50.00        05/01/14
+   121111220 BOND - ORIGINAL                   40.00        05/31/14
+   121113454 PROBATION MONITORING FEE          25.00        05/31/14
+   121113454 FINES                             15.00        05/31/14
+   121119374 EPAY RECEIVABLE                   40.00        06/05/14
+   121142520 BOND - ORIGINAL                   70.00        06/18/14
+   121143101 PROBATION MONITORING FEE          20.00        06/18/14
+   121143357 PROBATION MONITORING FEE          25.00        06/19/14
+   121143357 FINES                             25.00        06/19/14
+   121148523 EPAY RECEIVABLE                   70.00        06/23/14
+   121214355 BOND - ORIGINAL                  100.00        07/30/14
+   121214888 PROBATION MONITORING FEE          25.00        07/30/14
+   121214888 FINES                             75.00        07/30/14
+   121215611 PROBATION MONITORING FEE          25.00        07/31/14
+   121215611 FINES                             65.00        07/31/14
+   121220434 EPAY RECEIVABLE                  100.00        08/04/14
+   121272897 BOND - ORIGINAL                  120.00        08/29/14
+   121273250 PROBATION MONITORING FEE          25.00        08/29/14
+   121273250 FINES                              7.00        08/29/14
+   121273250 DUI NEW EQUIPMENT FINE            88.00        08/29/14
+   121279234 EPAY RECEIVABLE                  120.00        09/04/14
+   121321866 BOND - ORIGINAL                   50.00        09/29/14
+   121323322 PROBATION MONITORING FEE          25.00        09/29/14
+   121323322 DUI NEW EQUIPMENT FINE            25.00        09/29/14
+   121329026 EPAY RECEIVABLE                   50.00        10/02/14
+   121357465 PROBATION MONITORING FEE          25.00        10/21/14
+   121357465 DUI NEW EQUIPMENT FINE            25.00        10/21/14
+   121401931 BOND - ORIGINAL                   90.00        11/17/14
+   121404015 PROBATION MONITORING FEE          25.00        11/17/14
+   121404015 DUI NEW EQUIPMENT FINE            65.00        11/17/14
+   121410789 EPAY RECEIVABLE                   90.00        11/20/14
+   121467991 BOND - ORIGINAL                   45.00        12/27/14
+   121470206 PROBATION MONITORING FEE          25.00        12/27/14
+   121470206 DUI NEW EQUIPMENT FINE            20.00        12/27/14
+   121474818 EPAY RECEIVABLE                   45.00        01/02/15
+   121514103 PROBATION MONITORING FEE          25.00        01/27/15
+   121514103 DUI NEW EQUIPMENT FINE           127.00        01/27/15
+   121514103 VIOLENT CRIME VICTIMS AS          75.00        01/27/15
+   121514103 DRIVERS EDUCATION                 23.00        01/27/15
+   121569250 BOND - ORIGINAL                   70.00        02/28/15
+   121569570 DRIVERS EDUCATION                 70.00        02/28/15
+   121578393 EPAY RECEIVABLE                   70.00        03/05/15
+   121610878 BOND - ORIGINAL                  100.00        03/21/15
+   121613785 PROBATION MONITORING FEE          25.00        03/21/15
+   121613785 DRIVERS EDUCATION                 35.00        03/21/15
+   121613785 DUI - IL GENERAL REVENUE          40.00        03/21/15
+   121618502 EPAY RECEIVABLE                  100.00        03/26/15
+   121664997 PROBATION MONITORING FEE          25.00        04/22/15
+   121664997 DUI - IL GENERAL REVENUE          75.00        04/22/15
+   121665086 PROBATION MONITORING FEE          25.00        04/22/15
+   121665086 DUI - IL GENERAL REVENUE          75.00        04/22/15
+   121719284 PROBATION MONITORING FEE          25.00        05/22/15
+   121719284 DUI - IL GENERAL REVENUE         125.00        05/22/15
+   121752094 BOND - ORIGINAL                  140.00        06/10/15
+   121752172 PROBATION MONITORING FEE           5.00        06/10/15
+   121752172 DUI - IL GENERAL REVENUE          85.00        06/10/15
+   121752172 FIRE PREVENTION FUND              15.00        06/10/15
+   121752172 FIRE TRUCK REVOLVING LOA          15.00        06/10/15
+   121752172 ST POLICE SERVICES FUND           10.00        06/10/15
+   121752172 ST POLICE OPERATIONS ASS          10.00        06/10/15
+   121756924 EPAY RECEIVABLE                  140.00        06/15/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG DUI/NO VALID DL
+
+         1  AGG DUI/NO VALID DL
+
+         2  FAIL NOTIFY DMG/UNATTENDED VEH
+
+         3  DRVG UNDER INFLUENCE OF DRUG
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   02-04-13                 Charge 01 Count 001 AGG DUI/NO VALID DL
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 FAIL NOTIFY DMG/UNATTENDED VEH
+                            Statute 625 5/11-404(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Sworn report on file.  Defendant refused test.
+                            Expanded record of arraignment proceedings.
+                            People appear by Lindsey Clark.  Defendant appears p
+ersonally together
+                            with private counsel, James A. Martinkus.  Entry of
+appearance on
+                            file.  Defendant is arraigned.  Defendant waives pre
+liminary hearing,
+                            enters a plea of not guilty and requests a trial by
+jury.  Pre-trial
+                            orders entered.  Defendant admonished as to trial an
+d sentencing in
+                            absentia. Bond is to continue as transferred in the
+amount of
+                            $5,000-ROR DENIED.  See Expanded Record.
+                            Charge 03 Count 003 DRVG UNDER INFLUENCE OF DRUG
+                            Statute 625 5/11-501(a)(4)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+   02-07-13                 Discovery filed
+                            Supplemental Discovery filed
+   02-11-13                 Supplemental Discovery filed
+   02-12-13                 Bond Type Transfer Bond From    2013DT000055 BRAVO A
+LEXANDRO JR
+   02-13-13                 Supplemental Discovery filed
+   02-25-13                 Confirmation of Statutory Summary Suspension on file
+.
+                            Provisional reinstatement date
+                            03-20-14
+   03-01-13                 Defendant's motion for continuance.
+                            People appear by AJ Ruggieri.  Defendant appears per
+sonally and with
+                            counsel, James A. Martinkus. Motion by the Defendant
+ for continuance.
+                            Motion allowed.
+   03-08-13                 Disclosure of Witness filed.
+   03-14-13                 Supplemental Discovery filed
+   03-15-13                 Supplemental Discovery filed
+   03-27-13                 Certificate of service on file.
+   04-05-13                 Defendant's motion for continuance.
+                            People appear by Elizabeth A. Dornik.  Defendant app
+ears personally
+                            and with counsel, Adam Dill. Motion by the Defendant
+ for continuance.
+                            Motion allowed.
+   05-02-13                 Petition to Rescind Statutory Summary Suspension fil
+ed.
+   05-07-13                 Supplemental Discovery filed
+   05-17-13                 Agreed plea-set over for sentencing.
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel, James A. Martin
+kus.  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 03 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Drvg Under Influence Of Dru
+g ILCS: 625
+                            5/11-501(a)(4) as charged.   Cause allotted for sent
+encing
+                            confirmation on July 03, 2013 at 10:30 AM in Courtro
+om E.  Defendant
+                            is ordered to appear and is advised of sentencing in
+ absentia.
+                            Defendant is ordered to obtain a substance abuse eva
+luation prior to
+                            the hearing.  Waiver of Jury on file.  Counts I and
+II are to be
+                            dismissed at the sentencing.
+   07-01-13                 EHD Eligibility Certificate filed
+   07-02-13                 Drug and alcohol evaluation on file.
+   07-03-13                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG DUI/NO VALID DL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Sentence: 07/03/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed FAIL NOTIFY DMG/UNATTENDED VE
+H
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-404(a)  Class A  Orig.
+                            Sentence: 07/03/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  Fine + Cost
+                            Disposition: Guilty DRVG UNDER INFLUENCE OF DRUG
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)(4)  Class A  Orig.
+                            Sentence: 07/03/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  15Days In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Public Service  125Hrs In force
+                                      Supervised Court Service
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  60Da
+ys In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Fine + Cost           2150.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    600.00
+                            DUI CRIME LAB          150.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel, Mr. Dill on beh
+alf of James A.
+                            Martinkus.   Defendant advised as to the nature of t
+he proceedings,
+                            the charges and the possible penalties that may be i
+mposed and the
+                            Court finds that the Defendant understands the same.
+  Finding
+                            Defendant knowingly, understandingly and voluntarily
+ waives rights and
+                            enters a plea of guilty to Count 03 of the charging
+instrument.
+                            Finding Defendant is guilty of the offense of Drvg U
+nder Influence Of
+                            Drug ILCS: 625 5/11-501(a)(4) as charged. Judgment e
+ntered in favor of
+                            the People and against the defendant on finding of g
+uilt and for
+                            costs.  All financial obligations shall be paid in e
+qual monthly
+                            installments to the Champaign County Circuit Clerk b
+y  1/07/2015.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  D
+efendant is
+                            ordered to serve a period of  24 months probation, p
+ursuant to the
+                            terms and conditions as set forth in the Sentencing
+Order entered this
+                            date.   Defendant is ordered to serve a period of in
+carceration of  15
+                            days in the Champaign County Correctional Center. De
+fendant is to
+                            receive credit for   1 days previously served. Defen
+dant is ordered to
+                            perform 125 hours of public service work under the s
+upervision of the
+                            Champaign County Court Services Department.  The def
+endant is to be
+                            given credit on public service work for any hours co
+mpleted in
+                            education, treatment, aftercare, sobriety based self
+-help group
+                            meetings, Victim Impact Panel and GED classes.  Defe
+ndant is to attend
+                            the next Victim Impact Panel presented by the Champa
+ign County Court
+                            Services Department.  Defendant is to obtain an eval
+uation for alcohol
+                            and drug abuse from an agency or agent recommended b
+y the Court
+                            Services Department, and follow any recommendations
+contained therein
+                            as to treatment and/or counseling. Count(s) stated i
+n the written
+                            order are herby dismissed. Defendant advised of righ
+t to appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same.
+   07-11-13                 Report of Court Disposition sent to Secretary of Sta
+te.
+   07-12-13                 Bond
+   08-09-13                 Temporary Travel Permit on file and allowed. See Ord
+er.
+   08-13-13                 Order Rescinding Statutory Summary Suspension
+                            Pursuant to the Petition to Rescind the Statutory Su
+mmary Suspension
+                            filed May 2, 2013, it is hereby ordered that the Sta
+tutory Summary
+                            Suspension is rescinded. Order Rescinding Statutory
+Summary Suspension
+                            entered this date. See Order.
+   08-20-13                 EPAY BOND PAYMENT
+                            Bond
+   08-23-13                 EPAY RECONCILIATION TRANSACTION
+   09-10-13                 Certificate of mailing prepared.
+                            Recinding statutory summary suspension mailed to SOS
+   09-16-13                 EPAY BOND PAYMENT
+                            Bond
+   09-19-13                 EPAY RECONCILIATION TRANSACTION
+   10-31-13                 EPAY BOND PAYMENT
+                            Bond
+   11-05-13                 EPAY RECONCILIATION TRANSACTION
+   11-21-13                 EPAY BOND PAYMENT
+                            Bond
+   11-26-13                 EPAY RECONCILIATION TRANSACTION
+   12-27-13                 EPAY BOND PAYMENT
+                            Bond
+   01-02-14                 EPAY RECONCILIATION TRANSACTION
+   01-21-14                 EPAY BOND PAYMENT
+                            Bond
+   01-24-14                 EPAY RECONCILIATION TRANSACTION
+   03-27-14                 EPAY BOND PAYMENT
+                            Bond
+   04-01-14                 EPAY RECONCILIATION TRANSACTION
+   04-27-14                 EPAY BOND PAYMENT
+                            Bond
+   05-01-14                 EPAY RECONCILIATION TRANSACTION
+   05-31-14                 EPAY BOND PAYMENT
+                            Bond
+   06-05-14                 EPAY RECONCILIATION TRANSACTION
+   06-18-14                 EPAY BOND PAYMENT
+                            Bond
+   06-19-14                 Bond
+   06-23-14                 EPAY RECONCILIATION TRANSACTION
+   07-30-14                 EPAY BOND PAYMENT
+                            Bond
+   07-31-14                 Court Ordered Payments
+   08-04-14                 EPAY RECONCILIATION TRANSACTION
+   08-29-14                 EPAY BOND PAYMENT
+                            Bond
+   09-04-14                 EPAY RECONCILIATION TRANSACTION
+   09-29-14                 EPAY BOND PAYMENT
+                            Bond
+   10-02-14                 EPAY RECONCILIATION TRANSACTION
+   10-21-14                 Court Ordered Payments
+   11-17-14                 EPAY BOND PAYMENT
+                            Bond
+   11-20-14                 EPAY RECONCILIATION TRANSACTION
+   12-27-14                 EPAY BOND PAYMENT
+                            Bond
+   01-02-15                 EPAY RECONCILIATION TRANSACTION
+   01-27-15                 Court Ordered Payments
+   02-28-15                 EPAY BOND PAYMENT
+                            Bond
+   03-05-15                 EPAY RECONCILIATION TRANSACTION
+   03-21-15                 EPAY BOND PAYMENT
+                            Bond
+   03-26-15                 EPAY RECONCILIATION TRANSACTION
+   04-22-15                 Cash
+                            Cash
+   05-22-15                 Cash
+   06-10-15                 EPAY BOND PAYMENT
+                            Bond
+   06-15-15                 EPAY RECONCILIATION TRANSACTION
+   07-08-15                 Order of Discharge from Probation entered.  See orde
+r.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Terminated Satisfied AGG DUI/NO VALID D
+L
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 07/08/2015
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   07-09-15                 All obligations have been met, case is closed.
+   07-17-15                 Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,235 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CM000548
+
+   Defendant Plaintiff
+LEONARD  LACHAY S
+614 SIBLEY
+HAMMOND IN 46320
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/28/13
+                Court Room:
+           Next Appearance: 06/26/14
+                Birth Date: 06/22/91
+                 DEFENDANT: LEONARD  LACHAY S
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN          180.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       50.00      TRAFFIC/CRIMINAL SU           50.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      195.00      FINES                        195.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       67.97      COLLECTION FEES               67.97            .00
+       88.80      LATE FEES                     88.80            .00
+      136.27      TAX INTERCEPT                136.27            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118604064 SHERIFF'S BOOKING FEE             20.00        05/28/13
+   118604064 BOND - ORIGINAL                  150.00        05/28/13
+   118669332 BOND -10% BOND FEE                15.00        07/08/13
+   118669332 DOCUMENT STORAGE                   5.00        07/08/13
+   118669332 E-CITATION                         5.00        07/08/13
+   118669332 AUTOMATION                        10.00        07/08/13
+   118669332 CIRCUIT CLERK FEE                 75.00        07/08/13
+   118669332 COURT SECURITY                    25.00        07/08/13
+   118669332 COURT FINANCE FEE                 15.00        07/08/13
+   121810559 BOND -10% BOND FEE                  .00        09/15/15
+   121810559 DOCUMENT STORAGE                    .00        09/15/15
+   121810559 E-CITATION                          .00        09/15/15
+   121810559 AUTOMATION                          .00        09/15/15
+   121810559 CIRCUIT CLERK FEE                   .00        09/15/15
+   121810559 COURT SECURITY                      .00        09/15/15
+   121810559 COURT FINANCE FEE                   .00        09/15/15
+   121810559 STATES ATTORNEY                     .00        09/15/15
+   121810559 STATES ATTORNEY AUTOMATI            .00        09/15/15
+   121810559 CRIME STOPPERS                      .00        09/15/15
+   121810559 ARRESTEE'S MEDICAL                  .00        09/15/15
+   121810559 PROBATION MONITORING FEE            .00        09/15/15
+   121810559 PROBATION OPER ASSISTANC            .00        09/15/15
+   121810559 TR/CR SUR $10/$40                   .00        09/15/15
+   121810559 CLERK OP & ADMIN FUND               .00        09/15/15
+   121810559 DRUG COURT PROGRAM                  .00        09/15/15
+   121810559 FINES                               .00        09/15/15
+   121810559 VIOLENT CRIME VICTIMS AS            .00        09/15/15
+   121810559 ST POLICE SERVICES FUND             .00        09/15/15
+   121810559 COLLECTION FEES                     .00        09/15/15
+   121810559 LATE FEES                           .00        09/15/15
+   121810559 TAX INTERCEPT                       .00        09/15/15
+   121810559 ST POLICE OPERATIONS ASS            .00        09/15/15
+   121810559 *BOND REFUND                        .00        09/15/15
+   121912184 PROBATION MONITORING FEE          39.56        09/10/15
+   121912184 PROBATION OPER ASSISTANC          10.00        09/10/15
+   121912184 TR/CR SUR $10/$40                 50.00        09/10/15
+   121912184 CLERK OP & ADMIN FUND             10.00        09/10/15
+   121912184 DRUG COURT PROGRAM                 5.00        09/10/15
+   121912184 FINES                             72.89        09/10/15
+   121912184 COLLECTION FEES                   18.72        09/10/15
+   121912184 TAX INTERCEPT                     37.52        09/10/15
+   121935071 COURT FINANCE FEE                 10.00        09/23/15
+   121935071 STATES ATTORNEY                   20.00        09/23/15
+   121935071 STATES ATTORNEY AUTOMATI           2.00        09/23/15
+   121935071 CRIME STOPPERS                     5.00        09/23/15
+   121935071 ARRESTEE'S MEDICAL                10.00        09/23/15
+   121935071 PROBATION MONITORING FEE         136.63        09/23/15
+   121935071 COLLECTION FEES                   18.33        09/23/15
+   121935071 TAX INTERCEPT                     36.77        09/23/15
+   121975751 PROBATION MONITORING FEE           3.81        10/15/15
+   121975751 FINES                            122.11        10/15/15
+   121975751 VIOLENT CRIME VICTIMS AS          65.44        10/15/15
+   121975751 COLLECTION FEES                   19.11        10/15/15
+   121975751 TAX INTERCEPT                     38.31        10/15/15
+   121998955 VIOLENT CRIME VICTIMS AS           9.56        10/29/15
+   121998955 ST POLICE SERVICES FUND           10.00        10/29/15
+   121998955 COLLECTION FEES                   11.81        10/29/15
+   121998955 LATE FEES                         88.80        10/29/15
+   121998955 TAX INTERCEPT                     23.67        10/29/15
+   121998955 ST POLICE OPERATIONS ASS          10.00        10/29/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  RESIST/PC OFF/CORR EMP/FRFTR
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   05-28-13                 Charge 01 Count 001 RESIST/PC OFF/CORR EMP/FRFTR
+                            Statute 720 5/31-1(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Sheriff Booking Fee
+                            Cause continued for further proceedings
+                            Charging documents
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Stephanie Corum appears instanter.  Plea of not guil
+ty entered and
+                            Defendant requests trial by jury.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia.  Bond is to continue as
+posted. See
+                            expanded record.
+   05-31-13                 Proof of service of discovery materials filed.
+   06-26-13                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty RESIST/PC OFF/CORR EMP/FRFTR
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/31-1(a)  Class A
+                            Sentence: 06/26/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  100Hrs In force
+                                      Supervised Court Service
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            557.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    180.00     COLLECTION FEES
+      67.97
+                            LATE FEES               88.80     TAX INTERCEPT
+     136.27
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Sarah N. Perry.  Appeara
+nce of the
+                            Defendant personally and by counsel, Stephanie Corum
+, who appears for
+                            Lindsey R. Yanchus.   Defendant advised as to the na
+ture of the
+                            proceedings, the charges and the possible penalties
+that may be
+                            imposed and the Court finds that the Defendant under
+stands the same.
+                            Finding Defendant knowingly, understandingly and vol
+untarily waives
+                            rights and enters a plea of guilty to Count 01 of th
+e charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Resist/Pc
+                            Off/Corr Emp/Frftr ILCS: 720 5/31-1(a) as charged. J
+udgment entered in
+                            favor of the People and against the defendant on fin
+ding of guilt and
+                            for costs.  All financial obligations shall be paid
+in equal monthly
+                            installments to the Champaign County Circuit Clerk b
+y 12/23/2013.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  D
+efendant is
+                            ordered to serve a period of  12 months Conditional
+Discharge.
+                            Defendant is ordered to perform 100 hours of public
+service work under
+                            the supervision of the Champaign County Court Servic
+es Department.
+                            The defendant is to be given credit on public servic
+e work for any
+                            hours completed in education, treatment, aftercare,
+sobriety based
+                            self-help group meetings, Victim Impact Panel and GE
+D classes.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same.  Waiver of Jury on file. Sentencing Order ente
+red this date. See
+                            Order.
+   07-08-13                 Bond
+   11-18-14                 Case sent out for collections.
+   09-10-15                 Collection Tax Intercept Payment
+   09-23-15                 Collection Tax Intercept Payment
+   10-15-15                 Collection Tax Intercept Payment
+   10-29-15                 Tax Intercept
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

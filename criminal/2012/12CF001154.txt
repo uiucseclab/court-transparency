@@ -1,0 +1,1038 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF001154
+
+   Defendant Plaintiff
+JOHNSON  JAYSON J
+306 SOUTH RISING RD
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 07/19/12
+                Court Room:
+           Next Appearance: 09/21/15
+                Birth Date: 05/11/74
+                 DEFENDANT: JOHNSON  JAYSON J
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+     2500.00      BOND -10% BOND FEE              .00        2500.00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+      100.00      CRIME LAB                       .00         100.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+      100.00      TRAUMA FUND                     .00         100.00
+      260.00      TRAFFIC/CRIMINAL SU             .00         260.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      PRELIMINARY HEARING             .00          10.00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       20.00       STREET VALUE DRUG              .00          20.00
+      770.00      MANDATORY ASSESSMEN             .00         770.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+     2500.00      BOND -10% BOND FEE          2500.00            .00
+       20.00      DOCUMENT STORAGE              20.00            .00
+       40.00      AUTOMATION                    40.00            .00
+      400.00      CIRCUIT CLERK FEE            400.00            .00
+      100.00      COURT SECURITY               100.00            .00
+      200.00      COURT FINANCE FEE            200.00            .00
+      160.00      STATES ATTORNEY              160.00            .00
+        8.00      STATES ATTORNEY AUT            8.00            .00
+       40.00      ARRESTEE'S MEDICAL            40.00            .00
+       40.00      PROBATION OPER ASSI           40.00            .00
+       40.00      MOTION TO VACATE              40.00            .00
+       20.00      SPINAL CORD RESEARC           20.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      400.00      TRAUMA FUND                  400.00            .00
+     1540.00      TRAFFIC/CRIMINAL SU         1540.00            .00
+       20.00      DRUG COURT PROGRAM            20.00            .00
+       10.00      PRELIMINARY HEARING           10.00            .00
+      400.00      VIOLENT CRIME VICTI          400.00            .00
+      140.00       STREET VALUE DRUG           140.00            .00
+     5770.00      MANDATORY ASSESSMEN         3572.00        2198.00
+       40.00      ST POLICE SERVICES              .00          40.00
+      789.36      COLLECTION FEES                 .00         789.36
+      343.20      LATE FEES                       .00         343.20
+       10.00      ST POLICE OPERATION             .00          10.00
+       40.00      CLERK OP & ADMIN FU             .00          40.00
+         .00                                      .00            .00
+         .00      BOND -10% BOND FEE              .00            .00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+      100.00      TRAUMA FUND                     .00         100.00
+      260.00      TRAFFIC/CRIMINAL SU             .00         260.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       40.00       STREET VALUE DRUG              .00          40.00
+     1000.00      MANDATORY ASSESSMEN             .00        1000.00
+       10.00      ST POLICE SERVICES              .00          10.00
+         .00      ST POLICE OPERATION             .00            .00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00      BOND -10% BOND FEE              .00            .00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+      100.00      TRAUMA FUND                     .00         100.00
+      270.00      TRAFFIC/CRIMINAL SU             .00         270.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       80.00       STREET VALUE DRUG              .00          80.00
+     1000.00      MANDATORY ASSESSMEN             .00        1000.00
+       10.00      ST POLICE SERVICES              .00          10.00
+         .00      ST POLICE OPERATION             .00            .00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00      BOND -10% BOND FEE              .00            .00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+         .00      CRIME LAB                       .00            .00
+         .00       STATE OFFENDER DNA             .00            .00
+      100.00      TRAUMA FUND                     .00         100.00
+      750.00      TRAFFIC/CRIMINAL SU             .00         750.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+     3000.00      MANDATORY ASSESSMEN             .00        3000.00
+       10.00      ST POLICE SERVICES              .00          10.00
+         .00      ST POLICE OPERATION             .00            .00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118046869 SHERIFF'S BOOKING FEE             20.00        07/23/12
+   118046869 BOND - ORIGINAL                25000.00        07/23/12
+   118831127 01000000000                         .00        10/11/13
+   118838920 *BOND REFUND                   15000.00        10/17/13
+   118839035 BOND -10% BOND FEE              2500.00        10/17/13
+   118839035 DOCUMENT STORAGE                  20.00        10/17/13
+   118839035 AUTOMATION                        40.00        10/17/13
+   118839035 CIRCUIT CLERK FEE                400.00        10/17/13
+   118839035 COURT SECURITY                   100.00        10/17/13
+   118839035 COURT FINANCE FEE                200.00        10/17/13
+   118839035 STATES ATTORNEY                  160.00        10/17/13
+   118839035 STATES ATTORNEY AUTOMATI           8.00        10/17/13
+   118839035 ARRESTEE'S MEDICAL                40.00        10/17/13
+   118839035 PROBATION OPER ASSISTANC          40.00        10/17/13
+   118839035 MOTION TO VACATE                  40.00        10/17/13
+   118839035 SPINAL CORD RESEARCH FUN          20.00        10/17/13
+   118839035 CRIME LAB                        100.00        10/17/13
+   118839035  STATE OFFENDER DNA ID S         250.00        10/17/13
+   118839035 TRAUMA FUND                      400.00        10/17/13
+   118839035 TR/CR SUR $10/$40               1540.00        10/17/13
+   118839035 DRUG COURT PROGRAM                20.00        10/17/13
+   118839035 PRELIMINARY HEARING               10.00        10/17/13
+   118839035 VIOLENT CRIME VICTIMS AS         400.00        10/17/13
+   118839035  STREET VALUE DRUG FINES         140.00        10/17/13
+   118839035 MANDATORY ASSESSMENT            3572.00        10/17/13
+   120866488 CIRCUIT CLERK FEE                215.50        01/09/14
+   121051256 COPIES                             1.00        04/28/14
+   121051256 COPIES                             4.00        04/28/14
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  OTHER AMT NARCOTIC SCHED I&II
+
+         1  OTHER AMT NARCOTIC SCHED I&II
+
+         1  OTHER AMT NARCOTIC SCHED I&II
+
+         1  OTHER AMT NARCOTIC SCHED I&II
+
+         2  OTHER AMT NARCOTIC SCHED I&II
+
+         2  OTHER AMT NARCOTIC SCHED I&II
+
+         2  OTHER AMT NARCOTIC SCHED I&II
+
+         3  OTHER AMT NARCOTIC SCHED I&II
+
+         3  OTHER AMT NARCOTIC SCHED I&II
+
+         3  OTHER AMT NARCOTIC SCHED I&II
+
+         4  MFG/DEL 1<15 GR HEROIN/ANALOG
+
+         5  MFG/DEL HEROIN/SCH/PUB HS/PK
+
+         5  MFG/DEL HEROIN/SCH/PUB HS/PK
+
+         5  MFG/DEL HEROIN/SCH/PUB HS/PK
+
+         6  MFG/DEL HEROIN/SCH/PUB HS/PK
+
+         6  MFG/DEL HEROIN/SCH/PUB HS/PK
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   07-19-12                 Charge 01 Count 001 OTHER AMT NARCOTIC SCHED I&II
+                            Statute 720 570/401(d)(i)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 OTHER AMT NARCOTIC SCHED I&II
+                            Statute 720 570/401(d)(i)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 OTHER AMT NARCOTIC SCHED I&II
+                            Statute 720 570/401(d)(i)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 04 Count 004 MFG/DEL 1<15 GR HEROIN/ANALOG
+                            Statute 720 570/401(c)(1)  Class 1  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Defendant admonished as to CONS
+ECUTIVE TERM
+                            Sentencing.  Appearance of attorney Michael Thompson
+ with the
+                            Defendant.  Defendant request Preliminary hearing.
+Defendant
+                            admonished as to trial and sentencing in absentia. B
+ond is set in the
+                            amount of $250,000-ROR DENIED. See expanded record.
+                            Cause allotted for pre-trial on
+                            Charge 05 Count 005 MFG/DEL HEROIN/SCH/PUB HS/PK
+                            Statute 720 570/407(b)(1)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 06 Count 006 MFG/DEL HEROIN/SCH/PUB HS/PK
+                            Statute 720 570/407(b)(1)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+   07-23-12                 Sheriff Booking Fee
+   07-30-12                 Subpoena Served.  No Fees.
+   07-31-12                 Pretrial order after waiver or finding of probable c
+ause
+                            People appear by Scott M. Bennett.  Defendant appear
+s personally and
+                            with counsel, Michael Thompson.  People file Counts
+Five and Six this
+                            date.  Defendant is arraigned on Counts Five and Six
+.  Defendant
+                            requests Preliminary hearing on Counts Five and Six.
+  Cause called for
+                            preliminary hearing as to all counts, One through Si
+x. Witnesses
+                            sworn. Evidence heard. The Court having heard the ev
+idence on
+                            preliminary hearing and being fully advised in the p
+remises finds
+                            probable cause to believe that the Defendant has com
+mitted one or more
+                            felony offenses as charged in the information.   Def
+endant enters a
+                            plea of not guilty and requests trial by jury.  Pre-
+Trial Discovery
+                            Order on file.  Bond to continue.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia.
+   08-09-12                 Discovery filed
+   08-28-12
+   09-07-12                 Supplemental Discovery filed
+   10-02-12
+                            People appear by Asst. State's Attorney.  Cause is c
+ontinued to track
+                            with case 12-CF-1234.  Defendant's bond is to contin
+ue.
+   10-15-12
+                            People appear by Mr. Bennett.  Defendant appears per
+sonally, in
+                            custody and with attorney Mr. Thompson.  By agreemen
+t of the parties
+                            cause is continued for further pre-trial on 11/20/12
+ at 11:00 a.m. in
+                            Courtroom C.  Defendant's bond is to continue.
+   11-20-12
+   12-19-12
+                            People appear by Mr. Bennett.  Defendant appears per
+sonally, in
+                            custody and with attorney Mr. Thompson.  Cause is ca
+lled for hearing
+                            on the State's Motion to Consolidate.  People withdr
+aw the Motion to
+                            Consolidate.  Motion is allowed.   Cause is called f
+or pre-trial.
+                            Motion by the defendant to continue, People join in
+the Motion.
+                            Motion is allowed.  Cause is continued to the next p
+re-trial on
+                            1/29/13 at 11:00 a.m. in Courtroom C.  Defendant's b
+ond is to
+                            continue.
+   12-21-12                 Joint Motion for Continuance filed.
+   01-28-13                 Supplemental Discovery filed
+   01-29-13                 Pre-Trial held.
+                            People appear by Mr. Bennett.  Defendant appears by
+Mr. Thompson.
+                            Suggestion to the Court that the Defendant is in cus
+tody.  Motion by
+                            the defendant to continue.  Comments of counsel cons
+idered.  Motion is
+                            allowed.  Cause is continued for further pre-trial o
+n 3/26/13 at 11:00
+                            a.m. in Courtroom C.  Courts states this is the last
+ continuance.
+                            Defendant's bond is to continue.
+   01-30-13                 Affidavit of mailing on file.
+   02-20-13                 Supplemental Discovery filed
+   03-26-13
+                            Motion by the defendant for continuance.   Motion al
+lowed.  Trial
+                            setting is vacated.
+   04-01-13                 Supplemental Discovery filed
+   05-21-13                 Pre-trial held.
+                            People appear by Asst. State's Attorney Mr. Bennett.
+  Defendant
+                            appears by Counsel.  Suggestion to the Court that th
+e defendant is in
+                            custody.   Cause is called for pretrial.  Motion by
+the defendant for
+                            a final continuance.  People state no objection to t
+he defendant's
+                            Motion to continue.  Motion is allowed.  Cause is co
+ntinued on the
+                            defendant's motion for further pre-trial on 6/25/13
+at 11:00 a.m. in
+                            Courtroom C.  Defendant's bond is to continue.
+                            Supplemental Discovery filed
+   06-25-13                 Pre-Trial held.  Cause allotted for Trial.
+                            People appear by Asst. State's Attorney Mr. Bennett.
+  No appearance by
+                            counsel for the defendant.  Suggestion to the Court
+that the defendant
+                            is incarcerated.  Cause is called for pre-trial.  Ca
+use is allotted
+                            for the Jury Trial call on 7/15/13 at 9:00 a.m. in C
+ourtroom C.
+                            Defendant's bond is to continue.
+   07-01-13                 Subpoena Served.  No Fees.
+   07-03-13                 Subpoena Served.  No Fees.
+   07-05-13                 Subpoena Served.  No Fees.
+   07-11-13                 Affidavit of mailing on file.
+                            Discovery filed.
+   07-15-13                 Cause called for jury trial scheduling
+                            People appear by Mr. Bennett.  Defendant appears in
+custody and with
+                            attorneys Mr. Michael Thompson and Mr. Beau Brindley
+.  Mr. Brindley is
+                            directed to file his written entry of appearance.  C
+ause is called for
+                            jury trial scheduling.  Motion by the defendant to c
+ontinue the trial.
+                            State objects.  Comments of counsel heard.  Motion i
+s allowed over the
+                            State's objection.   All subpoenas previously issued
+ are ordered
+                            continued to the next trial setting.  Cause set for
+8/19/13 at 9:00
+                            a.m. for trial call and 1:30 for jury selection.  De
+fendant's bond is
+                            to continue.
+                            Case set to commence Jury Trial
+                            Subpoena Served.  No Fees.
+                            Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   07-18-13                 Subpoena Served.  No Fees.
+   07-19-13                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   07-26-13                 Subpoena Served.  No Fees.
+                            Entry of Appearance filed by Attorney, Beau B. Brind
+ley on
+                            Behalf of Defendant, Jayson Johnson.
+   08-07-13                 Affidavit of mailing on file.
+                            Supplemental Discovery filed
+   08-15-13                 Subpoena Served.  No Fees.
+   08-19-13                 Pre-Trial proceedings
+                            People appear by Scott Bennett. Defendant appears pe
+rsonally,
+                            in-custody and by counsel, Mr. Thompson and Mr. Brin
+dley. Cause called
+                            for pre-trial. Parties announce ready for trial. Mot
+ion by the State
+                            to withdraw and dismiss Count IV, and proceed to tri
+al on Counts I,
+                            II, III, V, and VI. Motion allowed. Count IV is with
+drawn and
+                            dismissed. Cause called for hearing on all pending m
+otions in limine.
+                            Hearing held on all motions and rulings rendered. St
+atement of the
+                            Nature of the Case, Witness List, and Exhibit List o
+n file. Court to
+                            reconvene at 1:30 p.m. for jury selection.
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed MFG/DEL 1<15 GR HEROIN/ANALOG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(c)(1)  Class 1
+                            Sentence: 08/19/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Cause is called for Jury Trial.
+                            People appear by Mr. Bennett.  Defendant appears wit
+h counsel, Mr.
+                            Thompson and Mr. Brindley.  Cause is called for jury
+ trial.  Defendant
+                            is arraigned as to Counts 1, 2, 3, 5 and 6 and he is
+ advised as to all
+                            penalties that may be imposed.  The Court finds he u
+nderstands the
+                            same.   Defendant continues in his plea of not guilt
+y and requests a
+                            jury trial.  Statement of the Nature of the Case is
+withdrawn and an
+                            Amended Statement of the Nature of the Case is filed
+ by the State.
+                            Defendant states no objection to the Amended Stateme
+nt of the Nature
+                            of the Case.  Amended Statement of the Nature of the
+ Case is placed on
+                            file.   State's Witness List placed on file.  Cause
+is called for
+                            hearing on the Defendant's First Motion in Limine.
+Bond assignment is
+                            placed on file this date.   Jurors selected and swor
+n.   Cause is
+                            called for hearing on the defendant's First Motion i
+n Limine.
+                            Arguments heard.   The defendant's First Motion in L
+imine is denied.
+                            No written order is required.  Trial recesses for th
+e day.  Trial to
+                            reconvene at 9:00 a.m. on 8/20/13 in Courtroom C.
+   08-20-13                 Jury Trial resumes.
+                            People appear by Mr. Bennett.  Defendant appears wit
+h attorneys Mr.
+                            Thompson and Mr. Brindley.  Jury Trial resumes.  Sti
+pulations of the
+                            Parties are received and placed on file.  State's Li
+st of Exhibits
+                            placed on file.  Oral Motion by the People to Exclud
+e Witnesses,
+                            Defendant states no objection and joins in that moti
+on.  Motion to
+                            exclude witnesses is allowed by agreement of the par
+ties.  All jurors
+                            present.  Opening statements heard.  People present
+evidence.  Trial
+                            recesses for the day.  Trial to reconvene at 9:00 a.
+m. on 8/21/13 in
+                            Courtroom C.
+   08-21-13                 Jury Trial resumes.
+                            People appear by Mr. Bennett.  Defendant appears wit
+h Counsel, Mr.
+                            Thompson and Mr. Brindley.  Jury trial resumes.  All
+ jurors present.
+                            People present evidence.  Stipulations presented to
+the jury.  Trial
+                            recesses.  Trial to reconvene at 9:00 a.m. on 8/22/1
+3 in Courtroom C.
+   08-22-13                 Jury Trial resumes.
+                            People appear by Mr. Bennett.   Defendant appears wi
+th attorneys Mr.
+                            Thompson and Mr. Brindley.   Jury trial resumes.  Al
+l jurors present.
+                            People present evidence.  People rest.  Motion by th
+e Defendant for
+                            directed verdict at the close of the People's case.
+ Arguments heard.
+                            Motion is denied.  Defendant does not present eviden
+ce; defendant
+                            rests.  Jury instruction conference held outside the
+ presence of the
+                            jurors; instructions settled.  Closing arguments hea
+rd.  Jurors
+                            instructed.  Alternate jurors are excused.  Jurors r
+etire to
+                            deliberate in the custody of the sworn Court Securit
+y Officer.
+                            Later:  People appear by Mr. Bennett.  Defendant app
+ears with
+                            attorneys Mr. Thompson and Mr. Brindley.   Jurors re
+turn their verdict
+                            into open Court.  "We, the jury, find the defendant,
+ Jayson Johnson
+                            guilty of Delivery of a Controlled Substance on 7/10
+/13."    "We, the
+                            jury, find the defendant, Jayson Johnson guilty of D
+elivery of a
+                            Controlled Substance on 7/12/13."     "We, the jury,
+ find the
+                            defendant, Jayson Johnson guilty of Delivery of a Co
+ntrolled Substance
+                            on 7/13/13."  "We, the jury, find the defendant, Jay
+son Johnson guilty
+                            of the offense of Unlawful Possession With Intent to
+ Deliver a
+                            Controlled Substance on 7/18/13."  Jurors polled and
+ affirm their
+                            verdicts.  Jurors excused.  Judgment entered on the
+Verdicts in favor
+                            of the People and against the defendant as to Counts
+ 1, 2, 3, 5 and 6.
+                            Cause is allotted for hearing on any post-trial moti
+ons and
+                            sentencing, if the matter is reached, on 10/3/13 at
+10:30 a.m. in
+                            Courtroom C.  Court Services Department is directed
+to prepare a
+                            Pre-Sentence Report and to provide copies to the Cou
+rt and Counsel at
+                            least 3 days prior to the hearing.  Order for Senten
+cing Report
+                            entered.  See Order.  Motion by the People to Revoke
+ the defendant's
+                            bond.  Comments of counsel heard.  Motion is allowed
+.  Defendant is
+                            ordered held without bond.  Defendant is remanded to
+ the custody of
+                            the Champaign County Sheriff.
+                            Sealed List of Jurors placed on file.
+                            Disposition 01/00  Count 001  Awaiting Sentencing
+                            Disposition: Guilty OTHER AMT NARCOTIC SCHED I&II
+                            Disposition Type: By Jury   Defendant Plea: No Plea
+Entered
+                            Statute 720 570/401(d)(i)  Class 2
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Guilty OTHER AMT NARCOTIC SCHED I&II
+                            Disposition Type: By Jury   Defendant Plea: Not Guil
+ty
+                            Statute 720 570/401(d)(i)  Class 2
+                            Sentence: 08/22/2013
+   08-23-13                 Disposition 06/01  Count 006  No Fine & Cost
+                            Disposition: Merged with Another Offense MFG/DEL HER
+OIN/SCH/PUB HS/PK
+                            Disposition Vacated: Guilty
+                            Disposition Type: By Bench   Defendant Plea: No Plea
+ Entered
+                            Statute 720 570/407(b)(1)  Class X
+                            Sentence: 08/23/2013
+                            Record of exhibits received on file.
+   09-17-13                 Subpoena Served.  No Fees.
+   10-02-13                 Subpoena Served.  No Fees.
+   10-03-13                 Disposition 01/02  Count 001  Fine + Cost
+                            Disposition: Guilty OTHER AMT NARCOTIC SCHED I&II
+                            Disposition Type: By Bench   Defendant Plea: Not Gui
+lty
+                            Statute 720 570/401(d)(i)  Class 2
+                            Sentence: 10/03/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  8Yrs In force
+                            Sentence: Credit Time Served  46Days In force
+                            Sentence: Mandatory Street Value Fine  In force
+                            Sentence: Mandatory Assessment Fine  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           4042.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    250.00     PRELIMINARY HEARIN
+G     10.00
+                            Disposition 02/02  Count 002  Fine + Cost
+                            Disposition: Guilty OTHER AMT NARCOTIC SCHED I&II
+                            Disposition Type: By Bench   Defendant Plea: Not Gui
+lty
+                            Statute 720 570/401(d)(i)  Class 2
+                            Sentence: 10/03/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  10Yrs In force
+                            Sentence: Credit Time Served  46Days In force
+                            Sentence: Mandatory Street Value Fine  In force
+                            Sentence: Mandatory Assessment Fine  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           1782.00
+                            Disposition 03/02  Count 003  Fine + Cost
+                            Disposition: Guilty OTHER AMT NARCOTIC SCHED I&II
+                            Disposition Type: By Bench   Defendant Plea: Not Gui
+lty
+                            Statute 720 570/401(d)(i)  Class 2
+                            Sentence: 10/03/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  12Yrs In force
+                            Sentence: Credit Time Served  46Days In force
+                            Sentence: Mandatory Street Value Fine  In force
+                            Sentence: Mandatory Assessment Fine  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           1832.00
+                            Sentencing Order/Order for Pre-Sentence report.
+                            Appearance of the People by Scott M. Bennett.  Appea
+rance of the
+                            Defendant personally, in custody and with counsel, M
+ichael Thompson
+                            and Beau Brindley.   Defendant files a post-trial mo
+tion this date.
+                            People object to the Defendant's filing of the Motio
+n for New Trial or
+                            Judgment of Acquittal.  Comments of counsel heard.
+Defendant is
+                            permitted to file the Motion for New Trial or Judgme
+nt of Acquittal.
+                            Court calls the Defendant's Motion for New Trial or
+Judgment of
+                            Acquittal for hearing. Arguments heard.  Motion is d
+enied.  No written
+                            order is required.  Cause called for sentencing hear
+ing.  Evidence
+                            heard in aggravation.  Statements of counsel heard.
+ Statement of the
+                            defendant heard.  As to Count 1 for the offense of U
+nlawful Delivery
+                            of a Controlled Substance a Class 2 Felony pursuant
+to 720 ILCS
+                            570/401(d), the defendant is sentenced to 8 years in
+carceration in the
+                            Illinois Department of Corrections pursuant to 720 I
+LCS 570/408 and
+                            the defendant is ordered to pay a $1,000.00 mandator
+y assessment and
+                            $20.00 Street value fine, defendant is advised as to
+ serving 2 years
+                            Mandatory Supervised release and the sentence on Cou
+nt 1 is to be
+                            served concurrently with the sentences imposed in Co
+unt 2, 3, and
+                            merged Counts 5 & 6. As to Count 2 for the offense o
+f Unlawful
+                            Delivery of a Controlled Substance a Class 2 Felony
+pursuant to 720
+                            ILCS 570/401(d), the defendant is sentenced to 10 ye
+ars incarceration
+                            in the Illinois Department of Corrections pursuant t
+o 720 ILCS 570/408
+                            and the defendant is ordered to pay a $1,000.00 mand
+atory assessment
+                            and $40.00 Street value fine, defendant is advised a
+s to serving 2
+                            years Mandatory Supervised release and the sentence
+on Count 2 is to
+                            be served concurrently with the sentences imposed in
+ Count 1, 3, and
+                            merged Counts 5 & 6.   As to Count 3 for the offense
+ of Unlawful
+                            Delivery of a Controlled Substance a Class 2 Felony
+pursuant to 720
+                            ILCS 570/401(d), the defendant is sentenced to 12 ye
+ars incarceration
+                            in the Illinois Department of Corrections pursuant t
+o 720 ILCS 570/408
+                            and the defendant is ordered to pay a $1,000.00 mand
+atory assessment
+                            and $80.00 Street value fine, defendant is advised a
+s to serving 2
+                            years Mandatory Supervised release and the sentence
+on Count 3 is to
+                            be served concurrently with the sentences imposed in
+ Count 1,2, and
+                            merged Counts 5 & 6.  As to Counts 5 & 6, those coun
+ts are merged
+                            pursuant to one verdict for one act for the offenses
+ of Unlawful
+                            Possession with Intent to Deliver a Controlled Subst
+ance a Class X
+                            felony and pursuant to 720 ILCS 570/407(b)(1) the de
+fendant is ordered
+                            to serve 25 years incarceration in the Illinois Depa
+rtment of
+                            Corrections and the defendant is advised as to servi
+ng 3 years
+                            mandatory supervised release.  Defendant's sentence
+on merged Counts 5
+                            & 6 is to be served concurrently with the sentence i
+mposed on Counts
+                            1, 2, and 3, defendant is ordered to pay a $3,000 ma
+ndatory
+                            assessment.  Defendant is ordered to pay Court Costs
+, a crime lab
+                            analysis fee of $100.00, a violent Crime Victims Ass
+istance Act fee
+                            and a $250.00 genetic marker grouping analysis fee.
+ Defendant is
+                            ordered to provide blood, saliva or tissue to the Il
+linois State
+                            Police within 45 days.  Defendant is to receive cred
+it of $230 towards
+                            the fines based on the 46 days served.  Defendant is
+ to receive credit
+                            for 46 days previously served in this matter.  All f
+inancial
+                            obligations shall be paid to the Champaign County Ci
+rcuit Clerk.  Any
+                            bond posted is to be applied first to any court orde
+red BOND
+                            ASSIGNMENT on file and then to all financial obligat
+ions in this case.
+                            Defendant is remanded to the custody of the Sheriff
+for transportation
+                            to the IL. Dept. of Corrections.  Judgment-Sentence
+to the Illinois
+                            Department of Corrections entered this date.
+                            Disposition 05/02  Count 005  Fine + Cost
+                            Disposition: Merged with Another Offense MFG/DEL HER
+OIN/SCH/PUB HS/PK
+                            Disposition Type: By Bench   Defendant Plea: Not Gui
+lty
+                            Statute 720 570/407(b)(1)  Class X
+                            Sentence: 10/03/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  25Yrs In force
+                            Sentence: Credit Time Served  46Days In force
+                            Sentence: Mandatory Assessment Fine  In force
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Genetic marker analysis fee  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           4232.00     CRIME LAB
+        .00
+                             STATE OFFENDER DNA       .00
+
+                            Mittimus prepared.
+                            Disposition 01/03  Count 001  Modified Order
+                            Disposition: Modified/Trial Court OTHER AMT NARCOTIC
+ SCHED I&II
+                            Modified Order       11888.00     MOTION TO VACATE
+      40.00
+                            CRIME LAB              100.00      STATE OFFENDER DN
+A    250.00
+                            PRELIMINARY HEARING     10.00
+   10-04-13                 Street Value Fine Distribution Order entered.
+   10-07-13                 Record of exhibits received on file.
+   10-08-13                 Statement of State's Attorney filed
+   10-11-13                 Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            37.5% to the General Corporate Fund of Champaign Cou
+nty, and
+                            50.0% to the Champaign County Sheriff.
+                            Letter mailed to counsel this date as to the bond po
+sted.
+                            Bond is applied in the amount of $10,000 to outstand
+ing financial
+                            obligations including fines, fees and costs.  Remain
+der to be released
+                            pursuant to the bond order on file.  Notice provided
+ by letter to
+                            counsel.
+   10-17-13                 Bond
+                            Bond
+   10-22-13                 Motion to Reconsider Sentence filed.
+   10-23-13                 Hearing on Motion to Reconsider Sentence set for
+   11-01-13                 Hearing on Motion to Reconsider.
+                            People appear by Mr. Bennett.  Defendant appears by
+attorney Mr.
+                            Thompson.  Cause is called for hearing on the Defend
+ant's Motion to
+                            Reconsider Sentence.   Court has considered the Moti
+on on file.
+                            Comments of counsel considered.  Motion is denied.
+No written order
+                            required.
+                            Transcript for appeal notice required.
+                            Office of the Circuit Clerk is to prepare and file a
+ Notice
+                            Office of the Circuit Clerk is to file the Notice of
+ Appeal.
+                            Transcript for appeal notice required.
+                            Notice of appeal.
+                            Notice of Appeal on file by defendant/appellant, by
+and through his
+                            Attorneys at Law Offices of Beau B. Brindley.
+   11-15-13                 Subpoena Served.  No Fees.
+   11-18-13                 Request from attorney to prepare the appeal record o
+n file.
+   12-02-13                 Appeal Affidavit was mailed.
+   12-04-13                 Appellate Court's letter to counsel pursuant to
+                            Supreme Court Rule 312 on File.
+   12-05-13                 Appellate Court's letter to counsel pursuant to
+                            Supreme Court Rule 312 on File.
+                            Appellate Court Docketing Order on File.
+   12-19-13                 Appeal prepared for appellate court this date.
+                            Letter notifying attorney of appeal fees created and
+ mailed.
+                            Certificate of mailing prepared.
+   12-31-13                 Circuit Clerk received the following transcripts:
+                            August 19, 2013, HNL, Tammy Sue Cobb
+                            August 20, 2013, HNL, Tammy Sue Cobb
+                            August 21, 2013, HNL, Tammy Sue Cobb
+                            August 22, 2013, HNL, Tammy Sue Cobb
+                            October 3, 2013, HNL, Tammy Sue Cobb
+                            November 1, 2013, HNL, Nancy Sivertsen
+   01-03-14                 Sent letter to Appellate Court re: appeal fees not p
+aid.
+   01-09-14                 Appeal Over 200 Pg $.25 Page
+                            Record of appeal #4-13-1056 mailed this date.
+                            Certificate of Certified mailing prepared.
+   01-13-14                 Receipt from the Appellate Court.
+                            Receipt from the Appellate Court that common law rec
+ord received from
+                            the circuit court on file.  Appellate Court No. 4-13
+-1056.
+   02-10-14                 Letter mailed to Counsel by the Court this date, cop
+y ordered filed.
+                            Correspondence from Judge Ladd to Counsel on file.
+   02-11-14                 Letter Sent to Appellate Court by the Circuit Court
+this date,
+                            Copy ordered filed.
+   02-24-14                 Pro Se correspondence on file by defendant with
+                            Motion For Trial Transcripts And Record Of The Proce
+edings and
+                            Affidavit Of Indigency. File stamped copy returned t
+o Defendant and
+                            forwarded to State's Attorney.  File forwarded to Ju
+dge Ladd.
+   02-27-14                 The Circuit Clerk is directed to Supplement the Appe
+llate Record
+                            With the Defendant's Pro Se filing of Feb. 24, 2014.
+   03-05-14                 Prepared blueback certificate.
+                            Mailed certifed copy of Pro Se filing from 2/24/14 t
+o appelate court.
+   04-04-14                 Prepared blueback certificate.
+                            Circuit Clerk received the following transcripts:
+                            July 19, 2012, RPK, Tammy Sue Cobb
+                            July 31, 2012, HNL, Nancy Sivertsen
+                            August 28, 2012, HNL, Tammy Sue Cobb
+                            October 2, 2012, HNL, Holly Wingstrom
+                            October 15, 2012, HNL, Tammy Sue Cobb
+                            November 20, 2012, HNL, Holly Wingstrom
+                            December 19, 2012, HNL, Nancy Sivertsen
+                            January 29, 2013, HNL, Alan Richey
+                            March 26, 2013, HNL, Joni E. Markel
+                            May 21, 2013, HNL, Alan Richey
+                            June 25, 2013, HNL, Laura B. Workman
+                            July 15, 2013, HNL, Alan Richey
+   04-07-14                 Certificate of Certified mailing prepared.
+                            Certificate of Certified mailing prepared.
+                            Receipt Of Exhibits prepared and mailed.
+                            Certificate of Certified mailing prepared.
+                            Record of exhibits sent to appeal on file.
+   04-08-14                 White Certified Mail receipt(s) on file.
+                            White Certified Mail receipt(s) on file.
+                            White Certified Mail receipt(s) on file.
+                            White Certified Mail receipt(s) on file.
+                            White Certified Mail receipt(s) on file.
+                            White Certified Mail receipt(s) on file.
+   04-11-14                 Green Certified Mail receipt(s) on file.
+                            Green Certified Mail receipt(s) on file.
+                            Green Certified Mail receipt(s) on file.
+   04-14-14                 Appellate Court exhibits received receipt Gen No: 4-
+13-1056 on file.
+   04-28-14                 Copies & Certified Copies
+   05-07-14                 Green Certified Mail receipt(s) on file.
+   05-08-14                 Green Certified Mail receipt(s) on file.
+                            Green Certified Mail receipt(s) on file.
+                            Green Certified Mail receipt(s) on file.
+                            Green Certified Mail receipt(s) on file.
+   08-19-14                 Case sent out for collections.
+   11-26-14                 Pro Se correspondence on file by defendant with
+                            Motion To Correct Mittimus, Notice of Filing and Cer
+tificate of
+                            Service and Judgment copy. File stamped copy returne
+d to Defendant.
+                            File forwarded to Judge Ladd.
+   12-12-14                 The Circuit Clerk is directed to forward a copy of t
+he defendant's
+                            Pro se filing of Nov. 26, 2014 to the State Appellat
+e Defender.
+   12-15-14                 Certificate of mailing prepared.
+   01-23-15                 Re. 4-13-1056, Mandate from the Appellate Court
+                            Appellant's motion to supplement the record on appea
+l ALLOWED.
+   05-06-15                 Re. 4-13-1056, Mandate from the Appeallate Court
+                            Appellant's motion to supplement the record on appea
+l ALLOWED.
+   06-09-15                 Notice of Filing on file.
+                            Application to Sue or Defend as a Poor Person on fil
+e by defendant
+                            Motion for Appointment of Counsel on file by defenda
+nt
+                            Post conviction petition on file and forwarded
+                            to court this date.  Circuit Clerk to review file fo
+r Post Conviction
+                            Order.
+   09-02-15                 Memorandum of Opinion and Order Denying Pro Se Petit
+ion
+                            For Post-Conviction Relief Pursuant to 735 ILCS 5/12
+2-1 entered this
+                            date.  The Petition for post-conviction relief is he
+reby dismissed.
+                            Petitioner's request for leave to proceed in forma p
+auperis and
+                            requesting appointed counsel is denied.  Pursuant to
+ 705 ILCS
+                            105/27.9(a) and 735 ILCS 5/22-105, filing fees and c
+ourt costs in the
+                            amount of $50.00 toe the Circuit Clerk of Champaign
+County.  The IDOC
+                            is directed to withhold and collect money from the p
+etitioner's
+                            account and forward it to the Circuit Clerk of Champ
+aign County,
+                            pursuant to 705 ILCS 105/27.9 and 735 ILCS 5/22-105
+as follows:  the
+                            IDOC is to collect a first time payment of 50% of th
+e average monthly
+                            balance of the prisoner's trust fund account for the
+ past 6 months;
+                            thereafter 50% of all deposits into the prisoner's i
+ndividual account
+                            shall be withhold and forwarded to the Circuit Clerk
+ of Champaign
+                            County until the $40.00 filing fees and actual court
+ costs are
+                            collected in full.  The Clerk of the Circuit Court a
+t Champaign
+                            County, Illinois is ordered to serve a copy of this
+order upon the
+                            petitioner by certified mail within 10 days of its e
+ntry pursuant to
+                            Supreme Court Rule 651(b).
+                            Memorandum of Opinion and Order Denying Pro Se Petit
+ion for
+                            Post-Conviction Relief Pursuant to 735ILCS5/122-1 on
+ file.
+   09-03-15                 Copies of Memorandum and order sent to the parties a
+nd Warden
+                            Correspondence from the Judge to counsel and defenda
+nt on file.
+                            Correspondence from the Judge to the Warden on file.
+                            Supreme Court 651 letter sent.
+   09-04-15                 White Certified Mail receipt(s) on file.
+   09-10-15                 Proof/Certificate of Service on File by Defendant, P
+ro Se. File
+                            Forwarded to Judge Ladd and file stamped copy return
+ed to Defendant.
+                            Notice of Appeal on file by Defendant/Appellant, Pro
+ Se
+                            Green Certified Mail receipt(s) on file.
+   09-14-15                 Office of the Circuit Clerk is to prepare and file a
+ Notice
+                            Office of the Circuit Clerk is to prepare and file a
+ Notice of Appeal
+                            as to the Court's denial of the Post-Conviction. Off
+ice of the State
+                            Appellate Defender appointed to represent the defend
+ant on the appeal.
+                            Office of the Circuit Clerk is to notify the State A
+ppellate Defender
+                            of their appointment.
+                            Transcript for appeal notice required.
+                            Green Certified Mail receipt(s) on file.
+                            Notice of appeal prepared.
+                            Appointment of counsel on appeal prepared.
+   09-15-15                 Appeal Affidavit was mailed.
+   09-25-15                 Appellate Court's letter to counsel pursuant to
+                            Supreme Court Rule 312 on File.
+   10-01-15                 Appellate Defender's letter acknowledging their
+                            Appointment to represent defendant on appeal and the
+ir request to have
+                            the record filed with the Appellate Court.
+   10-05-15                 Appellate Court Docketing Order on File.
+   10-16-15                 Fines and Costs on file
+   11-12-15                 Record of Appeal, 4-15-0753, mailed this date
+                            Certificate of Certified mailing prepared.
+   12-22-15                 Prepared blueback certificate.
+   12-23-15                 Receipt from the Appellate Court.
+                            Receipt from the Appellate Court that common law rec
+ord received from
+                            the circuit court on file.  Appellate Court No. 4-15
+-0753
+   01-04-16                 Re. 4-15-0753 Mandate from the Appellate Court
+                            Appellant's Motion to Supplement the Record on Appea
+l ALLOWED.
+   01-13-16                 Mandate from Appellate Court regarding Gen. No. 4/13
+/1056 on file,
+                            Along with printed copy of Appellate Order. It is th
+e decision of this
+                            court that the order on appeal be AFFIRMED and stand
+ in full force and
+                            effect.
+   01-19-16                 Record of exhibits received on file.
+                            Record of exhibits received on file.
+                            Appellate Court receipt common law.
+                            Appellate Court receipt common law record returned t
+o circuit court on
+                            file.   Appellate Court No. 4-13-1056
+   01-27-16                 Certificate of Certified mailing prepared.
+   02-03-16                 Record of exhibits sent to appeal on file.
+                            Receipt Of Exhibits prepared and mailed.
+                            Certificate of Certified mailing prepared.
+   02-11-16                 Order from Appellate Court filed: Appellant's motion
+ to supplement the
+                            record on appeal ALLOWED.
+   02-19-16                 Re. 4-15-0753, Reciept of Exhibts on file
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,311 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF000774
+
+   Defendant Plaintiff
+NOLL  AMANDA M
+12511 JONES-MALTBERG
+#4302
+SAN ANTONIO TX 78247
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/16/13
+                Court Room:
+           Next Appearance: 08/08/17
+                Birth Date: 06/29/79
+                 DEFENDANT: NOLL  AMANDA M
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      100.00      BOND -10% BOND FEE           100.00            .00
+    37880.44      *RESTITUTION AMOUNT         6125.00       31755.44
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       25.00      PROBATION MONITORIN             .00          25.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118589935 SHERIFF'S BOOKING FEE             20.00        05/17/13
+   118589935 BOND - ORIGINAL                 1000.00        05/17/13
+   118735451 BOND -10% BOND FEE               100.00        08/15/13
+   118735451 *RESTITUTION AMOUNT              900.00        08/15/13
+   118735451 *RESTITUTION AMOUNT              900.00        08/15/13
+   118737005 01000000000                         .00        08/16/13
+   118792281 *RESTITUTION AMOUNT              100.00        09/19/13
+   118792281 *RESTITUTION AMOUNT              100.00        09/19/13
+   118844441 *RESTITUTION AMOUNT              150.00        10/22/13
+   118844441 *RESTITUTION AMOUNT              150.00        10/22/13
+   118901235 *RESTITUTION AMOUNT              150.00        11/22/13
+   118901235 *RESTITUTION AMOUNT              150.00        11/22/13
+   120857217 *RESTITUTION AMOUNT              100.00        12/31/13
+   120857217 *RESTITUTION AMOUNT              100.00        12/31/13
+   120917921 *RESTITUTION AMOUNT              100.00        02/07/14
+   120917921 *RESTITUTION AMOUNT              100.00        02/07/14
+   120951647 *RESTITUTION AMOUNT              150.00        02/27/14
+   120951647 *RESTITUTION AMOUNT              150.00        02/27/14
+   121008483 *RESTITUTION AMOUNT              150.00        04/01/14
+   121008483 *RESTITUTION AMOUNT              150.00        04/01/14
+   121054445 *RESTITUTION AMOUNT              150.00        04/29/14
+   121054445 *RESTITUTION AMOUNT              150.00        04/29/14
+   121110061 *RESTITUTION AMOUNT              150.00        05/30/14
+   121110061 *RESTITUTION AMOUNT              150.00        05/30/14
+   121156264 *RESTITUTION AMOUNT              200.00        06/26/14
+   121156264 *RESTITUTION AMOUNT              200.00        06/26/14
+   121216030 *RESTITUTION AMOUNT              175.00        07/31/14
+   121216030 *RESTITUTION AMOUNT              175.00        07/31/14
+   121257439 *RESTITUTION AMOUNT              200.00        08/22/14
+   121257439 *RESTITUTION AMOUNT              200.00        08/22/14
+   121310208 *RESTITUTION AMOUNT              200.00        09/22/14
+   121310208 *RESTITUTION AMOUNT              200.00        09/22/14
+   121375627 *RESTITUTION AMOUNT              200.00        10/30/14
+   121375627 *RESTITUTION AMOUNT              200.00        10/30/14
+   121421556 *RESTITUTION AMOUNT              200.00        11/26/14
+   121421556 *RESTITUTION AMOUNT              200.00        11/26/14
+   121472461 *RESTITUTION AMOUNT              200.00        12/30/14
+   121472461 *RESTITUTION AMOUNT              200.00        12/30/14
+   121519387 *RESTITUTION AMOUNT              200.00        01/29/15
+   121519387 *RESTITUTION AMOUNT              200.00        01/29/15
+   121571594 *RESTITUTION AMOUNT              200.00        03/02/15
+   121571594 *RESTITUTION AMOUNT              200.00        03/04/15
+   121628285 *RESTITUTION AMOUNT              150.00        04/01/15
+   121628285 *RESTITUTION AMOUNT              150.00        04/06/15
+   121685551 *RESTITUTION AMOUNT              200.00        05/04/15
+   121685551 *RESTITUTION AMOUNT              200.00        05/06/15
+   121736875 *RESTITUTION AMOUNT              150.00        06/03/15
+   121736875 *RESTITUTION AMOUNT              150.00        06/03/15
+   121803639 *RESTITUTION AMOUNT              140.00        07/10/15
+   121803639 *RESTITUTION AMOUNT              140.00        07/10/15
+   121896235 *RESTITUTION AMOUNT              150.00        09/01/15
+   121896235 *RESTITUTION AMOUNT              150.00        09/01/15
+   122003391 *RESTITUTION AMOUNT              100.00        11/02/15
+   122003391 *RESTITUTION AMOUNT              100.00        11/02/15
+   122112741 *RESTITUTION AMOUNT              160.00        01/08/16
+   122112741 *RESTITUTION AMOUNT              160.00        01/08/16
+   122242495 *RESTITUTION AMOUNT              200.00        03/24/16
+   122242495 *RESTITUTION AMOUNT              200.00        03/24/16
+   122283437 *RESTITUTION AMOUNT              200.00        04/19/16
+   122283437 *RESTITUTION AMOUNT              200.00        04/19/16
+   122331088 *RESTITUTION AMOUNT              200.00        05/16/16
+   122331088 *RESTITUTION AMOUNT              200.00        05/16/16
+   122386522 *RESTITUTION AMOUNT              200.00        06/16/16
+   122386522 *RESTITUTION AMOUNT              200.00        06/16/16
+   122439357 *RESTITUTION AMOUNT              200.00        07/18/16
+   122439357 *RESTITUTION AMOUNT              200.00        07/18/16
+   122483617 *RESTITUTION AMOUNT              200.00        08/15/16
+   122483617 *RESTITUTION AMOUNT              200.00        08/15/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  THEFT CONTROL INTENT 10K<100K
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   05-16-13                 Charge 01 Count 001 THEFT CONTROL INTENT 10K<100K
+                            Statute 720 5/16-1(a)(1)(A)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded record of arraignment proceedings.
+                            People appear by Sarah J. Carlson.  Defendant appear
+s personally
+                            together with private counsel, Brett N. Olmsteadfor
+Roger Webber.
+                            Entry of appearance on file.  Defendant is arraigned
+.  Defendant
+                            waives preliminary hearing, enters a plea of not gui
+lty and requests a
+                            trial by jury.  Pre-trial orders entered.  Defendant
+ admonished as to
+                            trial and sentencing in absentia. Bond is set in the
+ amount of
+                            $10,000-ROR DENIED. As a condition of bond, Defendan
+t is ordered to
+                            surrender her passport, or file an affidavit stating
+ she has no
+                            passport.  See Expanded Record.
+                            Notice of arrest without warrant on file.
+   05-17-13                 PASSPORT IS IN THE BIG SAFE
+                            Sheriff Booking Fee
+   06-06-13                 Discovery filed
+   06-20-13                 Supplemental Discovery filed
+   06-27-13                 Supplemental Discovery filed
+   07-03-13                 Agreed Order to Modify Bond entered.
+   07-09-13                 By agreement, trial allotment vacated
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date. Bond to continue.
+   07-18-13                 Motion to Modify Bond filed.
+   07-22-13                 Cause allotted for Hearing on the Motion to Modify B
+ond on
+                            E-Mail on file from Court Clerk this date.
+   08-06-13
+                            Defendant appears with B. Olmstead.  Cause remains a
+llotted for
+                            hearing on the Defendant's motion to modify bond to
+August 8, 2013 at
+                            9:00 a.m. in Courtroom A.  Bond to continue.
+   08-08-13                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty THEFT CONTROL INTENT 10K<100K
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16-1(a)(1)(A)  Class 2
+                            Sentence: 08/08/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  48Mos In force
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Cost Only              497.00     *RESTITUTION AMOUN
+T  37880.44
+                            CRIME STOPPERS          10.00     PROBATION MONITORI
+N     25.00
+                             STATE OFFENDER DNA    250.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, Roger B. Webber
+.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Theft Control Intent 10k<10
+0k ILCS: 720
+                            5/16-1(a)(1)(A) as charged. Judgment entered in favo
+r of the People
+                            and against the defendant on finding of guilt and fo
+r costs.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  8/04/2016.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  48 months probation. The Defendant is to
+submit specimens
+                            of blood, saliva, or tissue to the Illinois Departme
+nt of State Police
+                            or to the Department of Corrections within 45 days,
+at a collection
+                            site designated by the Champaign County Court Servic
+es Department
+                            and/or Illinois Department of State Police, in accor
+dance with 730
+                            ILCS 5/5-4-3. Defendant advised of right to appeal a
+nd rights pursuant
+                            to Supreme Court Rule 605 and the Court finds that t
+he defendant
+                            understands the same.  Written Sentencing Order ente
+red. See ORDER.
+                            Defendant ordered to report to the Champaign County
+Probation and
+                            Court Services Department.
+   08-12-13                 Passport originally seized as possible evidence orde
+red returned to
+                            the defendant.
+                            Provisional/Temporary Travel Permit approved.
+                            Passport released to the defendant per court order t
+his date.
+   08-15-13                 Bond
+   08-16-13                 Sheriff FTA Warrant Service Fee
+   09-13-13                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   09-19-13                 Court Ordered Payments
+   10-22-13                 Court Ordered Payments
+   11-07-13                 Ck # 145549, Restitution check returned undeliverabl
+e.
+                            Restitution victim address change on file.
+                            Restutution check remailed to new address on file.
+   11-22-13                 Court Ordered Payments
+   12-31-13                 Court Ordered Payments
+   02-07-14                 Court Ordered Payments
+   02-27-14                 Court Ordered Payments
+   04-01-14                 Court Ordered Payments
+   04-29-14                 Court Ordered Payments
+   05-30-14                 Court Ordered Payments
+   06-26-14                 Court Ordered Payments
+                            Probation transferred to Texas effective Sept, 2013.
+                            Probation monitoring fees reduced accordingly.
+   07-31-14                 Court Ordered Payments
+   08-22-14                 Court Ordered Payments
+   09-22-14                 Court Ordered Payments
+   10-30-14                 Court Ordered Payments
+   11-26-14                 Court Ordered Payments
+   12-30-14                 Court Ordered Payments
+   01-29-15                 Court Ordered Payments
+   03-02-15                 Cash
+   04-01-15                 Cash
+   05-04-15                 Cash
+   06-03-15                 Cash
+   07-10-15                 Cash
+   09-01-15                 Cash
+   11-02-15                 Cash
+   01-08-16                 Cash
+   03-24-16                 Cash
+   04-19-16                 Cash
+   05-16-16                 Cash
+   06-16-16                 Cash
+   07-18-16                 Cash
+   08-15-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

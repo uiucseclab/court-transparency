@@ -1,0 +1,219 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF000329
+
+   Defendant Plaintiff
+BROWN  LATEA J
+3008 BLAIR DR
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 03/01/12
+                Court Room:
+           Next Appearance: 08/06/12
+                Birth Date: 01/30/81
+                 DEFENDANT: BROWN  LATEA J
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       20.00      BOND -10% BOND FEE            20.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+         .00      SPINAL CORD RESEARC             .00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+        4.00      VICTIMS FUND-FINE              1.02           2.98
+       10.00      ST POLICE SERVICES              .00          10.00
+       42.60      COLLECTION FEES               31.72          10.88
+       55.65      LATE FEES                       .00          55.65
+       85.40      TAX INTERCEPT                 33.26          52.14
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117875115 BOND TRANSFERS IN                200.00        03/13/12
+   118053301 BOND -10% BOND FEE                20.00        07/26/12
+   118053301 DOCUMENT STORAGE                   5.00        07/26/12
+   118053301 AUTOMATION                        10.00        07/26/12
+   118053301 CIRCUIT CLERK FEE                100.00        07/26/12
+   118053301 COURT SECURITY                    25.00        07/26/12
+   118053301 COURT FINANCE FEE                 40.00        07/26/12
+   121136897 COURT FINANCE FEE                 10.00        06/03/14
+   121136897 STATES ATTORNEY                   40.00        06/03/14
+   121136897 STATES ATTORNEY AUTOMATI           2.00        06/03/14
+   121136897 CRIME STOPPERS                    10.00        06/03/14
+   121136897 ARRESTEE'S MEDICAL                10.00        06/03/14
+   121136897 TR/CR SUR $10/$40                  2.78        06/03/14
+   121136897 COLLECTION FEES                    6.22        06/03/14
+   121618749  STATE OFFENDER DNA ID S         107.09        05/19/15
+   121618749 COLLECTION FEES                    8.91        05/19/15
+   122322290  STATE OFFENDER DNA ID S         142.91        05/07/16
+   122322290 TR/CR SUR $10/$40                  7.22        05/07/16
+   122322290 CLERK OP & ADMIN FUND             10.00        05/07/16
+   122322290 DRUG COURT PROGRAM                 5.00        05/07/16
+   122322290 VICTIMS FUND-FINE                  1.02        05/07/16
+   122322290 COLLECTION FEES                   16.59        05/07/16
+   122322290 TAX INTERCEPT                     33.26        05/07/16
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  DRIVING RVK/SUSP DUI/SSS 4-9
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   03-01-12                 Charge 01 Count 001 DRIVING RVK/SUSP DUI/SSS 4-9
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Agency: ILLINOIS STATE POLICE DISTRICT  Charge Instr
+: Information
+                            NO BOND No Bond
+   03-02-12                 Cause set for arraignment on
+                            Created and properly labeled court case file.
+   03-05-12
+                            Defendant is arraigned.  Motion by the Defendant for
+ continuance for
+                            counsel.  Motion allowed.
+   03-13-12                 Bond Type Transfer Bond From    2012TR001540 BROWN L
+ATEA J
+   03-19-12
+                            Defendant is arraigned.  Motion by the Defendant for
+ appointed
+                            counsel.  Motion allowed.  The Champaign County Publ
+ic Defender is
+                            appointed and a representative appears instanter.  D
+efendant waives
+                            preliminary hearing. Plea of not guilty and request
+for jury trial
+                            entered.  Bond to continue.
+   03-28-12                 Discovery filed
+   03-29-12                 Answer to Discovery filed
+   04-13-12                 Order of Substitution of counsel entered.
+                            Order of Substitution of counsel entered.  See Order
+.  Appointment of
+                            the Public Defender is vacated this date.  Cause con
+tinued for
+                            pretrial on 5/23/12 at 1:30 pm in Courtroom L.
+   05-23-12
+                            By agreement, cause to be reallotted for pre-trial.
+   06-27-12
+                            By agreement, cause to be reallotted for pre-trial.
+   07-25-12                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty DRIVING RVK/SUSP DUI/SSS 4-9
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/6-303(a)  Class 4
+                            Sentence: 07/25/2012
+                            Sentence: Cost Only  In force
+                            Sentence: Department Of Corrections  15Mos In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              311.00     CRIME STOPPERS
+      10.00
+                             STATE OFFENDER DNA    250.00     COLLECTION FEES
+      42.60
+                            LATE FEES               55.65     TAX INTERCEPT
+      85.40
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Elizabeth A. Taylor.  Ap
+pearance of the
+                            Defendant personally and by counsel, Edwin Piraino.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Driving Rvk/Susp Dui/Sss 4-
+9 ILCS: 625
+                            5/6-303(a) as charged. Judgment entered in favor of
+the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  1/22/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of incarceration of 15 months in the Illinois
+ Department of
+                            Corrections.  The Defendant is to submit specimens o
+f blood, saliva,
+                            or tissue to the Illinois Department of State Police
+ or to the
+                            Department of Corrections within 45 days, at a colle
+ction site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3. Defendant advised of right to appeal and ri
+ghts pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.
+                            Defendant is ordered to report for commencement of s
+entence
+   07-26-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+                            Report of Felony Conviction prepared / mailed.
+                            Bond
+                            Statement of State's Attorney filed
+   08-10-12                 Mittimus.
+                            Judgment - Sentence to Illinois Department of Correc
+tions on file.
+                            Defendant remanded to the custody of the Sheriff for
+ transportation to
+                            Department of Corrections.
+   04-25-13                 Case sent out for collections.
+   06-03-14                 Court Ordered Payments
+   05-19-15                 Cash
+   05-07-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

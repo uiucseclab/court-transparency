@@ -1,0 +1,225 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CM001030
+
+   Defendant Plaintiff
+KUHLMANN  MICHAEL
+2408 E NEVADA
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 09/20/13
+                Court Room:
+           Next Appearance: 12/22/14
+                Birth Date: 09/14/78
+                 DEFENDANT: KUHLMANN  MICHAEL
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       10.00      STATES ATTORNEY               10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          300.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       50.00      TRAFFIC/CRIMINAL SU           50.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      195.00      FINES                        195.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121126366 DOCUMENT STORAGE                  15.00        06/09/14
+   121126366 E-CITATION                         5.00        06/09/14
+   121126366 AUTOMATION                        15.00        06/09/14
+   121126366 CIRCUIT CLERK FEE                 75.00        06/09/14
+   121126366 COURT SECURITY                    25.00        06/09/14
+   121126366 COURT FINANCE FEE                 25.00        06/09/14
+   121126366 STATES ATTORNEY                   10.00        06/09/14
+   121126366 STATES ATTORNEY AUTOMATI           2.00        06/09/14
+   121126366 CRIME STOPPERS                     5.00        06/09/14
+   121126366 ARRESTEE'S MEDICAL                10.00        06/09/14
+   121126366 PROBATION MONITORING FEE          25.00        06/09/14
+   121126366 PROBATION OPER ASSISTANC          10.00        06/09/14
+   121126366 TR/CR SUR $10/$40                 50.00        06/09/14
+   121126366 DRUG COURT PROGRAM                 5.00        06/09/14
+   121126366 FINES                            195.00        06/09/14
+   121126366 VIOLENT CRIME VICTIMS AS          75.00        06/09/14
+   121126366 ST POLICE OPERATIONS ASS          10.00        06/09/14
+   121126383 PROBATION MONITORING FEE         275.00        06/09/14
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  AGG ASLT/USE DDLY WEAP/RIFLE
+
+         2  CRIM TRESPASS TO RESIDENCE
+
+         3  ELEC HRSMT/DISRUPT SERVICE
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   09-20-13                 Charge 01 Count 001 AGG ASLT/USE DDLY WEAP/RIFLE
+                            Statute 720 5/12-2(c)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 CRIM TRESPASS TO RESIDENCE
+                            Statute 720 5/19-4(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 03 Count 003 ELEC HRSMT/DISRUPT SERVICE
+                            Statute 720 5/26.5-3(a)(2)  Class B  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Verified information on file.
+   10-04-13                 Summons served.
+   10-11-13                 Entry of Appearance,Plea of Not Guilty Request for J
+ury Trial filed.
+   10-18-13                 Recognizance bond
+                            Set for pre-trial.
+                            Appearance of the People by Tim J. Sullivan.  Appear
+ance of the
+                            Defendant personally and by counsel, Edwin Piraino.
+  Entry of
+                            Appearance placed on file. Defendant arraigned. Plea
+ of not guilty
+                            entered and Defendant requests trial by jury.  Bond
+set in the amount
+                            of $1,000-ROR ALLOWED. As a condition of bond, the D
+efendant is
+                            ordered to have NO CONTACT whatsoever, directly or i
+ndirectly, with
+                            the victim or address recited in open court. See exp
+anded record.
+                            Expanded record of court proceedings on arraignment.
+                            Released On Recognizance bond form on file.
+   10-23-13                 Affidavit of mailing on file.
+   11-01-13                 Affidavit of mailing on file.
+   12-20-13                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed CRIM TRESPASS TO RESIDENCE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-4(a)(1)  Class A
+                            Sentence: 12/20/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed ELEC HRSMT/DISRUPT SERVICE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/26.5-3(a)(2)  Class B
+                            Sentence: 12/20/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Withhold Judgment/Supervision AGG ASLT/
+USE DDLY WEAP/RIFL
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-2(c)(1)  Class A
+                            Sentence: 12/20/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Court Supervision  12Mos In force
+                                      Supervised Court Service
+                            Sentence: No contact order.  In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Fine + Cost            527.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    300.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Tim J. Sullivan.  Appear
+ance of the
+                            Defendant personally and by counsel, Edwin Piraino.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges, and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly, and voluntarily waives rights and e
+nters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Agg Aslt/Use Ddly Weap/Rifl
+e ILCS: 720
+                            5/12-2(c)(1) as charged.  Judgment is deferred.  Upo
+n the plea entered
+                            this date, Defendant is sentenced to all terms and c
+onditions as set
+                            forth in the written order on guilty plea entered th
+is date. All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  6/18/2014.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of 12 months Court Supervision. Defendant is
+to have no
+                            contact, directly or indirectly, in person, by telep
+hone, or
+                            electronically with the persons stated in the writte
+n order. Counts 2
+                            and 3 are hereby dismissed. Defendant advised of rig
+ht to appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See order.
+                            Sentencing order.
+                            Waiver of jury.
+   01-14-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   06-09-14                 Court Ordered Payments
+                            Court Ordered Payments
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

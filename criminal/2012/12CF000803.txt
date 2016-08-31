@@ -1,0 +1,461 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CF000803
+
+   Defendant Plaintiff
+PARKER  JAMES E
+1006 SMITH RD APT17
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/23/12
+                Court Room: E
+           Next Appearance: 08/19/14
+                Birth Date: 08/21/61
+                 DEFENDANT: PARKER  JAMES E
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+      222.24      *RESTITUTION AMOUNT          222.24            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+         .00      CRIME STOPPERS                  .00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       25.00      PROBATION MONITORIN           30.76         269.24
+       10.00      PROBATION OPER ASSI           10.00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+       75.00      VIOLENT CRIME VICTI            5.00          70.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      127.39      COLLECTION FEES                 .00         127.39
+       55.39      LATE FEES                       .00          55.39
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121287211 BOND - ORIGINAL                  122.00        02/03/11
+   117983076 SHERIFF'S BOOKING FEE             20.00        06/04/12
+   117983076 BOND - ORIGINAL                  150.00        06/04/12
+   118779955 BOND -10% BOND FEE                15.00        09/12/13
+   118779955 *RESTITUTION AMOUNT               45.00        09/12/13
+   118779955 *RESTITUTION AMOUNT               45.00        09/12/13
+   118779955 COPIES                             1.00        09/12/13
+   118779955 COPIES                             1.00        09/12/13
+   118816414 *RESTITUTION AMOUNT               60.00        10/03/13
+   118816414 *RESTITUTION AMOUNT               60.00        10/03/13
+   118828954 *RESTITUTION AMOUNT              117.24        10/10/13
+   118828954 DOCUMENT STORAGE                   5.00        10/10/13
+   118828954 E-CITATION                         5.00        10/10/13
+   118828954 AUTOMATION                        10.00        10/10/13
+   118828954 CIRCUIT CLERK FEE                 12.76        10/10/13
+   118828954 *RESTITUTION AMOUNT              117.24        10/10/13
+   118870530 CIRCUIT CLERK FEE                 50.00        11/05/13
+   120956418 CIRCUIT CLERK FEE                 12.24        03/03/14
+   120956418 COURT SECURITY                    25.00        03/03/14
+   120956418 COURT FINANCE FEE                 12.76        03/03/14
+   121008830 COURT FINANCE FEE                 12.24        04/01/14
+   121008830 STATES ATTORNEY                   20.00        04/01/14
+   121008830 STATES ATTORNEY AUTOMATI           2.00        04/01/14
+   121008830 ARRESTEE'S MEDICAL                10.00        04/01/14
+   121008830 PROBATION MONITORING FEE           5.76        04/01/14
+   121060470 PROBATION MONITORING FEE          25.00        05/01/14
+   121060470 PROBATION OPER ASSISTANC          10.00        05/01/14
+   121060470 TR/CR SUR $10/$40                 10.00        05/01/14
+   121060470 VIOLENT CRIME VICTIMS AS           5.00        05/01/14
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  CRIM DMG/GOVT PROP/KNOW/<$500
+
+         2  CRIM DAMAGE TO PROPERTY <$300
+
+         2  CRIM DAMAGE TO PROPERTY <$300
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   02-03-11                 Bond Type Full Cash
+                            Bond conversion error corrected this date.
+   05-23-12                 Charge 01 Count 001 CRIM DMG/GOVT PROP/KNOW/<$500
+                            Statute 720 5/21-4(1)(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned.  Public Defender is appointe
+d and David
+                            Appleman appears instanter.  Defendant requests Prel
+iminary hearing.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. Bond
+                            is set in the amount of $1,500-ROR DENIED.  See expa
+nded record.
+                            Cause allotted for pre-trial on
+                            Charge 02 Count 002 CRIM DAMAGE TO PROPERTY <$300
+                            Statute 720 5/21-1(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            NO BOND No Bond
+   05-24-12                 Notice of arrest without warrant on file.
+   06-04-12                 Sheriff Booking Fee
+                            Subpoena Served.  No Fees.
+   06-08-12                 Pretrial order after waiver or finding of probable c
+ause
+                            People appear by Duke C. Harris.  Defendant appears
+personally and
+                            with counsel, Randall Rosenbaum.  Cause called for p
+reliminary
+                            hearing. Witnesses sworn. Evidence heard. The Court
+having heard the
+                            evidence on preliminary hearing and being fully advi
+sed in the
+                            premises finds probable cause to believe that the De
+fendant has
+                            committed one or more felony offenses as charged in
+the information.
+                            Defendant enters a plea of not guilty and requests t
+rial by jury.
+                            Pre-Trial Discovery Order on file.  Bond to continue
+.
+   06-27-12                 Discovery filed
+   07-10-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   08-07-12
+                            Defendant appears with S. Corum for S. Schmidt.  On
+motion of the
+                            defendant cause continued for pre-trial on September
+ 4, 2012 at 9:00
+                            a.m. in Courtroom A.  Bond to continue.
+   09-04-12                 Failure to appear warrant.
+                            Appearance of the People by Sarah J. Carlson.  No ap
+pearance by the
+                            Defendant.  Appearance of  Scott Schmidt for the Def
+endant.  Motion by
+                            the People for bond forfeiture and warrant.  Objecti
+on by counsel for
+                            the Defendant.  Motion allowed over the objection.
+Defendant's bond
+                            forfeited. CIRCUIT CLERK TO SEND NOTICE OF THE HEARI
+NG ON FORFEITURE.
+                            Warrant to issue.  Bond set in the amount of $  7,50
+0.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+   09-06-12
+                            Warrant issued.  Bond set in the amount of $  7,500.
+00.
+   09-12-12                 Bond forfeiture notice prepared and mailed.
+   10-15-12
+                            Appearance of the People by D. Harris.  Defendant ap
+pears with S.
+                            Schmidt.  On motion of the defendant bond forfeiture
+ entered herein on
+                            September 4, 2012 is vacated.  Warrant issued Septem
+ber 6, 2012 is
+                            quashed.  See order.  Bond reinstated.  Cause allott
+ed for Pre-Trial
+                            on November 6, 2012 at 9:00 a.m. in Courtroom A.
+Bond as reinstated
+                            to continue.
+                            Warrant Quashed
+   11-01-12                 Circuit Clerk mail returned undeliverable on file.
+   11-06-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+                            Copy of Quashed Warrant filed
+   12-10-12
+                            People appear by Assistant State's Attorney Scott La
+rson. Defendant
+                            appears personally and by counsel, Scott Schmidt. On
+ Defendant's
+                            motion, cause is continued for further proceedings t
+o January 15, 2013
+                            at 9:00 a.m. in Courtroom A. Bond to continue.
+   01-15-13                 Failure to appear warrant.
+                            Appearance of the People by Sarah J. Carlson.  No ap
+pearance by the
+                            Defendant.  Appearance of  Scott Schmidt for the def
+endant.  Motion by
+                            the People for bond forfeiture and warrant.  Objecti
+on by counsel for
+                            the Defendant.  Motion allowed over the objection.
+Defendant's bond
+                            forfeited. CIRCUIT CLERK TO SEND NOTICE OF THE HEARI
+NG ON FORFEITURE.
+                            Warrant to issue.  Bond set in the amount of $  7,50
+0.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+   01-17-13                 Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $  7,500.
+00.
+   01-22-13                 Bond forfeiture notice prepared and mailed.
+   02-19-13                 Warrant Quashed
+
+                            People appear by Scott Larson. Defendant appears per
+sonally and by
+                            counsel, Scott Schmidt. On Defendant's motion, Bond
+Forfeiture order
+                            previously entered is vacated. Warrant is ordered qu
+ashed. Defendant's
+                            bond is reinstated and is to continue. By agreement,
+ cause is
+                            continued for further proceedings to March 12, 2013
+at 9:00 a.m. in
+                            Courtroom A.
+   03-12-13                 By agreement, trial allotment vacated
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   04-09-13                 Set for Trial-Defendant Appears
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   04-22-13                 Failure to appear warrant.
+                            Appearance of the People by Scott A. Larson.  No app
+earance by the
+                            Defendant.  Appearance of  Scott Schmidt for the def
+endant.  Motion by
+                            the People for bond forfeiture and warrant.  Objecti
+on by counsel for
+                            the Defendant.  Motion allowed over the objection.
+Defendant's bond
+                            forfeited. Cause allotted for bond forfeiture hearin
+g on June 4, 2013
+                            at 1:00 p.m. in Courtroom A.  CIRCUIT CLERK TO SEND
+NOTICE OF THE
+                            HEARING ON FORFEITURE.  Warrant to issue.  Bond set
+in the amount of $
+                            7,500.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+   04-24-13                 Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $  7,500.
+00.
+   04-25-13                 Bond forfeiture notice prepared and mailed.
+   05-06-13                 Circuit Clerk mail returned undeliverable on file.
+   06-04-13
+                            Bond forfeiture entered April 22, 2013 is vacated.
+Bond reinstated.
+                            Warrant quashed.  See Order entered.  Cause allotted
+ for Pre-Trial on
+                            June 11, 2013 at 9:00 a.m. in Courtroom A.  Bond as
+reinstated to
+                            continue.
+                            Warrant Quashed
+                            Copy of Quashed Warrant filed
+   06-11-13
+                            On motion of the defendant cause allotted for the Ju
+ry Trial Call on
+                            June 17, 2013 at 1:00 p.m. in Courtroom A.  Bond to
+continue.
+                            Copy of Quashed Warrant filed
+   06-17-13
+                            Suggestion by counsel for the defendant that he will
+ be filing a
+                            motion for psychiatric evaluation.  Cause allotted f
+or Further
+                            Proceedings on June 18, 2013 at 1:00 p.m. in Courtro
+om A.  Bond to
+                            continue.
+                            Subpoena Served.  No Fees.
+   06-18-13
+                            Cause called for hearing on the Motion for Appointme
+nt of
+                            Psychiatrist.  Motion allowed.  Dr. Lawrence Jeckel
+is appointed to
+                            examine the defendant as to both fitness to stand tr
+ial and sanity at
+                            the time of the alleged offence and is to prepare an
+d present a report
+                            of his findings.  Written Order entered.  See ORDER.
+  Cause allotted
+                            for Pre-Trial on July 9, 2013 at 9:00 a.m. in Courtr
+oom A.
+                            Subpoena Served.  No Fees.
+   06-24-13                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   07-09-13                 By agreement, trial allotment vacated
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   07-17-13                 Fitness evaluation report of Lawrence L. Jeckel rece
+ived and ordered
+                            filed.
+   08-06-13
+                            Defendant moves for a continuance.  People announce
+ready for trial.
+                            Cause allotted for the Jury Trial Call on August 19,
+ 2013 at 1:00 p.m.
+                            in Courtroom A.  Bond to continue.
+   08-13-13                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   08-15-13                 Subpoena Served.  No Fees.
+   08-19-13                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismiss/State Motion CRIM DMG/GOVT PROP
+/KNOW/<$500
+                            Disposition Type: By Bench   Defendant Plea: No Plea
+ Entered
+                            Statute 720 5/21-4(1)(a)  Class 4
+                            Sentence: 08/19/2013
+                            Disposition 02/00  Count 002  Cost Only
+                            Disposition: Guilty CRIM DAMAGE TO PROPERTY <$300
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/21-1(a)(1)  Class A
+                            Sentence: 08/19/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  12Days In force
+                            Sentence: Credit Time Served  12Days In force
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Restitution  In force
+                            Sentence: Mandatory Assessment Fine  In force
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Credit toward all fees and fines  12Days I
+n force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              312.00     *RESTITUTION AMOUN
+T    222.24
+                            E-CITATION               5.00     CRIME STOPPERS
+        .00
+                            PROBATION MONITORIN    300.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Lindsey S. Clark.  Appea
+rance of the
+                            Defendant personally and by counsel, James B. Kuehl.
+   Cause called
+                            for Fitness Hearing.  Ms. Clark and Mr. Kuehl indica
+te they have
+                            received and reviewed the report of Dr. Lawrence Jec
+kel dated July 16,
+                            2013.  Counsel stipulates the court can consider the
+ contents of said
+                            report for today's hearing.  Based on the contents o
+f the report court
+                            finds the defendant is fit to plead and stand trial.
+  Suggestion the
+                            parties have reached a plea negotiations.  Pursuant
+to the plea
+                            negotiations, Count II placed on file.  Defendant ar
+raigned on Count
+                            II.  Defendant advised as to the nature of the proce
+edings, the
+                            charges and the possible penalties that may be impos
+ed and the Court
+                            finds that the Defendant understands the same.  Find
+ing Defendant
+                            knowingly understandingly and voluntarily waives rig
+hts and enters a
+                            plea of guilty to Count 02 of the charging instrumen
+t.  Finding
+                            Defendant is guilty of the offense of Crim Damage To
+ Property <$300
+                            ILCS: 720 5/21-1(a)(1) as charged. Judgment entered
+in favor of the
+                            People and against the defendant on finding of guilt
+ and for costs.
+                            All financial obligations shall be paid in equal mon
+thly installments
+                            to the Champaign County Circuit Clerk by  2/17/2014.
+  Any bond posted
+                            is to be applied first to any court ordered bond ass
+ignment on file
+                            and then to all restitution ordered and then to all
+financial
+                            obligations in this case.  Any remaining bond shall
+be discharged to
+                            the individual who posted the bond.  Defendant is or
+dered to serve a
+                            period of  12 months probation. Defendant is ordered
+ to serve a period
+                            of incarceration of  12 days in the Champaign County
+ Correctional
+                            Center. Defendant is to receive credit for  12 days
+previously served.
+                            Count(s) stated in the written order are herby dismi
+ssed. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Written Sentencing Order entered.  See ORDER.  Waive
+r of Jury on file.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   09-12-13                 Bond
+                            Copies & Certified Copies
+   10-03-13                 Bond
+   10-10-13                 Bond
+   11-05-13                 Court Ordered Payments
+   03-03-14                 Court Ordered Payments
+   04-01-14                 Court Ordered Payments
+   05-01-14                 Court Ordered Payments
+   06-04-14                 Probation Violation Report on file
+   08-19-14                 Order of Unsuccessful Discharge from Probation enter
+ed.
+                            Order of Unsuccessful Discharge from Probation on Fi
+le.
+                            Disposition 02/01  Count 002  No Fine & Cost
+                            Disposition: Terminated Unsatisfied CRIM DAMAGE TO P
+ROPERTY <$300
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/21-1(a)(1)  Class A
+                            Sentence: 08/19/2014
+                            Sentence: No Sentence  In force
+                            Case closed.
+   01-30-15                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

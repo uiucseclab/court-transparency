@@ -1,0 +1,374 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CM001213
+
+   Defendant Plaintiff
+COFFEY-BUTITTA  CHRISTIAN B
+1076 ST ANDREWS CIRC
+RANTOUL IL 61866
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 11/04/13
+                Court Room: E
+           Next Appearance: 01/22/15  09:00
+                Birth Date: 03/07/94
+                 DEFENDANT: COFFEY-BUTITTA  CHRISTIAN B
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       25.00      BOND -10% BOND FEE            25.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN           15.00         165.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       50.00      TRAFFIC/CRIMINAL SU            3.00          47.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      190.00      FINES                           .00         190.00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00                                      .00            .00
+       15.00      DOCUMENT STORAGE                .00          15.00
+        5.00      E-CITATION                      .00           5.00
+       15.00      AUTOMATION                      .00          15.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       50.00      BOND -10% BOND FEE            50.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+      180.00      PROBATION MONITORIN          180.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       50.00      TRAFFIC/CRIMINAL SU           50.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      190.00      FINES                          8.00         182.00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118867858 SHERIFF'S BOOKING FEE             20.00        11/04/13
+   118867858 BOND - ORIGINAL                  250.00        11/04/13
+   120849270 BOND -10% BOND FEE                25.00        12/23/13
+   120849270 DOCUMENT STORAGE                  15.00        12/23/13
+   120849270 E-CITATION                         5.00        12/23/13
+   120849270 AUTOMATION                        15.00        12/23/13
+   120849270 CIRCUIT CLERK FEE                 75.00        12/23/13
+   120849270 COURT SECURITY                    25.00        12/23/13
+   120849270 COURT FINANCE FEE                 25.00        12/23/13
+   120849270 STATES ATTORNEY                   20.00        12/23/13
+   120849270 STATES ATTORNEY AUTOMATI           2.00        12/23/13
+   120849270 CRIME STOPPERS                     5.00        12/23/13
+   120849270 ARRESTEE'S MEDICAL                10.00        12/23/13
+   120849270 PROBATION MONITORING FEE          15.00        12/23/13
+   120849270 PROBATION OPER ASSISTANC          10.00        12/23/13
+   120849270 TR/CR SUR $10/$40                  3.00        12/23/13
+   121396014 BOND - ORIGINAL                  250.00        11/12/14
+   121530183 BOND -10% BOND FEE                25.00        02/04/15
+   121530183 PROBATION MONITORING FEE         165.00        02/04/15
+   121530183 TR/CR SUR $10/$40                 47.00        02/04/15
+   121530183 DRUG COURT PROGRAM                 5.00        02/04/15
+   121530183 FINES                              8.00        02/04/15
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  DOMESTIC BATTERY/BODILY HARM
+
+         2  CONSUMPTION OF LIQUOR/MINOR
+
+         2  CONSUMPTION OF LIQUOR/MINOR
+
+         2  CONSUMPTION OF LIQUOR/MINOR
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   11-04-13                 Charge 01 Count 001 DOMESTIC BATTERY/BODILY HARM
+                            Statute 720 5/12-3.2  Class A  Orig.
+                            Agency: RANTOUL POLICE DEPARTMENT  Charge Instr: Inf
+ormation
+                            NO BOND No Bond
+                            Charge 01 Count 001 DOMESTIC BATTERY/BODILY HARM
+                            Statute 720 5/12-3.2(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Statute 235 5/6-20(e)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Sheriff Booking Fee
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            James Kuehl appears instanter.  Plea of not guilty e
+ntered and
+                            Defendant requests trial by jury. Bond of $2,500 to
+continue. The NO
+                            CONTACT order entered in bond court on 11/3/13 remai
+n in full force
+                            and effect.  Defendant is admonished as to trial and
+ sentencing in
+                            absentia.  See expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Bail Bond Release Authorization filed.
+                            Affidavit in support of request to appoint attorney.
+                            Notice of arrest without warrant on file.
+   11-05-13                 Proof of service on file.
+   12-17-13                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed DOMESTIC BATTERY/BODILY HARM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(1)  Class A
+                            Sentence: 12/17/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty CONSUMPTION OF LIQUOR/MINOR
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 235 5/6-20(e)  Class A
+                            Sentence: 12/17/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            577.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    180.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Sarah N. Perry.  Appeara
+nce of the
+                            Defendant personally and by counsel, Christopher A.
+Mellon.  Cause
+                            called for Sentencing. Defendant advised as to the n
+ature of the
+                            proceedings, the charges and the possible penalties
+that may be
+                            imposed and the Court finds that the Defendant under
+stands the same.
+                            Finding Defendant knowingly, understandingly and vol
+untarily waives
+                            rights and enters a plea of guilty to Count 02 of th
+e charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Consumption
+                            Of Liquor/Minor ILCS: 235 5/6-20(e) as charged. Judg
+ment entered in
+                            favor of the People and against the defendant on fin
+ding of guilt and
+                            for costs.  All financial obligations shall be paid
+in equal monthly
+                            installments to the Champaign County Circuit Clerk b
+y  6/16/2014.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  D
+efendant is
+                            ordered to serve a period of  12 months probation.
+   Defendant is to
+                            obtain an evaluation for alcohol and drug abuse from
+ an agency or
+                            agent recommended by the Court Services Department,
+and follow any
+                            recommendations contained therein as to treatment an
+d/or counseling.
+                            Count(s) stated in the written order are herby dismi
+ssed. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+                            Sentencing order.
+                            Waiver of jury.
+   12-23-13                 Bond
+   12-31-13                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SOS
+SPT
+   09-22-14                 Probation Violation Report on file
+   09-30-14                 Petition to Revoke Probation filed.
+   10-02-14                 Cause set for arraignment on
+
+                            Verified information on Petition to Revoke Probation
+ on file.
+                            Probable cause to arrest determined.  Warrant issued
+.  Bond set in the
+                            amount of $  2,500.00.
+                            Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $  2,500.
+00.
+                            Warrant of arrest filed.
+   11-10-14                 Warrant Served. No Fees.
+   11-12-14                 Cause allotted for hearing on
+                            Bond Type Cash 10% deposit Bond
+   11-13-14                 Warrant Served. No Fees.
+   11-14-14                 Cause allotted for hearing on
+   11-21-14                 Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and St
+ephanie Corum
+                            appears instanter.  General denial to the Petition i
+s entered.  Bond
+                            is to continue. Defendant is admonished as to trial
+and sentencing in
+                            absentia.  See expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+   12-04-14                 Resentencing on petition to revoke.
+                            People/Petitioner appear by Jacob A. Croegaert.  Def
+endant/Respondent
+                            appears personally and with counsel, Francis L. Thom
+as.
+                            Defendant/Respondent advised as to the nature of the
+ proceedings and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the defendant/respondent understands the same.  Find
+ing
+                            defendant/respondent knowingly, understandingly and
+voluntarily
+                            stipulates and admits to the allegations contained i
+n the Petition to
+                            Revoke.  Finding the same are true.  The court finds
+ that the
+                            defendant/respondent has violated the terms of his s
+entence.  Finding
+                            entered in favor of the people/petitioner and agains
+t
+                            defendant/respondent. Cause is allotted for Re-sente
+ncing.
+                            Court Services to conduct a Pre-Sentence Investigati
+on.
+                            Order on open Stipulation to Petition To Revoke on f
+ile.
+   01-22-15                 Disposition 02/01  Count 002  Cost Only
+                            Disposition: Revocation/Vacate/Probation CONSUMPTION
+ OF LIQUOR/MINOR
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 235 5/6-20(e)  Class A
+                            Sentence: 01/22/2015
+                            Sentence: Cost Only  In force
+                            Sentence: Jail  60Days In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              217.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Jacob A. Croegaert.  App
+earance of the
+                            Defendant personally and by counsel, Francis L. Thom
+as.   Cause is
+                            called for Re-sentencing. Defendant wishes to accept
+ the State's
+                            previously negotiated offer. Judgment entered in fav
+or of the People
+                            and against the defendant on finding of guilt and fo
+r costs.
+                            Defendant is ordered to pay all outstanding financia
+l obligations
+                            previously imposed and all other fines, fees, and co
+sts as authorized
+                            by statute.  All financial obligations shall be paid
+ in equal monthly
+                            installments to the Champaign County Circuit Clerk b
+y  7/21/2015.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  D
+efendant is
+                            ordered to serve a period of incarceration of 60 day
+s in the Champaign
+                            County Correctional Center. Defendant is to receive
+credit for 2 days
+                            previously served. Defendant advised of right to app
+eal and rights
+                            pursuant to Supreme Court Rule 605 and the Court fin
+ds that the
+                            defendant understands the same.  Waiver of Jury on f
+ile. Re-Sentencing
+                            Order entered this date. See Order.
+                            Sentencing Order / Resentencing on Petition to revok
+e on
+   02-02-15                 Disposition 02/02  Count 002  Modified Order
+                            Disposition: Modified/Trial Court CONSUMPTION OF LIQ
+UOR/MINOR
+                            Modified Order         607.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    180.00
+   02-03-15                 Disposition sent through ADR process this date. SPT
+   02-04-15                 Bond
+   02-09-15                 Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

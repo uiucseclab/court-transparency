@@ -1,0 +1,339 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CM000436
+
+   Defendant Plaintiff
+FROST  CHAD
+HOMELESS
+CHAMPAIGN IL 0
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 04/30/13
+                Court Room:
+           Next Appearance: 05/07/15
+                Birth Date: 04/02/72
+                 DEFENDANT: FROST  CHAD
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      125.00      BOND -10% BOND FEE           125.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN           25.00         575.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       80.00      TRAFFIC/CRIMINAL SU           80.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      285.00      FINES                        285.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+      198.38      COLLECTION FEES                 .00         198.38
+       86.25      LATE FEES                       .00          86.25
+       10.00      ST POLICE OPERATION           10.00            .00
+      433.00                                   433.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118564514 SHERIFF'S BOOKING FEE             20.00        05/02/13
+   118564514 BOND - ORIGINAL                  750.00        05/02/13
+   118580296 BOND TRANSFERS IN                500.00        05/13/13
+   118597746 BOND -10% BOND FEE               125.00        05/22/13
+   118597746 DOCUMENT STORAGE                   5.00        05/22/13
+   118597746 E-CITATION                         5.00        05/22/13
+   118597746 AUTOMATION                        10.00        05/22/13
+   118597746 CIRCUIT CLERK FEE                 75.00        05/22/13
+   118597746 COURT SECURITY                    25.00        05/22/13
+   118597746 COURT FINANCE FEE                 25.00        05/22/13
+   118597746 STATES ATTORNEY                   20.00        05/22/13
+   118597746 STATES ATTORNEY AUTOMATI           2.00        05/22/13
+   118597746 CRIME STOPPERS                     5.00        05/22/13
+   118597746 ARRESTEE'S MEDICAL                10.00        05/22/13
+   118597746 PROBATION MONITORING FEE          25.00        05/22/13
+   118597746 PROBATION OPER ASSISTANC          10.00        05/22/13
+   118597746 TR/CR SUR $10/$40                 80.00        05/22/13
+   118597746 CLERK OP & ADMIN FUND             10.00        05/22/13
+   118597746 DRUG COURT PROGRAM                 5.00        05/22/13
+   118597746 FINES                            285.00        05/22/13
+   118597746 VIOLENT CRIME VICTIMS AS          75.00        05/22/13
+   118597746 ST POLICE SERVICES FUND           10.00        05/22/13
+   118597746 ST POLICE OPERATIONS ASS          10.00        05/22/13
+   118597776 *BOND REFUND                     433.00        05/22/13
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  VIO BAIL BOND/FAMILY MEMBER
+
+         1  VIO BAIL BOND/FAMILY MEMBER
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   04-30-13                 Charge 01 Count 001 VIO BAIL BOND/FAMILY MEMBER
+                            Statute 720 5/32-10(b)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Stephanie Corum appears instanter.  Plea of not guil
+ty entered and
+                            Defendant requests trial by jury.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia.  Bond is set in the amou
+nt of $7,500-ROR
+                            DENIED. As a condition of bond, Defendant is ordered
+ to have NO
+                            CONTACT whatsoever, directly or indirectly, with the
+ victim and/or
+                            address listed in the Information. See expanded reco
+rd.
+   05-02-13                 Sheriff Booking Fee
+   05-07-13                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty VIO BAIL BOND/FAMILY MEMBER
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/32-10(b)  Class A  Orig.
+                            Sentence: 05/07/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  3Days In force
+                            Sentence: Credit Time Served  3Days In force
+                            Sentence: Partner Abuse Intervention Program  60Days
+ In force
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            782.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    600.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, Antony Ortega.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Vio Bail Bond/Family Member
+ ILCS: 720
+                            5/32-10(b) as charged. Judgment entered in favor of
+the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 11/04/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  24 months probation. Defendant is ordered
+ to serve a period
+                            of incarceration of   3 days in the Champaign County
+ Correctional
+                            Center. Defendant is to receive credit for   3 days
+previously served.
+                            Defendant is to enroll in a Partner Abuse Interventi
+on Program
+                            approved by the Champaign County Court Services Depa
+rtment within  60
+                            days and successfully complete it without terminatio
+n. Case Number(s)
+                            stated in the written order are herby dismissed.  An
+y bond posted in
+                            said case(s) shall be transferred to the instant cas
+e and shall be
+                            applied to any fines, fees, costs, assessments, and/
+or restitution
+                            imposed herein; any remaining bond shall be used to
+satisfy such other
+                            of the Defendant's Champaign County criminal or traf
+fic cases in which
+                            the Defendant owes an outstanding balance of fines,
+fees, costs,
+                            assessments and/or restitution. Defendant advised of
+ right to appeal
+                            and rights pursuant to Supreme Court Rule 605 and th
+e Court finds that
+                            the defendant understands the same.   Written Senten
+cing Order
+                            entered.  See ORDER.
+   05-13-13                 Bond Type Transfer Bond From    2013CF000397 FROST C
+HAD E
+   05-22-13                 Bond
+                            Bond
+   07-01-13                 Notice of arrest without warrant on file.
+   07-02-13                 Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ja
+mes Kuehl appears
+                            instanter.  General denial to the Petition is entere
+d.  Defendant is
+                            admonished as to trial and sentencing in absentia. B
+ond is to continue
+                            as set in the amount of $1,000-ROR ALLOWED.  See exp
+anded record.
+   07-15-13                 Defendant motion to continue hearing on petition to
+revoke.
+                            People appear by Scott A. Larson.  Defendant appears
+ personally and
+                            with counsel, James Kuehl.  On motion of counsel for
+ the Defendant
+                            cause allotted for further proceedings on the Petiti
+on to Revoke to
+                            September 16, 2013 at 1:30 p.m. in Courtroom A.  Bon
+d is to continue.
+                            Probation Violation Report filed
+   09-16-13                 Defendant motion to continue hearing on petition to
+revoke.
+                            People appear by Scott A. Larson.  Defendant appears
+ personally and
+                            with counsel, James Kuehl.  On Defendant's motion, c
+ause allotted for
+                            further proceedings on the Petition to Revoke on Nov
+ember 15, 2013 at
+                            2:00 p.m. in Courtroom A.  Bond to continue.
+   10-21-13                 Hearing allotment of November 15, 2013 is vacated.
+Cause allotted
+                            for further proceedings on the Petition to Revoke to
+ November 12, 2013
+                            at 9:00 a.m. in Courtroom A.  Mr. Mellon to notify h
+is client.
+                            Email re: November 12, 2013 court hearing.
+   11-12-13
+                            No appearance of the defendant personally.  Motion b
+y the People for
+                            bond forfeiture and issuance of warrant.  Cause allo
+tted for Hearing
+                            on the People's motion for bond forfeiture and issua
+nce of warrant on
+                            November 18, 2013 at 1:30 p.m. in Courtroom A.  Offi
+ce of the Public
+                            Defender to notify of the defendant of the hearing a
+llotment.
+   11-18-13
+                            By agreement cause allotted for Further Proceedings
+on the Petition to
+                            Revoke on February 19, 2014 at 1:00 p.m. in Courtroo
+m A.  Bond is to
+                            continue.
+   02-19-14                 Defendant motion to continue hearing on petition to
+revoke.
+                            People appear by Lindsey Clark.  Defendant appears p
+ersonally and with
+                            counsel, James B. Kuehl.  On motion of defendant's c
+ounsel, cause
+                            allotted for further status hearing on the pending p
+etition to revoke
+                            on April 21, 2014 at 1:30 p.m. in Courtroom A.  Bond
+ is to continue.
+   04-21-14                 Defendant motion to continue hearing on petition to
+revoke.
+                            People appear by Claire L. Sharples Brooks.  Defenda
+nt appears
+                            personally and with counsel, James B. Kuehl.  On mot
+ion of counsel for
+                            the defendant cause allotted for further proceedings
+ on the petition
+                            to revoke on July 21, 2014 at 1:30 p.m. in Courtroom
+ A.  Bond is to
+                            continue.
+   07-21-14                 Defendant motion to continue hearing on petition to
+revoke.
+                            People appear by Scott A. Larson.  Defendant appears
+ by counsel, James
+                            Kuehl.  No appearance of the defendant personally.
+Representation
+                            that the defendant's failure to appear this date is
+due to the
+                            defendant being in drug treatment.  Cause allotted f
+or further
+                            proceedings on the petition to revoke on September 8
+, 2014 at 1:30
+                            p.m. in Courtroom A.  Pending further proceedings, b
+ond is to
+                            continue.
+   09-08-14                 Defendant motion to continue hearing on petition to
+revoke.
+                            People appear by Lindsey Clark.  Defendant appears w
+ith Stephanie
+                            Corum.  On motion of counsel for the defendant cause
+ allotted for
+                            hearing on the Petition to Revoke Probation on Octob
+er 20, 2014 at
+                            2:30 p.m. in Courtroom A.  Bond is to continue.
+   10-20-14                 Motion to withdrawn petition to revoke.
+                            People appear by Scott Larson.  Defendant appears pe
+rsonally and with
+                            counsel, Lindsey R. Yanchus. On motion of the People
+, the Petition to
+                            Revoke is withdrawn and dismissed. Order of Probatio
+n previously
+                            entered remains in full force and effect. Defendant'
+s bond discharged
+                            to the individual who posted the bond.
+   05-07-15                 Order of Unsuccessful Discharge from Probation enter
+ed.
+                            Order of discharge from probation on file.
+                            Disposition 01/01  Count 001  Manual Calculations
+                            Disposition: Terminated Unsatisfied VIO BAIL BOND/FA
+MILY MEMBER
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/32-10(b)  Class A
+                            Sentence: 05/07/2015
+                            Sentence: No Sentence  In force
+   05-13-15                 Case closed.
+   05-21-15                 Disposition sent through ADR process this date. SPT
+   08-26-15                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,379 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CM000412
+
+   Defendant Plaintiff
+HAHN  LUCAS M
+1304 BRIARCLIFF
+MAHOMET IL 61853
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 04/25/13
+                Court Room: F
+           Next Appearance: 03/09/15
+                Birth Date: 02/28/95
+                 DEFENDANT: HAHN  LUCAS M
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                      .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+        5.00      CRIME STOPPERS                  .00           5.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       15.00      PROBATION MONITORIN             .00         105.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+      100.00      CRIME LAB                       .00         100.00
+      100.00      TRAUMA FUND                     .00         100.00
+      110.00      TRAFFIC/CRIMINAL SU             .00         110.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+         .00      FINES                           .00            .00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+      137.25       STREET VALUE DRUG              .00         137.25
+      295.00      MANDATORY ASSESSMEN             .00         295.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+        5.00      E-CITATION                      .00           5.00
+       15.00      AUTOMATION                      .00          15.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+      180.00      PROBATION MONITORIN             .00         180.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       50.00      BOND -10% BOND FEE            50.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+      285.00      PROBATION MONITORIN          285.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                     38.00          62.00
+      100.00      TRAUMA FUND                     .00         100.00
+      110.00      TRAFFIC/CRIMINAL SU             .00         110.00
+         .00      CLERK OP & ADMIN FU             .00            .00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       39.00      SHERIFF FEES                    .00          39.00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+      137.25       STREET VALUE DRUG              .00         137.25
+      295.00      MANDATORY ASSESSMEN             .00         295.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121287529 BOND - ORIGINAL                    5.00        02/03/11
+   120898351 PERSONAL CHECK/CREDIT CA           5.00        01/27/14
+   120898351 SHERIFF'S BOOKING FEE             29.00        01/27/14
+   120898351 BOND - ORIGINAL                  500.00        01/27/14
+   120933520 DOCUMENT STORAGE                   5.00        02/18/14
+   120975911 BOND -10% BOND FEE                50.00        03/12/14
+   120975911 DOCUMENT STORAGE                  10.00        03/12/14
+   120975911 E-CITATION                         5.00        03/12/14
+   120975911 AUTOMATION                        15.00        03/12/14
+   120975911 CIRCUIT CLERK FEE                 75.00        03/12/14
+   120975911 COURT SECURITY                    25.00        03/12/14
+   120975911 COURT FINANCE FEE                 25.00        03/12/14
+   120975911 STATES ATTORNEY                   40.00        03/12/14
+   120975911 STATES ATTORNEY AUTOMATI           2.00        03/12/14
+   120975911 CRIME STOPPERS                     5.00        03/12/14
+   120975911 ARRESTEE'S MEDICAL                10.00        03/12/14
+   120975911 PROBATION MONITORING FEE         238.00        03/12/14
+   121080580 PROBATION MONITORING FEE          47.00        05/13/14
+   121080580 PROBATION OPER ASSISTANC          10.00        05/13/14
+   121080580 SPINAL CORD RESEARCH FUN           5.00        05/13/14
+   121080580 CRIME LAB                         38.00        05/13/14
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  POSS CANNABIS/10-30 GRAM/1ST
+
+         1  POSS CANNABIS/10-30 GRAM/1ST
+
+         1  POSS CANNABIS/10-30 GRAM/1ST
+
+         1  POSS CANNABIS/10-30 GRAM/1ST
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   02-03-11                 Bond Type Full Cash
+                            Bond conversion error corrected this date.
+   04-22-13                 Released On Recognizance bond form on file.
+   04-25-13                 Charge 01 Count 001 POSS CANNABIS/10-30 GRAM/1ST
+                            Statute 720 550/4(c)  Class A  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            David Appleman appears instanter.  Plea of not guilt
+y entered and
+                            Defendant requests trial by jury.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia.  Bond to continue. See e
+xpanded record.
+   04-29-13                 Proof of service of discovery materials filed.
+   06-20-13                 Proof of Service of Supplemental Discovery Materials
+ filed.
+   06-25-13                 Stipulated Order on Substitution of Counsel
+                            People appear by Tim J. Sullivan.  Defendant appears
+ personally and
+                            with counsel, Roger Webber. Stipulated Order on Subs
+titution of
+                            Counsel entered this date. Appointment of the Public
+ Defender is
+                            vacated. See Order. Motion by the Defendant for cont
+inuance.  Motion
+                            allowed. Bond to continue.
+   08-09-13                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty POSS CANNABIS/10-30 GRAM/1ST
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 550/4(c)  Class A
+                            Sentence: 08/09/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Court Supervision - Traffic School  In for
+ce
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            944.25     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    105.00     CRIME LAB
+     100.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Tim J. Sullivan.  Appear
+ance of the
+                            Defendant personally and by counsel,  .   Defendant
+advised as to the
+                            nature of the proceedings, the charges and the possi
+ble penalties that
+                            may be imposed and the Court finds that the Defendan
+t understands the
+                            same.  Finding Defendant knowingly, understandingly
+and voluntarily
+                            waives rights and enters a plea of guilty to Count 0
+1 of the charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Poss
+                            Cannabis/10-30 Gram/1st ILCS: 720 550/4(c) as charge
+d. Upon the plea
+                            entered this date,Defendant is sentenced to all term
+s and conditions
+                            as set forth in the written order on guilty plea ent
+ered this date.
+                            All financial obligations shall be paid in equal mon
+thly installments
+                            to the Champaign County Circuit Clerk by  2/05/2014.
+  Any bond posted
+                            is to be applied first to any court ordered bond ass
+ignment on file
+                            and then to all restitution ordered and then to all
+financial
+                            obligations in this case.  Any remaining bond shall
+be discharged to
+                            the individual who posted the bond.  Defendant is or
+dered to serve a
+                            period of  12 months Conditional Discharge.  Defenda
+nt advised of
+                            right to appeal and rights pursuant to Supreme Court
+ Rule 605 and the
+                            Court finds that the defendant understands the same.
+ Sentencing Order
+                            entered. SEE ORDER.
+   08-20-13                 Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            37.5% to the General Corporate Fund of Champaign Cou
+nty, and
+                            50.0% to the Champaign Police Department.
+   12-02-13                 Petition to revoke conditional discharge on file.
+   12-12-13                 Charging documents
+                            Charging documents
+   12-13-13                 Cause set for arraignment on
+   12-18-13                 Verified information on Petition to Revoke Probation
+ on file
+                            Summons issued this date.
+   01-17-14
+                            Appearance of the People by S. Carlson. No appearanc
+e of the Defendant
+                            personally. No proof of service of summons on file.
+ Cause continued
+                            for proof of service of summons.
+                            Expanded record of court proceedings on arraignment.
+   01-21-14                 Summons returned, not found
+   01-23-14                 Probable cause warrant issued
+                            Verified information on file.  Witness sworn.  Evide
+nce heard.
+                            Probable cause to arrest determined, warrant issued.
+  Bond set in the
+                            amount of $  5,000.00.
+                            Warrant issued.
+                            Warrant of arrest filed.
+                            Expanded record of court proceedings on arraignment.
+   01-27-14                 Sheriff Booking w/Telecheck
+                            Cause continued for further proceedings
+                            Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned on the Petition to Revoke.  On D
+efendant's motion,
+                            cause is continued for appearance of counsel.  Defen
+dant is admonished
+                            as to trial and sentencing in absentia.  See expande
+d record.
+                            Warrant served. Service fees $39.00
+                            Expanded record of court proceedings on arraignment.
+   02-18-14                 Bond
+                            Expanded record of arraignment proceedings.
+                            People appear by Tim J. Sullivan.  Defendant appears
+ personally and
+                            with counsel, Kristin Foltz. Written Entry of Appear
+ance of Roger
+                            Webber filed instanter. General denial to the Petiti
+on to Revoke is
+                            entered. Bond to continue. Defendant admonished as t
+o trial and
+                            sentencing in absentia.  See Expanded Record.
+                            Court notes this matter was assigned to the wrong Co
+urtroom. Hearing
+                            on the PTR allotted for 2/19/14 in Courtroom E is va
+cated. Cause is
+                            allotted for hearing on 3/7/14 at 9:30 a.m. in Court
+room F. Counsel
+                            notified by email this date.
+                            Expanded record of court proceedings on arraignment.
+                            Entry of Appearance/Not Guilty Plea/Request for Jury
+ Trial
+   03-07-14                 Disposition 01/01  Count 001  Cost Only
+                            Disposition: Revocation/Vacate/Conditional Discharge
+ POSS CANNABIS/10-
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 550/4(c)  Class A
+                            Sentence: 03/07/2014
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: Mental Health Treatment/Assessment  60Days
+ In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Probation Service Fee  12Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Cost Only              222.00     PROBATION MONITORI
+N    180.00
+                            Payment Due
+                            Resentencing on petition to revoke.
+                            People/Petitioner appear by Sarah N. Perry.  Defenda
+nt/Respondent
+                            appears personally and with counsel, Roger B. Webber
+.
+                            Defendant/Respondent advised as to the nature of the
+ proceedings and
+                            the possible penalties that may be imposed and the c
+ourt finds that
+                            the defendant/respondent understands the same.  Find
+ing
+                            defendant/respondent knowingly, understandingly, and
+ voluntarily
+                            stipulates and admits to the allegations contained i
+n the Petition to
+                            Revoke.  Finding the same are true.  The court finds
+ that the
+                            defendant/respondent has violated the terms of his s
+entence.  Finding
+                            entered in favor of the people/petitioner and agains
+t
+                            defendant/respondent.
+                            Sentencing Order/Resentencing on Petition to Revoke
+entered.
+                            See order.
+                            Sentencing Order/Resentencing on Petition to Revoke.
+                            Disposition 01/02  Count 001  Modified Order
+                            Disposition: Modified/Trial Court POSS CANNABIS/10-3
+0 GRAM/1ST
+                            Modified Order        1058.25     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    285.00     CRIME LAB
+     100.00
+   03-12-14                 Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            37.5% to the General Corporate Fund of Champaign Cou
+nty, and
+                            50.0% to the Champaign Police Department.
+                            Bond
+   03-20-14                 Disposition sent through ADR process this date. SPT
+   03-24-14                 Disposition sent through ADR process this date. SPT
+   05-13-14                 Court Ordered Payments
+   08-19-14                 People appear by Sarah Perry.  Defendant appears wit
+h counsel,
+                            Christopher Mellon.  Defendant's probation is termin
+ated
+                            unsuccessfully pursuant to the plea entered in case
+2014-CM-517.
+                            Disposition 01/03  Count 001  Manual Calculations
+                            Disposition: Terminated Unsatisfied POSS CANNABIS/10
+-30 GRAM/1ST
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 550/4(c)  Class A
+                            Sentence: 08/19/2014
+                            Sentence: No Sentence  In force
+                            Case closed.
+   09-03-14                 Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

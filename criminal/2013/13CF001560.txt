@@ -1,0 +1,204 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #13CF001560
+
+   Defendant Plaintiff
+MCCORMICK  DERRICK L
+217 N INDIANA ST
+CHRISMAN IL 61924
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 09/19/13
+                Court Room: A
+           Next Appearance: 01/02/14  09:00
+                Birth Date: 02/07/94
+                 DEFENDANT: MCCORMICK  DERRICK L
+
+
+   FEES & FINES INFORMATION as of 8-26-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      100.00      BOND -10% BOND FEE           100.00            .00
+       15.00      DOCUMENT STORAGE              15.00            .00
+        5.00      E-CITATION                     5.00            .00
+       15.00      AUTOMATION                    15.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      COURT FINANCE FEE             10.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       80.00      TRAFFIC/CRIMINAL SU           80.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      280.00      FINES                        280.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+      243.00                                   243.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-26-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118794654 SHERIFF'S BOOKING FEE             20.00        09/20/13
+   118794654 BOND - ORIGINAL                 1000.00        09/20/13
+   120889311 BOND -10% BOND FEE               100.00        01/21/14
+   120889311 DOCUMENT STORAGE                  15.00        01/21/14
+   120889311 E-CITATION                         5.00        01/21/14
+   120889311 AUTOMATION                        15.00        01/21/14
+   120889311 CIRCUIT CLERK FEE                 75.00        01/21/14
+   120889311 COURT SECURITY                    25.00        01/21/14
+   120889311 COURT FINANCE FEE                 10.00        01/21/14
+   120889311 STATES ATTORNEY                   20.00        01/21/14
+   120889311 STATES ATTORNEY AUTOMATI           2.00        01/21/14
+   120889311 ARRESTEE'S MEDICAL                10.00        01/21/14
+   120889311 PROBATION OPER ASSISTANC          10.00        01/21/14
+   120889311 TR/CR SUR $10/$40                 80.00        01/21/14
+   120889311 DRUG COURT PROGRAM                 5.00        01/21/14
+   120889311 FINES                            280.00        01/21/14
+   120889311 VIOLENT CRIME VICTIMS AS          75.00        01/21/14
+   120889311 ST POLICE SERVICES FUND           10.00        01/21/14
+   120889311 ST POLICE OPERATIONS ASS          10.00        01/21/14
+   120889311 CLERK OP & ADMIN FUND             10.00        01/21/14
+   120889311 *BOND REFUND                     243.00        01/21/14
+
+   CHARGES INFORMATION as of 8-26-2016 10:00PM
+
+      Count Description
+         1  FLS ALARM/COMPLAINT TO 911
+
+         2  DISORDERLY CONDUCT
+
+
+   DOCKET INFORMATION as of 8-26-2016 10:00PM
+
+
+   09-19-13                 Charge 01 Count 001 FLS ALARM/COMPLAINT TO 911
+                            Statute 720 5/26-1(a)(6)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Expanded Record and/or Pre-trial Order
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Lindsey Yanchus appears instanter.  De
+fendant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond set in the am
+ount of
+                            $10,000-ROR DENIED. See expanded record.  Defendant
+is admonished as
+                            to trial and sentencing in absentia.
+   09-20-13                 Sheriff Booking Fee
+                            Notice of arrest without warrant on file.
+   09-24-13                 Proof of service on file.
+                            Discovery filed.
+   09-25-13                 Answer to Discovery filed
+   11-05-13
+                            On motion of defendant's counsel cause allotted for
+Pre-Trial on
+                            December 3, 2013 at 9:00 a.m. in Courtroom A.   Bond
+ to continue.
+   12-03-13
+                            Cause allotted for Plea on January 2, 2014 at 9:00 a
+.m. in Courtroom
+                            A.  Bond is to continue.
+   01-02-14                 Charge 02 Count 002 DISORDERLY CONDUCT
+                            Statute 720 5/26-1(a)(1)  Class C  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed FLS ALARM/COMPLAINT TO 911
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/26-1(a)(6)  Class 4
+                            Sentence: 01/02/2014
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty DISORDERLY CONDUCT
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/26-1(a)(1)  Class C
+                            Sentence: 01/02/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Jail  4Days In force
+                            Sentence: Credit Time Served  4Days In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Credit toward all fees and fines  4Days In
+ force
+                            Fine + Cost            757.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, Stephanie A. Co
+rum.  Defendant
+                            arraigned on Count II of the Information filed this
+date.  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges, and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly, and voluntarily waives rights and e
+nters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Disorderly Conduct ILCS: 72
+0 5/26-1(a)(1) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  7/01/2014.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of
+                            incarceration of 4 days in the Champaign County Corr
+ectional Center.
+                            Defendant is to receive credit for 4 days previously
+ served. Count 1
+                            is hereby dismissed. Defendant advised of right to a
+ppeal and rights
+                            pursuant to Supreme Court Rule 605 and the Court fin
+ds that the
+                            defendant understands the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See order.
+   01-14-14                 Disposition sent through ADR process this date. SPT
+   01-21-14                 Bond
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF
