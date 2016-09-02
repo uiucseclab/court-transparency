@@ -1,0 +1,343 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001287
+
+   Defendant Plaintiff
+BROWN  NICHOLE
+601 CRESCENT APT 18
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 08/11/11
+                Court Room:
+           Next Appearance: 05/05/14
+                Birth Date: 06/12/69
+                 DEFENDANT: BROWN  NICHOLE
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          750.00            .00
+      200.00       STATE OFFENDER DNA          200.00            .00
+       50.00      TRAFFIC/CRIMINAL SU           50.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      195.00      FINES                        195.00            .00
+       20.00      VICTIMS FUND-FINE             20.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+      192.98      COLLECTION FEES              192.98            .00
+      373.13      LATE FEES                    373.13            .00
+      345.27      TAX INTERCEPT                345.27            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121537352 DOCUMENT STORAGE                    .00        04/14/15
+   121537352 AUTOMATION                          .00        04/14/15
+   121537352 CIRCUIT CLERK FEE                   .00        04/14/15
+   121537352 COURT SECURITY                      .00        04/14/15
+   121537352 COURT FINANCE FEE                   .00        04/14/15
+   121537352 STATES ATTORNEY                     .00        04/14/15
+   121537352 CRIME STOPPERS                      .00        04/14/15
+   121537352 ARRESTEE'S MEDICAL                  .00        04/14/15
+   121537352 PROBATION MONITORING FEE            .00        04/14/15
+   121537352  STATE OFFENDER DNA ID S            .00        04/14/15
+   121537352 TR/CR SUR $10/$40                   .00        04/14/15
+   121537352 CLERK OP & ADMIN FUND               .00        04/14/15
+   121537352 DRUG COURT PROGRAM                  .00        04/14/15
+   121537352 FINES                               .00        04/14/15
+   121537352 VICTIMS FUND-FINE                   .00        04/14/15
+   121537352 ST POLICE SERVICES FUND             .00        04/14/15
+   121537352 COLLECTION FEES                     .00        04/14/15
+   121537352 LATE FEES                           .00        04/14/15
+   121537352 TAX INTERCEPT                       .00        04/14/15
+   121537352 ST POLICE OPERATIONS ASS            .00        04/14/15
+   121648939 DOCUMENT STORAGE                   5.00        04/15/15
+   121648939 AUTOMATION                        10.00        04/15/15
+   121648939 CIRCUIT CLERK FEE                100.00        04/15/15
+   121648939 COURT SECURITY                    25.00        04/15/15
+   121648939 COURT FINANCE FEE                 50.00        04/15/15
+   121648939 STATES ATTORNEY                   40.00        04/15/15
+   121648939 CRIME STOPPERS                    10.00        04/15/15
+   121648939 ARRESTEE'S MEDICAL                10.00        04/15/15
+   121648939 PROBATION MONITORING FEE          75.94        04/15/15
+   121648939 COLLECTION FEES                   27.12        04/15/15
+   121662374 PROBATION MONITORING FEE         281.02        05/23/15
+   121662374 COLLECTION FEES                   23.38        05/23/15
+   121756497 PROBATION MONITORING FEE         246.62        06/16/15
+   121756497 COLLECTION FEES                   24.62        06/16/15
+   121756497 TAX INTERCEPT                     49.38        06/16/15
+   121805918  STATE OFFENDER DNA ID S          99.80        07/28/15
+   121805918 TR/CR SUR $10/$40                 50.00        07/28/15
+   121805918 CLERK OP & ADMIN FUND             10.00        07/28/15
+   121805918 DRUG COURT PROGRAM                 5.00        07/28/15
+   121805918 FINES                             81.82        07/28/15
+   121805918 COLLECTION FEES                   24.62        07/28/15
+   121805918 TAX INTERCEPT                     49.38        07/28/15
+   121771976 PROBATION MONITORING FEE         146.42        08/25/15
+   121771976  STATE OFFENDER DNA ID S         100.20        08/25/15
+   121771976 COLLECTION FEES                   24.62        08/25/15
+   121771976 TAX INTERCEPT                     49.38        08/25/15
+   121814577 DOCUMENT STORAGE                    .00        09/21/15
+   121814577 AUTOMATION                          .00        09/21/15
+   121814577 CIRCUIT CLERK FEE                   .00        09/21/15
+   121814577 COURT SECURITY                      .00        09/21/15
+   121814577 COURT FINANCE FEE                   .00        09/21/15
+   121814577 STATES ATTORNEY                     .00        09/21/15
+   121814577 CRIME STOPPERS                      .00        09/21/15
+   121814577 ARRESTEE'S MEDICAL                  .00        09/21/15
+   121814577 PROBATION MONITORING FEE            .00        09/21/15
+   121814577  STATE OFFENDER DNA ID S            .00        09/21/15
+   121814577 TR/CR SUR $10/$40                   .00        09/21/15
+   121814577 CLERK OP & ADMIN FUND               .00        09/21/15
+   121814577 DRUG COURT PROGRAM                  .00        09/21/15
+   121814577 FINES                               .00        09/21/15
+   121814577 VICTIMS FUND-FINE                   .00        09/21/15
+   121814577 ST POLICE SERVICES FUND             .00        09/21/15
+   121814577 COLLECTION FEES                     .00        09/21/15
+   121814577 LATE FEES                           .00        09/21/15
+   121814577 TAX INTERCEPT                       .00        09/21/15
+   121814577 ST POLICE OPERATIONS ASS            .00        09/21/15
+   121935069 DOCUMENT STORAGE                    .00        09/23/15
+   121935069 AUTOMATION                          .00        09/23/15
+   121935069 CIRCUIT CLERK FEE                   .00        09/23/15
+   121935069 COURT SECURITY                      .00        09/23/15
+   121935069 COURT FINANCE FEE                   .00        09/23/15
+   121935069 STATES ATTORNEY                     .00        09/23/15
+   121935069 CRIME STOPPERS                      .00        09/23/15
+   121935069 ARRESTEE'S MEDICAL                  .00        09/23/15
+   121935069 PROBATION MONITORING FEE            .00        09/23/15
+   121935069  STATE OFFENDER DNA ID S            .00        09/23/15
+   121935069 TR/CR SUR $10/$40                   .00        09/23/15
+   121935069 CLERK OP & ADMIN FUND               .00        09/23/15
+   121935069 DRUG COURT PROGRAM                  .00        09/23/15
+   121935069 FINES                               .00        09/23/15
+   121935069 VICTIMS FUND-FINE                   .00        09/23/15
+   121935069 ST POLICE SERVICES FUND             .00        09/23/15
+   121935069 COLLECTION FEES                     .00        09/23/15
+   121935069 LATE FEES                           .00        09/23/15
+   121935069 TAX INTERCEPT                       .00        09/23/15
+   121935069 ST POLICE OPERATIONS ASS            .00        09/23/15
+   121935095 FINES                            113.18        09/23/15
+   121935095 VICTIMS FUND-FINE                 20.00        09/23/15
+   121935095 ST POLICE SERVICES FUND           10.00        09/23/15
+   121935095 COLLECTION FEES                   27.12        09/23/15
+   121935095 LATE FEES                        118.38        09/23/15
+   121935095 TAX INTERCEPT                     54.38        09/23/15
+   121935095 ST POLICE OPERATIONS ASS          10.00        09/23/15
+   121984256 DOCUMENT STORAGE                    .00        10/20/15
+   121984256 AUTOMATION                          .00        10/20/15
+   121984256 CIRCUIT CLERK FEE                   .00        10/20/15
+   121984256 COURT SECURITY                      .00        10/20/15
+   121984256 COURT FINANCE FEE                   .00        10/20/15
+   121984256 STATES ATTORNEY                     .00        10/20/15
+   121984256 CRIME STOPPERS                      .00        10/20/15
+   121984256 ARRESTEE'S MEDICAL                  .00        10/20/15
+   121984256 PROBATION MONITORING FEE            .00        10/20/15
+   121984256  STATE OFFENDER DNA ID S            .00        10/20/15
+   121984256 TR/CR SUR $10/$40                   .00        10/20/15
+   121984256 CLERK OP & ADMIN FUND               .00        10/20/15
+   121984256 DRUG COURT PROGRAM                  .00        10/20/15
+   121984256 FINES                               .00        10/20/15
+   121984256 VICTIMS FUND-FINE                   .00        10/20/15
+   121984256 ST POLICE SERVICES FUND             .00        10/20/15
+   121984256 COLLECTION FEES                     .00        10/20/15
+   121984256 LATE FEES                           .00        10/20/15
+   121984256 TAX INTERCEPT                       .00        10/20/15
+   121984256 ST POLICE OPERATIONS ASS            .00        10/20/15
+   121985136 COLLECTION FEES                   20.75        10/20/15
+   121985136 LATE FEES                        148.13        10/20/15
+   121985136 TAX INTERCEPT                    101.24        10/20/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  RET THEFT/DISP MERCH/<$300/2+
+
+         1  RET THEFT/DISP MERCH/<$300/2+
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   08-11-11                 Charge 01 Count 001 RET THEFT/DISP MERCH/<$300/2+
+                            Statute 720 5/16A-3(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Defendant is admonished as to E
+XTENDED TERM
+                            SENTENCING. The Champaign County Public Defender is
+appointed and
+                            appears instanter.  Defendant waives preliminary hea
+ring, enters a
+                            plea of not guilty and requests trial by jury.  Pre-
+trial orders
+                            entered.  Bond set in the amount of $1,000-ROR ALLOW
+ED.  Defendant is
+                            admonished as to trial and sentencing in absentia. S
+ee expanded
+                            record.
+                            Notice of arrest without warrant on file.
+   08-12-11                 Released On Recognizance bond form on file.
+   08-18-11                 Discovery filed
+   09-27-11
+                            Appearance of the State's Attorney.  Appearance of t
+he
+                            Defendant personally and by Counsel.
+   11-03-11                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty RET THEFT/DISP MERCH/<$300/2+
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16A-3(a)  Class 4
+                            Sentence: 11/03/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  30Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  60Days In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Incarceration is not to be served pursuant
+ to CHIPS  In forc
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            540.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    750.00      STATE OFFENDER DN
+A    200.00
+                            COLLECTION FEES        192.98     LATE FEES
+     373.13
+                            TAX INTERCEPT          345.27
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally and by counsel, Scott Schmidt.   Defendan
+t advised as to
+                            the nature of the proceedings, the charges and the p
+ossible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly, understandin
+gly and
+                            voluntarily waives rights and enters a plea of guilt
+y to Count 01 of
+                            the charging instrument.  Finding Defendant is guilt
+y of the offense
+                            of Ret Theft/Disp Merch/<$300/2+ ILCS: 720 5/16A-3(a
+) as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.  All financial oblig
+ations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by  5/01/2012.  Any bond posted is to be appli
+ed first to any
+                            court ordered bond assignment on file and then to al
+l restitution
+                            ordered and then to all financial obligations in thi
+s case.  Any
+                            remaining bond shall be discharged to the individual
+ who posted the
+                            bond.  Defendant is ordered to serve a period of  30
+ months probation.
+                            Defendant is ordered to serve a period of incarcerat
+ion of  60 days in
+                            the Champaign County Correctional Center. Defendant
+is to receive
+                            credit for   1 days previously served.  The Defendan
+t is to submit
+                            specimens of blood, saliva, or tissue to the Illinoi
+s Department of
+                            State Police or to the Department of Corrections wit
+hin 45 days, at a
+                            collection site designated by the Champaign County C
+ourt Services
+                            Department and/or Illinois Department of State Polic
+e, in accordance
+                            with 730 ILCS 5/5-4-3. Defendant advised of right to
+ appeal and rights
+                            pursuant to Supreme Court Rule 605 and the Court fin
+ds that the
+                            defendant understands the same.
+                            Defendant is ordered to report for commencement of s
+entence
+   11-14-11
+                            Appearance of the People by S. Weber.  Appearance of
+ the Defendant
+                            personally and with S. Schmidt. Motion by the Defend
+ant to continue.
+                            Motion is allowed.
+   11-21-11
+                            People appear by Stephanie Weber.  No appearance of
+the defendant.
+                            Scott Schmidt appears for the defendant.  Motion by
+the People for a
+                            warrant.  Motion is allowed over the objection of co
+unsel for the
+                            defendant.  On motion of the People, warrant to issu
+e with No Bond.
+
+                            LATER:
+                            Defendant appears. Defendant is remanded to the cust
+ody of the Sheriff
+                            to begin the sentence imposed. Order of Imprisonment
+ entered. SEE
+                            ORDER.
+                            Order for warrant is VACATED.
+   05-14-14                 Order of unsuccessful discharge from probation.
+                            Written Order of Unsuccessful Discharge from Probati
+on entered this
+                            date.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Terminated Unsatisfied RET THEFT/DISP M
+ERCH/<$300/2+
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16A-3(a)  Class 4
+                            Sentence: 05/14/2014
+                            Sentence: No Sentence  In force
+                            Case closed.
+   05-27-14                 Disposition sent through ADR process this date. SPT
+   08-28-14                 Case sent out for collections.
+   04-15-15                 Cash
+   05-23-15                 Cash
+   06-16-15                 Cash
+   07-28-15                 Cash
+   08-25-15                 Cash
+   09-23-15                 Cash
+   10-20-15                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

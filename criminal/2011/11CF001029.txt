@@ -1,0 +1,285 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001029
+
+   Defendant Plaintiff
+SOLLARS  DONNA J
+1205 N MARKET
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 07/01/11
+                Court Room: A
+           Next Appearance: 08/02/11  09:00
+                Birth Date: 03/05/56
+                 DEFENDANT: SOLLARS  DONNA J
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       50.00      COURT FINANCE FEE              9.16          40.84
+       40.00      STATES ATTORNEY                 .00          40.00
+       20.00      VICTIMS FUND-NO FIN             .00          20.00
+       95.00       STATE OFFENDER DNA             .00          95.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      PRELIMINARY HEARING             .00          10.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      138.00      COLLECTION FEES               53.13          84.87
+       60.00      LATE FEES                     17.71          42.29
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121175913 DOCUMENT STORAGE                   5.00        07/09/14
+   121175913 AUTOMATION                         1.92        07/09/14
+   121175913 COLLECTION FEES                    2.31        07/09/14
+   121175913 LATE FEES                           .77        07/09/14
+   121231761 AUTOMATION                         6.92        08/08/14
+   121231761 COLLECTION FEES                    2.31        08/08/14
+   121231761 LATE FEES                           .77        08/08/14
+   121287405 AUTOMATION                         1.16        09/09/14
+   121287405 CIRCUIT CLERK FEE                  5.76        09/09/14
+   121287405 COLLECTION FEES                    2.31        09/09/14
+   121287405 LATE FEES                           .77        09/09/14
+   121351579 CIRCUIT CLERK FEE                  6.92        10/16/14
+   121351579 COLLECTION FEES                    2.31        10/16/14
+   121351579 LATE FEES                           .77        10/16/14
+   121416722 CIRCUIT CLERK FEE                  6.92        11/24/14
+   121416722 COLLECTION FEES                    2.31        11/24/14
+   121416722 LATE FEES                           .77        11/24/14
+   121455363 CIRCUIT CLERK FEE                  6.92        12/17/14
+   121455363 COLLECTION FEES                    2.31        12/17/14
+   121455363 LATE FEES                           .77        12/17/14
+   121493413 CIRCUIT CLERK FEE                  6.92        01/13/15
+   121493413 COLLECTION FEES                    2.31        01/13/15
+   121493413 LATE FEES                           .77        01/13/15
+   121590916 CIRCUIT CLERK FEE                  6.92        03/11/15
+   121590916 COLLECTION FEES                    2.31        03/11/15
+   121590916 LATE FEES                           .77        03/11/15
+   121650323 CIRCUIT CLERK FEE                  6.92        04/14/15
+   121650323 COLLECTION FEES                    2.31        04/14/15
+   121650323 LATE FEES                           .77        04/14/15
+   121687016 CIRCUIT CLERK FEE                  6.92        05/05/15
+   121687016 COLLECTION FEES                    2.31        05/05/15
+   121687016 LATE FEES                           .77        05/05/15
+   121737497 CIRCUIT CLERK FEE                  6.92        06/03/15
+   121737497 COLLECTION FEES                    2.31        06/03/15
+   121737497 LATE FEES                           .77        06/03/15
+   121786284 CIRCUIT CLERK FEE                  6.92        07/01/15
+   121786284 COLLECTION FEES                    2.31        07/01/15
+   121786284 LATE FEES                           .77        07/01/15
+   121844245 CIRCUIT CLERK FEE                  6.92        08/04/15
+   121844245 COLLECTION FEES                    2.31        08/04/15
+   121844245 LATE FEES                           .77        08/04/15
+   121896903 CIRCUIT CLERK FEE                  6.92        09/01/15
+   121896903 COLLECTION FEES                    2.31        09/01/15
+   121896903 LATE FEES                           .77        09/01/15
+   121949989 CIRCUIT CLERK FEE                  6.92        10/01/15
+   121949989 COLLECTION FEES                    2.31        10/01/15
+   121949989 LATE FEES                           .77        10/01/15
+   121493413 COLLECTION FEES                    2.31        11/06/15
+   121493413 COLLECTION FEES                   -2.31        11/06/15
+   122006746 CIRCUIT CLERK FEE                  6.92        11/03/15
+   122006746 COLLECTION FEES                    2.31        11/03/15
+   122006746 LATE FEES                           .77        11/03/15
+   122058739 CIRCUIT CLERK FEE                  4.28        12/04/15
+   122058739 COURT SECURITY                     2.64        12/04/15
+   122058739 COLLECTION FEES                    2.31        12/04/15
+   122058739 LATE FEES                           .77        12/04/15
+   122102362 COURT SECURITY                     6.92        01/04/16
+   122102362 COLLECTION FEES                    2.31        01/04/16
+   122102362 LATE FEES                           .77        01/04/16
+   122147994 COURT SECURITY                     6.92        02/01/16
+   122147994 COLLECTION FEES                    2.31        02/01/16
+   122147994 LATE FEES                           .77        02/01/16
+   122199153 COURT SECURITY                     6.92        03/01/16
+   122199153 COLLECTION FEES                    2.31        03/01/16
+   122199153 LATE FEES                           .77        03/01/16
+   122255610 COURT SECURITY                     1.60        04/01/16
+   122255610 ARRESTEE'S MEDICAL                 5.32        04/01/16
+   122255610 COLLECTION FEES                    2.31        04/01/16
+   122255610 LATE FEES                           .77        04/01/16
+   122306410 ARRESTEE'S MEDICAL                 4.68        05/02/16
+   122306410 COURT FINANCE FEE                  2.24        05/02/16
+   122306410 COLLECTION FEES                    2.31        05/02/16
+   122306410 LATE FEES                           .77        05/02/16
+   122384069 COURT FINANCE FEE                  6.92        06/15/16
+   122384069 COLLECTION FEES                    2.31        06/15/16
+   122384069 LATE FEES                           .77        06/15/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  RET THEFT/DISP MERCH/<$300/2+
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   07-01-11                 Charge 01 Count 001 RET THEFT/DISP MERCH/<$300/2+
+                            Statute 720 5/16A-3(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned. Defendant is admonished as t
+o EXTENDED TERM
+                            AND CONSECUTIVE TERM SENTENCING.  Public Defender is
+ appointed and
+                            Stephanie Corum appears instanter.  Defendant reques
+ts Preliminary
+                            hearing.  Defendant is admonished as to trial and se
+ntencing in
+                            absentia. Bond set in the amount of $5,000-ROR DENIE
+D.  See expanded
+                            record.
+                            Cause allotted for pre-trial on
+   07-05-11                 Notice of arrest without warrant on file.
+   07-08-11                 Subpoena Served.  No Fees.
+   07-14-11                 Pretrial order after waiver or finding of probable c
+ause
+                            People appear by Adam M. Dill.  Defendant appears pe
+rsonally and with
+                            counsel, Melinda Licciardello.  Cause called for pre
+liminary hearing.
+                            Witness sworn. Evidence heard. The Court having hear
+d the evidence on
+                            preliminary hearing and being fully advised in the p
+remises finds
+                            probable cause to believe that the Defendant has com
+mitted one or more
+                            felony offenses as charged in the information. Pre-T
+rial Discovery
+                            Orders entered. Bond to continue.
+   07-19-11                 Discovery filed
+                            Answer to Discovery filed
+   07-20-11
+                            Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty RET THEFT/DISP MERCH/<$300/2+
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16A-3(a)  Class 4  Orig.
+                            Sentence: 07/20/2011
+                            Sentence: Cost Only
+                            Sentence: Department Of Corrections  2Yrs 6Mos
+                            Sentence: Credit Time Served  21Days
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Cost Only              295.00      STATE OFFENDER DN
+A     95.00
+                            PRELIMINARY HEARING     10.00
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Sarah J. Carlson.  Appea
+rance of the
+                            Defendant personally and by counsel, Janie Miller-Jo
+nes.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Retail Theft with a Prior T
+heft Conviction
+                            ILCS: 720 5/16A-3(a) as charged. Judgment entered in
+ favor of the
+                            People and against the defendant on finding of guilt
+ and for costs.
+                            All financial obligations shall be paid in equal mon
+thly installments
+                            to the Champaign County Circuit Clerk.  Any bond pos
+ted is to be
+                            applied first to any court ordered bond assignment o
+n file and then to
+                            all restitution ordered and then to all financial ob
+ligations in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of
+                            incarceration of   2 years,   6 months in the Illino
+is Department of
+                            Corrections. Defendant is to receive credit for  21
+days previously
+                            served. The Defendant is to submit specimens of bloo
+d, saliva, or
+                            tissue to the Illinois Department of State Police or
+ to the Department
+                            of Corrections within 45 days, at a collection site
+designated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+ unless previously
+                            done so by the defendant. Defendant advised of right
+ to appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same.   Sentencing Order e
+ntered.  See
+                            Order.  Defendant's sentence in this matter is to be
+ served
+                            consecutively to the sentence imposed in case 11-CF-
+822.  Defendant is
+                            remanded to the custody of the Sheriff for transport
+ation to the IL.
+                            Dept. of Corrections.
+                            Mittimus prepared.
+   08-05-11                 Statement of State's Attorney filed
+   11-28-11                 Case sent out for collections.
+   07-09-14                 Court Ordered Payments
+   08-08-14                 Court Ordered Payments
+   09-09-14                 Court Ordered Payments
+   10-16-14                 Court Ordered Payments
+   11-24-14                 Court Ordered Payments
+   12-17-14                 Court Ordered Payments
+   01-13-15                 Court Ordered Payments
+   03-11-15                 Cash
+   04-14-15                 Cash
+   05-05-15                 Cash
+   06-03-15                 Cash
+   07-01-15                 Cash
+   08-04-15                 Cash
+   09-01-15                 Cash
+   10-01-15                 Cash
+   11-03-15                 Cash
+   12-04-15                 Cash
+   01-04-16                 Cash
+   02-01-16                 Cash
+   03-01-16                 Cash
+   04-01-16                 Cash
+   05-02-16                 Cash
+   06-15-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

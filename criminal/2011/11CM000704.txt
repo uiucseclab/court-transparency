@@ -1,0 +1,290 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CM000704
+
+   Defendant Plaintiff
+GUERRERO  FERNANDO N
+2019 CYNTHIA APT 208
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 07/05/11
+                Court Room:
+           Next Appearance: 08/09/12
+                Birth Date: 06/27/88
+                 DEFENDANT: GUERRERO  FERNANDO N
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       25.00      BOND -10% BOND FEE            25.00            .00
+       50.00      *RESTITUTION AMOUNT           50.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                  .00           5.00
+       15.00      PROBATION MONITORIN             .00         180.00
+       40.00      MOTION TO VACATE                .00          40.00
+       60.00      TRAFFIC/CRIMINAL SU             .00          60.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      205.00      FINES                           .00         205.00
+       24.00      VICTIMS FUND-FINE               .00          24.00
+      189.41      COLLECTION FEES                 .00         189.41
+       82.35      LATE FEES                       .00          82.35
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117551304 SHERIFF'S BOOKING FEE             20.00        07/12/11
+   117551304 BOND - ORIGINAL                  250.00        07/12/11
+   117603624 BOND -10% BOND FEE                25.00        08/18/11
+   117603624 *RESTITUTION AMOUNT               50.00        08/18/11
+   117603624 DOCUMENT STORAGE                   5.00        08/18/11
+   117603624 E-CITATION                         5.00        08/18/11
+   117603624 AUTOMATION                        10.00        08/18/11
+   117603624 CIRCUIT CLERK FEE                 75.00        08/18/11
+   117603624 COURT SECURITY                    25.00        08/18/11
+   117603624 ARRESTEE'S MEDICAL                10.00        08/18/11
+   117603624 COURT FINANCE FEE                 25.00        08/18/11
+   117603624 STATES ATTORNEY                   20.00        08/18/11
+   117603624 *RESTITUTION AMOUNT               50.00        08/18/11
+   122013439 RECORD SEARCH                     18.00        11/06/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  DOMESTIC BTRY/PHYSICAL CONTACT
+
+         2  DOMESTIC BTRY/PHYSICAL CONTACT
+
+         3  KNOWINGLY DAMAGE PROP<$300
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   07-05-11                 Charge 01 Count 001 DOMESTIC BTRY/PHYSICAL CONTACT
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 03 Count 003 KNOWINGLY DAMAGE PROP<$300
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            NO BOND No Bond
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Jamie Propps appears instanter.  Plea of not guilty
+entered and
+                            Defendant requests trial by jury. Bond of $2,500 to
+continue. No
+                            contact order with Brittany Bosley, Christine Gustin
+ and Alexander
+                            Fuentes remains in full force and effect.  Defendant
+ is admonished as
+                            to trial and sentencing in absentia.  See expanded r
+ecord.
+   07-12-11                 Sheriff Booking Fee
+   08-02-11                 Proof of service of discovery materials filed.
+   08-09-11                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed DOMESTIC BTRY/PHYSICAL CONTAC
+T
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Sentence: 08/09/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed DOMESTIC BTRY/PHYSICAL CONTAC
+T
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Sentence: 08/09/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  Fine + Cost
+                            Disposition: Guilty KNOWINGLY DAMAGE PROP<$300
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Sentence: 08/09/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees
+                            Sentence: Conditional Discharge  12Mos
+                                      Supervised Court Service
+                            Sentence: Public Service  40Hrs
+                                      Supervised Court Service
+                            Sentence: Partner Abuse Intervention Program  60Days
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Sentence: Restitution
+                            Fine + Cost            519.00     *RESTITUTION AMOUN
+T     50.00
+                            E-CITATION               5.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    180.00     MOTION TO VACATE
+      40.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Andrea I. Bergstrom.  Ap
+pearance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 03 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Knowingly Damage Prop<$300
+ILCS: 720
+                            5/21-1(1)(a) as charged. Judgment entered in favor o
+f the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  2/06/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months Conditional Discharge. Defendan
+t is ordered to
+                            perform  40 hours of public service work under the s
+upervision of the
+                            Champaign County Court Services Department.  The def
+endant is to be
+                            given credit on public service work for any hours co
+mpleted in
+                            education, treatment, aftercare, sobriety based self
+-help group
+                            meetings, Victim Impact Panel and GED classes. Defen
+dant is to enroll
+                            in a Partner Abuse Intervention Program approved by
+the Champaign
+                            County Court Services Department within  60 days and
+ successfully
+                            complete it without termination. Defendant advised o
+f right to appeal
+                            and rights pursuant to Supreme Court Rule 605 and th
+e Court finds that
+                            the defendant understands the same.
+   08-17-11                 Motion to Vacate Judgment filed and forward to Court
+.
+   08-18-11                 Bond
+   08-25-11                 Cause allotted for hearing on
+                            Public defender is reappointed
+                            Cause allotted for hearing on the Motion to vacate j
+udgment on 9/15/11
+                            at 8:30 am in courtroom E. Public defender is reappo
+inted to represent
+                            the defendant in this matter.
+   08-29-11                 Circuit Clerk recieved the following transcripts:
+                            August 9, 2011, RPK, Tammy J. Carleton.
+   09-07-11
+                            Circuit Court mail returned undeliverable.
+   09-15-11                 Defendants motion to withdraw guilty plea and vacate
+ judgment is denie
+                            Defendants motion to withdraw guilty plea and vacate
+ judgment is
+                            denied.
+   09-23-11
+                            Correspondence from the Public Defender's Office on
+file.
+   09-26-11                 Office of the Circuit Clerk is to prepare and file a
+ Notice
+                            Office of the Circuit Clerk is to prepare and file a
+ Notice of Appeal.
+                            Office of the State Appellate Defender appointed to
+represent the
+                            defendant on the appeal.  Office of the Circuit Cler
+k is to notify the
+                            State Appellate Defender of their appointment.
+                            Transcript for appeal notice required.
+   09-27-11                 Notice of appeal prepared.
+                            Appointment of counsel on appeal prepared.
+                            Appeal Affidavit was mailed.
+                            Notice of Appeal and Appointment of Counsel on Appea
+l mailed to all
+                            Partied involved.
+   10-04-11                 Circuit Clerk received the following transcripts:
+                            July 5, 2011, RPK, Nancy Sivertsen
+                            September 15, 2011, RPK, Nancy Sivertsen
+   11-28-11                 Appeal prepared for appellate court this date.
+                            Certificate of mailing prepared.
+   11-30-11                 Correspondence from Appellate Court filed
+   12-07-11                 Order from the Appellate Court re: 4-11-0867
+                            Appellant's motion for leave to file Late Notice of
+Appeal ALLOWED.
+                            The Circuit Clerk is directed to file stamp the atta
+ched Late Notice
+                            of Appeal and return it to the Fourth District Appel
+late Clerk .  Late
+                            Notice of Appeal on file by Appellant Fernando N. Gu
+errero by
+                            Assistant Deputy Defender Nancy L. Vincent on file.
+   12-08-11                 Certificate of mailing prepared.
+   12-14-11                 Prepared blueback certificate.
+   12-03-12                 Order from the Appellate Court, Gen No 4-11-0867: Ap
+pellant's
+                            Motion to Supplement the record on appeal ALLOWED. O
+ne volume
+                            supplement to record on appeal filed per order, cons
+isting of Fines
+                            and Fees.
+   03-04-13                 Mandate from Appellate Court regarding Gen No: 4-11-
+0867.
+                            It is the decision of this court that the order on a
+ppeal be AFFIRMED
+                            and stand in full force and effect.
+   03-07-13                 Record of exhibits received on file.
+   07-25-13                 Case sent out for collections.
+   11-06-15                 Record Searches $6/year
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

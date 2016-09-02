@@ -1,0 +1,509 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CM001352
+
+   Defendant Plaintiff
+DEMPSEY  LORI L
+906 E HARDING APT 10
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 12/20/11
+                Court Room:
+           Next Appearance: 07/10/15
+                Birth Date: 01/12/60
+                 DEFENDANT: DEMPSEY  LORI L
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+         .00      BOND -10% BOND FEE              .00            .00
+         .00      DOCUMENT STORAGE                .00            .00
+         .00      E-CITATION                      .00            .00
+         .00      AUTOMATION                      .00            .00
+         .00      CIRCUIT CLERK FEE               .00            .00
+         .00      COURT SECURITY                  .00            .00
+         .00      COURT FINANCE FEE               .00            .00
+         .00      STATES ATTORNEY                 .00            .00
+         .00      CRIME STOPPERS                  .00            .00
+         .00      ARRESTEE'S MEDICAL              .00            .00
+         .00      TRAFFIC/CRIMINAL SU             .00            .00
+         .00      CLERK OP & ADMIN FU             .00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+         .00      FINES                           .00            .00
+         .00      VICTIMS FUND-FINE               .00            .00
+         .00      ST POLICE SERVICES              .00            .00
+         .00      ST POLICE OPERATION             .00            .00
+         .00      DOCUMENT STORAGE                .00            .00
+         .00      E-CITATION                      .00            .00
+         .00      AUTOMATION                      .00            .00
+         .00      CIRCUIT CLERK FEE               .00            .00
+         .00      COURT SECURITY                  .00            .00
+         .00      COURT FINANCE FEE               .00            .00
+         .00      STATES ATTORNEY                 .00            .00
+         .00      ARRESTEE'S MEDICAL              .00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+         .00      ST POLICE OPERATION             .00            .00
+       25.00      BOND -10% BOND FEE            25.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+      330.00      PROBATION MONITORIN          170.00         160.00
+       50.00      TRAFFIC/CRIMINAL SU           50.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      190.00      FINES                         90.00         100.00
+       20.00      VICTIMS FUND-FINE               .00          20.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+        5.00      DOCUMENT STORAGE                .00           5.00
+        5.00      E-CITATION                      .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       25.00      VICTIMS FUND-NO FIN             .00          25.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       25.00      BOND -10% BOND FEE            25.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+      330.00      PROBATION MONITORIN          198.00         132.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       50.00      TRAFFIC/CRIMINAL SU           50.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      190.00      FINES                         90.00         100.00
+       20.00      VICTIMS FUND-FINE               .00          20.00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      123.17      COLLECTION FEES                 .00         123.17
+       53.55      LATE FEES                       .00          53.55
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117767490 PERSONAL CHECK/CREDIT CA           5.00        12/20/11
+   117767490 SHERIFF'S BOOKING FEE             15.00        12/20/11
+   117767490 BOND - ORIGINAL                  120.00        12/20/11
+   117840504 PERSONAL CHECK/CREDIT CA           5.00        02/17/12
+   117840504 SHERIFF'S BOOKING FEE             15.00        02/17/12
+   117840504 BOND - ORIGINAL                  250.00        02/17/12
+   117907299 BOND -10% BOND FEE                25.00        04/04/12
+   117907299 DOCUMENT STORAGE                   5.00        04/04/12
+   117907299 E-CITATION                         5.00        04/04/12
+   117907299 AUTOMATION                        10.00        04/04/12
+   117907299 CIRCUIT CLERK FEE                 75.00        04/04/12
+   117907299 COURT SECURITY                    25.00        04/04/12
+   117907299 ARRESTEE'S MEDICAL                10.00        04/04/12
+   117907299 COURT FINANCE FEE                 25.00        04/04/12
+   117907299 STATES ATTORNEY                   20.00        04/04/12
+   117907299 CRIME STOPPERS                     5.00        04/04/12
+   117907299 PROBATION MONITORING FEE          15.00        04/04/12
+   117907299 TR/CR SUR $10/$40                 50.00        04/04/12
+   117907299 CLERK OP & ADMIN FUND             10.00        04/04/12
+   117907299 DRUG COURT PROGRAM                 5.00        04/04/12
+   117907299 FINES                             85.00        04/04/12
+   117925757 BOND - ORIGINAL                  120.00        04/20/12
+   117925839 PERSONAL CHECK/CREDIT CA           5.00        04/20/12
+   117925839 SHERIFF'S BOOKING FEE             15.00        04/20/12
+   117977618 PROBATION MONITORING FEE         120.00        05/30/12
+   118206088 PERSONAL CHECK/CREDIT CA           1.25        10/29/12
+   118206088 PROBATION MONITORING FEE          20.00        10/29/12
+   118249946 PROBATION MONITORING FEE          10.00        11/27/12
+   118549736 PROBATION MONITORING FEE           5.00        04/24/13
+   118549736 FINES                              5.00        04/24/13
+   118549736 PERSONAL CHECK/CREDIT CA           5.00        04/24/13
+   118858406 STATES ATTORNEY AUTOMATI           2.00        10/29/13
+   118858406 PROBATION MONITORING FEE          18.00        10/29/13
+   120928295 PROBATION MONITORING FEE          10.00        02/13/14
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  BATTERY/MAKES PHYSICAL CONTACT
+
+         1  BATTERY/MAKES PHYSICAL CONTACT
+
+         1  BATTERY/MAKES PHYSICAL CONTACT
+
+         1  BATTERY/MAKES PHYSICAL CONTACT
+
+         1  BATTERY/MAKES PHYSICAL CONTACT
+
+         1  BATTERY/MAKES PHYSICAL CONTACT
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   12-20-11                 Charge 01 Count 001 BATTERY/MAKES PHYSICAL CONTACT
+                            Statute 720 5/12-3(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Sheriff Booking w/Telecheck
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Amanda Riess appears instanter.  Plea of not guilty
+entered and
+                            Defendant requests trial by jury.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia.  Bond is to continue as
+posted. As a
+                            condition of bond, Defendant is ordered to have NO C
+ONTACT whatsoever,
+                            directly or indirectly, with the victim and/or addre
+ss recited in open
+                            court. See expanded record.
+                            Notice of arrest without warrant on file.
+   12-30-11                 Proof of service of discovery materials filed.
+   02-07-12
+                            People appear by Marley C. Nelson.  Defendant appear
+s personally and
+                            with counsel, Lindsey R. Yanchus.  Defendant is advi
+sed of right to
+                            trial in absentia.
+   02-16-12                 Expanded record of arraignment proceedings.
+                            People appear by Sarah Carlson. Defendant appears in
+ custody, and by
+                            counsel, Amanda Riess. Defendant is admonished as to
+ Petition for
+                            Indirect Criminal Contempt. Bond is set in the amoun
+t of $2,500-ROR
+                            DENIED. Cause is held over to the pending trial date
+.
+   02-17-12                 Sheriff Booking w/Telecheck
+                            Notice of arrest without warrant on file.
+   02-21-12
+                            People appear by Samuel A. Rosenberg.  Defendant app
+ears personally
+                            and with counsel, Lindsey R. Yanchus. Motion by the
+Defendant for
+                            continuance.  Motion allowed.
+   02-22-12                 Subpoena Served.  No Fees.
+   03-14-12
+                            People appear by Sam Rosenberg.  Lindsey Yanchus app
+ears on behalf of
+                            the Defendant, who is not present.  Motion by the Pe
+ople for warrant
+                            and bond forfeiture.  Motion taken under advisement
+until March 21,
+                            2012 at 8:30 a.m.
+   03-21-12                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty BATTERY/MAKES PHYSICAL CONTACT
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3(a)(2)  Class A  Orig.
+                            Sentence: 03/21/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  30Hrs In force
+                                      Supervised Court Service
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            E-CITATION                .00     CRIME STOPPERS
+        .00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Marley C. Nelson.  Appea
+rance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Battery/Makes Physical Cont
+act ILCS: 720
+                            5/12-3(a)(2) as charged. Judgment entered in favor o
+f the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  9/17/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months Conditional Discharge. Defendan
+t is ordered to
+                            perform  30 hours of public service work under the s
+upervision of the
+                            Champaign County Court Services Department.  The def
+endant is to be
+                            given credit on public service work for any hours co
+mpleted in
+                            education, treatment, aftercare, sobriety based self
+-help group
+                            meetings, Victim Impact Panel and GED classes. On mo
+tion of the
+                            People, Petition for Indirect Criminal Contempt is w
+ithdrawn.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same. Sentencing Order entered this date. See Order.
+   04-04-12                 Bond
+   04-19-12                 Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ge
+orge Vargas
+                            appears instanter.  General denial to the Petition i
+s entered.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.  Bond
+                            to continue. See expanded record.
+   04-20-12                 Sheriff Booking Fee
+                            Sheriff Booking w/Telecheck
+                            Notice of arrest without warrant on file.
+   04-27-12                 Substitution of Counsel
+                            Substitution of Counsel by Way of Stipulation on fil
+e by Anthony Bruno
+                            this date. Appointment of the Public Defender is vac
+ated.
+   05-09-12                 Disposition 01/01  Count 001  Awaiting Sentencing
+                            Disposition: Revocation/Vacate/Probation BATTERY/MAK
+ES PHYSICAL CONTAC
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/12-3(a)(2)  Class A  Orig.
+                            Disposition 01/02  Count 001  Fine + Cost
+                            Disposition: Revocation/Vacate/Probation BATTERY/MAK
+ES PHYSICAL CONTAC
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/12-3(a)(2)  Class A  Orig.
+                            Sentence: 05/09/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Substance Abuse Treatment/Evaluation  60Da
+ys In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            490.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    330.00
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Resentencing on petition to revoke.
+                            Appearance of the People by Marley C. Nelson.  Appea
+rance of the
+                            Defendant personally and by counsel, Anthony Bruno.
+   Defendant
+                            advised as to the nature of the proceedings and the
+possible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly, understandin
+gly and
+                            voluntarily stipulates and admits to the allegations
+ contained in the
+                            Petition to Revoke.  Finding the same are true.  The
+ court finds that
+                            the Defendant has violated the terms of her sentence
+.  Finding entered
+                            in favor of the People and against Defendant.   All
+financial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  .  Any bond poste
+d is to be applied
+                            first to any court ordered bond assignment on file a
+nd then to all
+                            restitution ordered and then to all financial obliga
+tions in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of  12 months
+                            probation.  Defendant is to obtain an evaluation for
+ alcohol and drug
+                            abuse from an agency or agent recommended by the Cou
+rt Services
+                            Department, and follow any recommendations contained
+ therein as to
+                            treatment and/or counseling. Defendant advised of ri
+ght to appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same.   See sentencing ord
+er Resentencing on
+                            Petition to Revoke entered.
+   05-29-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   05-30-12                 Bond
+   10-29-12                 Check
+   11-27-12                 Court Ordered Payments
+   04-12-13                 Probation Violation Report filed
+   04-15-13                 Petition to Revoke Probation filed
+   04-18-13                 Verified information on Petition to Revoke Probation
+ on file
+   04-24-13                 Court Ordered Payments
+                            Credit Card Fee
+   04-25-13                 Summons served.
+   05-17-13                 Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Li
+ndsey Yanchus
+                            appears instanter.  General denial to the Petition i
+s entered.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. Bond
+                            set in the amount of $1,000-ROR ALLOWED.  See expand
+ed record.
+   07-10-13                 Disposition 01/03  Count 001  Cost Only
+                            Disposition: Revocation/Vacate/Probation BATTERY/MAK
+ES PHYSICAL CONTAC
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/12-3(a)(2)  Class A  Orig.
+                            Sentence: 07/10/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  60Da
+ys In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              222.00     E-CITATION
+       5.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Resentencing on petition to revoke.
+                            Appearance of the People by Tim J. Sullivan.  Appear
+ance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.    Defendant
+                            advised as to the nature of the proceedings and the
+possible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly, understandin
+gly and
+                            voluntarily stipulates and admits to the allegations
+ contained in the
+                            Petition to Revoke.  Finding the same are true.  The
+ court finds that
+                            the Defendant has violated the terms of her sentence
+.  Finding entered
+                            in favor of the People and against Defendant.   All
+financial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  1/06/2014.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Defendant is to pay all fines and costs
+previously
+                            imposed. Any remaining bond shall be discharged to t
+he individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of  24 months
+                            probation.  Defendant is to attend the next Victim I
+mpact Panel
+                            presented by the Champaign County Court Services Dep
+artment.
+                            Defendant is to obtain an evaluation for alcohol and
+ drug abuse from
+                            an agency or agent recommended by the Court Services
+ Department, and
+                            follow any recommendations contained therein as to t
+reatment and/or
+                            counseling. Defendant advised of right to appeal and
+ rights pursuant
+                            to Supreme Court Rule 605 and the Court finds that t
+he defendant
+                            understands the same.
+   07-23-13                 ISP Supplemental Court Disposition prepared and mail
+ed.
+                            Disposition 01/04  Count 001  Modified Order
+                            Disposition: Modified/Trial Court BATTERY/MAKES PHYS
+ICAL CONTACT
+                            Modified Order         577.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    330.00
+   10-29-13                 Court Ordered Payments
+   02-13-14                 Court Ordered Payments
+   09-29-14                 Probation Violation Report on file
+   12-06-14                 Order of Unsuccessful Discharge from Probation enter
+ed this date.
+                            Order of discharge from probation on file.
+                            Disposition 01/05  Count 001  Manual Calculations
+                            Disposition: Terminated Unsatisfied BATTERY/MAKES PH
+YSICAL CONTACT
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3(a)(2)  Class A
+                            Sentence: 12/06/2014
+                            Sentence: No Sentence  In force
+                            Case closed.
+   01-21-15                 Disposition sent through ADR process this date. SPT
+   12-01-15                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

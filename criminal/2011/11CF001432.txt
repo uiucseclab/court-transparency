@@ -1,0 +1,404 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001432
+
+   Defendant Plaintiff
+GUSTAFSON  JASEN M
+1708 E MICHIGAN AV
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 09/02/11
+                Court Room:
+           Next Appearance: 02/11/13
+                Birth Date: 09/26/84
+                 DEFENDANT: GUSTAFSON  JASEN M
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+     2500.00      BOND -10% BOND FEE          2500.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      250.00      TRAFFIC/CRIMINAL SU          250.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      985.00      FINES                        985.00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+    20628.00                                 20628.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117625687 SHERIFF'S BOOKING FEE             20.00        09/06/11
+   117625687 BOND - ORIGINAL                25000.00        09/06/11
+   118428694 BOND -10% BOND FEE              2500.00        02/06/13
+   118428694 DOCUMENT STORAGE                   5.00        02/06/13
+   118428694 AUTOMATION                        10.00        02/06/13
+   118428694 CIRCUIT CLERK FEE                100.00        02/06/13
+   118428694 COURT SECURITY                    25.00        02/06/13
+   118428694 COURT FINANCE FEE                 50.00        02/06/13
+   118428694 STATES ATTORNEY                   40.00        02/06/13
+   118428694 STATES ATTORNEY AUTOMATI           2.00        02/06/13
+   118428694 ARRESTEE'S MEDICAL                10.00        02/06/13
+   118428694 PROBATION OPER ASSISTANC          10.00        02/06/13
+   118428694  STATE OFFENDER DNA ID S         250.00        02/06/13
+   118428694 TR/CR SUR $10/$40                250.00        02/06/13
+   118428694 CLERK OP & ADMIN FUND             10.00        02/06/13
+   118428694 DRUG COURT PROGRAM                 5.00        02/06/13
+   118428694 FINES                            985.00        02/06/13
+   118428694 VIOLENT CRIME VICTIMS AS         100.00        02/06/13
+   118428694 ST POLICE SERVICES FUND           10.00        02/06/13
+   118428694 ST POLICE OPERATIONS ASS          10.00        02/06/13
+   118428694 *BOND REFUND                   20628.00        02/06/13
+   118478330 COPIES                             1.00        03/08/13
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AGG CHILD PORN/DISSEM FILM
+
+         2  AGG CHILD PORN/DISSEM FILM
+
+         3  AGG CHILD PORN/DISSEM FILM
+
+         4  AGG CHILD PORN/DISSEM FILM
+
+         5  AGG CHILD PORN/POSS FILM/PHOTO
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   09-02-11                 Charge 01 Count 001 AGG CHILD PORN/DISSEM FILM
+                            Statute 720 5/11-20.1B(a)(2)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 AGG CHILD PORN/DISSEM FILM
+                            Statute 720 5/11-20.1B(a)(2)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 03 Count 003 AGG CHILD PORN/DISSEM FILM
+                            Statute 720 5/11-20.1B(a)(2)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 04 Count 004 AGG CHILD PORN/DISSEM FILM
+                            Statute 720 5/11-20.1B(a)(2)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 05 Count 005 AGG CHILD PORN/POSS FILM/PHOTO
+                            Statute 720 5/11-20.1B(a)(6)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Created and properly labeled permanent case file.
+                            Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Court's own motion, cause i
+s continued for
+                            appearance of counsel.  Defendant is admonished as t
+o trial and
+                            sentencing in absentia.  See expanded record.
+                            Defendant's bond is set in the amount of $250,000. R
+OR DENIED.
+                            Notice of arrest without warrant on file.
+   09-06-11                 Sheriff Booking Fee
+   09-14-11                 Expanded record of arraignment proceedings.
+                            People appear by Adam M. Dill.  Defendant appears pe
+rsonally together
+                            with private counsel, James A. Martinkus.  Entry of
+appearance on
+                            file. Defendant waives preliminary hearing, enters a
+ plea of not
+                            guilty and requests a trial by jury.  Pre-trial orde
+rs entered. Bond
+                            to continue. Defendant admonished as to trial and se
+ntencing in
+                            absentia.  See Expanded Record.
+   09-15-11                 Discovery filed
+   11-08-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   12-20-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   01-17-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   02-14-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   03-13-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   04-10-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   05-08-12                 Motion to Suppress Statements, and Motion to Continu
+e Trial filed.
+
+                            Appearance of the People by D. Harris.  Defendant ap
+pears with
+                            Counsel, J. Martinkus.  Cause allotted for hearing o
+n the defendant's
+                            Motion to Suppress to July 10, 2012 at 2:30 p.m. in
+Courtroom A.
+                            Defendant's bond to continue.
+   05-11-12                 Supplemental Discovery filed
+   07-10-12
+                            People appear by Duke Harris. Defendant appears pers
+onally and by
+                            counsel, David Steigmann. Cause called for hearing o
+n Defendant's
+                            Motion to Suppress Statements. Witness sworn. Eviden
+ce heard.
+                            Testimony on behalf of Defendant heard. Testimony on
+ behalf of the
+                            State heard. Rebuttal arguments given in behalf of t
+he State. People's
+                            Exhibits 1-2 are admitted without objection. Defenda
+nt's Motion is
+                            taken under advisement. Cause is continued for furth
+er hearing on
+                            Defendant's Motion to Suppress Statements to 8/7/12
+at 11 a.m. in
+                            Courtroom A.
+   07-18-12                 Supplemental Illinois State Authority in Support of
+Motion to Suppress
+                            Statements filed.
+   08-02-12
+                            ORDER ON DEFENDANT'S MOTION TO SUPPRESS STATEMENTS e
+ntered.
+   08-07-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   08-29-12                 Correspondence from Respondent's grandmother filed,
+                            Pro se, and forwarded to court.
+   09-04-12
+                            Defendant withdraws his previously made request for
+jury trial.
+                            Written waiver of jury signed by the defendant tende
+red to the Court.
+                            Court finds the waiver was freely and voluntarily ex
+ecuted by the
+                            Defendant.  Cause allotted for Bench Trial on Novemb
+er 13, 2012 at
+                            9:00 a.m. in Courtroom A.  Bond to continue.
+   11-09-12
+                            By agreement of Mr. Martinkus and Mr. Harris the ben
+ch trial allotment
+                            of November 13, 2012 is vacated and the cause is all
+otted for a
+                            Stipulated Bench Trial on January 15, 2013 at 1:30 p
+.m. in Courtroom
+                            A.
+   01-15-13
+                            By agreement, hearing allotment this date is vacated
+ and the cause is
+                            allotted for Possible Plea to January 31, 2013 at 1:
+00 p.m. in
+                            Courtroom A.  Bond to continue.
+   01-31-13                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG CHILD PORN/DISSEM FILM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/11-20.1B(a)(2)  Class X  Orig.
+                            Sentence: 01/31/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed AGG CHILD PORN/DISSEM FILM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/11-20.1B(a)(2)  Class X  Orig.
+                            Sentence: 01/31/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed AGG CHILD PORN/DISSEM FILM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/11-20.1B(a)(2)  Class X  Orig.
+                            Sentence: 01/31/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed AGG CHILD PORN/DISSEM FILM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/11-20.1B(a)(2)  Class X  Orig.
+                            Sentence: 01/31/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 05/00  Count 005  Fine + Cost
+                            Disposition: Guilty AGG CHILD PORN/POSS FILM/PHOTO
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/11-20.1B(a)(6)  Class 2  Orig.
+                            Sentence: 01/31/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  4Yrs In force
+                            Sentence: Credit Time Served  3Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Sex offender registration  In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  3Days In
+ force
+                            Fine + Cost           4122.00      STATE OFFENDER DN
+A    250.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, James A. Martin
+kus.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 05 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Agg Child Porn/Poss Film/Ph
+oto ILCS: 720
+                            5/11-20.1B(a)(6) as charged. Judgment entered in fav
+or of the People
+                            and against the defendant on finding of guilt and fo
+r costs.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  7/30/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of incarceration of   4 years in the Illinois
+ Department of
+                            Corrections. Defendant is to receive credit for   3
+days previously
+                            served. The Defendant is to submit specimens of bloo
+d, saliva, or
+                            tissue to the Illinois Department of State Police or
+ to the Department
+                            of Corrections within 45 days, at a collection site
+designated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Comply with the
+                            requirements of the Sex Offender Registration Act (7
+30 ILCS 150/1 et
+                            seq) within   days. Count(s) stated in the written o
+rder are herby
+                            dismissed. Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.    Written Sentencing Order en
+tered.  See ORDER.
+                            Motion on behalf of the defendant that he be approve
+d to participate
+                            in the impact incarceration program if he is found e
+ligible.  Consent
+                            to participation in the impact incarceration program
+ on file.
+                            Objection by Assistant State's Attorney Larson.  Mot
+ion allowed.
+                            Defendant is allowed to participate in the impact in
+carceration
+                            program if he is found eligible though the Illinois
+Department of
+                            Corrections.   Written Order to be entered.  Defenda
+nt's bond revoked.
+                            Defendant remanded to the custody of the Sheriff for
+ transport to the
+                            Illinois Department of Corrections.
+                            Mittimus prepared.
+
+                            LATER
+                            Impact Incarceration Sentencing Order entered.  See
+ORDER.
+   02-05-13                 Statement of State's Attorney filed
+   02-06-13                 Bond
+   03-08-13                 Copies & Certified Copies
+   05-03-13                 Statement of State's Attorney filed
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

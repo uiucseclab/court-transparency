@@ -1,0 +1,218 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CM001341
+
+   Defendant Plaintiff
+BLACKWELL  TYSHAURA L
+2708 E ILLINOIS ST
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 12/16/11
+                Court Room:
+           Next Appearance: 04/04/13
+                Birth Date: 04/30/91
+                 DEFENDANT: BLACKWELL  TYSHAURA L
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       90.13      *RESTITUTION AMOUNT           90.13            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN          180.00            .00
+       50.00      TR/CR SUR $10/$40             50.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       25.00      PUBLIC DEFENDER               25.00            .00
+      200.00      FINES                        136.68          63.32
+       20.00      VICTIMS FUND-FINE               .00          20.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       62.78      COLLECTION FEES               60.75           2.03
+      117.02      LATE FEES                       .00         117.02
+      206.37      TAX INTERCEPT                 53.44         152.93
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121627231 *RESTITUTION AMOUNT               90.13        05/20/15
+   121627231 DOCUMENT STORAGE                   5.00        05/20/15
+   121627231 E-CITATION                         5.00        05/20/15
+   121627231 AUTOMATION                        10.00        05/20/15
+   121627231 CIRCUIT CLERK FEE                 75.00        05/20/15
+   121627231 COURT SECURITY                    25.00        05/20/15
+   121627231 COURT FINANCE FEE                 25.00        05/20/15
+   121627231 STATES ATTORNEY                   20.00        05/20/15
+   121627231 CRIME STOPPERS                     5.00        05/20/15
+   121627231 ARRESTEE'S MEDICAL                10.00        05/20/15
+   121627231 PROBATION MONITORING FEE         139.77        05/20/15
+   121627231 COLLECTION FEES                   34.10        05/20/15
+   121627231 *RESTITUTION AMOUNT               90.13        05/12/15
+   122322660 PROBATION MONITORING FEE          40.23        05/07/16
+   122322660 TR/CR SUR $10/$40                 50.00        05/07/16
+   122322660 CLERK OP & ADMIN FUND             10.00        05/07/16
+   122322660 DRUG COURT PROGRAM                 5.00        05/07/16
+   122322660 PUBLIC DEFENDER                   25.00        05/07/16
+   122322660 FINES                            136.68        05/07/16
+   122322660 COLLECTION FEES                   26.65        05/07/16
+   122322660 TAX INTERCEPT                     53.44        05/07/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  KNOWINGLY DAMAGE PROP<$300
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   12-16-11                 Charge 01 Count 001 KNOWINGLY DAMAGE PROP<$300
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Verified information on file.
+   12-22-11                 Summons not served.
+   12-27-11                 Summons not served.
+   01-11-12                 Expanded record of arraignment proceedings.
+                            People appear by Andrea Bergstrom. Defendant does no
+t appear. Alias
+                            Summons to issue.
+   01-24-12
+                            Verified information on file.
+   01-30-12                 Alias Summons served.
+   02-10-12                 Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Scott Schmidt appears instanter.  Plea of not guilty
+ entered and
+                            Defendant requests trial by jury.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia.  Bond is set in the amou
+nt of $1,000-ROR
+                            ALLOWED. See expanded record.
+   02-22-12                 Proof of service of discovery materials filed.
+   03-13-12                 Allotted for trial
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.
+   03-26-12                 Subpoena Served.  No Fees.
+   03-27-12                 Subpoena Served.  No Fees.
+   03-29-12                 Subpoena Served.  No Fees.
+   04-04-12                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty KNOWINGLY DAMAGE PROP<$300
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/21-1(1)(a)  Class A
+                            Sentence: 04/04/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  40Hrs In force
+                                      Supervised Court Service
+                            Sentence: Public Defender Fees  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            480.00     *RESTITUTION AMOUN
+T     90.13
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    180.00
+                            PUBLIC DEFENDER         25.00     COLLECTION FEES
+      62.78
+                            LATE FEES              117.02     TAX INTERCEPT
+     206.37
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Marley C. Nelson.  Appea
+rance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Knowingly Damage Prop<$300
+ILCS: 720
+                            5/21-1(1)(a) as charged. Judgment entered in favor o
+f the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 10/01/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months Conditional Discharge. Defendan
+t is ordered to
+                            perform  40 hours of public service work under the s
+upervision of the
+                            Champaign County Court Services Department.  The def
+endant is to be
+                            given credit on public service work for any hours co
+mpleted in
+                            education, treatment, aftercare, sobriety based self
+-help group
+                            meetings, Victim Impact Panel and GED classes. Defen
+dant is ordered to
+                            pay an appointed counsel fee in the amount of $25. D
+efendant advised
+                            of right to appeal and rights pursuant to Supreme Co
+urt Rule 605 and
+                            the Court finds that the defendant understands the s
+ame. Waiver of
+                            Jury on file. Sentencing Order entered this date. Se
+e Order.
+   04-12-12                 Subpoena not found.
+   04-08-13                 Certificate of completion of public service work fil
+ed
+   04-10-13                 Certificate of completion of public service work fil
+ed
+   03-20-14                 Case sent out for collections.
+   05-20-15                 Cash
+   05-21-15                 Ck # 1546941 to Green St. Realty returned undelivera
+ble.
+   05-07-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

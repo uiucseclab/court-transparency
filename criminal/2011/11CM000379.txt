@@ -1,0 +1,331 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CM000379
+
+   Defendant Plaintiff
+WILLIAMS  KAYLA
+107 ILLINOIS STREET
+DANVILLE IL 61832
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 04/18/11
+                Court Room:
+           Next Appearance: 05/23/14
+                Birth Date: 07/16/89
+                 DEFENDANT: WILLIAMS  KAYLA
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+         .00      DOCUMENT STORAGE                .00            .00
+         .00      E-CITATION                      .00            .00
+         .00      AUTOMATION                      .00            .00
+         .00      CIRCUIT CLERK FEE               .00            .00
+         .00      COURT SECURITY                  .00            .00
+         .00      COURT FINANCE FEE               .00            .00
+         .00      STATES ATTORNEY                 .00            .00
+         .00      CRIME STOPPERS                  .00            .00
+         .00      ARRESTEE'S MEDICAL              .00            .00
+         .00      TRAFFIC/CRIMINAL SU             .00            .00
+         .00      CLERK OP & ADMIN FU             .00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+         .00      FINES                           .00            .00
+         .00      VICTIMS FUND-FINE               .00            .00
+         .00      ST POLICE SERVICES              .00            .00
+         .00      ST POLICE OPERATION             .00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+      275.00      PROBATION MONITORIN          216.46          58.54
+       90.00      TRAFFIC/CRIMINAL SU             .00          90.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      350.00      FINES                           .00         350.00
+       36.00      VICTIMS FUND-FINE               .00          36.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       59.63      COLLECTION FEES               37.25          22.38
+      144.90      LATE FEES                       .00         144.90
+      273.64      TAX INTERCEPT                 51.29         222.35
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121141150 DOCUMENT STORAGE                   5.00        05/13/14
+   121141150 E-CITATION                         5.00        05/13/14
+   121141150 AUTOMATION                        10.00        05/13/14
+   121141150 CIRCUIT CLERK FEE                 30.77        05/13/14
+   121141150 COLLECTION FEES                    4.23        05/13/14
+   121656046 CIRCUIT CLERK FEE                 44.23        05/21/15
+   121656046 COURT SECURITY                    25.00        05/21/15
+   121656046 COURT FINANCE FEE                 20.32        05/21/15
+   121656046 COLLECTION FEES                    7.45        05/21/15
+   122326127 COURT FINANCE FEE                  4.68        05/12/16
+   122326127 STATES ATTORNEY                   20.00        05/12/16
+   122326127 CRIME STOPPERS                     5.00        05/12/16
+   122326127 ARRESTEE'S MEDICAL                10.00        05/12/16
+   122326127 PROBATION MONITORING FEE         216.46        05/12/16
+   122326127 COLLECTION FEES                   25.57        05/12/16
+   122326127 TAX INTERCEPT                     51.29        05/12/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  THEFT CONTROL INTENT <$500
+
+         1  THEFT CONTROL INTENT <$500
+
+         1  THEFT CONTROL INTENT <$500
+
+         1  THEFT CONTROL INTENT <$500
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   04-18-11                 Charge 01 Count 001 ATTEMPT THEFT CONTROL INTENT <$5
+00
+                            Statute 720 5/16-1(a)(1)(A)  Class A  CSA A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Motion by the Defendant for cou
+rt appointed
+                            counsel. Motion allowed. Court notes the Public Defe
+nder has been
+                            appointed for two co defendants. Court appoints the
+law firm of
+                            Dodson, Piraino and Associates to represent this Def
+endant. Plea of
+                            not guilty entered and Defendant requests trial by j
+ury. Bond set in
+                            the amount of $1,000-ROR ALLOWED. Defendant is admon
+ished as to trial
+                            and sentencing in absentia.  Clerk of the Court to s
+end notice to
+                            counsel. See expanded record.
+                            Notice of arrest without warrant on file.
+   04-19-11                 Released On Recognizance bond form on file.
+   04-27-11                 Affidavit of mailing of Discovery Materials filed.
+   05-13-11                 Supplemental Discovery filed
+   05-27-11                 Allotted for trial
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.
+   06-03-11                 Subpoena Served.  No Fees.
+   06-16-11                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   06-20-11                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty ATTEMPT THEFT CONTROL INTENT <$5
+00
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16-1(a)(1)(A)  Class A  CSA A  Orig.
+                            Sentence: 06/20/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  30Hrs In force
+                                      Supervised Court Service
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            E-CITATION                .00     CRIME STOPPERS
+        .00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Andrea I. Bergstrom.  Ap
+pearance of the
+                            Defendant personally and by counsel, Edwin Piraino.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Attempt Theft Control Inten
+t <$500 ILCS: 720
+                            5/16-1(a)(1)(A) as charged. Judgment entered in favo
+r of the People
+                            and against the defendant on finding of guilt and fo
+r costs.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 12/19/2011.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months probation. Defendant is ordered
+ to perform  30
+                            hours of public service work under the supervision o
+f the Champaign
+                            County Court Services Department.  The defendant is
+to be given credit
+                            on public service work for any hours completed in ed
+ucation,
+                            treatment, aftercare, sobriety based self-help group
+ meetings, Victim
+                            Impact Panel and GED classes. Defendant advised of r
+ight to appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same.
+   01-06-12                 Probation Violation Report filed
+   01-17-12                 Petition to Revoke Probation filed
+   02-22-12                 Petition to Revoke Probation filed
+                            Expanded record of arraignment proceedings.
+                            People appear by Chris Kanis. Cause continued for a
+summons to issue.
+   02-23-12                 Expanded record of arraignment proceedings.
+                            Verified information on Petition to Revoke Probation
+ on file.
+                            Summons issued.
+   03-14-12                 Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ra
+ndall Rosenbaum
+                            appears instanter.  General denial to the Petition i
+s entered.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. Bond
+                            is set in the amount of $1,000-ROR ALLOWED.  See exp
+anded record.
+   03-26-12                 Summons not served.
+   03-30-12
+                            People appear by Andrea Bergstrom. Defendant appears
+ personally, and
+                            by counsel, Lindsey Yanchus. By agreement of the par
+ties, cause
+                            continued for Status on the Petition to Revoke.
+   04-19-12                 Disposition 01/01  Count 001  Awaiting Sentencing
+                            Disposition: Revocation/Vacate/Probation ATTEMPT THE
+FT CONTROL INTENT
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/16-1(a)(1)(A)  Class A  CSA A  Orig.
+                            Order for sentencing report.
+                            People appear by Andrea Bergstrom. Defendant appears
+ personally and by
+                            counsel, Katie Jessup. Defendant is advised as to th
+e nature of the
+                            proceedings and the possible penalties that may be i
+mposed and the
+                            Court finds that the Defendant understands the same.
+ Defendant
+                            knowingly, understandingly, and voluntarily stipulat
+es and admits to
+                            the allegations contained in the Petition to Revoke.
+ Finding that the
+                            same are true. Court finds that the Defendant has vi
+olated the terms
+                            of her sentence. Judgment is entered in favor of the
+ People and
+                            against the Defendant on the finding of guilt and fo
+r costs. Champaign
+                            County Court Services Department to prepare an updat
+ed pre-sentence
+                            report and provide copies to the Court and Counsel a
+t least 3 days
+                            prior to the hearing.  Defendant's Bond order is to
+continue.
+                            Defendant is ordered to report to the Court Services
+ Department this
+                            date.  Defendant is admonished as to sentencing in a
+bsentia.  Order
+                            (Open Stipulation to PTR) entered this date."
+                            Court Services to conduct a Pre-Sentence Investigati
+on.
+   05-22-12                 Disposition 01/02  Count 001  Fine + Cost
+                            Disposition: Revocation/Vacate/Probation Attempt THE
+FT CONTROL INTENT
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/16-1(a)(1)(A)  Class A  CSA A
+                            Sentence: 05/22/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Jail  30Days In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            686.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    275.00     COLLECTION FEES
+     110.92
+                            LATE FEES              144.90     TAX INTERCEPT
+     222.35
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Resentencing on petition to revoke.
+                            People appear by Christopher Kanis.  Defendant appea
+rs personally and
+                            with counsel, Katie L. Jessup. Cause called for Re-S
+entencing.
+                            Arguments of Counsel heard. Defendant is Re-Sentence
+d to serve a
+                            period of Incarceration of 30 Days in the Champaign
+County
+                            Correctional Center. All previously imposed financia
+l obligations
+                            remain in full force and effect, and Defendant's pro
+bation is hereby
+                            Terminated Unsuccessfully. Defendant is advised as t
+o her rights under
+                            Supreme Court Rule 605, and Court finds she understa
+nds the same. See
+                            Re-Sentencing Expanded Record. Defendant is remanded
+ to the custody of
+                            the Champaign County Sheriff to begin serving senten
+ce imposed.
+                            Disposition 01/03  Count 001  Manual Calculations
+                            Disposition: Terminated Unsatisfied ATTEMPT THEFT CO
+NTROL INTENT <$500
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1(a)(1)(A)  Class A  CSA A  Orig.
+                            Sentence: 05/22/2012
+                            Sentence: No Sentence  In force
+                            Case closed.
+   05-24-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   10-12-12                 Case sent out for collections.
+   05-13-14                 Court Ordered Payments
+   05-21-15                 Cash
+   05-12-16                 Collection Tax Intercept Payment
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

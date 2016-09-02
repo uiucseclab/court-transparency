@@ -1,0 +1,264 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001541
+
+   Defendant Plaintiff
+BAIRD  CAROLINE A
+1209 FOOTHILL
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 09/21/11
+                Court Room:
+           Next Appearance: 05/25/15
+                Birth Date: 04/12/65
+                 DEFENDANT: BAIRD  CAROLINE A
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      801.31      *RESTITUTION AMOUNT             .00         801.31
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+        4.00      VICTIMS FUND-NO FIN             .00           4.00
+       25.00      PROBATION MONITORIN             .00         475.00
+      120.00       STATE OFFENDER DNA             .00         120.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      116.90      SHERIFF FEES                    .00         116.90
+       10.00      ST POLICE SERVICES              .00          10.00
+      625.21      COLLECTION FEES                 .00         625.21
+      271.83      LATE FEES                       .00         271.83
+       10.00      ST POLICE OPERATION             .00          10.00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        4.00      VICTIMS FUND-NO FIN             .00           4.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       99.71      COLLECTION FEES                 .00          99.71
+       43.35      LATE FEES                       .00          43.35
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  BURGLARY
+
+         1  BURGLARY
+
+         2  BURGLARY
+
+         3  BURGLARY
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   09-21-11                 Charge 01 Count 001 BURGLARY
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 BURGLARY
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            NO BOND No Bond
+                            Charge 03 Count 003 BURGLARY
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            Companion Charge
+                            Created and properly labeled permanent case file.
+                            Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Amanda Riess appears instanter.  Defen
+dant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond set in the am
+ount of $1,500-ROR
+                            DENIED. Defendant is admonished as to trial and sent
+encing in
+                            absentia. See expanded record.
+                            Notice of arrest without warrant on file.
+   09-26-11                 Discovery filed
+   10-04-11                 Cause allotted for plea to
+   10-05-11                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Sentence: 10/05/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition #1/00  Count 001  Cost Only
+                            Disposition: Guilty BURGLARY
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Sentence: 10/05/2011
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  16Days In force
+                            Sentence: Credit Time Served  16Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              405.90     *RESTITUTION AMOUN
+T    801.31
+                            CRIME STOPPERS          10.00     PROBATION MONITORI
+N    475.00
+                             STATE OFFENDER DNA    120.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Disposition 03/00  Count 003  Cost Only
+                            Disposition: Guilty BURGLARY
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Sentence: 10/05/2011
+                            Sentence: Cost Only
+                            Sentence: Probation  24Mos
+                                      Supervised Court Service
+                            Sentence: Jail  16Days
+                            Sentence: Credit Time Served  16Days
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Sentence: Count(s) dismissed.
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Cost Only              289.00
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally and by counsel, Scott Schmidt.   Defendan
+t advised as to
+                            the nature of the proceedings, the charges and the p
+ossible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly, understandin
+gly and
+                            voluntarily waives rights and enters a plea of guilt
+y to Count 01 and
+                            Count 03 of the charging instrument.  Finding Defend
+ant is guilty of
+                            the offense of Burglary ILCS: 720 5/19-1(a) as charg
+ed. Judgment
+                            entered in favor of the People and against the defen
+dant on finding of
+                            guilt and for costs.  All financial obligations shal
+l be paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk by
+                            4/02/2012.  Any bond posted is to be applied first t
+o any court
+                            ordered bond assignment on file and then to all rest
+itution ordered
+                            and then to all financial obligations in this case.
+ Any remaining
+                            bond shall be discharged to the individual who poste
+d the bond.
+                            Defendant is ordered to serve a period of  24 months
+ probation.
+                            Defendant is ordered to serve a period of incarcerat
+ion of  16 days in
+                            the Champaign County Correctional Center. Defendant
+is to receive
+                            credit for  16 days previously served. The Defendant
+ is to submit
+                            specimens of blood, saliva, or tissue to the Illinoi
+s Department of
+                            State Police or to the Department of Corrections wit
+hin 45 days, at a
+                            collection site designated by the Champaign County C
+ourt Services
+                            Department and/or Illinois Department of State Polic
+e, in accordance
+                            with 730 ILCS 5/5-4-3. Count(s) stated in the writte
+n order are herby
+                            dismissed. Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.
+   01-10-12                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   03-28-12                 Probation Violation Report filed
+   04-19-12                 Petition to Revoke Probation filed
+   05-02-12                 Violation of probation warrant.
+                            Verified information on Petition to Revoke Probation
+ on file.
+                            Probable cause to arrest determined.  Warrant issued
+.  Bond set in the
+                            amount of $ 10,000.00.
+   05-14-13                 Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and St
+ephanie Corum
+                            appears instanter.  General denial to the Petition i
+s entered.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. Bond
+                            to continue. See expanded record.
+                            Warrant served. Service fees $116.90
+   05-24-13                 Motion to withdrawn petition to revoke.
+                            People appear by Troy Lozar.  Defendant appears pers
+onally and with
+                            counsel, Jamie Propps. On motion of the People, the
+Petition to Revoke
+                            is withdrawn and dismissed. Probation is terminated
+unsuccessfully.
+                            Defendant's bond discharged to the individual who po
+sted the bond.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Terminated Unsatisfied BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Sentence: 05/24/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Case closed.
+   05-29-13                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   01-28-14                 Case sent out for collections.
+                            Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,253 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CM000799
+
+   Defendant Plaintiff
+RICE  DYLAN
+8538 N ST LOUIS AVE
+SKOKIE IL 60076
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 07/16/12
+                Court Room:
+           Next Appearance: 08/09/13
+                Birth Date: 09/21/92
+                 DEFENDANT: RICE  DYLAN
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN          180.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      190.00      TRAFFIC/CRIMINAL SU          190.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       25.00      PUBLIC DEFENDER               25.00            .00
+      745.00      FINES                        745.00            .00
+       76.00      VICTIMS FUND-FINE             76.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118045000 SHERIFF'S BOOKING FEE             20.00        07/20/12
+   118045000 BOND - ORIGINAL                  150.00        07/20/12
+   118086702 BOND -10% BOND FEE                15.00        08/16/12
+   118086702 DOCUMENT STORAGE                   5.00        08/16/12
+   118086702 E-CITATION                         5.00        08/16/12
+   118086702 AUTOMATION                        10.00        08/16/12
+   118086702 CIRCUIT CLERK FEE                 75.00        08/16/12
+   118086702 COURT SECURITY                    25.00        08/16/12
+   118086702 COURT FINANCE FEE                 15.00        08/16/12
+   118091906 BOND - ORIGINAL                  100.00        08/20/12
+   118091907 COURT FINANCE FEE                 10.00        08/20/12
+   118091907 STATES ATTORNEY                   20.00        08/20/12
+   118091907 CRIME STOPPERS                     5.00        08/20/12
+   118091907 ARRESTEE'S MEDICAL                10.00        08/20/12
+   118091907 PROBATION MONITORING FEE          55.00        08/20/12
+   118100145 EPAY RECEIVABLE                  100.00        08/24/12
+   118104168 BOND - ORIGINAL                  100.00        08/27/12
+   118104169 PROBATION MONITORING FEE         100.00        08/27/12
+   118111343 EPAY RECEIVABLE                  100.00        08/31/12
+   118135642 BOND - ORIGINAL                  100.00        09/15/12
+   118135643 PROBATION MONITORING FEE          25.00        09/15/12
+   118135643 CRIME LAB                         75.00        09/15/12
+   118145231 EPAY RECEIVABLE                  100.00        09/21/12
+   118152569 BOND - ORIGINAL                  100.00        09/25/12
+   118152570 CRIME LAB                         25.00        09/25/12
+   118152570 TR/CR SUR $10/$40                 75.00        09/25/12
+   118160259 EPAY RECEIVABLE                  100.00        10/01/12
+   118244535 BOND - ORIGINAL                  100.00        11/20/12
+   118244536 TR/CR SUR $10/$40                100.00        11/20/12
+   118254972 EPAY RECEIVABLE                  100.00        11/28/12
+   118292323 BOND - ORIGINAL                  200.00        12/16/12
+   118292324 TR/CR SUR $10/$40                 15.00        12/16/12
+   118292324 CLERK OP & ADMIN FUND             10.00        12/16/12
+   118292324 DRUG COURT PROGRAM                 5.00        12/16/12
+   118292324 PUBLIC DEFENDER                   25.00        12/16/12
+   118292324 FINES                            145.00        12/16/12
+   118292325 BOND - ORIGINAL                  250.00        12/16/12
+   118292326 FINES                            250.00        12/16/12
+   118312548 EPAY RECEIVABLE                  200.00        12/21/12
+   118312549 EPAY RECEIVABLE                  250.00        12/21/12
+   118342470 BOND - ORIGINAL                  148.00        01/01/13
+   118342471 FINES                            148.00        01/01/13
+   118367360 EPAY RECEIVABLE                  148.00        01/09/13
+   118408214 BOND - ORIGINAL                  300.00        01/25/13
+   118408215 FINES                            202.00        01/25/13
+   118408215 VICTIMS FUND-FINE                 76.00        01/25/13
+   118408215 ST POLICE SERVICES FUND           10.00        01/25/13
+   118408215 ST POLICE OPERATIONS ASS          10.00        01/25/13
+   118408215 STATES ATTORNEY AUTOMATI           2.00        01/25/13
+   118416077 EPAY RECEIVABLE                  300.00        01/30/13
+   121788483 RECORD SEARCH                      6.00        07/02/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  POSSESS DRUG PARAPHERNALIA
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   07-16-12                 Charge 01 Count 001 POSSESS DRUG PARAPHERNALIA
+                            Statute 720 600/3.5(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Christopher Mellon appears instanter.  Plea of not g
+uilty entered and
+                            Defendant requests trial by jury.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia. Bond is to continue.  Se
+e expanded record.
+                            Notice of arrest without warrant on file.
+   07-20-12                 Sheriff Booking Fee
+   07-23-12                 Proof of service of discovery materials filed.
+   08-07-12                 Proof of Service of Supplemental Discovery Materials
+ filed.
+   08-09-12                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty POSSESS DRUG PARAPHERNALIA
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 600/3.5(a)  Class A  Orig.
+                            Sentence: 08/09/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  1Days In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Substance Abuse Treatment/Evaluation  60Da
+ys In force
+                            Sentence: Attorney Fees  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           1233.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    180.00
+                            CRIME LAB              100.00     PUBLIC DEFENDER
+      25.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, Lindsey R.
+Yanchus.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Possess Drug Paraphernalia
+ILCS: 720
+                            600/3.5(a) as charged. Judgment entered in favor of
+the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  2/05/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months Conditional Discharge. Defendan
+t is ordered to
+                            serve a period of incarceration of 1 days in the Cha
+mpaign County
+                            Correctional Center. Defendant is to receive credit
+for 1 days
+                            previously served.  Defendant is to obtain an evalua
+tion for alcohol
+                            and drug abuse from an agency or agent recommended b
+y the Court
+                            Services Department, and follow any recommendations
+contained therein
+                            as to treatment and/or counseling.  Defendant advise
+d of right to
+                            appeal and rights pursuant to Supreme Court Rule 605
+ and the Court
+                            finds that the defendant understands the same. Waive
+r of Jury on file.
+                            Sentencing Order entered this date. See Order.
+   08-16-12                 Bond
+   08-20-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   08-24-12                 EPAY RECONCILIATION TRANSACTION
+   08-27-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   08-31-12                 EPAY RECONCILIATION TRANSACTION
+   09-15-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   09-20-12                 Drug and alcohol evaluation on file.
+   09-21-12                 EPAY RECONCILIATION TRANSACTION
+   09-25-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   10-01-12                 EPAY RECONCILIATION TRANSACTION
+   11-20-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   11-28-12                 EPAY RECONCILIATION TRANSACTION
+   12-16-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+                            EPAY BOND PAYMENT
+                            Court Order Bond Used
+   12-21-12                 EPAY RECONCILIATION TRANSACTION
+                            EPAY RECONCILIATION TRANSACTION
+   01-01-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   01-09-13                 EPAY RECONCILIATION TRANSACTION
+   01-25-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   01-30-13                 EPAY RECONCILIATION TRANSACTION
+   07-02-15                 Submitted material returned for more information.
+                            Record Searches $6/year
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

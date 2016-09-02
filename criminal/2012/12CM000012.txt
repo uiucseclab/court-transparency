@@ -1,0 +1,157 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CM000012
+
+   Defendant Plaintiff
+STEPHENSON  SCOTT R
+107 W SECOND STREET
+EL PASO IL 61738
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/03/12
+                Court Room:
+           Next Appearance: 03/06/14
+                Birth Date: 01/17/90
+                 DEFENDANT: STEPHENSON  SCOTT R
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       10.00      BOND -10% BOND FEE            10.00            .00
+       90.00                                    90.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117780109 SHERIFF'S BOOKING FEE             20.00        01/03/12
+   117780109 BOND - ORIGINAL                  100.00        01/03/12
+   117876723 BOND -10% BOND FEE                10.00        03/14/12
+   117876723 *BOND REFUND                      90.00        03/14/12
+   117876723 *BOND REFUND                     -90.00        11/22/15
+   122007041 ABANDONED BOND PROCESSIN          20.00        11/09/15
+   122007041 ABANDONED BONDS                   70.00        11/09/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  BATTERY/MAKES PHYSICAL CONTACT
+
+         2  BATTERY/MAKES PHYSICAL CONTACT
+
+         3  BATTERY/MAKES PHYSICAL CONTACT
+
+         4  BATTERY/MAKES PHYSICAL CONTACT
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   01-03-12                 Charge 01 Count 001 BATTERY/MAKES PHYSICAL CONTACT
+                            Statute 720 5/12-3(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 BATTERY/MAKES PHYSICAL CONTACT
+                            Statute 720 5/12-3(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 BATTERY/MAKES PHYSICAL CONTACT
+                            Statute 720 5/12-3(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 04 Count 004 BATTERY/MAKES PHYSICAL CONTACT
+                            Statute 720 5/12-3(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Sheriff Booking Fee
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Randall Rosenbaum appears instanter.  Plea of not gu
+ilty entered and
+                            Defendant requests trial by jury.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia. Bond is to continue as s
+et in the amount
+                            of $1,000-DENEID. As a condition of bond, Defendant
+is ordered to have
+                            NO CONTACT whatsoever, directly or indirectly, with
+the Victims
+                            recited in open court.  See expanded record.
+   01-12-12                 Proof of service of discovery materials filed.
+   02-09-12                 Allotted for trial
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.
+   02-21-12
+                            People appear by Samuel A. Rosenberg.  Defendant app
+ears personally
+                            and with counsel, Lindsey R. Yanchus.  Parties annou
+nce ready for
+                            trial.  Defendant is advised of right to trial in ab
+sentia.
+   02-23-12                 Subpoena served.  Service Fee $82.00
+   02-28-12                 Subpoena Served.  No Fees.
+   03-05-12                 Disposition 04/00  Count 004  No Fine & Cost
+                            People appear by Marley C. Nelson.  Defendant appear
+s personally.  On
+                            motion of the People, cause dismissed.  Bond dischar
+ged.
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismiss/State Motion BATTERY/MAKES PHYS
+ICAL CONTACT
+                            Disposition Type: By Bench   Defendant Plea: No Plea
+ Entered
+                            Statute 720 5/12-3(a)(2)  Class A  Orig.
+                            Sentence: 03/05/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismiss/State Motion BATTERY/MAKES PHYS
+ICAL CONTACT
+                            Disposition Type: By Bench   Defendant Plea: No Plea
+ Entered
+                            Statute 720 5/12-3(a)(2)  Class A  Orig.
+                            Sentence: 03/05/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismiss/State Motion BATTERY/MAKES PHYS
+ICAL CONTACT
+                            Disposition Type: By Bench   Defendant Plea: No Plea
+ Entered
+                            Statute 720 5/12-3(a)(2)  Class A  Orig.
+                            Sentence: 03/05/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost          10.00
+                            Case closed.
+   03-09-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   03-14-12                 Bond
+   03-23-12                 Bond ref ck134527 returned not deliverable as addres
+sed.
+   11-09-15                 Miscellaneous
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

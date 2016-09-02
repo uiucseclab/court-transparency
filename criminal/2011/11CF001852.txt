@@ -1,0 +1,292 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001852
+
+   Defendant Plaintiff
+BROWN  ANTONIO L
+1011 W BRADLEY
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 11/09/11
+                Court Room:
+           Next Appearance: 03/12/15
+                Birth Date: 03/18/92
+                 DEFENDANT: BROWN  ANTONIO L
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       10.00      BOND -10% BOND FEE            10.00            .00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       25.00      PROBATION MONITORIN             .00         250.00
+      245.00       STATE OFFENDER DNA             .00         245.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       37.00      SHERIFF FEES                    .00          37.00
+       90.00      PUBLIC DEFENDER               20.00          70.00
+        4.00      NOTICES MAILED 1ST              .00           4.00
+        4.00      VICTIMS FUND-FINE               .00           4.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      313.95      COLLECTION FEES                 .00         313.95
+      136.50      LATE FEES                       .00         136.50
+       10.00      ST POLICE OPERATION             .00          10.00
+       70.00      WARRANT SERVICE FEE           70.00            .00
+        5.00      CLERK OP & ADMIN FU             .00           5.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117817927 SHERIFF'S BOOKING FEE             20.00        02/01/12
+   117817927 BOND - ORIGINAL                  100.00        02/01/12
+   117954702 BOND -10% BOND FEE                10.00        05/11/12
+   117954702 PUBLIC DEFENDER                   20.00        05/11/12
+   117954702 WARRANT SERVICE FEE               70.00        05/11/12
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  BURGLARY
+
+         2  THEFT CON INTENT <$500 PRIOR
+
+         2  THEFT CON INTENT <$500 PRIOR
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   11-09-11                 Charge 01 Count 001 BURGLARY
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 THEFT CON INTENT <$500 PRIOR
+                            Statute 720 5/16-1(a)(1)(A)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+
+                            Verified information on file.
+   12-01-11                 Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Stephanie Corum appears instanter.  De
+fendant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.   Bond is set in th
+e amount of
+                            $1,000-ROR ALLOWED. See expanded record.  Defendant
+is admonished as
+                            to trial and sentencing in absentia.
+   12-08-11                 Summons not found.
+   12-15-11                 Discovery filed
+   12-16-11                 Answer to Discovery filed
+   01-10-12
+                            Appearance of the State's Attorney.  Counsel appears
+                            for the Defendant.  No appearance by the Defendant
+                            personally.  People's motion for bond forfeiture and
+                            warrant allowed. Defendant's bond forfeited.  Warran
+t
+                            to issue.  Bond set in the amount of $10,000.00.
+                            Warrant issued.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+                            Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $ 10,000.
+00.
+   01-11-12                 Bond forfeiture notice prepared and mailed.
+   01-30-12                 Expanded record of arraignment proceedings.
+                            Amanda Riess appears on Defendant's behalf. Cause re
+-allotted for
+                            Felony Pre-trial calendar. On the Defendant's motion
+, bond is reduced
+                            to the amount of $1,000-ROR DENIED. See expanded rec
+ord.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+   02-01-12                 Sheriff Booking Fee
+                            Warrant served. Service fees $37.00
+   03-06-12
+                            Appearance of the State's Attorney.  Counsel appears
+                            for the Defendant.  No appearance by the Defendant
+                            personally.  People's motion for bond forfeiture and
+                            warrant allowed. Defendant's bond forfeited.  Warran
+t
+                            to issue.  Bond set in the amount of $50,000.00.
+                            Warrant issued.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+                            Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $ 50,000.
+00.
+   03-08-12                 Bond forfeiture notice prepared and mailed.
+   05-07-12                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Sentence: 05/07/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Cost Only
+                            Disposition: Guilty THEFT CON INTENT <$500 PRIOR
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16-1(a)(1)(A)  Class 4  Orig.
+                            Sentence: 05/07/2012
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  18Mos In force
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: State not to file a Petition to Revoke in
+other cases.  In f
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              341.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    250.00      STATE OFFENDER DN
+A    245.00
+                            PUBLIC DEFENDER         90.00     NOTICES MAILED 1ST
+       4.00
+                            WARRANT SERVICE FEE     70.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Christopher Kanis.  Appe
+arance of the
+                            Defendant personally and by counsel, Janie Miller-Jo
+nes.   Bond
+                            forfeiture is vacated and the defendant's Bond is re
+instated.  Warrant
+                            is ordered quashed.  See Written Order.  Defendant a
+dvised as to the
+                            nature of the proceedings, the charges and the possi
+ble penalties that
+                            may be imposed and the Court finds that the Defendan
+t understands the
+                            same.  Finding Defendant knowingly, understandingly
+and voluntarily
+                            waives rights and enters a plea of guilty to Count 0
+2 of the charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Theft with
+                            a Prior Theft Conviction ILCS: 720 5/16-1(a)(1)(A) a
+s charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.  All financial oblig
+ations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by  5/07/2013.  Any bond posted is to be appli
+ed first to any
+                            court ordered bond assignment on file and then to al
+l restitution
+                            ordered and then to all financial obligations in thi
+s case.  Any
+                            remaining bond shall be discharged to the individual
+ who posted the
+                            bond.  Defendant is ordered to serve a period of  18
+ months probation.
+                            The Defendant is to submit specimens of blood, saliv
+a, or tissue to
+                            the Illinois Department of State Police or to the De
+partment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Count(s) stated
+                            in the written order are herby dismissed. The State
+agrees not to file
+                            a Petition to Revoke in the case(s) specified in the
+ written order
+                            based solely on the basis of this conviction. Defend
+ant advised of
+                            right to appeal and rights pursuant to Supreme Court
+ Rule 605 and the
+                            Court finds that the defendant understands the same.
+  Sentencing Order
+                            entered.  See order.  Defendant is ordered to report
+ to the Court
+                            Services Dept. this date.
+                            Payment order for court appointed attorney.
+                            Cause called for hearing on the question of the Defe
+ndant's
+                            contribution to the County for costs of Appointed Co
+unsel.  Written
+                            payment order for Court-Appointed Attorney for $
+90.00 entered.
+                            Warrant Quashed
+   05-09-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+                            FTA warrant service fee of $75 is still owed.
+                            The arresting agency is Champaign Police Department
+on FTA Warrant
+                            served on 1/27/12.
+   05-11-12                 Bond
+   06-14-12                 Copy of Quashed Warrant filed
+   03-11-13                 Probation terminated unsuccessfully pursuant to plea
+ in 13 CF 80
+                            People appear by Mr. Bennett.  Defendant appears in
+custody and with
+                            attorney Ms. Miller-Jones.  On Motion of the People
+and pursuant to
+                            the plea agreement in case 13-CF-80, any pending Pet
+ition to Revoke is
+                            withdrawn and dismissed.  Defendant's probation is t
+erminated
+                            unsuccessfully. Defendant's bond order is vacated.
+Bond, if any, is
+                            to be applied first to any bond assignment that may
+be on file and any
+                            remaining bond is order applied to the defendant's f
+inancial
+                            obligations in this matter and any remaining bond is
+ ordered
+                            transferred to case 13-CF-80.
+                            Disposition 02/01  Count 002  No Fine & Cost
+                            Disposition: Terminated Unsatisfied THEFT CON INTENT
+ <$500 PRIOR
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1(a)(1)(A)  Class 4  Orig.
+                            Sentence: 03/11/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Case closed.
+                            ISP Supplemental Court Disposition prepared and mail
+ed.
+   03-20-14                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

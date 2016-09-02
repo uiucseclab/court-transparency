@@ -1,0 +1,335 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001407
+
+   Defendant Plaintiff
+RODRIGUEZ  CESAR
+1945 S SCHUYLER
+KANKAKEE IL 60901
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 08/30/11
+                Court Room:
+           Next Appearance: 04/05/13
+                Birth Date: 09/22/92
+                 DEFENDANT: RODRIGUEZ  CESAR
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       15.00      PROBATION MONITORIN           58.00         122.00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      190.00      TRAFFIC/CRIMINAL SU          190.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+         .00      FINES                           .00            .00
+      350.00      DUI NEW EQUIPMENT F          350.00            .00
+       76.00      VICTIMS FUND-FINE             76.00            .00
+       76.00      DRIVERS EDUCATION             76.00            .00
+      395.00      DUI - 80% IL GENERA          395.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       42.09      COLLECTION FEES                 .00          42.09
+       18.30      LATE FEES                       .00          18.30
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118462105 DOCUMENT STORAGE                   5.00        02/28/13
+   118462105 E-CITATION                         5.00        02/28/13
+   118462105 AUTOMATION                        10.00        02/28/13
+   118462105 CIRCUIT CLERK FEE                 75.00        02/28/13
+   118462105 COURT SECURITY                    25.00        02/28/13
+   118462105 ARRESTEE'S MEDICAL                10.00        02/28/13
+   118462105 COURT FINANCE FEE                 25.00        02/28/13
+   118462105 STATES ATTORNEY                   20.00        02/28/13
+   118462105 CRIME STOPPERS                     5.00        02/28/13
+   118462105 PROBATION MONITORING FEE          15.00        02/28/13
+   118462105 SPINAL CORD RESEARCH FUN           5.00        02/28/13
+   118462105 TRAUMA FUND                      100.00        02/28/13
+   118462105 TR/CR SUR $10/$40                190.00        02/28/13
+   118462105 CLERK OP & ADMIN-SERIOUS           5.00        02/28/13
+   118462105 CLERK OP & ADMIN FUND             10.00        02/28/13
+   118462105 DRUG COURT PROGRAM                 5.00        02/28/13
+   118462105 DUI NEW EQUIPMENT FINE           350.00        02/28/13
+   118462105 VICTIMS FUND-FINE                 76.00        02/28/13
+   118462105 DRIVERS EDUCATION                 76.00        02/28/13
+   118462105 DUI - IL GENERAL REVENUE         395.00        02/28/13
+   118462105 FIRE PREVENTION FUND              15.00        02/28/13
+   118462105 FIRE TRUCK REVOLVING LOA          15.00        02/28/13
+   118462105 ST POLICE SERVICES FUND           10.00        02/28/13
+   118462105 ST POLICE OPERATIONS ASS          10.00        02/28/13
+   118462113 DOCUMENT STORAGE                    .00        02/28/13
+   118462113 E-CITATION                          .00        02/28/13
+   118462113 AUTOMATION                          .00        02/28/13
+   118462113 CIRCUIT CLERK FEE                   .00        02/28/13
+   118462113 COURT SECURITY                      .00        02/28/13
+   118462113 ARRESTEE'S MEDICAL                  .00        02/28/13
+   118462113 COURT FINANCE FEE                   .00        02/28/13
+   118462113 STATES ATTORNEY                     .00        02/28/13
+   118462113 CRIME STOPPERS                      .00        02/28/13
+   118462113 PROBATION MONITORING FEE            .00        02/28/13
+   118462113 SPINAL CORD RESEARCH FUN            .00        02/28/13
+   118462113 TRAUMA FUND                         .00        02/28/13
+   118462113 TR/CR SUR $10/$40                   .00        02/28/13
+   118462113 CLERK OP & ADMIN-SERIOUS            .00        02/28/13
+   118462113 CLERK OP & ADMIN FUND               .00        02/28/13
+   118462113 DRUG COURT PROGRAM                  .00        02/28/13
+   118462113 FINES                               .00        02/28/13
+   118462113 DUI NEW EQUIPMENT FINE              .00        02/28/13
+   118462113 VICTIMS FUND-FINE                   .00        02/28/13
+   118462113 DRIVERS EDUCATION                   .00        02/28/13
+   118462113 DUI - IL GENERAL REVENUE            .00        02/28/13
+   118462113 FIRE PREVENTION FUND                .00        02/28/13
+   118462113 FIRE TRUCK REVOLVING LOA            .00        02/28/13
+   118462113 ST POLICE SERVICES FUND             .00        02/28/13
+   118462113 ST POLICE OPERATIONS ASS            .00        02/28/13
+   118462236 PROBATION MONITORING FEE          43.00        02/28/13
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AGG DUI/NO VALID DL
+
+         1  DRVG UNDER INFLU OF ALCOHOL
+
+         2  DRVG UNDER INFLU OF ALCOHOL
+
+         3  DRIVING ON SUSPENDED LICENSE
+
+         4  FLEEING/ATTEMPT ELUDE OFFICER
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   08-30-11                 Charge 01 Count 001 AGG DUI/NO VALID DL
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Statute 625 5/11-501(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 04 Count 004 FLEEING/ATTEMPT ELUDE OFFICER
+                            Statute 625 5/6-303(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Statute 625 5/11-204(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            NO BOND No Bond
+                            NO BOND No Bond
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+   09-09-11
+                            On the Court's own motion and determination, an inte
+rpreter is
+                            appointed.  On the Court's own motion, cause continu
+ed for the
+                            appearance of an interpreter.  Bond to continue.
+   09-21-11                 Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            _Rosenbaum__ appears instanter.  Plea of not guilty
+entered and
+                            Defendant requests trial by jury.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia.  See expanded record.
+   10-07-11                 Discovery filed
+   10-19-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   11-30-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   01-11-12
+                            People appear by S. Rosenberg.  Defendant appears pe
+rsonally and with
+                            counsel, Stephanie A. Corum. Motion by the Defendant
+ for continuance.
+                            Motion allowed.
+   02-22-12                 Disposition 01/00  Count 001  Awaiting Sentencing
+                            Disposition: Charge Amended/Reduced AGG DUI/NO VALID
+ DL
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Re-Disposition: Guilty DRVG UNDER INFLU OF ALCOHOL
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)(2)  Class A  Amended
+                            Sentencing order.
+                            Appearance of the People by Christopher Kanis.  Appe
+arance of the
+                            Defendant personally and by counsel, Stephanie A. Co
+rum.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument AS AME
+NDED.  Finding
+                            Defendant is guilty of the offense of Driving Under
+the Influence of
+                            Alcohol ILCS: 625 5/11-501(a)(2) as charged.
+                            Disposition 01/01  Count 001  Fine + Cost
+                            Disposition: Guilty DRVG UNDER INFLU OF ALCOHOL
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)(2)  Class A  Amended
+                            Sentence: 04/05/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  100Hrs In force
+                                      Supervised Court Service
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  60Da
+ys In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           1432.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    180.00
+                            Payment Due
+   04-05-12                 Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Andrea I. Bergstrom.  Ap
+pearance of the
+                            Defendant personally and by counsel, Stephanie A. Co
+rum.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Drvg Under Influ Of Alcohol
+ ILCS: 625
+                            5/11-501(a)(2) as charged. Judgment entered in favor
+ of the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 10/05/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months Conditional Discharge. Defendan
+t is ordered to
+                            perform 100 hours of public service work under the s
+upervision of the
+                            Champaign County Court Services Department.  The def
+endant is to be
+                            given credit on public service work for any hours co
+mpleted in
+                            education, treatment, aftercare, sobriety based self
+-help group
+                            meetings, Victim Impact Panel and GED classes.  Defe
+ndant is to attend
+                            the next Victim Impact Panel presented by the Champa
+ign County Court
+                            Services Department.  Defendant is to obtain an eval
+uation for alcohol
+                            and drug abuse from an agency or agent recommended b
+y the Court
+                            Services Department, and follow any recommendations
+contained therein
+                            as to treatment and/or counseling. Defendant advised
+ of right to
+                            appeal and rights pursuant to Supreme Court Rule 605
+ and the Court
+                            finds that the defendant understands the same.
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed DRVG UNDER INFLU OF ALCOHOL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)(2)  Class A  Orig.
+                            Sentence: 04/05/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed DRIVING ON SUSPENDED LICENSE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/6-303(a)  Class A  Orig.
+                            Sentence: 04/05/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed FLEEING/ATTEMPT ELUDE OFFICER
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-204(a)  Class A  Orig.
+                            Sentence: 04/05/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   04-12-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+                            Report of Court Disposition sent to Secretary of Sta
+te.
+   02-28-13                 Court Ordered Payments
+                            Court Ordered Payments
+   03-20-14                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

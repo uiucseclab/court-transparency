@@ -1,0 +1,308 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001831
+
+   Defendant Plaintiff
+TAFOYA  DEBORAH L
+1112 W JOHN
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 11/04/11
+                Court Room:
+           Next Appearance: 09/19/13
+                Birth Date: 10/19/53
+                 DEFENDANT: TAFOYA  DEBORAH L
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       20.00      BOND -10% BOND FEE            20.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       25.00      PROBATION MONITORIN          297.96         152.04
+         .00      SPINAL CORD RESEARC             .00            .00
+      245.00       STATE OFFENDER DNA          245.00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+        4.00      VICTIMS FUND-FINE              4.00            .00
+        4.00      DRIVERS EDUCATION              4.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+      136.02      COLLECTION FEES               80.77          55.25
+       59.14      LATE FEES                     27.02          32.12
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117739690 BOND TRANSFERS IN                200.00        11/29/11
+   117895123 BOND -10% BOND FEE                20.00        03/28/12
+   117895123 DOCUMENT STORAGE                   5.00        03/28/12
+   117895123 AUTOMATION                        10.00        03/28/12
+   117895123 CIRCUIT CLERK FEE                100.00        03/28/12
+   117895123 COURT SECURITY                    25.00        03/28/12
+   117895123 ARRESTEE'S MEDICAL                10.00        03/28/12
+   117895123 COURT FINANCE FEE                 30.00        03/28/12
+   117921700 PERSONAL CHECK/CREDIT CA           1.25        04/17/12
+   117921700 COURT FINANCE FEE                 20.00        04/17/12
+   117921700 STATES ATTORNEY                   40.00        04/17/12
+   117921700 CRIME STOPPERS                    10.00        04/17/12
+   117921700 PROBATION MONITORING FEE           5.00        04/17/12
+   117998887 00000005360                         .00        06/14/12
+   118745479 PROBATION MONITORING FEE          25.00        08/21/13
+   118745479  STATE OFFENDER DNA ID S         125.00        08/21/13
+   120974928 PERSONAL CHECK/CREDIT CA           1.25        03/12/14
+   120974928 PROBATION MONITORING FEE          25.00        03/12/14
+   120974928  STATE OFFENDER DNA ID S           3.75        03/12/14
+   120997680 PERSONAL CHECK/CREDIT CA           1.25        03/25/14
+   120997680 PROBATION MONITORING FEE          25.00        03/25/14
+   120997680  STATE OFFENDER DNA ID S           5.00        03/25/14
+   121086784 PERSONAL CHECK/CREDIT CA           1.25        05/16/14
+   121086784 PROBATION MONITORING FEE          25.00        05/16/14
+   121086784  STATE OFFENDER DNA ID S           5.00        05/16/14
+   121145910 PERSONAL CHECK/CREDIT CA           1.25        06/20/14
+   121145910 PROBATION MONITORING FEE          25.00        06/20/14
+   121145910  STATE OFFENDER DNA ID S           5.00        06/20/14
+   121257489 PERSONAL CHECK/CREDIT CA           1.25        08/22/14
+   121257489 PROBATION MONITORING FEE          25.00        08/22/14
+   121257489  STATE OFFENDER DNA ID S           5.00        08/22/14
+   121320232 PERSONAL CHECK/CREDIT CA           1.25        09/26/14
+   121320232 PROBATION MONITORING FEE          25.00        09/26/14
+   121404491 PERSONAL CHECK/CREDIT CA           1.25        11/18/14
+   121404491 PROBATION MONITORING FEE          25.00        11/18/14
+   121518131 PERSONAL CHECK/CREDIT CA           1.25        01/28/15
+   121518131 PROBATION MONITORING FEE          17.30        01/28/15
+   121518131 COLLECTION FEES                    5.77        01/28/15
+   121518131 LATE FEES                          1.93        01/28/15
+   121548296 PERSONAL CHECK/CREDIT CA           1.25        02/17/15
+   121548296 PROBATION MONITORING FEE          17.30        02/17/15
+   121548296 COLLECTION FEES                    5.77        02/17/15
+   121548296 LATE FEES                          1.93        02/17/15
+   121848915 PERSONAL CHECK/CREDIT CA           1.25        08/05/15
+   121848915 PROBATION MONITORING FEE          25.00        08/05/15
+   121848915  STATE OFFENDER DNA ID S          96.25        08/05/15
+   121848915 TR/CR SUR $10/$40                 10.00        08/05/15
+   121848915 CLERK OP & ADMIN FUND              7.16        08/05/15
+   121848915 COLLECTION FEES                   46.15        08/05/15
+   121848915 LATE FEES                         15.44        08/05/15
+   121518131 COLLECTION FEES                    5.77        11/06/15
+   121518131 COLLECTION FEES                   -5.77        11/06/15
+   122075704 PERSONAL CHECK/CREDIT CA           1.25        12/15/15
+   122075704 PROBATION MONITORING FEE          33.36        12/15/15
+   122075704 CLERK OP & ADMIN FUND              2.84        12/15/15
+   122075704 DRUG COURT PROGRAM                 5.00        12/15/15
+   122075704 VICTIMS FUND-FINE                  4.00        12/15/15
+   122075704 DRIVERS EDUCATION                  4.00        12/15/15
+   122075704 ST POLICE SERVICES FUND           10.00        12/15/15
+   122075704 ST POLICE OPERATIONS ASS          10.00        12/15/15
+   122075704 COLLECTION FEES                   23.08        12/15/15
+   122075704 LATE FEES                          7.72        12/15/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  DRIVING RVK/SUSP DUI/SSS 2ND
+
+         1  DRIVING RVK/SUSP DUI/SSS 2ND
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   11-04-11                 Charge 01 Count 001 DRIVING RVK/SUSP DUI/SSS 2ND
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Created and properly labeled court case file.
+                            Cause set for arraignment on
+   11-07-11
+                            Defendant is arraigned.  Motion by the Defendant for
+ continuance for
+                            counsel.  Motion allowed.
+   11-21-11                 Expanded record of arraignment proceedings.
+                            People appear by Elizabeth A. Taylor.  Defendant app
+ears personally
+                            together with private counsel, Ms. Uppal.  Entry of
+appearance to be
+                            filed.  Defendant is arraigned.  Defendant waives pr
+eliminary hearing,
+                            enters a plea of not guilty and requests a trial by
+jury.  Pre-trial
+                            orders entered.  Defendant admonished as to trial an
+d sentencing in
+                            absentia.  See Expanded Record.
+   11-22-11                 Entry of Appearance filed by Baku Patel.
+                            Motion for Pre-Trial Discovery Pursuant to Illinois
+Supreme Court Rule
+                            412 filed.
+   11-23-11                 Discovery filed.
+   11-29-11                 Bond Type Transfer Bond From    2011TR018188 TAFOYA
+DEBORAH L
+   12-29-11
+                            By agreement, cause to be reallotted for pre-trial.
+ THIS WILL BE THE
+                            FINAL CONTINUANCE.
+   01-12-12                 EHD Eligibility Certificate filed
+   01-23-12
+                            By agreement, cause to be reallotted for pre-trial.
+   02-23-12
+                            By agreement, cause to be reallotted for pre-trial.
+   03-19-12                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty DRIVING RVK/SUSP DUI/SSS 2ND
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Sentence: 03/19/2012
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  18Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  30Days In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Electronic Home Detention (EHD)  In force
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Public Service  300Hrs In force
+                                      Supervised Court Service
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              313.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    450.00      STATE OFFENDER DN
+A    245.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, K. Uppal.
+ Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Driving Rvk/Susp Dui/Sss 2nd ILCS: 625 5/
+6-303(a) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  9/17/2012.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  18
+                            months probation. Defendant is ordered to serve a pe
+riod of
+                            incarceration of  30 days in the Champaign County Co
+rrectional Center.
+                            Defendant is to receive credit for   1 days previous
+ly served. The
+                            Sheriff of Champaign County having previously approv
+ed for
+                            participation therein, the sentence of imprisonment
+is subject to the
+                            terms and conditions of the Comprehensive Home Incar
+certion Program of
+                            the Champaign County Sheriff.  The defendant is orde
+red to report to
+                            the Champaign County Correctional Center, 502 South
+Lierman, Urbana,
+                            Illinois on said date and time for commencement of t
+he sentence of
+                            imprisonment. The Defendant is to submit specimens o
+f blood, saliva,
+                            or tissue to the Illinois Department of State Police
+ or to the
+                            Department of Corrections within 45 days, at a colle
+ction site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3. Defendant is ordered to perform 300 hours o
+f public service
+                            work under the supervision of the Champaign County C
+ourt Services
+                            Department.  The defendant is to be given credit on
+public service
+                            work for any hours completed in education, treatment
+, aftercare,
+                            sobriety based self-help group meetings, Victim Impa
+ct Panel and GED
+                            classes. Defendant advised of right to appeal and ri
+ghts pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.
+   03-26-12                 Report of Felony Conviction prepared / mailed.
+   03-28-12                 Bond
+   04-17-12                 Check
+   04-27-12                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   08-21-13                 Court Ordered Payments
+   09-05-13                 Probation Violation Report filed
+   10-03-13                 Order of Unsuccessful Discharge from Probation enter
+ed.  See Order
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Terminated Unsatisfied DRIVING RVK/SUSP
+ DUI/SSS 2ND
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/6-303(a)  Class 4
+                            Sentence: 10/03/2013
+                            Sentence: No Sentence  In force
+                            Case closed.
+   03-12-14                 Check
+   03-25-14                 Check
+   05-16-14                 Check
+   06-20-14                 Check
+   08-22-14                 Check
+   09-26-14                 Check
+   11-18-14                 Check
+                            Case sent out for collections.
+   01-16-15                 Submitted material returned for more information.
+   01-28-15                 Check
+   02-17-15                 Check
+   08-05-15                 Check
+   12-15-15                 Check
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,260 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000858
+
+   Defendant Plaintiff
+MOORE  ISAAC
+907 S STATE ST
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/31/11
+                Court Room:
+           Next Appearance: 02/19/14
+                Birth Date: 07/06/87
+                 DEFENDANT: MOORE  ISAAC
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       25.00      BOND -10% BOND FEE            25.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               25.00          15.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       25.00      PROBATION MONITORIN             .00         750.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+      100.00      CRIME LAB                       .00         100.00
+      200.00       STATE OFFENDER DNA             .00         200.00
+      100.00      TRAUMA FUND                     .00         100.00
+      190.00      TRAFFIC/CRIMINAL SU             .00         190.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+         .00      FINES                           .00            .00
+       76.00      VICTIMS FUND-FINE               .00          76.00
+      250.00       STREET VALUE DRUG              .00         250.00
+      490.00      MANDATORY ASSESSMEN             .00         490.00
+      766.25      COLLECTION FEES                 .00         766.25
+      333.15      LATE FEES                       .00         333.15
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117491787 SHERIFF'S BOOKING FEE             20.00        05/31/11
+   117491787 BOND - ORIGINAL                  100.00        05/31/11
+   117609615 BOND TRANSFERS IN                150.00        08/23/11
+   117610243 BOND -10% BOND FEE                25.00        08/24/11
+   117610243 DOCUMENT STORAGE                   5.00        08/24/11
+   117610243 AUTOMATION                        10.00        08/24/11
+   117610243 CIRCUIT CLERK FEE                100.00        08/24/11
+   117610243 COURT SECURITY                    25.00        08/24/11
+   117610243 ARRESTEE'S MEDICAL                10.00        08/24/11
+   117610243 COURT FINANCE FEE                 50.00        08/24/11
+   117610243 STATES ATTORNEY                   25.00        08/24/11
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  MFG/DEL CANNABIS/10-30 GRAMS
+
+         1  MFG/DEL CANNABIS/10-30 GRAMS
+
+         2  RESIST/PC OFF/CORR EMP/FRFTR
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   05-31-11                 Charge 01 Count 001 MFG/DEL CANNABIS/10-30 GRAMS
+                            Statute 720 550/5(c)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Statute 720 5/31-1(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            NO BOND No Bond
+                            Sheriff Booking Fee
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and K. Jessup appears instanter.  Defendan
+t waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  See expanded recor
+d.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+                            Bond is to continue.
+                            Notice of arrest without warrant on file.
+   07-12-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   08-05-11                 Discovery Answer filed
+   08-09-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   08-16-11                 Cause allotted for plea to
+   08-19-11                 Disposition 02/00  Count 002  No Fine & Cost
+                            Appearance of the People by Dan Clifton.  Appearance
+ of the Defendant
+                            personally and by counsel, Anthony Ortega.  On motio
+n of the State,
+                            Count 2 is ordered dismissed and stricken.
+                            Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty MFG/DEL CANNABIS/10-30 GRAMS
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 550/5(c)  Class 4  Orig.
+                            Sentence: 08/19/2011
+                            Sentence: Cost Only
+                            Sentence: Probation  30Mos
+                                      Supervised Court Service
+                            Sentence: Jail  2Days
+                            Sentence: Credit Time Served  2Days
+                            Sentence: Anti-Crime Assessment Fee
+                            Sentence: Criminal Laboratory Analysis Fee
+                            Sentence: Probation Service Fee  30Mos
+                            Sentence: Credit toward all fees and fines  2Days
+                            Sentence: Genetic marker analysis fee
+                            Sentence: Mandatory Street Value Fine
+                            Sentence: Mandatory Assessment Fine
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Sentence: Count(s) dismissed.
+                            Sentence: Case(s) dismissed
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Cost Only             1411.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    750.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    200.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Dan Clifton.  Appearance
+ of the Defendant
+                            personally and by counsel, Anthony Ortega.   Defenda
+nt advised as to
+                            the nature of the proceedings, the charges and the p
+ossible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Defendant is advised as to extended sente
+ncing.  Finding
+                            Defendant knowingly, understandingly and voluntarily
+ waives rights and
+                            enters a plea of guilty to Count 01 of the charging
+instrument.
+                            Finding Defendant is guilty of the offense of Mfg/De
+l Cannabis/10-30
+                            Grams ILCS: 720 550/5(c) as charged. Judgment entere
+d in favor of the
+                            People and against the defendant on finding of guilt
+ and for costs.
+                            Defendant is ordered to pay the court costs and all
+other financial
+                            obligations as set forth in the Sentencing Order ent
+ered this date.
+                            See ORDER.  All financial obligations shall be paid
+in equal monthly
+                            installments to the Champaign County Circuit Clerk b
+y  2/15/2012.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  D
+efendant is
+                            ordered to serve a period of  30 months probation. D
+efendant is
+                            ordered to serve a period of incarceration of 2 days
+ in the Champaign
+                            County Correctional Center. Defendant is to receive
+credit for 2 days
+                            previously served.  The Defendant is to submit speci
+mens of blood,
+                            saliva, or tissue to the Illinois Department of Stat
+e Police or to the
+                            Department of Corrections within 45 days, at a colle
+ction site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3.
+                            On motion of the People, Count 2 is dismissed.  Case
+ Number 11 CF 895
+                            is hereby dismissed.  Any bond posted in that case i
+s to be applied to
+                            costs in this matter.
+                            Defendant is advised of his rights to appeal pursuan
+t to Supreme Court
+                            Rule 605 and the Court finds that the Defendant unde
+rstands the same.
+                            Defendant is ordered to report to the Court Services
+ Department this
+                            date.
+
+                            Pursuant to the Judgment on the guilty plea the drug
+                            fine collected it to be disbursed as follows:
+                                 12.5% to the Youth Drug Abuse Prevention Fund
+                                 37.5% to the General Corporate fund of Champaig
+n
+                                      County and
+                                 50% to the CHAMPAIGN COUNTY SHERIFF
+   08-23-11                 Bond Type Transfer Bond From    2011CF000895 MOORE I
+SAAC L
+   08-24-11                 Bond
+   03-04-14                 Order of Discharge from Probation entered.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Probation Terminated MFG/DEL CANNABIS/1
+0-30 GRAMS
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 550/5(c)  Class 4
+                            Sentence: 03/04/2014
+                            Sentence: No Sentence  In force
+                            Case closed.
+   03-20-14                 Disposition sent through ADR process this date. SPT
+   11-18-14                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

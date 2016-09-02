@@ -1,0 +1,255 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001811
+
+   Defendant Plaintiff
+HAYS  LAUREN A
+107 E SPRINGFIELD AP
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 11/03/11
+                Court Room:
+           Next Appearance: 07/05/13
+                Birth Date: 03/02/92
+                 DEFENDANT: HAYS  LAUREN A
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       25.00      PROBATION MONITORIN          450.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      200.00       STATE OFFENDER DNA          200.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      190.00      TRAFFIC/CRIMINAL SU          190.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+         .00      FINES                           .00            .00
+       76.00      VICTIMS FUND-FINE             76.00            .00
+       60.00       STREET VALUE DRUG            60.00            .00
+      190.00      REGULAR DRUG FINES           190.00            .00
+      500.00      MANDATORY ASSESSMEN          500.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117930210 PERSONAL CHECK/CREDIT CA           1.25        04/24/12
+   117930210 DOCUMENT STORAGE                   5.00        04/24/12
+   117930210 AUTOMATION                        10.00        04/24/12
+   117930210 CIRCUIT CLERK FEE                 83.75        04/24/12
+   118668561 BOND - ORIGINAL                 2037.25        07/05/13
+   118668562 CIRCUIT CLERK FEE                 16.25        07/05/13
+   118668562 COURT SECURITY                    25.00        07/05/13
+   118668562 ARRESTEE'S MEDICAL                10.00        07/05/13
+   118668562 COURT FINANCE FEE                 50.00        07/05/13
+   118668562 STATES ATTORNEY                   40.00        07/05/13
+   118668562 CRIME STOPPERS                    10.00        07/05/13
+   118668562 PROBATION MONITORING FEE         450.00        07/05/13
+   118668562 SPINAL CORD RESEARCH FUN           5.00        07/05/13
+   118668562 CRIME LAB                        100.00        07/05/13
+   118668562  STATE OFFENDER DNA ID S         200.00        07/05/13
+   118668562 TRAUMA FUND                      100.00        07/05/13
+   118668562 TR/CR SUR $10/$40                190.00        07/05/13
+   118668562 DRUG COURT PROGRAM                 5.00        07/05/13
+   118668562 VICTIMS FUND-FINE                 76.00        07/05/13
+   118668562  STREET VALUE DRUG FINES          60.00        07/05/13
+   118668562 REGULAR DRUG FINES               190.00        07/05/13
+   118668562 MANDATORY ASSESSMENT             500.00        07/05/13
+   118668562 ST POLICE OPERATIONS ASS          10.00        07/05/13
+   118676316 EPAY RECEIVABLE                 2037.25        07/10/13
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   10-31-11                 ROR bond form and Notice of Arrest Without Warrant f
+iled.
+   11-03-11                 Charge 01 Count 001 POSS AMT CON SUB EXCEPT(A)/(D)
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Agency: URBANA POLICE DEPARTMENT  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel.  Defendant is admonished as t
+o trial and
+                            sentencing in absentia. Bond is to continue as set i
+n the amount of
+                            $1,000-ROR ALLOWED.  See expanded record.
+   11-17-11                 Expanded record of arraignment proceedings.
+                            People appear by Lawrence T. Solava.  Defendant appe
+ars personally
+                            together with private counsel,  T. Bruno .  Entry of
+ appearance on
+                            file.   Defendant waives preliminary hearing, enters
+ a plea of not
+                            guilty and requests a trial by jury.  Pre-trial orde
+rs entered.
+                            Defendant admonished as to trial and sentencing in a
+bsentia.  See
+                            Expanded Record.
+                            Bond to continue.
+   11-28-11                 Discovery filed.
+   12-20-11
+   01-05-12                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Withhold Judgment/Supervision POSS AMT
+CON SUB EXCEPT(A)/
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Sentence: 01/05/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees
+                            Sentence: First Offender Probation - Controlled Subs
+tances Act  18Mos
+                                      Supervised Court Service
+                            Sentence: Mandatory Assessment Fine
+                            Sentence: Public Service  30Hrs
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Sentence: Substance Abuse Treatment/Evaluation  60Da
+ys
+                            Sentence: Seized contraband is forfeited to the arre
+sting agency
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Fine + Cost           1376.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    450.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    200.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally and by counsel, Tom Bruno.   Defendant ad
+vised as to the
+                            nature of the proceedings, the charges and the possi
+ble penalties that
+                            may be imposed and the Court finds that the Defendan
+t understands the
+                            same.  Finding Defendant knowingly, understandingly
+and voluntarily
+                            waives rights and enters a plea of guilty to Count 0
+1 of the charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Poss Amt
+                            Con Sub Except(A)/(D) ILCS: 720 570/402(c) as charge
+d. Upon the plea
+                            entered this date, Defendant is sentenced to all ter
+ms and conditions
+                            as set forth in the written order on guilty plea ent
+ered this date.
+                            All financial obligations shall be paid in equal mon
+thly installments
+                            to the Champaign County Circuit Clerk by  7/05/2013.
+  Any bond posted
+                            is to be applied first to any court ordered bond ass
+ignment on file
+                            and then to all restitution ordered and then to all
+financial
+                            obligations in this case.  Any remaining bond shall
+be discharged to
+                            the individual who posted the bond.  Defendant is or
+dered to serve a
+                            period of  18 months First Offender Probation pursua
+nt to the
+                            Controlled Substances Act.  Defendant is ordered to
+perform  30 hours
+                            of public service work under the supervision of the
+Champaign County
+                            Court Services Department.  The defendant is to be g
+iven credit on
+                            public service work for any hours completed in educa
+tion, treatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes. The Defendant is to submit sp
+ecimens of blood,
+                            saliva, or tissue to the Illinois Department of Stat
+e Police or to the
+                            Department of Corrections within 45 days, at a colle
+ction site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3.  Defendant is to obtain an evaluation for a
+lcohol and drug
+                            abuse from an agency or agent recommended by the Cou
+rt Services
+                            Department, and follow any recommendations contained
+ therein as to
+                            treatment and/or counseling. Any contraband seized i
+n this matter, and
+                            any additional property listed in the written order
+is forfeited to
+                            the arresting agency. Defendant advised of right to
+appeal and rights
+                            pursuant to Supreme Court Rule 605 and the Court fin
+ds that the
+                            defendant understands the same.
+   01-09-12
+                            Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            37.5% to the General Corporate Fund of Champaign Cou
+nty, and
+                            50.0% to the Urbana Police Department.
+   02-14-12                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   04-24-12                 Check
+   07-05-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   07-10-13                 EPAY RECONCILIATION TRANSACTION
+   07-16-13                 Written Order of Discharge from Probation and Case D
+ismissal entered.
+                            Disposition 01/01  Count 001  Manual Calculations
+                            Disposition: Probation Terminated POSS AMT CON SUB E
+XCEPT(A)/(D)
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Sentence: 07/16/2013
+                            Sentence: No Sentence  In force
+                            Case closed.
+   07-18-13                 ISP Supplemental Court Disposition prepared and mail
+ed.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

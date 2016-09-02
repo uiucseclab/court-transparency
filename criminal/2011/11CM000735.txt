@@ -1,0 +1,424 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CM000735
+
+   Defendant Plaintiff
+SMITH  ROBERT
+505 VINE ST
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 07/13/11
+                Court Room:
+           Next Appearance: 04/08/13
+                Birth Date: 12/15/69
+                 DEFENDANT: SMITH  ROBERT
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                     5.00           5.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        5.00      CRIME STOPPERS                  .00           5.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       15.00      PROBATION MONITORIN             .00         180.00
+      180.00      TRAFFIC/CRIMINAL SU             .00         180.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      695.00      FINES                           .00         695.00
+       72.00      VICTIMS FUND-FINE               .00          72.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       20.00      VICTIMS FUND-NO FIN             .00          20.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      ST POLICE OPERATION             .00          10.00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       20.00      ARRESTEE'S MEDICAL            20.00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+      180.00      PROBATION MONITORIN           36.63         143.37
+       10.00      PROBATION OPER ASSI             .00          10.00
+      180.00      TR/CR SUR $10/$40               .00         180.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       37.00      SHERIFF FEES                    .00          37.00
+      580.00      FINES                           .00         580.00
+       72.00      VICTIMS FUND-FINE               .00          72.00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      426.59      COLLECTION FEES               21.35         405.24
+      201.90      LATE FEES                       .00         201.90
+       42.78      TAX INTERCEPT                 42.78            .00
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117917902 DOCUMENT STORAGE                   5.00        04/13/12
+   117917902 E-CITATION                         5.00        04/13/12
+   118021513 AUTOMATION                         5.00        07/02/12
+   121558495 AUTOMATION                         3.13        04/28/15
+   121558495 COLLECTION FEES                     .26        04/28/15
+   121750390 AUTOMATION                         1.87        06/09/15
+   121750390 CIRCUIT CLERK FEE                 66.58        06/09/15
+   121750390 COLLECTION FEES                    6.84        06/09/15
+   121750390 TAX INTERCEPT                     13.71        06/09/15
+   121762395 CIRCUIT CLERK FEE                  8.42        06/16/15
+   121762395 COURT SECURITY                     2.10        06/16/15
+   121762395 COLLECTION FEES                    1.05        06/16/15
+   121762395 TAX INTERCEPT                      2.11        06/16/15
+   121783592 COURT SECURITY                     8.86        06/30/15
+   121783592 COLLECTION FEES                     .88        06/30/15
+   121783592 TAX INTERCEPT                      1.77        06/30/15
+   121803954 COURT SECURITY                     8.69        07/21/15
+   121803954 COLLECTION FEES                     .88        07/21/15
+   121803954 TAX INTERCEPT                      1.88        07/21/15
+   121806334 COURT SECURITY                     5.35        08/04/15
+   121806334 COURT FINANCE FEE                  3.65        08/04/15
+   121806334 COLLECTION FEES                     .90        08/04/15
+   121806334 TAX INTERCEPT                      1.80        08/04/15
+   121808744 COURT FINANCE FEE                  9.26        08/18/15
+   121808744 COLLECTION FEES                     .93        08/18/15
+   121808744 TAX INTERCEPT                      1.86        08/18/15
+   121810063 COURT FINANCE FEE                  8.78        09/01/15
+   121810063 COLLECTION FEES                     .88        09/01/15
+   121810063 TAX INTERCEPT                      1.76        09/01/15
+   121811625 DOCUMENT STORAGE                    .00        09/21/15
+   121811625 E-CITATION                          .00        09/21/15
+   121811625 AUTOMATION                          .00        09/21/15
+   121811625 CIRCUIT CLERK FEE                   .00        09/21/15
+   121811625 COURT SECURITY                      .00        09/21/15
+   121811625 COURT FINANCE FEE                   .00        09/21/15
+   121811625 STATES ATTORNEY                     .00        09/21/15
+   121811625 STATES ATTORNEY AUTOMATI            .00        09/21/15
+   121811625 CRIME STOPPERS                      .00        09/21/15
+   121811625 ARRESTEE'S MEDICAL                  .00        09/21/15
+   121811625 VICTIMS FUND-NO FINE                .00        09/21/15
+   121811625 PROBATION MONITORING FEE            .00        09/21/15
+   121811625 PROBATION OPER ASSISTANC            .00        09/21/15
+   121811625 TR/CR SUR $10/$40                   .00        09/21/15
+   121811625 CLERK OP & ADMIN FUND               .00        09/21/15
+   121811625 DRUG COURT PROGRAM                  .00        09/21/15
+   121811625 SHERIFF FEES                        .00        09/21/15
+   121811625 FINES                               .00        09/21/15
+   121811625 VICTIMS FUND-FINE                   .00        09/21/15
+   121811625 VIOLENT CRIME VICTIMS AS            .00        09/21/15
+   121811625 ST POLICE SERVICES FUND             .00        09/21/15
+   121811625 COLLECTION FEES                     .00        09/21/15
+   121811625 LATE FEES                           .00        09/21/15
+   121811625 TAX INTERCEPT                       .00        09/21/15
+   121811625 ST POLICE OPERATIONS ASS            .00        09/21/15
+   121922390 COURT FINANCE FEE                  3.31        09/16/15
+   121922390 STATES ATTORNEY                    5.47        09/16/15
+   121922390 COLLECTION FEES                     .88        09/16/15
+   121922390 TAX INTERCEPT                      1.76        09/16/15
+   121961414 STATES ATTORNEY                    9.80        10/07/15
+   121961414 COLLECTION FEES                     .98        10/07/15
+   121961414 TAX INTERCEPT                      1.96        10/07/15
+   121984258 STATES ATTORNEY                    4.73        10/20/15
+   121984258 STATES ATTORNEY AUTOMATI           2.00        10/20/15
+   121984258 CRIME STOPPERS                     2.05        10/20/15
+   121984258 COLLECTION FEES                     .88        10/20/15
+   121984258 TAX INTERCEPT                      1.76        10/20/15
+   122011709 CRIME STOPPERS                     -.40        11/05/15
+   122011709 TAX INTERCEPT                       .40        11/05/15
+   122011958 CRIME STOPPERS                     3.35        11/05/15
+   122011958 ARRESTEE'S MEDICAL                 5.47        11/05/15
+   122011958 COLLECTION FEES                     .88        11/05/15
+   122011958 TAX INTERCEPT                      1.77        11/05/15
+   122036487 ARRESTEE'S MEDICAL                 5.01        11/20/15
+   122036487 COLLECTION FEES                     .50        11/20/15
+   122036487 TAX INTERCEPT                      1.00        11/20/15
+   122371468 DOCUMENT STORAGE                    .00        05/07/16
+   122371468 E-CITATION                          .00        05/07/16
+   122371468 AUTOMATION                          .00        05/07/16
+   122371468 CIRCUIT CLERK FEE                   .00        05/07/16
+   122371468 COURT SECURITY                      .00        05/07/16
+   122371468 COURT FINANCE FEE                   .00        05/07/16
+   122371468 STATES ATTORNEY                     .00        05/07/16
+   122371468 STATES ATTORNEY AUTOMATI            .00        05/07/16
+   122371468 CRIME STOPPERS                      .00        05/07/16
+   122371468 ARRESTEE'S MEDICAL                  .00        05/07/16
+   122371468 VICTIMS FUND-NO FINE                .00        05/07/16
+   122371468 PROBATION MONITORING FEE            .00        05/07/16
+   122371468 PROBATION OPER ASSISTANC            .00        05/07/16
+   122371468 TR/CR SUR $10/$40                   .00        05/07/16
+   122371468 CLERK OP & ADMIN FUND               .00        05/07/16
+   122371468 DRUG COURT PROGRAM                  .00        05/07/16
+   122371468 SHERIFF FEES                        .00        05/07/16
+   122371468 FINES                               .00        05/07/16
+   122371468 VICTIMS FUND-FINE                   .00        05/07/16
+   122371468 VIOLENT CRIME VICTIMS AS            .00        05/07/16
+   122371468 ST POLICE SERVICES FUND             .00        05/07/16
+   122371468 COLLECTION FEES                     .00        05/07/16
+   122371468 LATE FEES                           .00        05/07/16
+   122371468 TAX INTERCEPT                       .00        05/07/16
+   122371468 ST POLICE OPERATIONS ASS            .00        05/07/16
+   122378114 ARRESTEE'S MEDICAL                 9.52        06/09/16
+   122378114 PROBATION MONITORING FEE          36.63        06/09/16
+   122378114 COLLECTION FEES                    4.61        06/09/16
+   122378114 TAX INTERCEPT                      9.24        06/09/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  CRIM TRES TO RES/PERS PRESENT
+
+         1  CRIM TRES TO RES/PERS PRESENT
+
+         1  CRIM TRES TO RES/PERS PRESENT
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   07-11-11                 Released On Recognizance bond form on file.
+                            Notice of arrest without warrant on file.
+   07-13-11                 Charge 01 Count 001 ATTEMPT CRIM TRES TO RES/PERS PR
+ESENT
+                            Statute 720 5/19-4(a)(2)  Class A  CSA A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            appears instanter.  Plea of not guilty entered and D
+efendant requests
+                            trial by jury.  Defendant is admonished as to trial
+and sentencing in
+                            absentia.  See expanded record.
+                            Bond to continue.
+   07-21-11                 Proof of service of discovery materials filed.
+   09-02-11                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty ATTEMPT CRIM TRES TO RES/PERS PR
+ESENT
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/19-4(a)(2)  Class A  CSA A  Orig.
+                            Sentence: 09/02/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  50Hrs In force
+                                      Supervised Court Service
+                            Sentence: Substance Abuse Treatment/Evaluation  60Da
+ys In force
+                            Sentence: No contact order.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           1152.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    180.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Attempt Crim Tres To Res/Pe
+rs Present ILCS:
+                            720 5/19-4(a)(2) as charged. Judgment entered in fav
+or of the People
+                            and against the defendant on finding of guilt and fo
+r costs.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  2/29/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months probation. Defendant is ordered
+ to perform  50
+                            hours of public service work under the supervision o
+f the Champaign
+                            County Court Services Department.  The defendant is
+to be given credit
+                            on public service work for any hours completed in ed
+ucation,
+                            treatment, aftercare, sobriety based self-help group
+ meetings, Victim
+                            Impact Panel and GED classes.  Defendant is to obtai
+n an evaluation
+                            for alcohol and drug abuse from an agency or agent r
+ecommended by the
+                            Court Services Department, and follow any recommenda
+tions contained
+                            therein as to treatment and/or counseling. Defendant
+ is to have no
+                            contact, directly or indirectly, in person, by telep
+hone or
+                            electronically with the persons stated in the writte
+n order. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+   09-13-11
+   04-13-12                 Court Ordered Payments
+   07-02-12                 Court Ordered Payments
+   08-29-12                 Probation Violation Report filed
+   08-31-12
+                            Verified information on Petition to Revoke Probation
+ on file
+                            Petition to Revoke Probation filed
+   10-04-12                 Summons returned, not found
+                            Violation of probation warrant.
+                            Verified information on Petition to Revoke Probation
+ on file.
+                            Probable cause to arrest determined.  Warrant issued
+.  Bond set in the
+                            amount of $5,000.00.
+   10-05-12                 Summons served.
+   03-22-13                 Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ge
+orge Vargas
+                            appears instanter.  General denial to the Petition i
+s entered.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. Bond
+                            is to continue.  See expanded record.
+   03-27-13                 Warrant served. Service fees $37.00
+   03-28-13                 Disposition 01/01  Count 001  Cost Only
+                            Disposition: Revocation/Vacate/Probation ATTEMPT CRI
+M TRES TO RES/PERS
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/19-4(a)(2)  Class A  CSA A  Orig.
+                            Sentence: 03/28/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Jail  60Days In force
+                            Sentence: Credit Time Served  23Days In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              287.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Resentencing on petition to revoke.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant, in custody, and by counsel, Lindsey R
+. Yanchus.
+                            Defendant advised as to the nature of the proceeding
+s and the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily stipulates and admits to the allegat
+ions contained in
+                            the Petition to Revoke.  Finding the same are true.
+ The court finds
+                            that the Defendant has violated the terms of his sen
+tence.  Finding
+                            entered in favor of the People and against Defendant
+.   All financial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  9/24/2013.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of
+                            incarceration of 60 days in the Champaign County Cor
+rectional Center.
+                            Defendant is to receive credit for 23 days previousl
+y served.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same. Written Order entered. See Order.
+   04-23-13                 ISP Supplemental Court Disposition prepared and mail
+ed.
+                            Disposition 01/02  Count 001  Modified Order
+                            Disposition: Modified/Trial Court Attempt CRIM TRES
+TO RES/PERS PRESEN
+                            Modified Order        1176.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    180.00     COLLECTION FEES
+     435.83
+                            LATE FEES              201.90     TAX INTERCEPT
+      33.54
+   08-19-14                 Case sent out for collections.
+   04-28-15                 Cash
+   06-09-15                 Cash
+   06-16-15                 Cash
+   06-30-15                 Cash
+   07-21-15                 Cash
+   08-04-15                 Cash
+   08-18-15                 Cash
+   09-01-15                 Cash
+   09-16-15                 Collection Tax Intercept Payment
+   10-07-15                 Collection Tax Intercept Payment
+   10-20-15                 Collection Tax Intercept Payment
+   11-05-15                 Court Ordered Payments
+                            Collection Tax Intercept Payment
+   11-20-15                 Collection Tax Intercept Payment
+   06-09-16                 Collection Tax Intercept Payment
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

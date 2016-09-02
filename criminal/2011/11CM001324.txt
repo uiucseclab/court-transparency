@@ -1,0 +1,281 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CM001324
+
+   Defendant Plaintiff
+TIEMAN  DAVID M
+5216 W. 121TH STREET
+ALSIP IL 60803
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 12/12/11
+                Court Room:
+           Next Appearance: 04/02/12
+                Birth Date: 03/15/91
+                 DEFENDANT: TIEMAN  DAVID M
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       10.00      BOND -10% BOND FEE            10.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+      130.00      TRAFFIC/CRIMINAL SU          130.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      500.00      FINES                        500.00            .00
+       52.00      VICTIMS FUND-FINE             52.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+      130.07      COLLECTION FEES              130.07            .00
+       56.55      LATE FEES                     56.55            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117763535 SHERIFF'S BOOKING FEE             20.00        12/16/11
+   117763535 BOND - ORIGINAL                  100.00        12/16/11
+   117905916 PERSONAL CHECK/CREDIT CA           1.25        04/04/12
+   117905916 BOND - ORIGINAL                  100.00        04/04/12
+   117905988 01000000000                         .00        04/04/12
+   117906272 BOND -10% BOND FEE                10.00        04/04/12
+   117906272 DOCUMENT STORAGE                   5.00        04/04/12
+   117906272 E-CITATION                         5.00        04/04/12
+   117906272 AUTOMATION                        10.00        04/04/12
+   117906272 CIRCUIT CLERK FEE                 75.00        04/04/12
+   117906272 COURT SECURITY                    25.00        04/04/12
+   117906272 ARRESTEE'S MEDICAL                10.00        04/04/12
+   117906272 COURT FINANCE FEE                 25.00        04/04/12
+   117906272 STATES ATTORNEY                   20.00        04/04/12
+   117906272 TR/CR SUR $10/$40                 15.00        04/04/12
+   117906316 01000000000                         .00        04/04/12
+   117955854 PERSONAL CHECK/CREDIT CA           1.25        05/11/12
+   117955854 TR/CR SUR $10/$40                 25.00        05/11/12
+   118004981 PERSONAL CHECK/CREDIT CA           1.25        06/20/12
+   118004981 TR/CR SUR $10/$40                 50.00        06/20/12
+   118062084 PERSONAL CHECK/CREDIT CA           1.25        08/01/12
+   118062084 TR/CR SUR $10/$40                 40.00        08/01/12
+   118062084 CLERK OP & ADMIN FUND             10.00        08/01/12
+   118130117 PERSONAL CHECK/CREDIT CA           1.25        09/12/12
+   118130117 DRUG COURT PROGRAM                 5.00        09/12/12
+   118130117 FINES                             45.00        09/12/12
+   118178860 PERSONAL CHECK/CREDIT CA           1.25        10/11/12
+   118178860 FINES                             50.00        10/11/12
+   118237493 PERSONAL CHECK/CREDIT CA           1.25        11/16/12
+   118237493 FINES                             50.00        11/16/12
+   118294236 PERSONAL CHECK/CREDIT CA           1.25        12/17/12
+   118294236 FINES                             50.00        12/17/12
+   118398711 PERSONAL CHECK/CREDIT CA           1.25        01/23/13
+   118398711 FINES                             38.46        01/23/13
+   118398711 COLLECTION FEES                   11.54        01/23/13
+   118451192 PERSONAL CHECK/CREDIT CA           1.25        02/21/13
+   118451192 FINES                             38.46        02/21/13
+   118451192 COLLECTION FEES                   11.54        02/21/13
+   118494398 PERSONAL CHECK/CREDIT CA           1.25        03/19/13
+   118494398 FINES                             38.46        03/19/13
+   118494398 COLLECTION FEES                   11.54        03/19/13
+   118535582 PERSONAL CHECK/CREDIT CA           1.25        04/15/13
+   118535582 FINES                             38.46        04/15/13
+   118535582 COLLECTION FEES                   11.54        04/15/13
+   118619896 PERSONAL CHECK/CREDIT CA           1.25        06/05/13
+   118619896 FINES                             38.46        06/05/13
+   118619896 COLLECTION FEES                   11.54        06/05/13
+   118710614 PERSONAL CHECK/CREDIT CA           1.25        07/31/13
+   118710614 FINES                             28.85        07/31/13
+   118710614 COLLECTION FEES                    8.65        07/31/13
+   118760100 PERSONAL CHECK/CREDIT CA           1.25        08/30/13
+   118760100 FINES                             34.60        08/30/13
+   118760100 COLLECTION FEES                   11.54        08/30/13
+   118760100 LATE FEES                          3.86        08/30/13
+   118814507 PERSONAL CHECK/CREDIT CA           1.25        10/02/13
+   118814507 FINES                             34.60        10/02/13
+   118814507 COLLECTION FEES                   11.54        10/02/13
+   118814507 LATE FEES                          3.86        10/02/13
+   118869470 PERSONAL CHECK/CREDIT CA           1.25        11/05/13
+   118869470 FINES                             14.65        11/05/13
+   118869470 VICTIMS FUND-FINE                 19.95        11/05/13
+   118869470 COLLECTION FEES                   11.54        11/05/13
+   118869470 LATE FEES                          3.86        11/05/13
+   118917513 PERSONAL CHECK/CREDIT CA           1.25        12/04/13
+   118917513 VICTIMS FUND-FINE                 32.05        12/04/13
+   118917513 ST POLICE SERVICES FUND            2.55        12/04/13
+   118917513 COLLECTION FEES                   11.54        12/04/13
+   118917513 LATE FEES                          3.86        12/04/13
+   120883517 PERSONAL CHECK/CREDIT CA           1.25        01/16/14
+   120883517 ST POLICE SERVICES FUND            7.45        01/16/14
+   120883517 COLLECTION FEES                   17.56        01/16/14
+   120883517 LATE FEES                         14.99        01/16/14
+   120883517 ST POLICE OPERATIONS ASS          10.00        01/16/14
+   120966743 01000000000                         .00        03/06/14
+   120967569 LATE FEES                         24.87        03/07/14
+   120968113 01000000000                         .00        03/07/14
+   120968145 PERSONAL CHECK/CREDIT CA           1.25        03/07/14
+   120968145 BOND - ORIGINAL                   24.87        03/07/14
+   120968149 01000000000                         .00        03/07/14
+   121031817 PERSONAL CHECK/CREDIT CA           1.25        04/15/14
+   121031817 LATE FEES                          1.25        04/15/14
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  RESIST/PC OFF/CORR EMP/FRFTR
+
+         2  CONSUMPTION OF LIQUOR/MINOR
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   12-12-11                 Charge 01 Count 001 RESIST/PC OFF/CORR EMP/FRFTR
+                            Statute 720 5/31-1(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Entry of appearance.
+                            Defendant arraigned.  Appearance of attorney Robert
+Auler, with
+                            Defendant.  Plea of not guilty entered and Defendant
+ requests trial by
+                            jury. Cause set for pre-trial.  Defendant admonished
+ as to trial and
+                            sentencing in absentia. Bond isto continue as set in
+ the amount of
+                            $1,000-ROR DENIED. See expanded record.
+                            Notice of arrest without warrant on file.
+                            Charge 02 Count 002 CONSUMPTION OF LIQUOR/MINOR
+                            Statute 235 5/6-20(e)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+   12-16-11                 Sheriff Booking Fee
+   12-20-11                 Proof of service of discovery materials filed.
+   02-10-12
+                            People appear by Marley C. Nelson.  Defendant appear
+s personally and
+                            with counsel, Robert Auler. Motion by the Defendant
+for continuance.
+                            Motion allowed.
+   03-16-12
+                            People appear by Samuel A. Rosenberg.  Defendant app
+ears personally
+                            and with counsel, Robert Auler. Motion by the Defend
+ant for
+                            continuance.  Motion allowed.
+   03-21-12                 Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty CONSUMPTION OF LIQUOR/MINOR
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 235 5/6-20(e)  Class A
+                            Sentence: 03/21/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            902.00     COLLECTION FEES
+     130.07
+                            LATE FEES               56.55
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Samuel A. Rosenberg.  Ap
+pearance of the
+                            Defendant personally and by counsel, Robert Auler.
+ Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 02
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Consumption Of Liquor/Minor ILCS: 235 5/6
+-20(e) as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.  All financial oblig
+ations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by  9/17/2012.  Any bond posted is to be appli
+ed first to any
+                            court ordered bond assignment on file and then to al
+l restitution
+                            ordered and then to all financial obligations in thi
+s case.  Any
+                            remaining bond shall be discharged to the individual
+ who posted the
+                            bond.  Count I is hereby dismissed. Defendant advise
+d of right to
+                            appeal and rights pursuant to Supreme Court Rule 605
+ and the Court
+                            finds that the defendant understands the same. Waive
+r of Jury on file.
+                            Sentencing Order entered this date. See Order.
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed RESIST/PC OFF/CORR EMP/FRFTR
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/31-1(a)  Class A  Orig.
+                            Sentence: 03/21/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Report of Court Disposition sent to Secretary of Sta
+te.
+   04-04-12                 Check Full Cash
+                            Change of address on file.
+                            Bond
+
+   05-11-12                 Check
+   06-20-12                 Check
+   08-01-12                 Check
+   09-12-12                 Check
+   10-11-12                 Check
+   11-16-12                 Check
+   12-17-12                 Check
+   12-26-12                 Case sent out for collections.
+   01-23-13                 Check
+   02-21-13                 Check
+   03-19-13                 Check
+   04-15-13                 Check
+   06-05-13                 Check
+   07-31-13                 Check
+   08-30-13                 Check
+   10-02-13                 Check
+   11-05-13                 Check
+   12-04-13                 Check
+   01-16-14                 Check
+   03-07-14                 Bond
+                            Check Full Cash
+                            Balance due letter prepared and sent.
+   04-15-14                 Check
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

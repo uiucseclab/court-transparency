@@ -1,0 +1,316 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CM001114
+
+   Defendant Plaintiff
+PAPPAS  MICHAEL
+905 S LOCUST APT 203
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 10/21/11
+                Court Room:
+           Next Appearance: 04/23/13
+                Birth Date: 07/18/89
+                 DEFENDANT: PAPPAS  MICHAEL
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      100.00      BOND -10% BOND FEE           100.00            .00
+      217.91      *RESTITUTION AMOUNT          217.91            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN           15.00            .00
+      130.00      TRAFFIC/CRIMINAL SU          130.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      490.00      FINES                        113.09         376.91
+       52.00      VICTIMS FUND-FINE               .00          52.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      154.88      COLLECTION FEES                 .00         154.88
+       67.34      LATE FEES                       .00          67.34
+       10.00      ST POLICE OPERATION             .00          10.00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+        4.00      VICTIMS FUND-FINE              4.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117700622 SHERIFF'S BOOKING FEE             20.00        10/31/11
+   117700622 BOND - ORIGINAL                 1000.00        10/31/11
+   117955729 DOCUMENT STORAGE                   5.00        05/11/12
+   117955729 E-CITATION                         5.00        05/11/12
+   117955729 AUTOMATION                        10.00        05/11/12
+   117955729 CIRCUIT CLERK FEE                 75.00        05/11/12
+   117955729 COURT SECURITY                    25.00        05/11/12
+   117955729 COURT FINANCE FEE                 25.00        05/11/12
+   117955729 STATES ATTORNEY                   20.00        05/11/12
+   117955729 CRIME STOPPERS                     5.00        05/11/12
+   117955729 ARRESTEE'S MEDICAL                10.00        05/11/12
+   117955729 TR/CR SUR $10/$40                 10.00        05/11/12
+   117955729 CLERK OP & ADMIN FUND             10.00        05/11/12
+   117955729 DRUG COURT PROGRAM                 5.00        05/11/12
+   117955729 VICTIMS FUND-FINE                  4.00        05/11/12
+   117955729 ST POLICE SERVICES FUND           10.00        05/11/12
+   117955729 ST POLICE OPERATIONS ASS          10.00        05/11/12
+   117955790 BOND -10% BOND FEE               100.00        05/11/12
+   117955790 *RESTITUTION AMOUNT              217.91        05/11/12
+   117955790 DOCUMENT STORAGE                   5.00        05/11/12
+   117955790 E-CITATION                         5.00        05/11/12
+   117955790 AUTOMATION                        10.00        05/11/12
+   117955790 CIRCUIT CLERK FEE                 75.00        05/11/12
+   117955790 COURT SECURITY                    25.00        05/11/12
+   117955790 COURT FINANCE FEE                 25.00        05/11/12
+   117955790 STATES ATTORNEY                   20.00        05/11/12
+   117955790 CRIME STOPPERS                     5.00        05/11/12
+   117955790 ARRESTEE'S MEDICAL                10.00        05/11/12
+   117955790 PROBATION MONITORING FEE          15.00        05/11/12
+   117955790 TR/CR SUR $10/$40                130.00        05/11/12
+   117955790 CLERK OP & ADMIN FUND             10.00        05/11/12
+   117955790 DRUG COURT PROGRAM                 5.00        05/11/12
+   117955790 FINES                            113.09        05/11/12
+   117955790 *RESTITUTION AMOUNT              217.91        05/11/12
+   117955790 *RESTITUTION AMOUNT              217.91        10/10/13
+   117955790 *RESTITUTION AMOUNT             -217.91        10/10/13
+   117955790 *RESTITUTION AMOUNT              217.91        10/10/13
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  VIO BAIL BOND/FAMILY MEMBER
+
+         1  VIO BAIL BOND/FAMILY MEMBER
+
+         2  INTERF REPT DOMESTIC VIOLENCE
+
+         3  KNOWINGLY DAMAGE PROP<$300
+
+         3  KNOWINGLY DAMAGE PROP<$300
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   10-21-11                 Charge 01 Count 001 VIO BAIL BOND/FAMILY MEMBER
+                            Statute 720 5/32-10(b)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 INTERF REPT DOMESTIC VIOLENCE
+                            Statute 720 5/12-3.5(a)   Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 KNOWINGLY DAMAGE PROP<$300
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Created and properly labeled permanent case file.
+                            Cause set for arraignment on
+                            Entry of appearance.
+                            Defendant arraigned.  Appearance and entry of appear
+ance of attorney,
+                            Mark Lipton on Behalf of Thomas Leinenweber, with De
+fendant.  Plea of
+                            not guilty entered and Defendant requests trial by j
+ury. Cause set for
+                            pre-trial.  Bond is set in the amount of $10,000-ROR
+ DENIED. As a
+                            condition of bond, Defendant is ordered to have NO C
+ONTACT whatsoever,
+                            directly or indirectly, with the victim and/or addre
+ss as recited in
+                            open court. Defendant admonished as to trial and sen
+tencing in
+                            absentia. See expanded record.
+   10-24-11                 Notice of arrest without warrant on file.
+   10-31-11                 Sheriff Booking Fee
+   11-10-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   12-22-11
+                            Appearance of the People by MARLEY NELSON.
+                            Defendant appears with counsel, THOMAS LEINENWEBER.
+                            Defendant requests bench trial.  Jury Waiver placed
+on file.  Cause
+                            continued for bench trial February 13, 2012 at 9:00
+a.m. in Courtroom
+                            E.  Bond is to continue.  Defendant ordered to appea
+r on that date.
+   12-29-11                 Subpoena Served.  No Fees.
+   12-30-11                 Subpoena Served.  No Fees.
+   01-27-12                 Subpoena Served.  No Fees.
+   02-13-12                 Disposition 01/00  Count 001  Awaiting Sentencing
+                            Disposition: Found Guilty VIO BAIL BOND/FAMILY MEMBE
+R
+                            Disposition Type: By Bench   Defendant Plea: Not Gui
+lty
+                            Statute 720 5/32-10(b)  Class A  Orig.
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Not Guilty INTERF REPT DOMESTIC VIOLENC
+E
+                            Disposition Type: By Bench   Defendant Plea: Not Gui
+lty
+                            Statute 720 5/12-3.5(a)   Class A  Orig.
+                            Sentence: 02/13/2012
+                            Sentence: No Sentence
+                            Disposition 03/00  Count 003  Awaiting Sentencing
+                            Disposition: Found Guilty KNOWINGLY DAMAGE PROP<$300
+                            Disposition Type: By Bench   Defendant Plea: Not Gui
+lty
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+
+                            People appear by Sam Rosenberg.  Defendant appears p
+ersonally and with
+                            counsel, Mr. Leinenweber.  Cause called for bench tr
+ial.  Statement of
+                            the Nature of the Case placed on file.  List of Stat
+e's Witnesses
+                            placed on file.  Motion by the People for joinder of
+ 2011-CM-960 with
+                            2011-CM-1114.  Motion allowed without objection.  Mo
+tion by Defendant
+                            to exclude witnesses.  Motion allowed without object
+ion.  Sworn
+                            testimony presented on behalf of the People.  People
+ rest.  Motion by
+                            the Defendant for directed verdict.  Motion denied.
+ Sworn testimony
+                            presented on behalf of the Defendant.  Defendant's E
+xhibit 1 admitted
+                            without objection.  Defense rests.  Closing argument
+s presented.  As
+                            to 2011-CM-960, Defendant is found GUILTY of Counts
+1, 2, and 3.
+                            Defendant is found NOT GUILTY of Count 4.  As to 201
+1-CM-1114,
+                            Defendant is found GUILTY of Counts 1 and 3.  Defend
+ant is found NOT
+                            GUILTY of Count 2.  Cause continued for hearing on a
+ny post-trial
+                            motions and sentencing hearing, if reached, to April
+ 23, 2012 at
+                            11:00.  Order for Sentencing Report entered this dat
+e.  See order.
+                            Court Services notified of PSI report order on
+   04-23-12                 Disposition 01/01  Count 001  Fine + Cost
+                            Disposition: Guilty VIO BAIL BOND/FAMILY MEMBER
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/32-10(b)  Class A  Orig.
+                            Sentence: 04/23/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  75Hrs In force
+                                      Supervised Court Service
+                            Sentence: No contact order.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Fine + Cost            977.00     *RESTITUTION AMOUN
+T    217.91
+                            E-CITATION               5.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN     15.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Disposition 03/01  Count 003  Cost Only
+                            Disposition: Found Guilty KNOWINGLY DAMAGE PROP<$300
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Sentence: 04/23/2012
+                            Sentence: Cost Only  In force
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Cost Only              219.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00
+                            Payment Due
+                            Appearance of the People by SAMUEL A. ROSENBERG.
+                            Appearance of the Defendant personally and with coun
+sel, THOMAS M.
+                            LEINENWEBER.
+                            Cause called for hearing on Defendant's Post-Trial M
+otions filed in 11
+                            CM 960.  Arguments of counsel heard. Motions are den
+ied.  Cause called
+                            for sentencing hearing as to Counts I and 3.  Recomm
+endations of
+                            counsel heard.
+                            Defendant is sentenced to a period of 12 MONTHS COND
+ITIONAL DISCHARGE
+                            subject to the terms and conditions as set forth in
+the Sentencing
+                            Order entered this date.  Defendant is ordered to pa
+y a fine of $500
+                            plus all court costs, other financial obligations, a
+nd restitution as
+                            set forth in the Sentencing Order.  SEE ORDER.  Bond
+ is ordered to
+                            apply.   Defendant is ordered to perform 75 hours of
+ public service
+                            work.  Defendant is ordered to HAVE NO CONTACT with
+Aoi K. Shimomura
+                            or 1004 South Locust Street, Champaign, IL.  Sentenc
+e is to be served
+                            concurrently with the sentence imposed in 11 CM 960.
+                            Defendant is advised of his rights under Supreme Cou
+rt Rule 605 and
+                            the Court finds that he understands the same.
+                            Defendant's Conditional Discharge can be transferred
+ to Defendant's
+                            county of residence.
+   05-11-12                 Bond
+                            Bond
+   10-23-12                 Certificate of completion of public service work fil
+ed
+   08-29-13                 Change of address for restitution on file this date
+   11-19-13                 Address change for Restitution on file.
+   03-20-14                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

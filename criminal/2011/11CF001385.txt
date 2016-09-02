@@ -1,0 +1,263 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001385
+
+   Defendant Plaintiff
+PRIMMER  RUSSELL R
+2522 CLAYTON RD
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 08/26/11
+                Court Room:
+           Next Appearance: 12/15/11
+                Birth Date: 08/12/93
+                 DEFENDANT: PRIMMER  RUSSELL R
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+     4150.00      *RESTITUTION AMOUNT             .00        4150.00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+      200.00       STATE OFFENDER DNA             .00         200.00
+      130.00      TRAFFIC/CRIMINAL SU             .00         130.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+         .00      FINES                           .00            .00
+       52.00      VICTIMS FUND-FINE               .00          52.00
+     1658.42      COLLECTION FEES                 .00        1658.42
+      721.05      LATE FEES                       .00         721.05
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  ARMED ROBBERY/ARMED W/FIREARM
+
+         2  ARMED ROBBERY/NO FIREARM
+
+         3  AGGRAVATED ROBBERY
+
+         4  ROBBERY
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   08-26-11                 Charge 01 Count 001 ARMED ROBBERY/ARMED W/FIREARM
+                            Statute 720 5/18-2(a)(2)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 ARMED ROBBERY/NO FIREARM
+                            Statute 720 5/18-2(a)(1)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 03 Count 003 AGGRAVATED ROBBERY
+                            Statute 720 5/18-5(a)  Class 1  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Created and properly labeled permanent case file.
+                            Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel.  Bond set in the amount of $1
+50,000-ROR DENED.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.  See
+                            expanded record.
+                            Notice of arrest without warrant filed
+                            Companion Charge
+   08-30-11                 Expanded record of arraignment proceedings.
+                            Motion by the Defendant for Court Appointed counsel.
+ Motion allowed.
+                            The Champaign County Public Defender is appointed an
+d Stephanie Corum
+                            appears instanter.  Defendant waives preliminary hea
+ring, enters a
+                            plea of not guilty and requests trial by jury.  Pre-
+trial orders
+                            entered. Motion by the Defendant to reduce bond. Mot
+ion denied. Bond
+                            to continue.  See expanded record.  Defendant is adm
+onished as to
+                            trial and sentencing in absentia.
+   09-12-11                 Discovery filed
+   09-27-11                 Answer to Discovery filed
+   10-03-11                 Motion to Continue Trial filed.
+   10-04-11
+                            Appearance of the State's Attorney.  Defendant is in
+                            custody.   Appearance by the Defendant by Counsel.
+                            Motion by the Defendant for Continuance.  Motion
+                            allowed.  Trial setting is vacated.  Cause reallotte
+d
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   11-15-11
+                            Appearance of the State's Attorney. Defendant is in
+                            custody and appears by counsel.
+   11-16-11                 Supplemental Discovery filed.
+   11-17-11                 Charge 04 Count 004 ROBBERY
+                            Statute 720 5/18-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   11-18-11
+                            People appear by Mr. Dill.  Defendant appears with c
+ounsel.  Cause is
+                            called for plea.  Motion by the defendant to continu
+e the matter for
+                            plea at a later date; no objection to the Motion by
+the People.
+                            Defendant's motion is allowed.  Cause is re-allotted
+ for plea.
+                            Defendant's bond is to continue.
+   12-05-11                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed ARMED ROBBERY/ARMED W/FIREARM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/18-2(a)(2)  Class X  Orig.
+                            Sentence: 12/05/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed ARMED ROBBERY/NO FIREARM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/18-2(a)(1)  Class X  Orig.
+                            Sentence: 12/05/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed AGGRAVATED ROBBERY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/18-5(a)  Class 1  Orig.
+                            Sentence: 12/05/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  Fine + Cost
+                            Disposition: Guilty ROBBERY
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/18-1(a)  Class 2  Orig.
+                            Sentence: 12/05/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees
+                            Sentence: Department Of Corrections  5Yrs
+                            Sentence: Credit Time Served  104Days
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Sentence: Count(s) dismissed.
+                            Sentence: Case(s) dismissed
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Sentence: Restitution
+                            Fine + Cost            457.00     *RESTITUTION AMOUN
+T   4150.00
+                             STATE OFFENDER DNA    200.00
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Adam M. Dill.  Appearanc
+e of the Defendant
+                            personally and by counsel, Amanda Riess.   Defendant
+ advised as to the
+                            nature of the proceedings, the charges and the possi
+ble penalties that
+                            may be imposed and the Court finds that the Defendan
+t understands the
+                            same.  Finding Defendant knowingly, understandingly
+and voluntarily
+                            waives rights and enters a plea of guilty to Count 0
+4 of the charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Robbery
+                            ILCS: 720 5/18-1(a) as charged. Judgment entered in
+favor of the
+                            People and against the defendant on finding of guilt
+ and for costs.
+                            All financial obligations shall be paid in equal mon
+thly installments
+                            to the Champaign County Circuit Clerk by  .  Any bon
+d posted is to be
+                            applied first to any court ordered bond assignment o
+n file and then to
+                            all restitution ordered and then to all financial ob
+ligations in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of
+                            incarceration of   5 years,    in the Illinois Depar
+tment of
+                            Corrections. Defendant is to receive credit for 104
+days previously
+                            served. The Defendant is to submit specimens of bloo
+d, saliva, or
+                            tissue to the Illinois Department of State Police or
+ to the Department
+                            of Corrections within 45 days, at a collection site
+designated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Count(s) stated
+                            in the written order are herby dismissed. Case Numbe
+r(s) stated in the
+                            written order are hereby dismissed.  Any bond posted
+ in said case(s)
+                            shall be transferred to the instant case and shall b
+e applied to any
+                            fines, fees, costs, assessments, and/or restitution
+imposed herein;
+                            any remaining bond shall be used to satisfy such oth
+er of the
+                            Defendant's Champaign County criminal or traffic cas
+es in which the
+                            Defendant owes an outstanding balance of fines, fees
+, costs,
+                            assessments and/or restitution. Defendant advised of
+ right to appeal
+                            and rights pursuant to Supreme Court Rule 605 and th
+e Court finds that
+                            the defendant understands the same.     Sentencing O
+rder entered.  See
+                            Order.  Defendant is remanded to the custody of the
+Champaign County
+                            Sheriff for transportation to the IL. Dept. of Corre
+ctions.
+                            Mittimus prepared.
+   12-08-11                 Restitution is J & S with Co-Defendant in 11 CF 1384
+   12-13-11                 Statement of State's Attorney filed
+   03-23-12                 Case sent out for collections.
+   04-12-12                 Notice of Acceptance in Impact Incarceration Program
+ filed.
+   08-15-12
+                            Restitution address for D Moore changed per state at
+torney victim
+                            witness services email of 8-14-2012.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

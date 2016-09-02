@@ -1,0 +1,503 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001045
+
+   Defendant Plaintiff
+MOORE  ALBERT D
+214 W BEARDSLEY
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 07/05/11
+                Court Room: F
+           Next Appearance: 05/05/14
+                Birth Date: 10/31/75
+                 DEFENDANT: MOORE  ALBERT D
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        4.00      VICTIMS FUND-NO FIN             .00           4.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+         .00      ST POLICE SERVICES              .00            .00
+       10.00      ST POLICE OPERATION             .00          10.00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+        4.00      VICTIMS FUND-NO FIN             .00           4.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       30.00      DOCUMENT STORAGE                .00          30.00
+       30.00      AUTOMATION                      .00          30.00
+      200.00      CIRCUIT CLERK FEE               .00         200.00
+       50.00      COURT SECURITY                  .00          50.00
+      100.00      COURT FINANCE FEE               .00         100.00
+       80.00      STATES ATTORNEY                 .00          80.00
+        4.00      STATES ATTORNEY AUT             .00           4.00
+       20.00      ARRESTEE'S MEDICAL              .00          20.00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       20.00      PROBATION OPER ASSI             .00          20.00
+       20.00      TRAFFIC/CRIMINAL SU             .00          20.00
+       20.00      CLERK OP & ADMIN FU             .00          20.00
+       10.00      DRUG COURT PROGRAM              .00          10.00
+      200.00      VIOLENT CRIME VICTI             .00         200.00
+       20.00      ST POLICE SERVICES              .00          20.00
+       20.00      ST POLICE OPERATION             .00          20.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118873625 01000000000                         .00        11/06/13
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  FAILURE REPORT ACCIDENT/INJURY
+
+         1  FAILURE REPORT ACCIDENT/INJURY
+
+         1  FAILURE REPORT ACCIDENT/INJURY
+
+         1  FAILURE REPORT ACCIDENT/INJURY
+
+         2  AGG FLEEING/2+ CON DEVICES
+
+         3  AGG FLEEING/2+ CON DEVICES
+
+         3  AGG FLEEING/2+ CON DEVICES
+
+         4  OBSTRUCT JUST/DESTROY EVIDENCE
+
+         4  OBSTRUCT JUST/DESTROY EVIDENCE
+
+         4  OBSTRUCT JUST/DESTROY EVIDENCE
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   07-05-11                 Charge 01 Count 001 FAILURE REPORT ACCIDENT/INJURY
+                            Statute 625 5/11-401(b)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Statute 625 5/11-204.1(a)(4)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            NO BOND No Bond
+                            Charge 03 Count 003 AGG FLEEING/2+ CON DEVICES
+                            Statute 625 5/11-204.1(a)(4)  Class 4  Orig.
+                            Agency: ILLINOIS STATE POLICE DISTRICT  Charge Instr
+: Information
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned.  Public Defender is appointe
+d and Janie
+                            Miller-Jones appears instanter.  Defendant requests
+Preliminary
+                            hearing. Bond of $75,000 to continue. Defendant is a
+dmonished as to
+                            trial and sentencing in absentia.  See expanded reco
+rd.
+                            Cause allotted for pre-trial on
+                            Notice of arrest without warrant on file.
+                            Companion Charge
+   07-13-11                 Subpoena Served.  No Fees.
+   07-14-11                 Expanded record of arraignment proceedings.
+                            Defendant appears in custody and Randy Rosenbaum app
+ears on his
+                            behalf. Defendant waives preliminary hearing, enters
+ a plea of not
+                            guilty and requests trial by jury.  Pre-trial orders
+ entered. Bond to
+                            continue.
+   07-21-11                 Answer to Discovery filed
+                            Discovery filed
+   08-08-11
+                            Written Substitution of Counsel on file and allowed.
+  Court vacates
+                            the appointment of the Public Defender's office as c
+ounsel for the
+                            Defendant and W. Ding is attorney of record.  See OR
+DER.
+                            Defendant's motion for pre-trial.  Motion allowed.
+                            Representation the defendant is in custody.
+   08-15-11
+                            Representation the defendant is in custody.
+                            Defendant's motion for pre-trial.  Motion allowed.
+Court Clerk
+                            emailed the jail this date.
+   09-19-11
+                            Defendant appears in custody.
+                            Defendant ordered to appear.
+   10-04-11
+                            Defendant ordered to appear.
+   10-18-11                 Charge 04 Count 004 OBSTRUCT JUST/DESTROY EVIDENCE
+                            Statute 720 5/31-4(a)  Class 4  Orig.
+                            Agency: ILLINOIS STATE POLICE DISTRICT  Charge Instr
+: Information
+                            Subpoena not found.
+   10-19-11                 Subpoena not served.
+   10-20-11
+                            People appear by Claire L. Sharples Brooks.  Defenda
+nt appears
+                            personally and with counsel, Walter Ding.  Defendant
+ is arraigned on
+                            Count IV this date and advised of the possible penal
+ties.  Motion by
+                            the Defendant for continuance.  Motion allowed.
+   10-26-11                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   11-03-11                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed FAILURE REPORT ACCIDENT/INJUR
+Y
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-401(b)  Class 2  Orig.
+                            Sentence: 11/03/2011
+                            Sentence: No Sentence
+                            Sentence: Jail  125Days
+                            Sentence: Credit Time Served  125Days
+                            Sentence: Incarceration is not to be served pursuant
+ to CHIPS
+                            Sentence: Count(s) dismissed.
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            No Fine & Cost            .00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Disposition 01/02  Count 001  No Fine & Cost
+                            Disposition: Dismissed FAILURE REPORT ACCIDENT/INJUR
+Y
+                            Disposition Vacated: Dismissed
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-401(b)  Class 2  Orig.
+                            Sentence: 11/03/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+
+
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, Walter Ding
+.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 03 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Agg Fleeing/2+ Con Devices
+ILCS: 625
+                            5/11-204.1(a)(4) as charged. Judgment entered in fav
+or of the People
+                            and against the defendant on finding of guilt and fo
+r costs.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  5/02/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of incarceration of   days in the Champaign C
+ounty Correctional
+                            Center. Defendant is to receive credit for 125 days
+previously served.
+                            Defendant is ordered to serve a period of  30 months
+ probation.
+                            Count(s) stated in the written order are herby dismi
+ssed. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Disposition 04/00  Count 004  Cost Only
+                            Disposition: Guilty OBSTRUCT JUST/DESTROY EVIDENCE
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/31-4(a)  Class 4
+                            Sentence: 11/03/2011
+                            Sentence: Cost Only  In force
+                            Sentence: Jail  125Days In force
+                            Sentence: Credit Time Served  125Days In force
+                            Sentence: Incarceration is not to be served pursuant
+ to CHIPS  In forc
+                            Sentence: Probation  30Mos In force
+                                      Supervised Court Service
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              284.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Elizabeth A. Taylor.  Ap
+pearance of the
+                            Defendant personally and by counsel, Walter Ding.
+Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 04
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Obstruct Just/Destroy Evidence ILCS: 720
+5/31-4(a) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  5/02/2012.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of
+                            incarceration of   days in the Champaign County Corr
+ectional Center.
+                            Defendant is to receive credit for 125 days previous
+ly served.
+                            Defendant is ordered to serve a period of  30 months
+ probation.
+                            Count(s) stated in the written order are herby dismi
+ssed. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+   11-04-11                 Disposition 03/00  Count 003  Cost Only
+                            Disposition: Guilty AGG FLEEING/2+ CON DEVICES
+                            Disposition Vacated: Dismissed
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-204.1(a)(4)  Class 4  Orig.
+                            Sentence: 11/04/2011
+                            Sentence: Cost Only
+                            Sentence: Jail  125Days
+                            Sentence: Credit Time Served  125Days
+                            Sentence: Incarceration is not to be served pursuant
+ to CHIPS
+                            Sentence: Probation  30Mos
+                                      Supervised Court Service
+                            Sentence: Count(s) dismissed.
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Cost Only              284.00
+                            Payment Due
+   11-15-13                 Petition to Revoke Probation filed.
+   11-18-13                 Recognizance bond
+                            Defendant arraigned on the Petition to Revoke.
+                            People appear by Lindsey Clark.  Defendant appears a
+nd is arraigned on
+                            the Petition to Revoke filed November 15, 2013.  Wal
+ter Ding enters
+                            his appearance for the defendant.  Walter Ding appea
+rs with the
+                            Defendant.  Entry of appearance on file.  General de
+nial to the
+                            Petition to Revoke is entered.  Cause allotted for f
+urther proceedings
+                            on the petition to revoke on December 20, 2013 at 1:
+00 p.m. in
+                            Courtroom L.  Bond set in the amount of $5,000-ROR a
+llowed.
+                            Recognizance bond form on file.
+   12-20-13                 Resentencing on petition to revoke.
+                            People/Petitioner appear by Elizabeth A. Dornik.  De
+fendant/Respondent
+                            appears personally and with counsel, Walter Ding.
+                            Defendant/Respondent advised as to the nature of the
+ proceedings and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the defendant/respondent understands the same.  Find
+ing
+                            defendant/respondent knowingly, understandingly and
+voluntarily
+                            stipulates and admits to the allegations contained i
+n the Petition to
+                            Revoke.  Finding the same are true.  The court finds
+ that the
+                            defendant/respondent has violated the terms of his s
+entence.  Finding
+                            entered in favor of the people/petitioner and agains
+t
+                            defendant/respondent.
+                            Order for sentencing report.
+                            Champaign County Court Services Department to prepar
+e an updated
+                            pre-sentence report and provide copies to the Court
+and Counsel at
+                            least 3 days prior to the hearing.  Defendant's Bond
+ order is to
+                            continue.  Defendant is ordered to report to the Cou
+rt Services
+                            Department this date.  Defendant is admonished as to
+ sentencing in
+                            absentia.  Order (Open Stipulation to PTR) entered t
+his date."
+                            Affidavit of Mailing of TASC Report order filed.
+   02-18-14                 Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Defendant is ordered to report for commencement of s
+entence
+                            Disposition 03/01  Count 003  Cost Only
+                            Disposition: Revocation/Vacate/Probation AGG FLEEING
+/2+ CON DEVICES
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 625 5/11-204.1(a)(4)  Class 4
+                            Sentence: 02/18/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  4Yrs In force
+                            Sentence: Credit Time Served  125Days In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              282.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Disposition 04/01  Count 004  Cost Only
+                            Disposition: Revocation/Vacate/Probation OBSTRUCT JU
+ST/DESTROY EVIDENC
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/31-4(a)  Class 4
+                            Sentence: 02/18/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  4Yrs In force
+                            Sentence: Credit Time Served  125Days In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              282.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Resentencing Order
+                            COUNTS 3 AND 4
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel, Walter Ding.  C
+ause called for
+                            sentencing hearing.  Statements of counsel heard.  S
+tatement of the
+                            defendant heard.  All financial obligations shall be
+ paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk by
+                            8/18/2014.  Any bond posted is to be applied first t
+o any court
+                            ordered bond assignment on file and then to all rest
+itution ordered
+                            and then to all financial obligations in this case.
+ Any remaining
+                            bond shall be discharged to the individual who poste
+d the bond.
+                            Defendant is ordered to serve a period of incarcerat
+ion of 4 years in
+                            the Illinois Department of Corrections. Defendant is
+ to receive credit
+                            for 125 days previously served. Defendant advised of
+ right to appeal
+                            and rights pursuant to Supreme Court Rule 605 and th
+e Court finds that
+                            the defendant understands the same.
+                            Disposition 04/02  Count 004  Modified Order
+                            Disposition: Modified/Trial Court OBSTRUCT JUST/DEST
+ROY EVIDENCE
+                            Modified Order         824.00
+   02-24-14
+                            Defendant remanded to the custody of the Sheriff to
+begin sentence
+                            previously imposed.
+                            Mittimus prepared.
+   04-01-14                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   04-03-14                 Disposition sent through ADR process this date. SPT
+   12-03-14                 Payment Due
+   12-10-14                 Mittimus prepared.
+                            Mittimus prepared.
+   12-11-14                 Mittimus prepared.
+                            Amended Judgment-Sentence to IDOC on file.
+   12-12-14                 Certificate of mailing prepared.
+   03-18-15                 Statement of State's Attorney filed
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

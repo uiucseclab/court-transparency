@@ -1,0 +1,251 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000514
+
+   Defendant Plaintiff
+SMITH  JERRY
+12010 W DUBLIN
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 04/01/11
+                Court Room:
+           Next Appearance: 10/31/11
+                Birth Date: 02/21/58
+                 DEFENDANT: SMITH  JERRY
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+         .00      BOND -10% BOND FEE              .00            .00
+      493.00      *RESTITUTION AMOUNT             .00         493.00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        4.00      VICTIMS FUND-NO FIN             .00           4.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+       37.00      SHERIFF FEES                    .00          37.00
+      280.83      COLLECTION FEES                 .00         280.83
+      122.10      LATE FEES                       .00         122.10
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117555422 SHERIFF'S BOOKING FEE             20.00        07/14/11
+   117555422 BOND - ORIGINAL                  500.00        07/14/11
+   117695953 *BOND REFUND                     500.00        10/26/11
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  BURGLARY
+
+         2  BAD CHECK/>$150 OR 2ND OFFENSE
+
+         3  RECIPIENT FRD/STATUS $150<1000
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   04-01-11                 Charge 01 Count 001 BURGLARY
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 03 Count 003 RECIPIENT FRD/STATUS $150<1000
+                            Statute 720 5/17-1(B)(d)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 03 Count 003 RECIPIENT FRD/STATUS $150<1000
+                            Statute 305 5/8A-2(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 BAD CHECK/>$150 OR 2ND OFFENSE
+                            Statute 720 5/17-1(B)(d)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 03 Count 003 RECIPIENT FRD/STATUS $150<1000
+                            Statute 305 5/8A-2(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+
+                            Verified information on file.
+   04-07-11                 Summons returned, not found
+   04-11-11                 Summons returned, not found
+   04-15-11                 Warrant - expanded record of arraignment proceedings
+.
+                            Summons on file showing Defendant NOT FOUND.Verified
+ information on
+                            file.  Witness sworn.  Evidence heard.  Probable cau
+se to arrest
+                            determined, warrant issued.  Bond set in the amount
+of $25,000.00.
+                            Warrant issued.
+   07-11-11                 Expanded record of arraignment proceedings.
+                            Defendant arraigned. Defendant is admonished as to E
+XTENDED TERM
+                            SENTENCING on COUNT I.  The Champaign County Public
+Defender is
+                            appointed and appears instanter.  Defendant waives p
+reliminary
+                            hearing, enters a plea of not guilty and requests tr
+ial by jury.
+                            Pre-trial orders entered. Motion by the Defendant to
+ reduce bond.
+                            Objection by the People. Over objection motion is al
+lowed. Bond is
+                            reduced to $5,000-ROR DENIED. Defendant is admonishe
+d as to trial and
+                            sentencing in absentia. See expanded record.
+                            Warrant served. Service fees $37.00
+   07-14-11                 Sheriff Booking Fee
+                            Discovery filed
+   07-18-11                 Answer to Discovery filed
+   09-06-11
+                            Assistant State's Attorney Sarah Carlson appears for
+ the People.
+                            Defendant is in custody.  Assistant Public Defender
+Melinda
+                            Licciardello appears.  Defendant surrenders himself
+on the bond
+                            previously established in this cause.  Defendant is
+remanded to the
+                            custody of the Champaign County Sheriff.  Bond is re
+set in the amount
+                            of $10,000.  Cause continued for pretrial 9:00 a.m.,
+ 10/11/2011 in
+                            Courtroom A.
+   10-11-11
+                            Appearance of the State's Attorney. Defendant is in
+                            custody and appears by counsel.
+   10-19-11                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Sentence: 10/19/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed BAD CHECK/>$150 OR 2ND OFFENS
+E
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/17-1(B)(d)  Class 4  Orig.
+                            Sentence: 10/19/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  Cost Only
+                            Disposition: Guilty RECIPIENT FRD/STATUS $150<1000
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 305 5/8A-2(a)  Class 4  Orig.
+                            Sentence: 10/19/2011
+                            Sentence: Cost Only
+                            Sentence: Department Of Corrections  3Yrs
+                            Sentence: Credit Time Served  56Days
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Sentence: Count(s) dismissed.
+                            Sentence: Case(s) dismissed
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Cost Only              321.00     *RESTITUTION AMOUN
+T    493.00
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, Randy Rosenbaum
+.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 03 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Recipient Frd/Status $150<1
+000 ILCS: 305
+                            5/8A-2(a) as charged. Judgment entered in favor of t
+he People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  .  Any bond p
+osted is to be
+                            applied first to any court ordered bond assignment o
+n file and then to
+                            all restitution ordered and then to all financial ob
+ligations in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of
+                            incarceration of   3 years,   months in the Illinois
+ Department of
+                            Corrections. Defendant is to receive credit for  56
+days previously
+                            served. The Defendant is to submit specimens of bloo
+d, saliva, or
+                            tissue to the Illinois Department of State Police or
+ to the Department
+                            of Corrections within 45 days, at a collection site
+designated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Count(s) stated
+                            in the written order are herby dismissed. Case Numbe
+r(s) stated in the
+                            written order are herby dismissed.  Any bond posted
+in said case(s)
+                            shall be transferred to the instant case and shall b
+e applied to any
+                            fines, fees, costs, assessments, and/or restitution
+imposed herein;
+                            any remaining bond shall be used to satisfy such oth
+er of the
+                            Defendant's Champaign County criminal or traffic cas
+es in which the
+                            Defendant owes an outstanding balance of fines, fees
+, costs,
+                            assessments and/or restitution. Defendant advised of
+ right to appeal
+                            and rights pursuant to Supreme Court Rule 605 and th
+e Court finds that
+                            the defendant understands the same.
+   10-26-11                 Bond
+                            Statement of State's Attorney filed
+   02-07-12                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

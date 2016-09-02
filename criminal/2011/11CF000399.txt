@@ -1,0 +1,447 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000399
+
+   Defendant Plaintiff
+PARKS  NICHOLAS R
+307 E ILLINOIS
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 03/14/11
+                Court Room:
+           Next Appearance: 06/08/15
+                Birth Date: 11/13/78
+                 DEFENDANT: PARKS  NICHOLAS R
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       45.00      BOND -10% BOND FEE            45.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+      600.00      PROBATION MONITORIN          600.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      200.00       STATE OFFENDER DNA          200.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      880.00      TRAFFIC/CRIMINAL SU          880.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+     2000.00      FINES                       2000.00            .00
+      200.00      DUI NEW EQUIPMENT F          200.00            .00
+      352.00      VICTIMS FUND-FINE            352.00            .00
+      352.00      DRIVERS EDUCATION            352.00            .00
+      800.00      DUI - 80% IL GENERA          800.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117391080 SHERIFF'S BOOKING FEE             20.00        03/22/11
+   117391080 BOND - ORIGINAL                  150.00        03/22/11
+   117468916 BOND TRANSFERS IN                300.00        05/13/11
+   117561867 BOND -10% BOND FEE                45.00        07/19/11
+   117561867 DOCUMENT STORAGE                   5.00        07/19/11
+   117561867 AUTOMATION                        10.00        07/19/11
+   117561867 CIRCUIT CLERK FEE                100.00        07/19/11
+   117561867 COURT SECURITY                    25.00        07/19/11
+   117561867 ARRESTEE'S MEDICAL                10.00        07/19/11
+   117561867 COURT FINANCE FEE                 50.00        07/19/11
+   117561867 STATES ATTORNEY                   40.00        07/19/11
+   117561867 CRIME STOPPERS                    10.00        07/19/11
+   117561867 PROBATION MONITORING FEE          25.00        07/19/11
+   117561867 SPINAL CORD RESEARCH FUN           5.00        07/19/11
+   117561867  STATE OFFENDER DNA ID S         125.00        07/19/11
+   117737336 PROBATION MONITORING FEE          25.00        11/28/11
+   117737336  STATE OFFENDER DNA ID S          75.00        11/28/11
+   117788306 PROBATION MONITORING FEE          25.00        01/09/12
+   117788306 TRAUMA FUND                       25.00        01/09/12
+   117805327 PROBATION MONITORING FEE          25.00        01/23/12
+   117805327 TRAUMA FUND                       25.00        01/23/12
+   117823129 PROBATION MONITORING FEE          60.00        02/06/12
+   117841921 PROBATION MONITORING FEE          25.00        02/21/12
+   117841921 TRAUMA FUND                       35.00        02/21/12
+   117863131 PROBATION MONITORING FEE          25.00        03/05/12
+   117863131 TRAUMA FUND                       15.00        03/05/12
+   117863131 TR/CR SUR $10/$40                 10.00        03/05/12
+   117882332 PROBATION MONITORING FEE          25.00        03/19/12
+   117882332 TR/CR SUR $10/$40                 75.00        03/19/12
+   117902020 PROBATION MONITORING FEE          50.00        04/02/12
+   117919746 PROBATION MONITORING FEE          25.00        04/16/12
+   117919746 TR/CR SUR $10/$40                 75.00        04/16/12
+   117938565 PROBATION MONITORING FEE          25.00        04/30/12
+   117938565 TR/CR SUR $10/$40                 75.00        04/30/12
+   117957779 PROBATION MONITORING FEE         100.00        05/14/12
+   117983597 PROBATION MONITORING FEE          25.00        06/04/12
+   117983597 TR/CR SUR $10/$40                 75.00        06/04/12
+   118028939 PROBATION MONITORING FEE          25.00        07/09/12
+   118028939 TR/CR SUR $10/$40                125.00        07/09/12
+   118033616 PROBATION MONITORING FEE          25.00        07/12/12
+   118033616 TR/CR SUR $10/$40                 25.00        07/12/12
+   118471647 PROBATION MONITORING FEE          50.00        03/06/13
+   118534465 PROBATION MONITORING FEE          40.00        04/15/13
+   118534465 TR/CR SUR $10/$40                 60.00        04/15/13
+   118584815 TR/CR SUR $10/$40                150.00        05/15/13
+   118788998 TR/CR SUR $10/$40                100.00        09/18/13
+   118881125 TR/CR SUR $10/$40                 50.00        11/13/13
+   120889873 TR/CR SUR $10/$40                 60.00        01/22/14
+   120889873 CLERK OP & ADMIN-SERIOUS           5.00        01/22/14
+   120889873 CLERK OP & ADMIN FUND             10.00        01/22/14
+   120934626 DRUG COURT PROGRAM                 5.00        02/19/14
+   120934626 FINES                             95.00        02/19/14
+   120985988 FINES                             65.00        03/19/14
+   121152652 FINES                             60.00        06/25/14
+   121187734 FINES                             60.00        07/16/14
+   121264254 FINES                            100.00        08/27/14
+   121292376 FINES                             50.00        09/11/14
+   121317405 FINES                             50.00        09/25/14
+   121347084 FINES                             80.00        10/14/14
+   121350185 FINES                             50.00        10/16/14
+   121518291 FINES                             90.00        01/29/15
+   121594021 FINES                           1300.00        03/12/15
+   121594021 DUI NEW EQUIPMENT FINE           200.00        03/12/15
+   121594021 VICTIMS FUND-FINE                352.00        03/12/15
+   121594021 DRIVERS EDUCATION                148.00        03/12/15
+   121654461 DRIVERS EDUCATION                204.00        04/16/15
+   121654461 DUI - IL GENERAL REVENUE         800.00        04/16/15
+   121654461 FIRE PREVENTION FUND              15.00        04/16/15
+   121654461 FIRE TRUCK REVOLVING LOA          15.00        04/16/15
+   121654461 ST POLICE SERVICES FUND           10.00        04/16/15
+   121654461 ST POLICE OPERATIONS ASS          10.00        04/16/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AGG DUI/3
+
+         1  AGG DUI/3
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   03-14-11                 Charge 01 Count 001 AGG DUI/3
+                            Statute 625 5/11-501(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Anthony Ortega appears instanter.  Def
+endant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond to continue a
+s posted.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. See
+                            expanded record.
+   03-22-11                 Sheriff Booking Fee
+   03-24-11                 Discovery filed
+   03-25-11                 Answer to Discovery filed
+   04-04-11                 Supplemental Discovery filed
+   04-26-11
+                            People appear by Andrea I. Bergstrom.  Defendant app
+ears with counsel.
+                            Defendant tenders a plea of guilty in this matter.
+Defendant ordered
+                            to report to the Court Services Department to make a
+rrangements for a
+                            pre-sentence report for sentencing hearing.  Defenda
+nt further ordered
+                            to contact an agency licensed by the State of Illino
+is to make
+                            arrangements for preparation of a substance abuse ev
+aluation for
+                            sentencing.  Evaluation to be on file at least 3 day
+s prior to said
+                            hearing.  Written order for sentencing report entere
+d.  Bond to
+                            continue.  Defendant is admonished as to the possibi
+lity of sentencing
+                            in absentia.
+                            Court Services to make arrangements for preparation
+of a
+                            pre-sentence report for sentencing hearing.
+   05-13-11                 Bond Type Transfer Bond From    2011DT000133 PARKS N
+ICHOLAS R
+                            Drug and Alcohol evaluation on file
+   05-18-11
+                            TASC report on file this date.
+   06-06-11
+                            Evidence to be Introduced in Mitigation at Sentencin
+g filed.
+   06-08-11                 Disposition #1/00  Count 001  Fine + Cost
+                            Disposition: Guilty AGG DUI/3
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 625 5/11-501(a)  Class 2  Orig.
+                            Sentence: 06/08/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  48Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  180Days In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           5044.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    600.00      STATE OFFENDER DN
+A    200.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, Katie L. Jessup
+.  Cause called
+                            for sentencing hearing.  Statements of counsel heard
+.  Statement of
+                            the defendant heard.  Defendant is ordered to pay a
+fine of $3,500.00
+                            and court costs and all other financial obligations
+governed by
+                            statute.  All financial obligations shall be paid in
+ equal monthly
+                            installments to the Champaign County Circuit Clerk b
+y  5/28/2013.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  D
+efendant is
+                            ordered to serve a period of  48 months subject to a
+ll the conditions
+                            of the DRUG COURT PROBATION.   Defendant is ordered
+to serve a period
+                            of incarceration of 180 days in the Champaign County
+ Correctional
+                            Center. Defendant is to receive credit for   1 day
+previously served.
+                            Balance is to be served at the discretion of the Dru
+g Court Judge.
+                            Defendant is ordered to appear at 1:00 p.m. on June
+13, 2011 in
+                            Courtroom K.  Defendant advised of right to appeal a
+nd rights pursuant
+                            to Supreme Court Rule 605 and the Court finds that t
+he defendant
+                            understands the same.
+                            Defendant is ordered to report to the Court Services
+ Dept. this date
+                            for drug testing.
+                            Defendant is to appear for Drug Court.
+   06-13-11                 Order of Conditions.
+                            Defendant is advised as to the conditions of the Dru
+g Court Program.
+                            Defendant states that he understands the program and
+ signs the Drug
+                            Court Certificate of Probation in open Court this da
+te.  Defendant
+                            ordered to contact Prairie Center to schedule an ass
+essment.
+                            Defendant is ordered to report to Court Services Dep
+t. this date for
+                            drug testing.
+   06-20-11
+                            Review hearing had.  The Defendant is to report to C
+ourt Services this
+                            date for drug testing.
+   06-27-11
+                            Review hearing had.  The Defendant is to report to C
+ourt Services this
+                            date for drug testing.
+   07-01-11                 Report of Felony Conviction prepared / mailed.
+                            ISP Supplemental Court Disposition prepared and mail
+ed.
+   07-05-11
+                            Review hearing had.  The Defendant is to report to C
+ourt Services this
+                            date for drug testing.
+   07-18-11
+                            Review hearing had.  The Defendant is to report to C
+ourt Services this
+                            date for drug testing.
+   07-19-11                 Bond
+   07-25-11
+                            Review hearing had.  The Defendant is to report to C
+ourt Services this
+                            date for drug testing.
+   08-01-11
+                            Review hearing had.  The Defendant is to report to C
+ourt Services this
+                            date for drug testing.
+   08-08-11
+                            Review hearing had.  The Defendant is to report to C
+ourt Services this
+                            date for drug testing.
+   08-15-11
+                            Review hearing had.  The Defendant is to report to C
+ourt Services this
+                            date for drug testing.
+   08-22-11
+                            Review hearing had.  The Defendant is to report to C
+ourt Services this
+                            date for drug testing.
+   08-29-11
+                            Review hearing had.  The Defendant is to report to C
+ourt Services this
+                            date for drug testing.
+   09-12-11
+                            Review hearing had.
+   09-19-11
+                            Review hearing had.
+   09-26-11
+                            Review hearing had.  The Defendant is to report to C
+ourt Services this
+                            date for drug testing.
+   10-03-11
+                            Review hearing had.
+   10-17-11                 Order for Public Service Work.
+                            Review hearing had.  Defendant is ordered to perform
+ 5 hours of public
+                            service work.  Written order for Public Service Work
+ entered.
+                            Defendant is ordered to report to the Court Services
+ Department this
+                            date for drug testing.
+   10-24-11
+                            Review hearing had.
+   10-28-11                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   10-31-11
+                            Review hearing had.  The Defendant is to report to C
+ourt Services this
+                            date for drug testing.
+   11-14-11
+                            Review hearing had.
+   11-28-11
+                            Review hearing had.
+                            Court Ordered Payments
+   12-12-11
+                            Review hearing had.
+
+                            Defendant is ordered to appear at the Drug Court gra
+duation on
+                            12/19/2011 at 2:00 p.m.
+   01-09-12
+                            Review hearing had.
+                            Court Ordered Payments
+   01-23-12
+                            Review hearing had.
+                            Court Ordered Payments
+   02-06-12
+                            Review hearing had.
+                            Court Ordered Payments
+   02-21-12                 Court Ordered Payments
+
+                            Review hearing had.
+   03-05-12
+                            Review hearing had.
+                            Court Ordered Payments
+   03-19-12                 Court Ordered Payments
+
+                            Review hearing had.
+   04-02-12                 Court Ordered Payments
+
+                            Review hearing had.
+   04-16-12                 Court Ordered Payments
+
+                            Review hearing had.
+   04-30-12                 Court Ordered Payments
+
+                            Review hearing had.
+   05-14-12                 Court Ordered Payments
+
+                            Review hearing had.  The Defendant is to report to C
+ourt Services this
+                            date for drug testing.
+   06-04-12                 Court Ordered Payments
+
+                            Review hearing had.
+   06-18-12
+                            Defendant has successfully completed all qualificati
+ons of the Drug
+                            Court Program and graduates this date.  Cause contin
+ued for period of
+                            probation.
+   07-09-12                 Court Ordered Payments
+   07-12-12                 Court Ordered Payments
+   07-16-12
+                            People appear by SARAH CARLSON.
+                            Defendant appears.
+                            Defendant is to be given credit for 125 hours of pub
+lic service work
+                            for time spent in treatment for Drug Court.  He is t
+o be credited at
+                            $4.00 per hour.  Defendant is to receive credit of $
+500 toward the
+                            fine in this case.
+                            Defendant is to be credited $600 toward his Probatio
+n Service Fee for
+                            graduating the Drug Court Program.
+                            Amended Order of Conditions entered.  See ORDER.
+   03-06-13                 Court Ordered Payments
+   04-15-13                 Court Ordered Payments
+   05-15-13                 Court Ordered Payments
+   09-18-13                 Court Ordered Payments
+   11-13-13                 Court Ordered Payments
+   01-22-14                 Court Ordered Payments
+   02-19-14                 Court Ordered Payments
+   03-19-14                 Court Ordered Payments
+   06-25-14                 Court Ordered Payments
+   07-16-14                 Court Ordered Payments
+   08-27-14                 Court Ordered Payments
+   09-11-14                 Court Ordered Payments
+   09-25-14                 Court Ordered Payments
+   10-14-14                 Court Ordered Payments
+   10-16-14                 Court Ordered Payments
+   01-29-15                 Court Ordered Payments
+   03-12-15                 Cash
+   04-16-15                 Cash
+   04-27-15                 Written order of Discharge from probation entered.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Probation Terminated AGG DUI/3
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 2
+                            Sentence: 04/27/2015
+                            Sentence: No Sentence  In force
+   04-28-15                 All obligations have been met, case is closed.
+   05-04-15                 Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,511 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001622
+
+   Defendant Plaintiff
+DECKER  LEANA M
+710 HARPER ST
+MARION IL 62959
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 10/03/11
+                Court Room:
+           Next Appearance: 01/09/15
+                Birth Date: 06/29/88
+                 DEFENDANT: DECKER  LEANA M
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       25.00      BOND -10% BOND FEE            25.00            .00
+        2.00      NOTICES MAILED 1ST             2.00            .00
+      223.00      BOND FORFEITURE              223.00            .00
+         .00                                      .00            .00
+         .00      BOND -10% BOND FEE              .00            .00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       15.00      PROBATION MONITORIN             .00         360.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       40.00      MOTION TO VACATE                .00          40.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+         .00      SP MERIT BOARD                  .00            .00
+      250.00       STATE OFFENDER DNA             .00         250.00
+      100.00      TRAUMA FUND                     .00         100.00
+      250.00      TRAFFIC/CRIMINAL SU             .00         250.00
+        5.00      CLERK OP & ADMIN-SE             .00           5.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      146.15      SHERIFF FEES                    .00         146.15
+         .00      FINES                           .00            .00
+      200.00      DUI NEW EQUIPMENT F             .00         200.00
+         .00      NOTICES MAILED 1ST              .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+      100.00      DRIVERS EDUCATION               .00         100.00
+      580.00      DUI - 80% IL GENERA             .00         580.00
+       15.00      FIRE PREVENTION FUN             .00          15.00
+       15.00      FIRE TRUCK REVOLVIN             .00          15.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      DOCUMENT STORAGE               5.00           5.00
+       20.00      AUTOMATION                    10.00          10.00
+      200.00      CIRCUIT CLERK FEE            100.00         100.00
+       50.00      COURT SECURITY                 5.00          45.00
+      100.00      COURT FINANCE FEE               .00         100.00
+       80.00      STATES ATTORNEY                 .00          80.00
+        4.00      STATES ATTORNEY AUT             .00           4.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       20.00      ARRESTEE'S MEDICAL              .00          20.00
+      360.00      PROBATION MONITORIN             .00         360.00
+       20.00      PROBATION OPER ASSI             .00          20.00
+       40.00      MOTION TO VACATE                .00          40.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+      100.00      TRAUMA FUND                     .00         100.00
+      260.00      TRAFFIC/CRIMINAL SU             .00         260.00
+        5.00      CLERK OP & ADMIN-SE             .00           5.00
+       20.00      CLERK OP & ADMIN FU             .00          20.00
+       10.00      DRUG COURT PROGRAM              .00          10.00
+      146.15      SHERIFF FEES                    .00         146.15
+      200.00      DUI NEW EQUIPMENT F             .00         200.00
+      200.00      VIOLENT CRIME VICTI             .00         200.00
+      100.00      DRIVERS EDUCATION               .00         100.00
+      580.00      DUI - IL GENERAL RE             .00         580.00
+       15.00      FIRE PREVENTION FUN             .00          15.00
+       15.00      FIRE TRUCK REVOLVIN             .00          15.00
+       20.00      ST POLICE SERVICES              .00          20.00
+      945.35      COLLECTION FEES                 .00         945.35
+      411.02      LATE FEES                       .00         411.02
+       20.00      ST POLICE OPERATION             .00          20.00
+         .00      BOND -10% BOND FEE              .00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                 5.00          20.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       10.00      PROBATION OPER ASSI             .00          10.00
+         .00      SPINAL CORD RESEARC             .00            .00
+         .00      SP MERIT BOARD                  .00            .00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117674051 SHERIFF'S BOOKING FEE             20.00        10/11/11
+   117674051 BOND - ORIGINAL                  250.00        10/11/11
+   117794807 BOND -10% BOND FEE                25.00        01/13/12
+   117794807 NOTICES MAILED 1ST CLASS           2.00        01/13/12
+   117794807 BOND FORFEITURE                  223.00        01/13/12
+   118514648 DOCUMENT STORAGE                   5.00        04/03/13
+   118514648 AUTOMATION                        10.00        04/03/13
+   118514648 CIRCUIT CLERK FEE                  5.00        04/03/13
+   118673852 CIRCUIT CLERK FEE                 40.00        07/09/13
+   118882299 CIRCUIT CLERK FEE                 20.00        11/13/13
+   120917953 CIRCUIT CLERK FEE                 20.00        02/07/14
+   120953291 CIRCUIT CLERK FEE                 15.00        02/28/14
+   120953291 COURT SECURITY                     5.00        02/28/14
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  DUI LIC SUSP OR REVOKED
+
+         1  DUI LIC SUSP OR REVOKED
+
+         1  DUI LIC SUSP OR REVOKED
+
+         1  DUI LIC SUSP OR REVOKED
+
+         1  DUI LIC SUSP OR REVOKED
+
+         2  DRIVING RVK/SUSP DUI/SSS 2ND
+
+         2  DRIVING RVK/SUSP DUI/SSS 2ND
+
+         3  POSS AMT CON SUB EXCEPT(A)/(D)
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   10-03-11                 Charge 01 Count 001 DUI LIC SUSP OR REVOKED
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 DRIVING RVK/SUSP DUI/SSS 2ND
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Agency: ILLINOIS STATE POLICE DISTRICT  Charge Instr
+: Information
+                            NO BOND No Bond
+                            Charge 03 Count 003 POSS AMT CON SUB EXCEPT(A)/(D)
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Agency: ILLINOIS STATE POLICE DISTRICT  Charge Instr
+: Information
+                            NO BOND No Bond
+                            Created and properly labeled permanent case file.
+                            Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and R.ROSENBAUM appears instanter.  Defend
+ant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  See expanded recor
+d.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+                            BOND IS REDUCED TO $2500 ROR IS DENIED.
+                            Notice of arrest without warrant on file.
+   10-11-11                 Sheriff Booking Fee
+   10-19-11                 Discovery filed
+                            Answer to Discovery filed
+   11-09-11                 Citation number 7329900 filed this date by Illinois
+State Police. As
+                            Per the request of the State's Attorney's Office, th
+e charge of
+                            Driving Under the Influence of Any Amount of Drug is
+ filed in
+                            11CF1622.
+   11-15-11                 Warrant issued.
+                            People appear by Christopher Kanis.  Appearance of C
+hristopher A.
+                            Mellon on behalf of the Defendant.  No appearance by
+ Defendant as
+                            previously ordered by the Court.  Motion by People f
+or bond forfeiture
+                            and warrant. Objection by counsel for Defendant.  Mo
+tion is allowed.
+                            Defendant's bond is forfeited.  Warrant issued with
+bond set in the
+                            amount of $25,000.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+   11-16-11                 Bond forfeiture notice prepared and mailed.
+   01-11-12
+                            People appear by Mr. Rosenberg.  Defendant appears b
+y Mr. Mellon.
+                            Cause is called for hearing.  Motion by the defendan
+t to vacate the
+                            bond forfeiture.  Arguments heard.  Motion is denied
+.  Bond Forfeiture
+                            entered in favor of the People and against the Defen
+dant.  Court notes
+                            the warrant remains outstanding.
+
+                            Proof of Notice of Hearing by mail on file and appro
+ved.  Judgment is
+                            entered on the forfeiture.  Defendant's bond posted
+to apply.
+                            Disposition 01/00  Count 001  Bond Forfeiture
+                            Disposition: Judgment on Forfeiture DUI LIC SUSP OR
+REVOKED
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Sentence: 01/11/2012
+                            Sentence: No Sentence
+                            Bond Forfeiture        248.00     NOTICES MAILED 1ST
+       2.00
+   01-13-12                 Bond
+   11-11-12                 Progress Report from Gateway Foundation on file
+   12-03-12                 Expanded record of arraignment proceedings.
+                            Pam Burnside appears on behalf of the Defendant. Cau
+se is re-allotted
+                            for Felony Pre-trial. Bond is to continue.  See expa
+nded record.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.
+   12-05-12                 Warrant served. Service fees $146.15
+   12-19-12                 Supplemental Discovery filed
+   01-02-13                 Agreed plea - set over for sentencing
+                            COUNT I:
+                            Appearance of the People by Matthew P. Banach.  Appe
+arance of the
+                            Defendant in custody and by counsel, Christopher A.
+Mellon.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Dui Lic Susp Or Revoked ILC
+S: 625 5/11-501(a)
+                            as charged.   Cause allotted for sentencing confirma
+tion on January
+                            09, 2013 at 08:30 AM in Courtroom E.  Defendant is o
+rdered to appear
+                            and is advised of sentencing in absentia.  Defendant
+ is ordered to
+                            obtain a substance abuse evaluation prior to the hea
+ring.  Waiver of
+                            Jury on file.
+                            Disposition 01/01  Count 001  Awaiting Sentencing
+                            Disposition: Guilty DUI LIC SUSP OR REVOKED
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Agreed plea - set over for sentencing
+                            COUNT II:
+                            Appearance of the People by Matthew P. Banach.  Appe
+arance of the
+                            Defendant personally and by counsel, Christopher A.
+Mellon.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Driving Rvk/Susp Dui/Sss 2n
+d ILCS: 625
+                            5/6-303(a) as charged.   Cause allotted for sentenci
+ng confirmation on
+                            January 09, 2013 at 08:30 AM in Courtroom E.  Defend
+ant is ordered to
+                            appear and is advised of sentencing in absentia.  De
+fendant is ordered
+                            to obtain a substance abuse evaluation prior to the
+hearing.  Waiver
+                            of Jury on file.  Count III is to be dismissed at th
+e sentencing.
+                            Disposition 02/00  Count 002  Awaiting Sentencing
+                            Disposition: Guilty DRIVING RVK/SUSP DUI/SSS 2ND
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+   01-09-13                 Disposition 01/02  Count 001  Fine + Cost
+                            Disposition: Guilty DUI LIC SUSP OR REVOKED
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Sentence: 01/09/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  74Days In force
+                            Sentence: Credit Time Served  44Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  60Da
+ys In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  44Days I
+n force
+                            Fine + Cost           1803.15     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    360.00     MOTION TO VACATE
+      40.00
+                             STATE OFFENDER DNA    250.00     NOTICES MAILED 1ST
+        .00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed POSS AMT CON SUB EXCEPT(A)/(D
+)
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Sentence: 01/09/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Sentencing order.
+                            COUNTS I and II:
+                            Appearance of the People by Matthew P. Banach.  Appe
+arance of the
+                            Defendant personally and by counsel, Christopher A.
+Mellon. Cause
+                            called for sentencing confirmation. Sentence is conf
+irmed this date.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.  All financial oblig
+ations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by  7/08/2013.  Any bond posted is to be appli
+ed first to any
+                            court ordered bond assignment on file and then to al
+l restitution
+                            ordered and then to all financial obligations in thi
+s case.  Any
+                            remaining bond shall be discharged to the individual
+ who posted the
+                            bond.  Defendant is ordered to serve a period of  24
+ months probation.
+                            Defendant is ordered to serve a period of incarcerat
+ion of  74 days in
+                            the Champaign County Correctional Center. Defendant
+is to receive
+                            credit for  44 days previously served. The Defendant
+ is to submit
+                            specimens of blood, saliva, or tissue to the Illinoi
+s Department of
+                            State Police or to the Department of Corrections wit
+hin 45 days, at a
+                            collection site designated by the Champaign County C
+ourt Services
+                            Department and/or Illinois Department of State Polic
+e, in accordance
+                            with 730 ILCS 5/5-4-3.  Defendant is to attend the n
+ext Victim Impact
+                            Panel presented by the Champaign County Court Servic
+es Department.
+                            Defendant is to obtain an evaluation for alcohol and
+ drug abuse from
+                            an agency or agent recommended by the Court Services
+ Department, and
+                            follow any recommendations contained therein as to t
+reatment and/or
+                            counseling. Defendant advised of right to appeal and
+ rights pursuant
+                            to Supreme Court Rule 605 and the Court finds that t
+he defendant
+                            understands the same. Sentencing Order entered this
+date. See Order.
+                            Disposition 02/01  Count 002  Cost Only
+                            Disposition: Guilty DRIVING RVK/SUSP DUI/SSS 2ND
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Sentence: 01/09/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  74Days In force
+                            Sentence: Credit Time Served  44Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  60Da
+ys In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              397.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Disposition 01/03  Count 001  Modified Order
+                            Disposition: Modified/Trial Court DUI LIC SUSP OR RE
+VOKED
+                            Modified Order        2200.15     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    360.00     MOTION TO VACATE
+      40.00
+                             STATE OFFENDER DNA    250.00
+   01-10-13                 Drug and alcohol evaluation on file.
+   01-15-13                 ISP Supplemental Court Disposition prepared and mail
+ed.
+                            Report of Felony Conviction prepared / mailed.
+   02-19-13                 Defendant's change of address filed
+   04-03-13                 Court Ordered Payments
+   04-05-13                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   07-09-13                 Court Ordered Payments
+   11-13-13                 Court Ordered Payments
+   02-07-14                 Court Ordered Payments
+   02-28-14                 Court Ordered Payments
+   08-13-14                 Probation Violation Report on file
+   08-25-14                 Petition to Revoke Probation filed.
+   08-29-14                 Verified information on Petition to Revoke Probation
+ on file
+                            Summons issued this date.
+                            Circuit clerk directed to mail summons to Sheriff of
+                            appropriate County.
+   09-02-14                 Summons forwarded this date.
+                            Affidavit of mailing attached.
+   09-11-14                 Summons by Outside County
+                            Summons served on Leana M. Decker by out-of-county a
+gency on   on
+                            file.
+   09-26-14                 Failure to appear warrant.
+                            People appear by Sarah J. Carlson.  No appearance by
+ the Defendant.
+                            Motion by the People for a warrant. Motion allowed.
+Warrant issued
+                            with bond set in the amount of $ 25,000.00.
+                            Failure to appear noted in file.
+                            Expanded record of court proceedings on arraignment.
+   09-29-14                 Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $ 25,000.
+00.
+                            Warrant of arrest filed.
+   03-30-15                 Cause set for arraignment on
+                            People appear by Jacob Croegart. Motion to Withdraw
+PTR and Quash
+                            Warrant filed by the People instanter. Motion allowe
+d. Warrant
+                            quashed. Petition to Revoke is withdrawn. Bond is di
+scharged. See
+                            Order.
+                            Order quashing arrest warrant or body attachment.
+                            Motion to Withdraw PTR and Quash Warrant on file.
+   04-21-15                 Order of Unsuccessful Discharge from Probation enter
+ed. See Order.
+                            Disposition 01/04  Count 001  No Fine & Cost
+                            Disposition: Terminated Unsatisfied DUI LIC SUSP OR
+REVOKED
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 04/21/2015
+                            Sentence: No Sentence  In force
+   04-22-15                 Case closed.
+   04-24-15                 Copy of Quashed Warrant / Body Attachment returned f
+rom
+                            Sheriff's Office.
+   04-29-15                 Disposition sent through ADR process this date. SPT
+                            Disposition sent through ADR process this date. SPT
+   05-27-15                 Case sent out for collections.
+   08-24-15                 Demand for Speedy Trial and/or Quash Warrant on file
+ by Defendant,
+                            Pro Se. File forwarded to Judge Kennedy. File stampe
+d copy returned to
+                            Defendant.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

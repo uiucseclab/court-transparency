@@ -1,0 +1,243 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CM000659
+
+   Defendant Plaintiff
+GREEN  JOSHUA W
+811 N THIRD ST #32
+ST JOSEPH IL 61873
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 06/24/11
+                Court Room:
+           Next Appearance: 08/09/12
+                Birth Date: 07/10/86
+                 DEFENDANT: GREEN  JOSHUA W
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       10.00      BOND -10% BOND FEE            10.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       15.00      PROBATION MONITORIN          180.00            .00
+       10.00      DOMESTIC BATTERY              10.00            .00
+       60.00      TRAFFIC/CRIMINAL SU           60.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+         .00      FINES                           .00            .00
+       24.00      VICTIMS FUND-FINE             24.00            .00
+      190.00      DOMESTIC VIOLENCE            190.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117530217 SHERIFF'S BOOKING FEE             20.00        06/27/11
+   117530217 BOND - ORIGINAL                  100.00        06/27/11
+   117611545 BOND -10% BOND FEE                10.00        08/24/11
+   117611545 DOCUMENT STORAGE                   5.00        08/24/11
+   117611545 E-CITATION                         5.00        08/24/11
+   117611545 AUTOMATION                        10.00        08/24/11
+   117611545 CIRCUIT CLERK FEE                 70.00        08/24/11
+   117617803 PERSONAL CHECK/CREDIT CA           1.25        08/29/11
+   117617803 CIRCUIT CLERK FEE                  5.00        08/29/11
+   117617803 COURT SECURITY                    25.00        08/29/11
+   117672819 PERSONAL CHECK/CREDIT CA           1.25        10/11/11
+   117672819 ARRESTEE'S MEDICAL                10.00        10/11/11
+   117672819 COURT FINANCE FEE                 10.00        10/11/11
+   117672819 PROBATION MONITORING FEE          15.00        10/11/11
+   117722460 PERSONAL CHECK/CREDIT CA           1.25        11/15/11
+   117722460 COURT FINANCE FEE                 15.00        11/15/11
+   117722460 STATES ATTORNEY                   20.00        11/15/11
+   117722460 CRIME STOPPERS                     5.00        11/15/11
+   117722460 PROBATION MONITORING FEE          15.00        11/15/11
+   117764554 PERSONAL CHECK/CREDIT CA           1.25        12/16/11
+   117764554 PROBATION MONITORING FEE          15.00        12/16/11
+   117764554 DOMESTIC BATTERY                  10.00        12/16/11
+   117764554 TR/CR SUR $10/$40                  5.00        12/16/11
+   117764554 CLERK OP & ADMIN FUND             10.00        12/16/11
+   117764554 DRUG COURT PROGRAM                 5.00        12/16/11
+   117803658 PERSONAL CHECK/CREDIT CA           1.25        01/20/12
+   117803658 PROBATION MONITORING FEE          15.00        01/20/12
+   117803658 ST POLICE SERVICES FUND           10.00        01/20/12
+   117803658 ST POLICE OPERATIONS ASS          10.00        01/20/12
+   117833626 PERSONAL CHECK/CREDIT CA           1.25        02/13/12
+   117833626 PROBATION MONITORING FEE          15.00        02/13/12
+   117833626 VICTIMS FUND-FINE                 24.00        02/13/12
+   117874334 01000000000                         .00        03/13/12
+   117874343 PERSONAL CHECK/CREDIT CA           1.25        03/13/12
+   117874343 PROBATION MONITORING FEE          15.00        03/13/12
+   117874343 TR/CR SUR $10/$40                 55.00        03/13/12
+   117874343 DOMESTIC VIOLENCE                 13.75        03/13/12
+   117914627 PERSONAL CHECK/CREDIT CA           1.25        04/11/12
+   117914627 PROBATION MONITORING FEE          20.00        04/11/12
+   117914627 DOMESTIC VIOLENCE                 26.25        04/11/12
+   117969099 PERSONAL CHECK/CREDIT CA           1.25        05/22/12
+   117969099 PROBATION MONITORING FEE          15.00        05/22/12
+   117969099 DOMESTIC VIOLENCE                 48.75        05/22/12
+   117995541 PERSONAL CHECK/CREDIT CA           1.25        06/13/12
+   117995541 PROBATION MONITORING FEE          27.50        06/13/12
+   117995541 DOMESTIC VIOLENCE                 51.00        06/13/12
+   118023108 PERSONAL CHECK/CREDIT CA           1.25        07/03/12
+   118023108 PROBATION MONITORING FEE          27.50        07/03/12
+   118023108 DOMESTIC VIOLENCE                 50.25        07/03/12
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  DOMESTIC BTRY/PHYSICAL CONTACT
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   06-24-11                 Charge 01 Count 001 DOMESTIC BTRY/PHYSICAL CONTACT
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Melinda Licciardello appears instanter.  Plea of not
+ guilty entered
+                            and Defendant requests trial by jury. Bond set in th
+e amount of
+                            $1,000-ROR DENIED. As a condition of bond, Defendant
+ is ordered to
+                            have NO CONTAT whatsoever, directly or indirectly, w
+ith Cristina Clark
+                            and/or 811 N. Third St. in St. Joseph, IL. Defendant
+ is allowed to
+                            return to the residence for the purpose of obtaining
+ clothing and
+                            other essential items while being accompanied by a D
+eputy
+                            Sheriff/Police Officer, within the prescribed 72 hou
+r waiting period.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.  See
+                            expanded record.
+                            Notice of arrest without warrant on file.
+   06-27-11                 Sheriff Booking Fee
+   07-05-11                 Proof of service of discovery materials filed.
+   08-09-11                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty DOMESTIC BTRY/PHYSICAL CONTACT
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Sentence: 08/09/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees
+                            Sentence: Conditional Discharge  12Mos
+                                      Supervised Court Service
+                            Sentence: Public Service  40Hrs
+                                      Supervised Court Service
+                            Sentence: Partner Abuse Intervention Program  60Days
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Fine + Cost            299.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    180.00
+                            DOMESTIC BATTERY        10.00     DOMESTIC VIOLENCE
+     190.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Andrea I. Bergstrom.  Ap
+pearance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Domestic Btry/Physical Cont
+act ILCS: 720
+                            5/12-3.2(a)(2) as charged. Judgment entered in favor
+ of the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  2/06/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months Conditional Discharge. Defendan
+t is ordered to
+                            perform  40 hours of public service work under the s
+upervision of the
+                            Champaign County Court Services Department.  The def
+endant is to be
+                            given credit on public service work for any hours co
+mpleted in
+                            education, treatment, aftercare, sobriety based self
+-help group
+                            meetings, Victim Impact Panel and GED classes. Defen
+dant is to enroll
+                            in a Partner Abuse Intervention Program approved by
+the Champaign
+                            County Court Services Department within  60 days and
+ successfully
+                            complete it without termination. Defendant advised o
+f right to appeal
+                            and rights pursuant to Supreme Court Rule 605 and th
+e Court finds that
+                            the defendant understands the same.
+   08-24-11                 Bond
+   08-29-11                 Check
+   10-11-11                 Check
+   11-15-11                 Check
+   12-16-11                 Check
+   01-20-12                 Check
+   02-13-12                 Check
+   03-13-12                 Check
+   04-11-12                 Check
+                            Check
+   05-22-12                 Check
+                            Check
+   06-13-12                 Check
+   07-03-12                 Check
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

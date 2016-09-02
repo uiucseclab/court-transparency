@@ -1,0 +1,289 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CM000347
+
+   Defendant Plaintiff
+HUTCHINS  FRANCISCO X
+2011 COUNTRY SQUIRE
+URBANA IL 0
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 04/11/11
+                Court Room:
+           Next Appearance: 08/04/14
+                Birth Date: 07/14/56
+                 DEFENDANT: HUTCHINS  FRANCISCO X
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       20.00      BOND -10% BOND FEE            20.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       25.00      PROBATION MONITORIN          240.76          59.24
+       10.00      DOMESTIC BATTERY              10.00            .00
+       60.00      TRAFFIC/CRIMINAL SU           60.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+         .00      FINES                           .00            .00
+       24.00      VICTIMS FUND-FINE              4.96          19.04
+      200.00      DOMESTIC VIOLENCE               .00         200.00
+      141.11      COLLECTION FEES               36.92         104.19
+       61.35      LATE FEES                     12.36          48.99
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+      180.00                                   180.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117422242 SHERIFF'S BOOKING FEE             20.00        04/12/11
+   117422242 BOND - ORIGINAL                  150.00        04/12/11
+   117486196 *BOND REFUND                     150.00        05/26/11
+   117522882 SHERIFF'S BOOKING FEE             20.00        06/21/11
+   117522882 BOND - ORIGINAL                  200.00        06/21/11
+   117580419 BOND -10% BOND FEE                20.00        08/02/11
+   117580419 *BOND REFUND                     180.00        08/02/11
+   117888415 DOCUMENT STORAGE                   5.00        03/22/12
+   117888415 E-CITATION                         5.00        03/22/12
+   117888415 AUTOMATION                        10.00        03/22/12
+   117888415 CIRCUIT CLERK FEE                 20.00        03/22/12
+   117965769 CIRCUIT CLERK FEE                 50.00        05/21/12
+   118000626 CIRCUIT CLERK FEE                  5.00        06/18/12
+   118000626 COURT SECURITY                    25.00        06/18/12
+   118000626 ARRESTEE'S MEDICAL                10.00        06/18/12
+   118049457 COURT FINANCE FEE                 25.00        07/24/12
+   118049457 STATES ATTORNEY                   15.00        07/24/12
+   118049457 PERSONAL CHECK/CREDIT CA           5.00        07/24/12
+   118284347 STATES ATTORNEY                    5.00        12/11/12
+   118284347 CRIME STOPPERS                     5.00        12/11/12
+   118284347 PROBATION MONITORING FEE          25.00        12/11/12
+   118284347 DOMESTIC BATTERY                   5.00        12/11/12
+   118482701 PROBATION MONITORING FEE          25.00        03/12/13
+   118482701 DOMESTIC BATTERY                   5.00        03/12/13
+   118482701 TR/CR SUR $10/$40                 10.00        03/12/13
+   118517420 PROBATION MONITORING FEE          25.00        04/04/13
+   118517420 TR/CR SUR $10/$40                 15.00        04/04/13
+   118540627 PROBATION MONITORING FEE          25.00        04/17/13
+   118540627 TR/CR SUR $10/$40                 25.00        04/17/13
+   118581758 PROBATION MONITORING FEE          25.00        05/13/13
+   118581758 TR/CR SUR $10/$40                 10.00        05/13/13
+   118581758 CLERK OP & ADMIN FUND              5.00        05/13/13
+   118608652 PROBATION MONITORING FEE          20.00        05/30/13
+   118739763 PROBATION MONITORING FEE          25.00        08/19/13
+   118739763 CLERK OP & ADMIN FUND              2.68        08/19/13
+   118739763 COLLECTION FEES                    9.23        08/19/13
+   118739763 LATE FEES                          3.09        08/19/13
+   118788778 PROBATION MONITORING FEE          20.76        09/17/13
+   118788778 COLLECTION FEES                    6.92        09/17/13
+   118788778 LATE FEES                          2.32        09/17/13
+   118838915 PROBATION MONITORING FEE          25.00        10/17/13
+   118838915 CLERK OP & ADMIN FUND              2.32        10/17/13
+   118838915 DRUG COURT PROGRAM                 5.00        10/17/13
+   118838915 VICTIMS FUND-FINE                  2.28        10/17/13
+   118838915 COLLECTION FEES                   11.54        10/17/13
+   118838915 LATE FEES                          3.86        10/17/13
+   118886081 PROBATION MONITORING FEE          25.00        11/14/13
+   118886081 VICTIMS FUND-FINE                  2.68        11/14/13
+   118886081 COLLECTION FEES                    9.23        11/14/13
+   118886081 LATE FEES                          3.09        11/14/13
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  DOMESTIC BTRY/PHYSICAL CONTACT
+
+         1  DOMESTIC BTRY/PHYSICAL CONTACT
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   04-11-11                 Charge 01 Count 001 DOMESTIC BTRY/PHYSICAL CONTACT
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Janie Miller-Jones appears instanter.  Plea of not g
+uilty entered and
+                            Defendant requests trial by jury. Bond set in the am
+ount of $1,500-ROR
+                            DENIED. As a condition of bond, Defendant is ordered
+ to have NO
+                            CONTACT whatsoever, directly or indirectly, with Dar
+la Faul and/or
+                            2011 Country Squire in Urbana, IL. Defendant is admo
+nished as to trial
+                            and sentencing in absentia.  See expanded record.
+                            Notice of arrest without warrant on file.
+   04-12-11                 Sheriff Booking Fee
+   04-27-11                 Proof of service of discovery materials filed.
+   05-18-11                 Substitution of counsel entered this date.  PD appoi
+ntment is vacated
+                            Substitution of counsel entered this date.  PD appoi
+ntment is vacated
+   05-24-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+
+                            Pd APPOINTMENT IS VACATED.  DEFENDANT SURRENDERS ON
+$1000 BOND THIS
+                            DATE.
+   05-26-11                 Bond Refund
+   06-21-11                 Sheriff Booking Fee
+   07-01-11                 Allotted for trial
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.
+   07-27-11                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty DOMESTIC BTRY/PHYSICAL CONTACT
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Sentence: 07/27/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees
+                            Sentence: Probation  12Mos
+                                      Supervised Court Service
+                            Sentence: Public Service  40Hrs
+                                      Supervised Court Service
+                            Sentence: Partner Abuse Intervention Program  60Days
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Fine + Cost            309.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    300.00
+                            DOMESTIC BATTERY        10.00     DOMESTIC VIOLENCE
+     200.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, Edwin Piraino.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Domestic Btry/Physical Cont
+act ILCS: 720
+                            5/12-3.2(a)(2) as charged. Judgment entered in favor
+ of the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  1/23/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months probation. Defendant is ordered
+ to perform  40
+                            hours of public service work under the supervision o
+f the Champaign
+                            County Court Services Department.  The defendant is
+to be given credit
+                            on public service work for any hours completed in ed
+ucation,
+                            treatment, aftercare, sobriety based self-help group
+ meetings, Victim
+                            Impact Panel and GED classes. Defendant is to enroll
+ in a Partner
+                            Abuse Intervention Program approved by the Champaign
+ County Court
+                            Services Department within  60 days and successfully
+ complete it
+                            without termination. Defendant advised of right to a
+ppeal and rights
+                            pursuant to Supreme Court Rule 605 and the Court fin
+ds that the
+                            defendant understands the same.
+                            Bond Assignment filed
+   08-02-11                 Bond
+   12-01-11                 Temporary Travel Permit.
+                            Temporary Travel Permit on file and approved this da
+te. See Order.
+   02-03-12
+                            Provisional/Temporary Travel Permit on file and appr
+oved this date.
+                            See order.
+   03-22-12                 Court Ordered Payments
+   05-21-12                 Court Ordered Payments
+   06-15-12                 Probation Violation Report filed
+   06-18-12                 Court Ordered Payments
+   07-24-12                 Court Ordered Payments
+                            Credit Card Fee
+   08-01-12                 Order of Unsuccessful Discharge from Probation.
+                            Order of Unsuccessful Discharge from Probation enter
+ed this date. See
+                            Order.
+                            Disposition 01/01  Count 001  Manual Calculations
+                            Disposition: Terminated Unsatisfied DOMESTIC BTRY/PH
+YSICAL CONTACT
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Sentence: 08/01/2012
+                            Sentence: No Sentence  In force
+                            Case closed.
+   08-06-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   12-11-12                 Court Ordered Payments
+   03-12-13                 Court Ordered Payments
+   04-04-13                 Court Ordered Payments
+   04-17-13                 Court Ordered Payments
+   05-13-13                 Court Ordered Payments
+   05-30-13                 Court Ordered Payments
+   07-25-13                 Case sent out for collections.
+   08-19-13                 Court Ordered Payments
+   09-17-13                 Court Ordered Payments
+   10-17-13                 Court Ordered Payments
+   11-14-13                 Court Ordered Payments
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,472 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001958
+
+   Defendant Plaintiff
+SCHNEPPER  TRISTAM C
+1310 HICKORY TREE CR
+MAHOMET IL 61853
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 11/29/11
+                Court Room: E
+           Next Appearance: 10/03/16
+                Birth Date: 08/08/65
+                 DEFENDANT: SCHNEPPER  TRISTAM C
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       25.00      BOND -10% BOND FEE            25.00            .00
+     9436.30      *RESTITUTION AMOUNT         6515.00        2921.30
+        5.00      DOCUMENT STORAGE                .00           5.00
+        5.00      E-CITATION                      .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+        5.00      CRIME STOPPERS                  .00           5.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       25.00      PROBATION MONITORIN             .00         600.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+         .00      SP MERIT BOARD                  .00            .00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117741596 SHERIFF'S BOOKING FEE             20.00        11/30/11
+   117741596 BOND - ORIGINAL                  250.00        11/30/11
+   118389203 BOND -10% BOND FEE                25.00        01/16/13
+   118389203 *RESTITUTION AMOUNT              225.00        01/16/13
+   118389203 *RESTITUTION AMOUNT               23.83        01/16/13
+   118389203 *RESTITUTION AMOUNT              201.17        01/16/13
+   118483348 *RESTITUTION AMOUNT              300.00        03/13/13
+   118483348 *RESTITUTION AMOUNT               31.77        03/13/13
+   118483348 *RESTITUTION AMOUNT              268.23        03/13/13
+   118538673 *RESTITUTION AMOUNT              150.00        04/17/13
+   118538673 *RESTITUTION AMOUNT               15.89        04/18/13
+   118538673 *RESTITUTION AMOUNT              134.11        04/18/13
+   118597070 *RESTITUTION AMOUNT              140.00        05/22/13
+   118597070 *RESTITUTION AMOUNT               14.83        05/22/13
+   118597070 *RESTITUTION AMOUNT              125.17        05/22/13
+   118654708 *RESTITUTION AMOUNT              100.00        06/27/13
+   118654708 *RESTITUTION AMOUNT               10.59        06/27/13
+   118654708 *RESTITUTION AMOUNT               89.41        06/27/13
+   118912689 *RESTITUTION AMOUNT              100.00        12/03/13
+   118912689 *RESTITUTION AMOUNT               10.59        12/03/13
+   118912689 *RESTITUTION AMOUNT               89.41        12/03/13
+   120951180 *RESTITUTION AMOUNT              100.00        02/27/14
+   120951180 *RESTITUTION AMOUNT               10.59        02/27/14
+   120951180 *RESTITUTION AMOUNT               89.41        02/27/14
+   121001560 *RESTITUTION AMOUNT              200.00        03/27/14
+   121001560 *RESTITUTION AMOUNT               21.18        03/27/14
+   121001560 *RESTITUTION AMOUNT              178.82        03/27/14
+   121046554 *RESTITUTION AMOUNT              300.00        04/24/14
+   121046554 *RESTITUTION AMOUNT               31.77        04/24/14
+   121046554 *RESTITUTION AMOUNT              268.23        04/24/14
+   121106540 *RESTITUTION AMOUNT              100.00        05/29/14
+   121106540 *RESTITUTION AMOUNT               10.59        05/29/14
+   121106540 *RESTITUTION AMOUNT               89.41        05/29/14
+   121155339 *RESTITUTION AMOUNT              100.00        06/26/14
+   121155339 *RESTITUTION AMOUNT               10.59        06/26/14
+   121155339 *RESTITUTION AMOUNT               89.41        06/26/14
+   121201069 *RESTITUTION AMOUNT              300.00        07/23/14
+   121201069 *RESTITUTION AMOUNT               31.77        07/23/14
+   121201069 *RESTITUTION AMOUNT              268.23        07/23/14
+   121268881 *RESTITUTION AMOUNT              200.00        08/28/14
+   121268881 *RESTITUTION AMOUNT               21.18        08/28/14
+   121268881 *RESTITUTION AMOUNT              178.82        08/28/14
+   121283840 *RESTITUTION AMOUNT              200.00        09/08/14
+   121283840 *RESTITUTION AMOUNT               21.18        09/08/14
+   121283840 *RESTITUTION AMOUNT              178.82        09/08/14
+   121419362 *RESTITUTION AMOUNT              200.00        11/25/14
+   121419362 *RESTITUTION AMOUNT               21.18        11/25/14
+   121419362 *RESTITUTION AMOUNT              178.82        11/25/14
+   121460871 *RESTITUTION AMOUNT              300.00        12/19/14
+   121460871 *RESTITUTION AMOUNT               31.77        12/19/14
+   121460871 *RESTITUTION AMOUNT              268.23        12/19/14
+   121560978 *RESTITUTION AMOUNT              200.00        02/24/15
+   121560978 *RESTITUTION AMOUNT               21.18        02/24/15
+   121560978 *RESTITUTION AMOUNT              178.82        02/24/15
+   121612371 *RESTITUTION AMOUNT              300.00        03/23/15
+   121612371 *RESTITUTION AMOUNT               31.77        03/23/15
+   121612371 *RESTITUTION AMOUNT              268.23        03/23/15
+   121643592 *RESTITUTION AMOUNT              300.00        04/10/15
+   121643592 *RESTITUTION AMOUNT               31.77        04/10/15
+   121643592 *RESTITUTION AMOUNT              268.23        04/10/15
+   121699461 *RESTITUTION AMOUNT              300.00        05/12/15
+   121699461 *RESTITUTION AMOUNT               31.77        05/12/15
+   121699461 *RESTITUTION AMOUNT              268.23        05/12/15
+   121751077 PERSONAL CHECK/CREDIT CA           1.25        06/10/15
+   121751077 *RESTITUTION AMOUNT              300.00        06/10/15
+   121751077 *RESTITUTION AMOUNT               31.77        06/10/15
+   121751077 *RESTITUTION AMOUNT              268.23        06/10/15
+   121807979 *RESTITUTION AMOUNT              300.00        07/14/15
+   121807979 *RESTITUTION AMOUNT               31.77        07/14/15
+   121807979 *RESTITUTION AMOUNT              268.23        07/14/15
+   122066791 PERSONAL CHECK/CREDIT CA           1.25        12/09/15
+   122066791 *RESTITUTION AMOUNT              300.00        12/09/15
+   122066791 *RESTITUTION AMOUNT               31.77        12/09/15
+   122066791 *RESTITUTION AMOUNT              268.23        12/09/15
+   122107804 PERSONAL CHECK/CREDIT CA           1.25        01/06/16
+   122107804 *RESTITUTION AMOUNT              300.00        01/06/16
+   122107804 *RESTITUTION AMOUNT               31.77        01/06/16
+   122107804 *RESTITUTION AMOUNT              268.23        01/06/16
+   122129693 RECORD SEARCH                      6.00        01/20/16
+   122107804 PERSONAL CHECK/CREDIT CA           1.25        02/05/16
+   122107804 PERSONAL CHECK/CREDIT CA          -1.25        02/05/16
+   122160959 PERSONAL CHECK/CREDIT CA           1.25        02/08/16
+   122160959 *RESTITUTION AMOUNT              300.00        02/08/16
+   122160959 *RESTITUTION AMOUNT               31.77        02/08/16
+   122160959 *RESTITUTION AMOUNT              268.23        02/08/16
+   122210776 PERSONAL CHECK/CREDIT CA           1.25        03/08/16
+   122210776 *RESTITUTION AMOUNT              300.00        03/08/16
+   122210776 *RESTITUTION AMOUNT               31.77        03/08/16
+   122210776 *RESTITUTION AMOUNT              268.23        03/08/16
+   122335909 *RESTITUTION AMOUNT              100.00        05/18/16
+   122335909 *RESTITUTION AMOUNT               10.59        05/18/16
+   122335909 *RESTITUTION AMOUNT               89.41        05/18/16
+   122475398 PERSONAL CHECK/CREDIT CA           1.25        08/09/16
+   122475398 *RESTITUTION AMOUNT              500.00        08/09/16
+   122475398 *RESTITUTION AMOUNT               52.95        08/09/16
+   122475398 *RESTITUTION AMOUNT              447.05        08/09/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  THEFT CONTROL INTENT 10K<100K
+
+         2  KNOWINGLY DAMAGE PROP<$300
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   11-29-11                 Charge 01 Count 001 THEFT CONTROL INTENT 10K<100K
+                            Statute 720 5/16-1(a)(1)(A)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned.  Public Defender is appointe
+d and Amanda Riess
+                            appears instanter.  Defendant requests Preliminary h
+earing.  Defendant
+                            is admonished as to trial and sentencing in absentia
+. Bond is set in
+                            the amount of $2,500-ROR DENIED.  See expanded recor
+d.
+                            Cause allotted for pre-trial on
+   11-30-11                 Sheriff Booking Fee
+                            Answer to Discovery filed
+   12-15-11                 Pretrial order after waiver or finding of probable c
+ause
+                            People appear by Adam M. Dill.  Defendant appears pe
+rsonally and with
+                            counsel, Amanda Riess.  Cause called for preliminary
+ hearing.
+                            Witnesses sworn. Evidence heard. The Court having he
+ard the evidence
+                            on preliminary hearing and being fully advised in th
+e premises finds
+                            probable cause to believe that the Defendant has com
+mitted one or more
+                            felony offenses as charged in the information.   Def
+endant enters a
+                            plea of not guilty and requests trial by jury.  Pre-
+Trial Discovery
+                            Order on file.  Bond to continue.
+   01-05-12                 Motion to Continue Trial filed.
+                            Supplemental Discovery filed
+   01-10-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   02-06-12                 Motion to Continue trial filed.
+   02-07-12
+                            People appear by Asst. State's Attorney.  Defendant
+appears with
+                            attorney Ms. Riess.  Cause is called for pre-trial.
+ Motion by the
+                            defendant to continue.  People state no objection to
+ the Defendant's
+                            Motion.  Defendant's motion to continue is allowed.
+ Cause is
+                            continued  on the defendant's Motion.  Defendant is
+ordered to appear.
+                            Defendant's bond is to continue.
+   03-02-12                 Motion to Continue Trial filed.
+   03-06-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   03-30-12                 Supplemental Discovery filed
+                            Motion to Continue Trial filed.
+                            of Service to State's Attorney filed and forwarded t
+o court.
+   04-03-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   04-19-12                 Correspondence from Public Defenders office on file
+   04-23-12
+                            Representation to the Court by Public Defender of a
+conflict,
+                            appointment of the Public Defender vacated and the l
+aw firm of Dodson,
+                            Piraino & Associates are appointed to represent the
+Defendant in this
+                            matter.  Public Defender is directed to tender copie
+s of the file to
+                            newly appointed counsel.  Cause remains allotted for
+ Pre-Trial hearing
+                            on 5/01/12 at 9:00 a.m. in Courtroom C.  Counsel not
+ified by letter
+                            this date.
+   05-01-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   06-05-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   06-21-12                 Supplemental Discovery filed
+   07-03-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   07-17-12                 Supplemental Discovery filed
+   07-31-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   08-28-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   09-12-12                 Supplemental Discovery filed
+   10-10-12
+                            People appear by Mr. Bennett.  Defendant appears wit
+h attorney Mr.
+                            Ding.  Cause is called for plea.  Motion by the Defe
+ndant to Continue.
+                            People state no objection.  Motion is allowed.  Caus
+e is continued on
+                            the defendant's motion to 11/19/12 at 11:00 a.m. in
+Courtroom C.
+                            Defendant is ordered to appear.  Defendant's bond is
+ to continue.
+   11-19-12
+                            People appear by Mr. Bennett.  Defendant appears wit
+h attorney Mr.
+                            Ding.  Cause is called for plea.  Motion by the Defe
+ndant to Continue
+                            the matter for pre-trial.  People states no objectio
+n.  Motion is
+                            allowed.  By agreement, cause is continued for pre-t
+rial on 12/19/12
+                            at 9:00 a.m. in Courtroom C.  Defendant is ordered t
+o appear.
+                            Defendant's bond is to continue.
+   12-19-12
+                            People appear by Mr. Bennett.  Defendant appears wit
+h attorney Mr.
+                            Ding.  Cause is called for pre-trial.  Motion by the
+ defendant to
+                            allot the matter for jury trial.  People announce re
+ady.  Motion is
+                            allowed.  By agreement of the parties, cause is allo
+tted for jury
+                            trial scheduling on 1/15/13 at 8:45 a.m. in Courtroo
+m C.  Defendant is
+                            ordered to appear.  Defendant's bond is to continue.
+   01-07-13                 Subpoena Served.  No Fees.
+   01-08-13                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   01-10-13                 Subpoena not found.
+   01-15-13                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed THEFT CONTROL INTENT 10K<100K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1(a)(1)(A)  Class 2  Orig.
+                            Sentence: 01/15/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Charge 02 Count 002 KNOWINGLY DAMAGE PROP<$300
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Disposition 02/00  Count 002  Cost Only
+                            Disposition: Guilty KNOWINGLY DAMAGE PROP<$300
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Sentence: 01/15/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Cost Only              327.00     *RESTITUTION AMOUN
+T   9436.30
+                            E-CITATION               5.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    600.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott M. Bennett.  Appea
+rance of the
+                            Defendant personally and by counsel, Walter Ding.
+Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 02
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Criminal Damage to Property ILCS: 720 5/2
+1-1(1)(a) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  7/16/2014.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  24
+                            months probation. Count(s) stated in the written ord
+er are herby
+                            dismissed. Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.
+                            Sentencing Order entered.  See Order.  Defendant is
+ordered to report
+                            to the Court Services Dept. this date.
+   01-16-13                 Bond
+   03-13-13                 Court Ordered Payments
+   04-17-13                 Court Ordered Payments
+   05-22-13                 Court Ordered Payments
+   06-27-13                 Court Ordered Payments
+   12-03-13                 Court Ordered Payments
+   02-27-14                 Court Ordered Payments
+   03-04-14                 Temporary Travel Permit on file.
+   03-27-14                 Court Ordered Payments
+   04-24-14                 Court Ordered Payments
+   05-29-14                 Court Ordered Payments
+   06-26-14                 Court Ordered Payments
+   07-23-14                 Court Ordered Payments
+   08-28-14                 Court Ordered Payments
+   09-08-14                 Court Ordered Payments
+                            Motion for Extension of Time to Pay Costs filed and
+forwarded to court
+   09-23-14                 Letters sent by the Court this date.
+                            Defendant's pro se Motion for Extension of Time to P
+ay reviewed by
+                            Court.  Mr. Edwin Piraino appointed to represent the
+ defendant on his
+                            request.  Defendant and parties notified by letter M
+r. Piraino
+                            directed to request a hearing date after consulting
+with the
+                            defendant.
+   09-29-14                 Motion for Extension of Time to Pay Costs on file by
+ the defendant
+                            by his attorney Edwin K. Piraino and forwarded to co
+urt.
+   10-08-14                 Motion for Extention of Time to Pay Costs reviewed b
+y the Court.
+                            Motion allowed.  See Order.
+                            Order on file.
+   11-25-14                 Court Ordered Payments
+   12-19-14                 Court Ordered Payments
+   02-24-15                 Cash
+   03-23-15                 Cash
+   04-10-15                 Cash
+   05-12-15                 Cash
+   06-10-15                 Check
+   07-14-15                 Cash
+   07-29-15                 Temporary Travel Permit on file.
+   12-09-15                 Check
+   01-06-16                 Check
+   01-20-16                 Record Searches $6/year
+   02-08-16                 Check
+   02-23-16                 Certificate of mailing prepared.
+   03-08-16                 Check
+   05-18-16                 Cash
+   08-09-16                 Check
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,314 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001065
+
+   Defendant Plaintiff
+LIVINGSTON  BENJAMIN A
+2512 CAMPBELL DR
+APT A
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 07/07/11
+                Court Room: F
+           Next Appearance: 11/07/13
+                Birth Date: 02/08/86
+                 DEFENDANT: LIVINGSTON  BENJAMIN A
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      100.00      BOND -10% BOND FEE           100.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+        4.00      VICTIMS FUND-NO FIN            4.00            .00
+       25.00      PROBATION MONITORIN          600.00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117549099 SHERIFF'S BOOKING FEE             20.00        07/11/11
+   117549099 BOND - ORIGINAL                 1000.00        07/11/11
+   117715584 BOND -10% BOND FEE               100.00        11/09/11
+   117715584 DOCUMENT STORAGE                   5.00        11/09/11
+   117715584 E-CITATION                         5.00        11/09/11
+   117715584 AUTOMATION                        10.00        11/09/11
+   117715584 CIRCUIT CLERK FEE                 75.00        11/09/11
+   117715584 COURT SECURITY                    25.00        11/09/11
+   117715584 ARRESTEE'S MEDICAL                10.00        11/09/11
+   117715584 COURT FINANCE FEE                 25.00        11/09/11
+   117715584 STATES ATTORNEY                   20.00        11/09/11
+   117715584 VICTIMS FUND-NO FINE               4.00        11/09/11
+   117715584 PROBATION MONITORING FEE          25.00        11/09/11
+   117715584 TR/CR SUR $10/$40                 10.00        11/09/11
+   117715584 CLERK OP & ADMIN FUND             10.00        11/09/11
+   117715584 ST POLICE SERVICES FUND           10.00        11/09/11
+   117715584 ST POLICE OPERATIONS ASS          10.00        11/09/11
+   117715584 *BOND REFUND                     656.00        11/09/11
+   117890714 PROBATION MONITORING FEE          25.00        03/23/12
+   117890715 PROBATION MONITORING FEE          25.00        03/23/12
+   118040602 PROBATION MONITORING FEE          25.00        07/17/12
+   118075729 PROBATION MONITORING FEE          50.00        08/09/12
+   118075729 PERSONAL CHECK/CREDIT CA           5.00        08/09/12
+   118205446 BOND - ORIGINAL                    5.00        10/28/12
+   118208122 PROBATION MONITORING FEE           5.00        10/28/12
+   118216545 EPAY RECEIVABLE                    5.00        11/02/12
+   118277872 BOND - ORIGINAL                    5.00        12/06/12
+   118278287 PROBATION MONITORING FEE           5.00        12/06/12
+   118286362 EPAY RECEIVABLE                    5.00        12/12/12
+   118295318 BOND - ORIGINAL                   40.00        12/18/12
+   118299586 PROBATION MONITORING FEE          40.00        12/18/12
+   118315201 EPAY RECEIVABLE                   40.00        12/24/12
+   118385122 PROBATION MONITORING FEE          20.00        01/15/13
+   118448381 BOND - ORIGINAL                   38.00        02/20/13
+   118449424 PROBATION MONITORING FEE          38.00        02/20/13
+   118455190 EPAY RECEIVABLE                   38.00        02/25/13
+   118480828 BOND - ORIGINAL                   38.00        03/11/13
+   118481326 PROBATION MONITORING FEE          38.00        03/12/13
+   118486624 EPAY RECEIVABLE                   38.00        03/14/13
+   118560131 BOND - ORIGINAL                   38.00        04/30/13
+   118560239 PROBATION MONITORING FEE          38.00        04/30/13
+   118566004 EPAY RECEIVABLE                   38.00        05/03/13
+   118579998 BOND - ORIGINAL                   38.00        05/13/13
+   118581176 PROBATION MONITORING FEE          38.00        05/13/13
+   118588329 EPAY RECEIVABLE                   38.00        05/16/13
+   118643390 BOND - ORIGINAL                   38.00        06/20/13
+   118645118 PROBATION MONITORING FEE          38.00        06/20/13
+   118650367 EPAY RECEIVABLE                   38.00        06/25/13
+   118698064 BOND - ORIGINAL                   38.00        07/24/13
+   118698162 PROBATION MONITORING FEE          38.00        07/24/13
+   118704970 EPAY RECEIVABLE                   38.00        07/29/13
+   118745722 BOND - ORIGINAL                   58.00        08/21/13
+   118745793 PROBATION MONITORING FEE          58.00        08/21/13
+   118751753 EPAY RECEIVABLE                   58.00        08/26/13
+   118791295 BOND - ORIGINAL                   94.00        09/18/13
+   118791372 PROBATION MONITORING FEE          94.00        09/18/13
+   118797927 EPAY RECEIVABLE                   94.00        09/23/13
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  FALSE REPORT OF OFFENSE
+
+         2  OBSTRUCT JUST/DESTROY EVIDENCE
+
+         2  OBSTRUCT JUST/DESTROY EVIDENCE
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   07-07-11                 Charge 01 Count 001 FALSE REPORT OF OFFENSE
+                            Statute 720 5/26-1(a)(4)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Katie Jessup appears instanter.  Defen
+dant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond set in the am
+ount of
+                            $10,000-ROR DENIED. Defendant is admonished as to tr
+ial and sentencing
+                            in absentia. See expanded record.
+                            Notice of arrest without warrant on file.
+                            NO BOND No Bond
+   07-11-11                 Sheriff Booking Fee
+   08-17-11                 Discovery filed
+   08-18-11                 Answer to Discovery filed
+   08-23-11                 Motion to Continue filed
+   08-30-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+                            Defendant's change of address filed
+   10-04-11
+                            Appearance of the State's Attorney.  Appearance of t
+he
+                            Defendant personally and by Counsel.
+   11-07-11                 Charge 02 Count 002 ATTEMPT OBSTRUCT JUST/DESTROY EV
+IDENCE
+                            Statute 720 5/31-4(a)  Class A  CSA A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed FALSE REPORT OF OFFENSE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/26-1(a)(4)  Class 4  Orig.
+                            Sentence: 11/07/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Cost Only
+                            Disposition: Guilty ATTEMPT OBSTRUCT JUST/DESTROY EV
+IDENCE
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/31-4(a)  Class A  CSA A  Orig.
+                            Sentence: 11/07/2011
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  30Days In force
+                            Sentence: Credit Time Served  3Days In force
+                            Sentence: Public Service  100Hrs In force
+                                      Supervised Court Service
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              314.00     E-CITATION
+       5.00
+                            PROBATION MONITORIN    600.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Dan Clifton.  Appearance
+ of the Defendant
+                            personally and by counsel, Janie Miller-Jones.   Def
+endant advised as
+                            to the nature of the proceedings, the charges and th
+e possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 02
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Attempt Obstruct Just/Destroy Evidence IL
+CS: 720 5/31-4(a)
+                            as charged. Judgment entered in favor of the People
+and against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  4/30/2013.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  24
+                            months probation. Defendant is ordered to serve a pe
+riod of
+                            incarceration of  30 days in the Champaign County Co
+rrectional Center.
+                            Defendant is to receive credit for   3 days previous
+ly served.
+                            Defendant is ordered to perform 100 hours of public
+service work under
+                            the supervision of the Champaign County Court Servic
+es Department.
+                            The defendant is to be given credit on public servic
+e work for any
+                            hours completed in education, treatment, aftercare,
+sobriety based
+                            self-help group meetings, Victim Impact Panel and GE
+D classes.
+                            Count(s) stated in the written order are herby dismi
+ssed. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Sentencing Order entered.  See Order.  Order of Impr
+isonment entered.
+                            See Order.  Defendant remanded to the custody of the
+ Champaign County
+                            Sheriff.
+   11-09-11                 Bond
+   03-23-12                 Court Ordered Payments
+                            Court Ordered Payments
+   07-17-12                 Court Ordered Payments
+   08-09-12                 Court Ordered Payments
+                            Credit Card Fee
+   10-28-12                 EPAY BOND PAYMENT
+                            Bond
+   11-02-12                 EPAY RECONCILIATION TRANSACTION
+   12-06-12                 EPAY BOND PAYMENT
+                            Bond
+   12-12-12                 EPAY RECONCILIATION TRANSACTION
+   12-18-12                 EPAY BOND PAYMENT
+                            Bond
+   12-24-12                 EPAY RECONCILIATION TRANSACTION
+   01-15-13                 Court Ordered Payments
+   02-20-13                 EPAY BOND PAYMENT
+                            Bond
+   02-25-13                 EPAY RECONCILIATION TRANSACTION
+   03-11-13                 EPAY BOND PAYMENT
+   03-12-13                 Bond
+   03-14-13                 EPAY RECONCILIATION TRANSACTION
+   04-30-13                 EPAY BOND PAYMENT
+                            Bond
+   05-03-13                 EPAY RECONCILIATION TRANSACTION
+   05-13-13                 EPAY BOND PAYMENT
+                            Bond
+   05-16-13                 EPAY RECONCILIATION TRANSACTION
+   06-20-13                 EPAY BOND PAYMENT
+                            Bond
+   06-25-13                 EPAY RECONCILIATION TRANSACTION
+   07-24-13                 EPAY BOND PAYMENT
+                            Bond
+   07-29-13                 EPAY RECONCILIATION TRANSACTION
+   08-21-13                 EPAY BOND PAYMENT
+                            Bond
+   08-26-13                 EPAY RECONCILIATION TRANSACTION
+   09-18-13                 EPAY BOND PAYMENT
+                            Bond
+   09-23-13                 EPAY RECONCILIATION TRANSACTION
+   11-18-13                 Order of Discharge from Probation entered. See Order
+.
+                            Disposition 02/01  Count 002  No Fine & Cost
+                            Disposition: Probation Terminated Attempt OBSTRUCT J
+UST/DESTROY EVIDEN
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/31-4(a)  Class A  CSA A
+                            Sentence: 11/18/2013
+                            Sentence: No Sentence  In force
+                            Case closed.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

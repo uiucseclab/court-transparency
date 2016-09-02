@@ -1,0 +1,452 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000694
+
+   Defendant Plaintiff
+GLIDEWELL-LAW  AMY L
+2408 ROBIN RD
+MAHOMET IL 61853
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/05/11
+                Court Room:
+           Next Appearance: 08/03/15
+                Birth Date: 05/14/70
+                 DEFENDANT: GLIDEWELL-LAW  AMY L
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      100.00      BOND -10% BOND FEE           100.00            .00
+   213280.95      *RESTITUTION AMOUNT         1865.00      211415.95
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       20.00      VICTIMS FUND-NO FIN             .00          20.00
+      190.00       STATE OFFENDER DNA             .00         190.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       37.00      SHERIFF FEES                    .00          37.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117468564 SHERIFF'S BOOKING FEE             20.00        05/13/11
+   117468564 BOND - ORIGINAL                 1000.00        05/13/11
+   117590032 BOND -10% BOND FEE               100.00        08/09/11
+   117590032 *RESTITUTION AMOUNT              900.00        08/09/11
+   117590032 *RESTITUTION AMOUNT              900.00        08/09/11
+   117711041 *RESTITUTION AMOUNT               30.00        11/07/11
+   117711041 *RESTITUTION AMOUNT               30.00        11/07/11
+   117790248 *RESTITUTION AMOUNT               20.00        01/10/12
+   117790248 *RESTITUTION AMOUNT               20.00        01/10/12
+   117822260 *RESTITUTION AMOUNT               20.00        02/06/12
+   117822260 *RESTITUTION AMOUNT               20.00        02/06/12
+   117878331 *RESTITUTION AMOUNT               20.00        03/15/12
+   117878331 *RESTITUTION AMOUNT               20.00        03/15/12
+   117921707 *RESTITUTION AMOUNT               20.00        04/17/12
+   117921707 *RESTITUTION AMOUNT               20.00        04/17/12
+   118006177 *RESTITUTION AMOUNT               20.00        06/21/12
+   118006177 *RESTITUTION AMOUNT               20.00        06/21/12
+   118061020 *RESTITUTION AMOUNT               20.00        08/01/12
+   118061020 *RESTITUTION AMOUNT               20.00        08/01/12
+   118134694 *RESTITUTION AMOUNT               20.00        09/14/12
+   118134694 *RESTITUTION AMOUNT               20.00        09/14/12
+   118223068 *RESTITUTION AMOUNT               20.00        11/07/12
+   118223068 *RESTITUTION AMOUNT               20.00        11/07/12
+   118435908 *RESTITUTION AMOUNT               20.00        02/12/13
+   118435908 *RESTITUTION AMOUNT               20.00        02/12/13
+   118452064 *RESTITUTION AMOUNT               30.00        02/22/13
+   118452064 *RESTITUTION AMOUNT               30.00        02/22/13
+   118489097 *RESTITUTION AMOUNT               25.00        03/15/13
+   118489097 *RESTITUTION AMOUNT               25.00        03/15/13
+   118533383 BOND - ORIGINAL                   30.00        04/14/13
+   118534818 *RESTITUTION AMOUNT               30.00        04/14/13
+   118534818 *RESTITUTION AMOUNT               30.00        04/15/13
+   118541478 EPAY RECEIVABLE                   30.00        04/18/13
+   118615193 BOND - ORIGINAL                   30.00        06/04/13
+   118615194 *RESTITUTION AMOUNT               30.00        06/04/13
+   118615194 *RESTITUTION AMOUNT               30.00        06/04/13
+   118626156 EPAY RECEIVABLE                   30.00        06/10/13
+   118679698 BOND - ORIGINAL                   30.00        07/12/13
+   118679699 *RESTITUTION AMOUNT               30.00        07/12/13
+   118679699 *RESTITUTION AMOUNT               30.00        07/12/13
+   118686844 EPAY RECEIVABLE                   30.00        07/17/13
+   118738362 BOND - ORIGINAL                   30.00        08/18/13
+   118738363 *RESTITUTION AMOUNT               30.00        08/18/13
+   118738363 *RESTITUTION AMOUNT               30.00        08/19/13
+   118747338 EPAY RECEIVABLE                   30.00        08/22/13
+   118783506 BOND - ORIGINAL                   30.00        09/15/13
+   118785480 *RESTITUTION AMOUNT               30.00        09/15/13
+   118785480 *RESTITUTION AMOUNT               30.00        09/16/13
+   118793082 EPAY RECEIVABLE                   30.00        09/19/13
+   118842832 BOND - ORIGINAL                   30.00        10/21/13
+   118843203 *RESTITUTION AMOUNT               30.00        10/21/13
+   118843203 *RESTITUTION AMOUNT               30.00        10/21/13
+   118849386 EPAY RECEIVABLE                   30.00        10/24/13
+   118897057 BOND - ORIGINAL                   30.00        11/21/13
+   118897058 *RESTITUTION AMOUNT               30.00        11/21/13
+   118897058 *RESTITUTION AMOUNT               30.00        11/21/13
+   118904658 EPAY RECEIVABLE                   30.00        11/26/13
+   120842347 BOND - ORIGINAL                   30.00        12/18/13
+   120842348 *RESTITUTION AMOUNT               30.00        12/18/13
+   120842348 *RESTITUTION AMOUNT               30.00        12/18/13
+   120848118 EPAY RECEIVABLE                   30.00        12/23/13
+   120884421 BOND - ORIGINAL                   30.00        01/17/14
+   120884422 *RESTITUTION AMOUNT               30.00        01/17/14
+   120884422 *RESTITUTION AMOUNT               30.00        01/17/14
+   120892807 EPAY RECEIVABLE                   30.00        01/23/14
+   120924692 BOND - ORIGINAL                   30.00        02/12/14
+   120924693 *RESTITUTION AMOUNT               30.00        02/12/14
+   120924693 *RESTITUTION AMOUNT               30.00        02/12/14
+   120931633 EPAY RECEIVABLE                   30.00        02/18/14
+   120993697 BOND - ORIGINAL                   30.00        03/22/14
+   120993698 *RESTITUTION AMOUNT               30.00        03/22/14
+   120993698 *RESTITUTION AMOUNT               30.00        03/24/14
+   121001563 EPAY RECEIVABLE                   30.00        03/27/14
+   121041004 BOND - ORIGINAL                   30.00        04/22/14
+   121041005 *RESTITUTION AMOUNT               30.00        04/22/14
+   121041005 *RESTITUTION AMOUNT               30.00        04/22/14
+   121049039 EPAY RECEIVABLE                   30.00        04/25/14
+   121100167 BOND - ORIGINAL                   30.00        05/26/14
+   121100168 *RESTITUTION AMOUNT               30.00        05/26/14
+   121100168 *RESTITUTION AMOUNT               30.00        05/27/14
+   121109447 EPAY RECEIVABLE                   30.00        05/30/14
+   121161462 BOND - ORIGINAL                   30.00        06/30/14
+   121161463 *RESTITUTION AMOUNT               30.00        06/30/14
+   121161463 *RESTITUTION AMOUNT               30.00        06/30/14
+   121168119 EPAY RECEIVABLE                   30.00        07/03/14
+   121209718 BOND - ORIGINAL                   30.00        07/29/14
+   121209719 *RESTITUTION AMOUNT               30.00        07/29/14
+   121209719 *RESTITUTION AMOUNT               30.00        07/29/14
+   121217352 EPAY RECEIVABLE                   30.00        08/01/14
+   121231101 *RESTITUTION AMOUNT               30.00        08/08/14
+   121231101 *RESTITUTION AMOUNT               30.00        08/08/14
+   121366505 BOND - ORIGINAL                   25.00        10/24/14
+   121366506 *RESTITUTION AMOUNT               25.00        10/24/14
+   121366506 *RESTITUTION AMOUNT               25.00        10/24/14
+   121372470 EPAY RECEIVABLE                   25.00        10/29/14
+   121467987 BOND - ORIGINAL                   25.00        12/27/14
+   121467988 *RESTITUTION AMOUNT               25.00        12/27/14
+   121467988 *RESTITUTION AMOUNT               25.00        12/29/14
+   121474817 EPAY RECEIVABLE                   25.00        01/02/15
+   121537482 BOND - ORIGINAL                   25.00        02/09/15
+   121537483 *RESTITUTION AMOUNT               25.00        02/09/15
+   121537483 *RESTITUTION AMOUNT               25.00        02/09/15
+   121542731 EPAY RECEIVABLE                   25.00        02/12/15
+   121596582 BOND - ORIGINAL                   25.00        03/15/15
+   121596583 *RESTITUTION AMOUNT               25.00        03/15/15
+   121596583 *RESTITUTION AMOUNT               25.00        03/16/15
+   121604222 EPAY RECEIVABLE                   25.00        03/19/15
+   121658115 BOND - ORIGINAL                   25.00        04/17/15
+   121658116 *RESTITUTION AMOUNT               25.00        04/17/15
+   121658116 *RESTITUTION AMOUNT               25.00        04/17/15
+   121664385 EPAY RECEIVABLE                   25.00        04/22/15
+   121731077 BOND - ORIGINAL                   25.00        06/01/15
+   121731078 *RESTITUTION AMOUNT               25.00        06/01/15
+   121731078 *RESTITUTION AMOUNT               25.00        06/01/15
+   121739565 EPAY RECEIVABLE                   25.00        06/04/15
+   121756624 BOND - ORIGINAL                   25.00        06/13/15
+   121756625 *RESTITUTION AMOUNT               25.00        06/13/15
+   121756625 *RESTITUTION AMOUNT               25.00        06/15/15
+   121765378 EPAY RECEIVABLE                   25.00        06/18/15
+   121818294 *RESTITUTION AMOUNT               25.00        07/20/15
+   121818294 *RESTITUTION AMOUNT               25.00        07/20/15
+   122150078 BOND - ORIGINAL                   10.00        02/01/16
+   122150079 *RESTITUTION AMOUNT               10.00        02/01/16
+   122150079 *RESTITUTION AMOUNT               10.00        02/01/16
+   122156408 EPAY RECEIVABLE                   10.00        02/04/16
+   122225902 BOND - ORIGINAL                   10.00        03/16/16
+   122225903 *RESTITUTION AMOUNT               10.00        03/16/16
+   122225903 *RESTITUTION AMOUNT               10.00        03/16/16
+   122236395 EPAY RECEIVABLE                   10.00        03/22/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         2  THEFT DECEP INTENT 10K<100K
+
+         2  THEFT DECEP INTENT 10K<100K
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   05-05-11                 Charge 01 Count 002 THEFT DECEP INTENT 10K<100K
+                            Statute 720 5/16-1(a)(2)(A)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 THEFT DECEP INTENT 10K<100K
+                            Statute 720 5/16-1(a)(2)(A)  Class 2  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+
+                            People appear by Scott Larson. No appearance by the
+Defendant.
+   05-09-11                 Warrant - expanded record of arraignment proceedings
+.
+                            Verified information on file.  Witness sworn.  Evide
+nce heard.
+                            Probable cause to arrest determined, warrant issued.
+  Bond set in the
+                            amount of $15,000.00.
+                            Warrant issued.
+   05-12-11                 Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and appears instanter.  Defendant waives p
+reliminary
+                            hearing, enters a plea of not guilty and requests tr
+ial by jury.
+                            Pre-trial orders entered.  See expanded record.  Def
+endant is
+                            admonished as to trial and sentencing in absentia.
+                            Defendant's bond is set in the amount of $10,000. RO
+R DENIED.
+                            Warrant served. Service fees $37.00
+   05-13-11                 Sheriff Booking Fee
+   05-25-11                 Discovery filed
+                            Supplemental Discovery filed
+   05-31-11                 Answer to Discovery filed
+   06-07-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   07-12-11
+                            Appearance of the State's Attorney.  Appearance of t
+he
+                            Defendant personally and by Counsel.
+   08-02-11                 Disposition 01/00  Count 002  Cost Only
+                            Disposition: Guilty THEFT DECEP INTENT 10K<100K
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16-1(a)(2)(A)  Class 2  Orig.
+                            Sentence: 08/02/2011
+                            Sentence: Cost Only
+                            Sentence: Probation  48Mos
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Sentence: Count(s) dismissed.
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Cost Only              432.00     *RESTITUTION AMOUN
+T 213280.95
+                            CRIME STOPPERS          10.00      STATE OFFENDER DN
+A    190.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Stephanie Weber.  Appear
+ance of the
+                            Defendant personally and by counsel, Melinda Licciar
+dello.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Theft Decep Intent 10k<100k
+ ILCS: 720
+                            5/16-1(a)(2)(A) as charged. Judgment entered in favo
+r of the People
+                            and against the defendant on finding of guilt and fo
+r costs.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 12/02/2014.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  48 months probation. The Defendant is to
+submit specimens
+                            of blood, saliva, or tissue to the Illinois Departme
+nt of State Police
+                            or to the Department of Corrections within 45 days,
+at a collection
+                            site designated by the Champaign County Court Servic
+es Department
+                            and/or Illinois Department of State Police, in accor
+dance with 730
+                            ILCS 5/5-4-3. Count(s) stated in the written order a
+re herby
+                            dismissed. Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed THEFT DECEP INTENT 10K<100K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1(a)(2)(A)  Class 2  Orig.
+                            Sentence: 08/02/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+   08-09-11                 Bond
+   09-12-11                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   11-07-11                 Court Ordered Payments
+   01-10-12                 Court Ordered Payments
+   02-06-12                 Court Ordered Payments
+   03-15-12                 Court Ordered Payments
+   04-17-12                 Court Ordered Payments
+   06-21-12                 Court Ordered Payments
+   08-01-12                 Court Ordered Payments
+   09-14-12                 Court Ordered Payments
+   11-07-12                 Court Ordered Payments
+   02-12-13                 Court Ordered Payments
+   02-22-13                 Court Ordered Payments
+   03-15-13                 Court Ordered Payments
+   04-14-13                 EPAY BOND PAYMENT
+                            Bond
+   04-18-13                 EPAY RECONCILIATION TRANSACTION
+   06-04-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   06-10-13                 EPAY RECONCILIATION TRANSACTION
+   06-17-13                 Provisional/Temporary Travel Permit entered.
+   07-12-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   07-17-13                 EPAY RECONCILIATION TRANSACTION
+   08-18-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   08-22-13                 EPAY RECONCILIATION TRANSACTION
+   09-15-13                 EPAY BOND PAYMENT
+                            Bond
+   09-19-13                 EPAY RECONCILIATION TRANSACTION
+   10-03-13                 Provisional/Temporary Travel Permit approved.
+   10-21-13                 EPAY BOND PAYMENT
+                            Bond
+   10-24-13                 EPAY RECONCILIATION TRANSACTION
+   11-21-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   11-26-13                 EPAY RECONCILIATION TRANSACTION
+   12-18-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+                            Temporary Travel Permit on file.
+   12-23-13                 EPAY RECONCILIATION TRANSACTION
+   01-17-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   01-23-14                 EPAY RECONCILIATION TRANSACTION
+   02-12-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   02-18-14                 EPAY RECONCILIATION TRANSACTION
+   03-22-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   03-27-14                 EPAY RECONCILIATION TRANSACTION
+   04-22-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   04-25-14                 EPAY RECONCILIATION TRANSACTION
+   05-26-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-30-14                 EPAY RECONCILIATION TRANSACTION
+   06-30-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   07-03-14                 EPAY RECONCILIATION TRANSACTION
+   07-29-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   08-01-14                 EPAY RECONCILIATION TRANSACTION
+   08-08-14                 Court Ordered Payments
+   10-24-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   10-29-14                 EPAY RECONCILIATION TRANSACTION
+   12-27-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   01-02-15                 EPAY RECONCILIATION TRANSACTION
+   02-09-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   02-12-15                 EPAY RECONCILIATION TRANSACTION
+   03-15-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   03-19-15                 EPAY RECONCILIATION TRANSACTION
+   04-17-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   04-22-15                 EPAY RECONCILIATION TRANSACTION
+   06-01-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   06-04-15                 EPAY RECONCILIATION TRANSACTION
+   06-05-15                 Petition to Revoke Probation filed.
+                            Verified information on Petition to Revoke Probation
+ on file
+                            Summons issued this date.
+                            Probation Violation Report on file
+                            Provisional/Temporary Travel Permit approved.
+   06-13-15                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   06-18-15                 EPAY RECONCILIATION TRANSACTION
+   06-24-15                 Summons not served by CCSO
+                            Summons Not served on Amy L. Glidewell-Law by Champa
+ign County
+                            Sheriff's Office on   on file.
+   06-26-15                 Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and To
+ny Fiorentino
+                            appears instanter.  General denial to the Petition i
+s entered.  Bond
+                            set in the amount of $1,000-ROR ALLOWED. Defendant i
+s admonished as to
+                            trial and sentencing in absentia.  See expanded reco
+rd.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+                            Released On Recognizance bond form on file.
+   07-02-15                 Provisional/Temporary Travel permit granted.
+   07-20-15                 Cash
+                            People appear by Ms. Perry.  Mr. Rosenbaum appears w
+ith and on behalf
+                            of the Defendant.  On the motion of the People, the
+petition to revoke
+                            is withdrawn and dismissed.  Bond discharged.
+   12-23-15                 Payment Due
+   02-01-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   02-04-16                 EPAY RECONCILIATION TRANSACTION
+   03-16-16                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   03-22-16                 EPAY RECONCILIATION TRANSACTION
+   07-11-16                 Payment Due
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

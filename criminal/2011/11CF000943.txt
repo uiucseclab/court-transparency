@@ -1,0 +1,232 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000943
+
+   Defendant Plaintiff
+DANIELS  JODY L
+UNKNOWN
+UNKNOWN IL 0
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 06/15/11
+                Court Room:
+           Next Appearance: 05/21/12
+                Birth Date: 07/13/78
+                 DEFENDANT: DANIELS  JODY L
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+         .00      DOCUMENT STORAGE                .00            .00
+         .00      AUTOMATION                      .00            .00
+         .00      CIRCUIT CLERK FEE               .00            .00
+         .00      COURT SECURITY                  .00            .00
+         .00      COURT FINANCE FEE               .00            .00
+         .00      STATES ATTORNEY                 .00            .00
+         .00      ARRESTEE'S MEDICAL              .00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+         .00      ST POLICE SERVICES              .00            .00
+         .00      ST POLICE OPERATION             .00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+        4.00      VICTIMS FUND-FINE              4.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       97.98      COLLECTION FEES               97.98            .00
+       42.60      LATE FEES                     42.60            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118654026 BOND - ORIGINAL                  424.58        06/26/13
+   118654027 DOCUMENT STORAGE                   5.00        06/26/13
+   118654027 AUTOMATION                        10.00        06/26/13
+   118654027 CIRCUIT CLERK FEE                100.00        06/26/13
+   118654027 COURT SECURITY                    25.00        06/26/13
+   118654027 COURT FINANCE FEE                 50.00        06/26/13
+   118654027 STATES ATTORNEY                   40.00        06/26/13
+   118654027 ARRESTEE'S MEDICAL                10.00        06/26/13
+   118654027 TR/CR SUR $10/$40                 10.00        06/26/13
+   118654027 CLERK OP & ADMIN FUND             10.00        06/26/13
+   118654027 VICTIMS FUND-FINE                  4.00        06/26/13
+   118654027 ST POLICE SERVICES FUND           10.00        06/26/13
+   118654027 ST POLICE OPERATIONS ASS          10.00        06/26/13
+   118654027 COLLECTION FEES                   97.98        06/26/13
+   118654027 LATE FEES                         42.60        06/26/13
+   118660607 EPAY RECEIVABLE                  424.58        07/01/13
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  BURGLARY
+
+         1  BURGLARY
+
+         1  BURGLARY
+
+         2  RET THEFT/DISPLAY MERCH/>$300
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   06-15-11                 Charge 01 Count 001 BURGLARY
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 RET THEFT/DISPLAY MERCH/>$300
+                            Statute 720 5/16A-3(a)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Warrant - expanded record of arraignment proceedings
+.
+                            Verified information on file.  Witness sworn.  Evide
+nce heard.
+                            Probable cause to arrest determined, warrant issued.
+  Bond set in the
+                            amount of $10,000.00.
+                            Warrant issued.
+   04-25-12
+                            Petition for Writ of Habeas Corpus Ad Prosequendum o
+n file. Prayer of
+                            the Petition Allowed. Written Order entered. See Ord
+er.
+   04-26-12                 Petition, order and writ issued and sent.
+   05-09-12                 Expanded record of arraignment proceedings.
+                            People appear by Sarah Carlson. Defendant appears pe
+rsonally, in the
+                            custody of IDOC, pursuant to the Writ. Defendant is
+ordered remanded
+                            to the custody of the Champaign County Sheriff pendi
+ng further court
+                            proceedings.
+   05-10-12
+                            Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty BURGLARY
+                            Disposition Vacated: Guilty
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Sentence: 05/10/2012
+                            Sentence: Cost Only  In force
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Disposition 02/00  Count 002  Cost Only
+                            Disposition: Guilty RET THEFT/DISPLAY MERCH/>$300
+                            Disposition Vacated: Guilty
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16A-3(a)  Class 3  Orig.
+                            Sentence: 05/10/2012
+                            Sentence: Cost Only  In force
+                            Sentence: Department Of Corrections  2Yrs In force
+                            Sentence: Credit Time Served  358Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              284.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Duke C. Harris.  Appeara
+nce of the
+                            Defendant personally and by counsel, Monroe McWard.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Ret Theft/Display Merch/>$3
+00 ILCS: 720
+                            5/16A-3(a), a Class 3 Felony, as charged. Judgment e
+ntered in favor of
+                            the People and against the defendant on finding of g
+uilt and for
+                            costs.  All financial obligations shall be paid in e
+qual monthly
+                            installments to the Champaign County Circuit Clerk b
+y 11/06/2012.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  D
+efendant is
+                            ordered to serve a period of incarceration of 2 year
+s in the Illinois
+                            Department of Corrections. Defendant is to receive c
+redit for 358 days
+                            previously served. The Defendant is to submit specim
+ens of blood,
+                            saliva, or tissue to the Illinois Department of Stat
+e Police or to the
+                            Department of Corrections within 45 days, at a colle
+ction site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3. Count(s) stated in the written order are he
+rby dismissed.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same. Defendant remanded back to the custody of IDOC
+. Written
+                            Sentencing Order entered. See Order.
+                            Mittimus prepared.
+                            Disposition 01/02  Count 001  No Fine & Cost
+                            Disposition: Dismissed BURGLARY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/19-1(a)  Class 2  Orig.
+                            Sentence: 05/10/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Warrant Quashed
+   05-14-12                 Mittimus prepared.
+   05-15-12                 Copy of Quashed Warrant filed
+   03-07-13                 Case sent out for collections.
+   06-26-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   07-01-13                 EPAY RECONCILIATION TRANSACTION
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

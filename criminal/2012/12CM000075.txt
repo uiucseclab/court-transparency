@@ -1,0 +1,256 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CM000075
+
+   Defendant Plaintiff
+MARZILLO  MARK A
+202 E PEABODY
+SCOTT HALL #266
+CHAMPAIGN IL 0
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/23/12
+                Court Room:
+           Next Appearance: 04/24/13
+                Birth Date: 11/06/91
+                 DEFENDANT: MARZILLO  MARK A
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       25.00      BOND -10% BOND FEE            25.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN          180.00            .00
+      130.00      TRAFFIC/CRIMINAL SU          130.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      490.00      FINES                        490.00            .00
+       52.00      VICTIMS FUND-FINE             52.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117812168 SHERIFF'S BOOKING FEE             20.00        01/27/12
+   117812168 BOND - ORIGINAL                  250.00        01/27/12
+   117956239 BOND -10% BOND FEE                25.00        05/11/12
+   117956239 DOCUMENT STORAGE                   5.00        05/11/12
+   117956239 E-CITATION                         5.00        05/11/12
+   117956239 AUTOMATION                        10.00        05/11/12
+   117956239 CIRCUIT CLERK FEE                 75.00        05/11/12
+   117956239 COURT SECURITY                    25.00        05/11/12
+   117956239 COURT FINANCE FEE                 25.00        05/11/12
+   117956239 STATES ATTORNEY                   20.00        05/11/12
+   117956239 CRIME STOPPERS                     5.00        05/11/12
+   117956239 ARRESTEE'S MEDICAL                10.00        05/11/12
+   117956239 PROBATION MONITORING FEE          15.00        05/11/12
+   117956239 TR/CR SUR $10/$40                 30.00        05/11/12
+   118048379 PERSONAL CHECK/CREDIT CA           1.25        07/24/12
+   118048379 PROBATION MONITORING FEE         165.00        07/24/12
+   118048379 TR/CR SUR $10/$40                100.00        07/24/12
+   118048379 CLERK OP & ADMIN FUND             10.00        07/24/12
+   118048379 DRUG COURT PROGRAM                 5.00        07/24/12
+   118048379 FINES                            490.00        07/24/12
+   118048379 VICTIMS FUND-FINE                 52.00        07/24/12
+   118048379 ST POLICE SERVICES FUND           10.00        07/24/12
+   118048379 ST POLICE OPERATIONS ASS          10.00        07/24/12
+   122297403 COPIES                             1.00        04/26/16
+   122297403 COPIES                             2.50        04/26/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  BATTERY/CAUSE BODILY HARM
+
+         2  CONSUMPTION OF LIQUOR/MINOR
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   01-23-12                 Charge 01 Count 001 BATTERY/CAUSE BODILY HARM
+                            Statute 720 5/12-3(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 CONSUMPTION OF LIQUOR/MINOR
+                            Statute 235 5/6-20(e)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel.  Defendant is admonished as t
+o trial and
+                            sentencing in absentia. Bond is continued as set in
+the amount of
+                            $2,500-ROR DENIED. See expanded record.
+   01-25-12                 Proof of service of discovery materials filed.
+   01-27-12                 Sheriff Booking Fee
+   02-07-12                 Entry of appearance.
+                            Appearance and entry of appearance of attorney, Susa
+n Hessee with
+                            Defendant.  Plea of not guilty entered and Defendant
+ requests trial by
+                            jury. Cause set for pre-trial.  Defendant admonished
+ as to trial and
+                            sentencing in absentia. Bond is to continue. See exp
+anded record.
+   02-14-12                 Affidavit of mailing of Discovery Materials filed.
+   03-16-12
+                            People appear by Samuel A. Rosenberg.  Defendant app
+ears personally
+                            and with counsel, Susan Hessee. Motion by the Defend
+ant for
+                            continuance.  Motion allowed.
+   04-27-12                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty BATTERY/CAUSE BODILY HARM
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3(a)(1)  Class A  Orig.
+                            Sentence: 04/27/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  50Hrs In force
+                                      Supervised Court Service
+                            Sentence: Substance Abuse Treatment/Evaluation  60Da
+ys In force
+                            Sentence: Partner Abuse Intervention Program  60Days
+ In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            902.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    180.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Sam Rosenberg.  Appearan
+ce of the
+                            Defendant personally and by counsel, Susan Hessee.
+ Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Battery/Cause Bodily Harm ILCS: 720 5/12-
+3(a)(1) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by 10/24/2012.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  12
+                            months Conditional Discharge. Defendant is ordered t
+o perform  50
+                            hours of public service work under the supervision o
+f the Champaign
+                            County Court Services Department.  The defendant is
+to be given credit
+                            on public service work for any hours completed in ed
+ucation,
+                            treatment, aftercare, sobriety based self-help group
+ meetings, Victim
+                            Impact Panel and GED classes.  Defendant is to obtai
+n an evaluation
+                            for alcohol and drug abuse from an agency or agent r
+ecommended by the
+                            Court Services Department, and follow any recommenda
+tions contained
+                            therein as to treatment and/or counseling. Defendant
+ is to enroll in a
+                            Partner Abuse Intervention Program approved by the C
+hampaign County
+                            Court Services Department within  60 days and succes
+sfully complete it
+                            without termination. Count(s) stated in the written
+order are herby
+                            dismissed. Case Number(s) stated in the written orde
+r are herby
+                            dismissed.  Any bond posted in said case(s) shall be
+ transferred to
+                            the instant case and shall be applied to any fines,
+fees, costs,
+                            assessments, and/or restitution imposed herein; any
+remaining bond
+                            shall be used to satisfy such other of the Defendant
+'s Champaign
+                            County criminal or traffic cases in which the Defend
+ant owes an
+                            outstanding balance of fines, fees, costs, assessmen
+ts and/or
+                            restitution. Defendant advised of right to appeal an
+d rights pursuant
+                            to Supreme Court Rule 605 and the Court finds that t
+he defendant
+                            understands the same. Waiver of Jury on file. Senten
+cing Order entered
+                            this date. See Order.
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed CONSUMPTION OF LIQUOR/MINOR
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 235 5/6-20(e)  Class A  Orig.
+                            Sentence: 04/27/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   05-10-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   05-11-12                 Bond
+   07-24-12                 Check
+   12-27-12                 Certificate of completion of public service work fil
+ed
+   04-26-16                 Copies & Certified Copies
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

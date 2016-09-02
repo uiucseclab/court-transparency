@@ -1,0 +1,743 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001221
+
+   Defendant Plaintiff
+MCDERMOTT  JASON
+58 LOCUST LANE
+MONTELLO WI 53949
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 08/02/11
+                Court Room:
+           Next Appearance: 07/23/12
+                Birth Date: 08/19/75
+                 DEFENDANT: MCDERMOTT  JASON
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+    13992.00      *RESTITUTION AMOUNT           47.08       13944.92
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00      DRUG COURT PROGRAM              .00            .00
+        4.00      VICTIMS FUND-FINE               .00           4.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+     4924.23      COLLECTION FEES               14.15            .00
+     2140.97      LATE FEES                      2.83            .00
+    13992.00      *RESTITUTION AMOUNT           16.98       13975.02
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118101321 *RESTITUTION AMOUNT                2.88        08/24/12
+   118101321 *RESTITUTION AMOUNT                 .53        08/24/12
+   118101321 *RESTITUTION AMOUNT                 .49        08/24/12
+   118101321 *RESTITUTION AMOUNT                 .46        08/24/12
+   118101321 *RESTITUTION AMOUNT                 .44        08/24/12
+   118101321 *RESTITUTION AMOUNT                 .96        08/24/12
+   118235509 *RESTITUTION AMOUNT                7.09        11/15/12
+   118235509 COLLECTION FEES                    2.13        11/15/12
+   118235509 *RESTITUTION AMOUNT                1.30        11/15/12
+   118235509 *RESTITUTION AMOUNT                1.22        11/15/12
+   118235509 *RESTITUTION AMOUNT                1.13        11/15/12
+   118235509 *RESTITUTION AMOUNT                1.07        11/15/12
+   118235509 *RESTITUTION AMOUNT                1.02        11/15/12
+   118235509 *RESTITUTION AMOUNT                 .87        11/15/12
+   118235509 *RESTITUTION AMOUNT                 .48        11/15/12
+   118494442 *RESTITUTION AMOUNT                 .09        03/19/13
+   118494442 COLLECTION FEES                     .03        03/19/13
+   118494442 *RESTITUTION AMOUNT                 .09        03/19/13
+   118548311 *RESTITUTION AMOUNT                2.95        04/23/13
+   118548311 COLLECTION FEES                     .89        04/23/13
+   118548311 *RESTITUTION AMOUNT                 .54        04/23/13
+   118548311 *RESTITUTION AMOUNT                 .51        04/23/13
+   118548311 *RESTITUTION AMOUNT                 .47        04/23/13
+   118548311 *RESTITUTION AMOUNT                 .45        04/23/13
+   118548311 *RESTITUTION AMOUNT                 .98        04/23/13
+   118594923 *RESTITUTION AMOUNT                2.95        05/21/13
+   118594923 COLLECTION FEES                     .89        05/21/13
+   118594923 *RESTITUTION AMOUNT                 .54        05/21/13
+   118594923 *RESTITUTION AMOUNT                 .51        05/21/13
+   118594923 *RESTITUTION AMOUNT                 .47        05/21/13
+   118594923 *RESTITUTION AMOUNT                 .45        05/21/13
+   118594923 *RESTITUTION AMOUNT                 .98        05/21/13
+   118657979 *RESTITUTION AMOUNT                2.95        06/28/13
+   118657979 COLLECTION FEES                     .89        06/28/13
+   118657979 *RESTITUTION AMOUNT                 .54        06/28/13
+   118657979 *RESTITUTION AMOUNT                 .51        06/28/13
+   118657979 *RESTITUTION AMOUNT                 .47        06/28/13
+   118657979 *RESTITUTION AMOUNT                 .45        06/28/13
+   118657979 *RESTITUTION AMOUNT                 .98        06/28/13
+   118677993 *RESTITUTION AMOUNT                2.84        07/11/13
+   118677993 COLLECTION FEES                     .85        07/11/13
+   118677993 *RESTITUTION AMOUNT                 .52        07/11/13
+   118677993 *RESTITUTION AMOUNT                 .49        07/11/13
+   118677993 *RESTITUTION AMOUNT                 .45        07/11/13
+   118677993 *RESTITUTION AMOUNT                 .43        07/11/13
+   118677993 *RESTITUTION AMOUNT                 .95        07/11/13
+   118770694 *RESTITUTION AMOUNT                2.65        09/06/13
+   118770694 COLLECTION FEES                     .89        09/06/13
+   118770694 LATE FEES                           .30        09/06/13
+   118770694 *RESTITUTION AMOUNT                 .48        09/06/13
+   118770694 *RESTITUTION AMOUNT                 .45        09/06/13
+   118770694 *RESTITUTION AMOUNT                 .42        09/06/13
+   118770694 *RESTITUTION AMOUNT                 .40        09/06/13
+   118770694 *RESTITUTION AMOUNT                 .90        09/06/13
+   118799201 *RESTITUTION AMOUNT                2.65        09/24/13
+   118799201 COLLECTION FEES                     .89        09/24/13
+   118799201 LATE FEES                           .30        09/24/13
+   118799201 *RESTITUTION AMOUNT                 .48        09/24/13
+   118799201 *RESTITUTION AMOUNT                 .45        09/24/13
+   118799201 *RESTITUTION AMOUNT                 .42        09/24/13
+   118799201 *RESTITUTION AMOUNT                 .40        09/24/13
+   118799201 *RESTITUTION AMOUNT                 .90        09/24/13
+   118844520 *RESTITUTION AMOUNT                2.65        10/22/13
+   118844520 COLLECTION FEES                     .89        10/22/13
+   118844520 LATE FEES                           .30        10/22/13
+   118844520 *RESTITUTION AMOUNT                 .48        10/22/13
+   118844520 *RESTITUTION AMOUNT                 .45        10/22/13
+   118844520 *RESTITUTION AMOUNT                 .42        10/22/13
+   118844520 *RESTITUTION AMOUNT                 .40        10/22/13
+   118844520 *RESTITUTION AMOUNT                 .90        10/22/13
+   118906593 *RESTITUTION AMOUNT                2.65        11/26/13
+   118906593 COLLECTION FEES                     .89        11/26/13
+   118906593 LATE FEES                           .30        11/26/13
+   118906593 *RESTITUTION AMOUNT                 .48        11/26/13
+   118906593 *RESTITUTION AMOUNT                 .45        11/26/13
+   118906593 *RESTITUTION AMOUNT                 .42        11/26/13
+   118906593 *RESTITUTION AMOUNT                 .40        11/26/13
+   118906593 *RESTITUTION AMOUNT                 .90        11/26/13
+   120849527 *RESTITUTION AMOUNT                2.56        12/23/13
+   120849527 COLLECTION FEES                     .85        12/23/13
+   120849527 LATE FEES                           .28        12/23/13
+   120849527 *RESTITUTION AMOUNT                 .47        12/23/13
+   120849527 *RESTITUTION AMOUNT                 .44        12/23/13
+   120849527 *RESTITUTION AMOUNT                 .41        12/23/13
+   120849527 *RESTITUTION AMOUNT                 .39        12/23/13
+   120849527 *RESTITUTION AMOUNT                 .85        12/23/13
+   120895395 *RESTITUTION AMOUNT                2.27        01/24/14
+   120895395 COLLECTION FEES                     .75        01/24/14
+   120895395 LATE FEES                           .25        01/24/14
+   120895395 *RESTITUTION AMOUNT                 .41        01/24/14
+   120895395 *RESTITUTION AMOUNT                 .39        01/24/14
+   120895395 *RESTITUTION AMOUNT                 .36        01/24/14
+   120895395 *RESTITUTION AMOUNT                 .34        01/24/14
+   120895395 *RESTITUTION AMOUNT                 .77        01/24/14
+   120951620 *RESTITUTION AMOUNT                2.32        02/27/14
+   120951620 COLLECTION FEES                     .78        02/27/14
+   120951620 LATE FEES                           .26        02/27/14
+   120951620 *RESTITUTION AMOUNT                 .42        02/27/14
+   120951620 *RESTITUTION AMOUNT                 .40        02/27/14
+   120951620 *RESTITUTION AMOUNT                 .37        02/27/14
+   120951620 *RESTITUTION AMOUNT                 .35        02/27/14
+   120951620 *RESTITUTION AMOUNT                 .78        02/27/14
+   120992410 *RESTITUTION AMOUNT                1.91        03/21/14
+   120992410 COLLECTION FEES                     .64        03/21/14
+   120992410 LATE FEES                           .21        03/21/14
+   120992410 *RESTITUTION AMOUNT                 .35        03/21/14
+   120992410 *RESTITUTION AMOUNT                 .33        03/21/14
+   120992410 *RESTITUTION AMOUNT                 .31        03/21/14
+   120992410 *RESTITUTION AMOUNT                 .92        03/21/14
+   121052794 *RESTITUTION AMOUNT                2.56        04/28/14
+   121052794 COLLECTION FEES                     .85        04/28/14
+   121052794 LATE FEES                           .28        04/28/14
+   121052794 *RESTITUTION AMOUNT                 .47        04/28/14
+   121052794 *RESTITUTION AMOUNT                 .44        04/28/14
+   121052794 *RESTITUTION AMOUNT                 .41        04/28/14
+   121052794 *RESTITUTION AMOUNT                 .39        04/28/14
+   121052794 *RESTITUTION AMOUNT                 .85        04/28/14
+   121091910 *RESTITUTION AMOUNT                3.11        05/20/14
+   121091910 COLLECTION FEES                    1.04        05/20/14
+   121091910 LATE FEES                           .35        05/20/14
+   121091910 *RESTITUTION AMOUNT                 .57        05/20/14
+   121091910 *RESTITUTION AMOUNT                 .53        05/20/14
+   121091910 *RESTITUTION AMOUNT                 .50        05/20/14
+   121091910 *RESTITUTION AMOUNT                 .47        05/20/14
+   121091910 *RESTITUTION AMOUNT                 .45        05/20/14
+   121091910 *RESTITUTION AMOUNT                 .59        05/20/14
+   121248040 BOND - ORIGINAL                   16.98        08/19/14
+   121248040 LATE FEES                         -2.83        08/19/14
+   121248040 COLLECTION FEES                  -14.15        08/19/14
+   121900940 *RESTITUTION AMOUNT               16.98        09/03/15
+   121900940 *RESTITUTION AMOUNT                2.91        09/01/15
+   121900940 *RESTITUTION AMOUNT                2.71        09/01/15
+   121900940 *RESTITUTION AMOUNT                2.57        09/01/15
+   121900940 *RESTITUTION AMOUNT                2.43        09/01/15
+   121900940 *RESTITUTION AMOUNT                2.08        09/01/15
+   121900940 *RESTITUTION AMOUNT                1.16        09/01/15
+   121900940 *RESTITUTION AMOUNT                3.12        09/01/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AGG BTRY/OFFICER/EMPL/GOVT
+
+         1  AGG BTRY/OFFICER/EMPL/GOVT
+
+         1  AGG BTRY/OFFICER/EMPL/GOVT
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   08-02-11                 Charge 01 Count 001 AGG BTRY/OFFICER/EMPL/GOVT
+                            Statute 720 5/12-4(b)(18)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Pro Se correspondence on file by Defendant (rec'd 07
+/29/11) with
+                            request for charging documents in this cause. Origin
+al forwarded to
+                            court. Copy of documents requested mailed to Defenda
+nt this date.
+                            Warrant - expanded record of arraignment proceedings
+.
+                            Verified information on file.  Witness sworn.  Evide
+nce heard.
+                            Probable cause to arrest determined, warrant issued.
+  Bond set in the
+                            amount of $50,000.00.
+                            Warrant issued.
+   08-11-11                 Pro Se correspondence on file by defendant with
+                            request for all charges on file. File stamped copy r
+eturned to
+                            Defendant with a letter of response and documentatio
+n from Circuit
+                            Clerk's office. No further action taken at this time
+.
+   08-12-11                 Letter of response and documentation regarding reque
+st filed 08/11/11
+                            issued this date.
+   09-16-11                 Pro Se correspondence on file by defendant with requ
+est for all
+                            Pending charges on file. File stamped copy returned
+to Defendant with
+                            letter of response and a copy of the docket sheet wi
+th the case
+                            number, charges and class of felony charge highlight
+ed for defendant's
+                            review.
+   09-22-11                 Pro Se correspondence on file by defendant with
+                            Demand for Speedy Trial, Affidavit and Proof/Certifi
+cate of Service.
+                            File stamped copy returned to Defendant and forwarde
+d to State's
+                            Attorney.  File forwarded to Judge Kennedy 9/23/2011
+.
+   09-28-11
+                            Motion for Pre-Trial Discovery Pursuant to Illinois
+Supreme Court Rule
+                            412 filed.
+                            Written entry of appearance on file by
+                            Written entry of appearance on file by Baku Patel.
+   11-04-11
+                            Petition for Writ of Habeas Corpus Ad Prosequendum.
+Prayer of the
+                            Petition allowed. Writ to issue returnable 12/1/11 a
+t 1:30 p.m. in
+                            Courtroom F. See Order.
+   11-07-11                 Petition, order and writ issued and sent.
+   12-01-11                 Expanded record of arraignment proceedings.
+                            People appear by Lindsey Clark.  Defendant appears p
+ersonally, in the
+                            custody of IDOC, and with private counsel, Baku Pate
+l.  Entry of
+                            appearance on file.  Defendant is arraigned. Defenda
+nt is admonished
+                            as to the possibility of EXTENDED TERM SENTENCING. D
+efendant is
+                            admonished as to NON-PROBATIONABLE OFFENSE, and CONS
+ECUTIVE TERM
+                            SENTENCING.  Defendant waives preliminary hearing, e
+nters a plea of
+                            not guilty and requests a trial by jury.  Pre-trial
+orders entered.
+                            Defendant admonished as to trial and sentencing in a
+bsentia. Bond is
+                            to continue. Defendant is remanded back to the custo
+dy of IDOC.
+                            Defendant is NOT to be held in Champaign County Jail
+ pending Pre-trial
+                            date.   See Expanded Record.
+   12-09-11                 Discovery filed
+   12-12-11                 Discovery filed
+   01-10-12
+                            Appearance of the State's Attorney.  Counsel appears
+                            for the Defendant.  No appearance by the Defendant
+                            personally.  People's motion for bond forfeiture and
+                            warrant allowed. Defendant's bond forfeited.  Warran
+t
+                            to issue.  Bond set in the amount of $25,000.00.
+                            Warrant issued.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+                            Warrant Quashed
+
+                            Appearance of the State's Attorney.  Defendant is in
+                            custody.   Appearance by the Defendant by Counsel.
+                            Motion by the Defendant for Continuance.  Motion
+                            allowed.  Trial setting is vacated.  Cause reallotte
+d
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+                            Pro se correspondence on file by defendant. File sta
+mped copy returned
+                            to defendant along with a copy of the docket.
+   02-07-12
+                            Appearance of the State's Attorney.  Defendant is in
+                            custody.   Appearance by the Defendant by Counsel.
+                            Motion by the Defendant for Continuance.  Motion
+                            allowed.  Trial setting is vacated.  Cause reallotte
+d
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   03-06-12
+                            Appearance of the State's Attorney. Defendant is in
+                            custody and appears by counsel.
+
+                            State to prepare writ.
+   03-07-12
+                            Petition for Writ of Habeas Corpus Ad Prosequendumon
+ file.  Prayer of
+                            the Petition allowed.
+   03-08-12                 Petition, order and writ sent overnight express.
+   03-13-12                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty AGG BTRY/OFFICER/EMPL/GOVT
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-4(b)(18)  Class 2  Orig.
+                            Sentence: 03/13/2012
+                            Sentence: Cost Only  In force
+                            Sentence: Department Of Corrections  5Yrs In force
+                            Sentence: Credit Time Served  222Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Cost Only              284.00     *RESTITUTION AMOUN
+T  13992.00
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Mittimus prepared.
+                            Sentencing order.
+                            Appearance of the People by Joel D. Fletcher.  Appea
+rance of the
+                            Defendant personally in the custody of the IL. Dept.
+ of Corrections
+                            and by counsel, Kavita Uppal on behalf of  Baku Pate
+l.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Aggravated Battery ILCS: 72
+0 5/12-4(b)(18) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk.  Any bond posted is
+to be applied
+                            first to any court ordered bond assignment on file a
+nd then to all
+                            restitution ordered and then to all financial obliga
+tions in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of
+                            incarceration of   5 years, in the Illinois Departme
+nt of Corrections.
+                            Defendant is to receive credit for 222 days previous
+ly served. The
+                            Defendant is to submit specimens of blood, saliva, o
+r tissue to the
+                            Illinois Department of State Police or to the Depart
+ment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+ unless previously
+                            done so by the defendant and only then would the def
+endant be ordered
+                            to pay the $250 genetic marker grouping analysis fee
+. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Sentencing Order entered.  See Order.  Defendant is
+remanded to the
+                            custody of the IL. Dept. of Corrections this date.
+   03-19-12                 Pro Se correspondence on file by defendant. File sta
+mped copy returned
+                            to defendant, along with a certified copy of the Mit
+timus and
+                            Sentencing Order
+   03-23-12                 Pro Se correspondence on file by defendant. File sta
+mped copy
+                            returned to defendant and a copy of requested docume
+nts forwarded to
+                            the Record Office of Jacksonville Correctional Cente
+r.
+   04-04-12                 Pro Se correspondence on file by defendant with
+                            Motion for Release of Personal Property. File stampe
+d copy returned to
+                            Defendant and file forwarded to Judge Ladd.
+   04-05-12
+                            Letter sent to the Defendant by the Court this date
+with copies to
+                            Counsel.
+   04-09-12                 Warrant Served. No Fees.
+   04-17-12                 Pro Se correspondence on file by defendant. File sta
+mped copy
+                            returned to defendant , along with a complete copy o
+f the docket.
+   04-23-12                 Pro Se correspondence on file by defendant with
+                            Petition for Post Conviction Relief, Motion to Proce
+ed in Forma
+                            Pauperis, Motion for Appointment of Counsel, Motion
+to Amend Mittimus,
+                            Motion to Proceed in Forma Pauperis and Motion for A
+ppointment of
+                            Counsel. File stamped copy returned to Defendant and
+ file forwarded to
+                            Judge Ladd.
+                            Post conviction petition on file and forwarded
+                            to court this date.  Circuit Clerk to review file fo
+r Post Conviction
+                            Order.
+   04-26-12                 Pro Se correspondence on file by defendant. File sta
+mped copy returned
+                            to defendant, along with a letter of response.
+   05-08-12                 Pro Se correspondence on file by defendant. File sta
+mped copy returned
+                            to defendant, along with a  letter of response.
+   06-01-12                 Pro Se correspondence on file by defendant. File sta
+mped copy returned
+                            to defendant, along with a letter of response and a
+copy of the
+                            docket.
+   06-25-12                 E-mail from Court Reporting Services Supervisor Tran
+scripts:
+                            Placed on file this date.
+                            March 13, 2012, HNL, Melissa Clagg.
+   06-27-12
+                            The Defendant's pro se motion to correct the mittimu
+s is denied.
+                            Defendant and State notified by mail.
+   06-28-12
+                            Memorandum of opinion and Order Denying Pro Se Petit
+ion for Post
+                            Conviction Relief entered this date.  See Written Or
+der.  Copy mailed
+                            to counsel and Petitioner.  The Clerk of the Circuit
+ Court at
+                            Champaign County, Illinois is ordered to serve a cop
+y of this order
+                            upon the Petitioner by certified mail within 10 days
+ its entry.
+                            Further, the Clerk is to notify the Petitioner as pr
+ovided in Supreme
+                            Court Rule 651(b).
+   06-29-12                 Supreme Court 651 letter sent.
+                            White Certified Mail receipt(s) on file.
+   07-05-12                 Pro Se correspondence on file by defendant with
+                            Notice of Withdrawal of Submission. File stamped cop
+y returned to
+                            Defendant and file forwarded to Judge Ladd.
+                            Green Certified Mail receipt(s) on file.
+   07-10-12
+                            The defendant's Motion to Withdraw his Post-Convicti
+on Petition is
+                            denied as untimely filed.  The Court has previously
+ruled on the
+                            merits of the Petition.  Parties notified by mail.
+   07-13-12                 Pro Se Notice of Appeal on file by defendant with Pr
+oof/Certificate of
+                            Service.  File forwarded to Judge Kennedy.
+                            Appeal Affidavit was mailed.
+                            Office of the Circuit Clerk is to prepare and file a
+ Notice
+                            Office of the Circuit Clerk is to prepare and file a
+ Notice of Appeal
+                            as to the Court's Memorandum of Opinion and Order De
+nying Pro-Se
+                            Petition for Post Conviction Relief. Office of the S
+tate Appellate
+                            Defender appointed to represent the defendant on the
+ appeal as to that
+                            matter.  Office of the Circuit Clerk is to notify th
+e State Appellate
+                            Defender of their appointment.
+                            Transcript for appeal notice required.
+   07-16-12                 Appointment of counsel on appeal prepared.
+                            Appeal Affidavit letter mailed.
+                            Pro Se correspondence on file by defendant. File sta
+mped copy returned
+                            to defendant, along with a letter of response and a
+copy of the
+                            complete docket.
+                            Notice of Appeal on file by defendant/appellant, pro
+ se. File stamped
+                            copy returned to defendant and file forwarded to Jud
+ge Ladd.
+   07-17-12                 Office of the Circuit Clerk is to prepare and file a
+ Notice
+                            Office of the Circuit Clerk is to prepare and file a
+ Notice of Appeal
+                            as to the Court's Denial of the Defendant's Motion t
+o Correct
+                            Mittimus. Office of the State Appellate Defender app
+ointed to
+                            represent the defendant on the appeal as to that iss
+ue.  Office of the
+                            Circuit Clerk is to notify the State Appellate Defen
+der of their
+                            appointment.
+                            Transcript for appeal notice required.
+   07-18-12                 Appointment of counsel on appeal prepared.
+                            Appeal Affidavit was mailed.
+                            Notice of Appeal and Appointment of Counsel on Appea
+l mailed to all
+                            Parties involved.
+   07-19-12                 Appellate Court's letter to counsel pursuant to
+                            Supreme Court Rule 312 on File.
+   07-23-12                 Pro Se correspondence on file by defendant. File sta
+mped copy returned
+                            to defendant, along with a letter of response.
+                            Appellate Court's letter to counsel pursuant to
+                            Supreme Court Rule 312 on File.
+   07-30-12                 Appellate Defender's letter acknowledging their
+                            Appointment to represent defendant on appeal and the
+ir request to have
+                            the record filed with the Appellate Court.
+                            Appellate Defender's letter acknowledging their
+                            Appointment to represent defendant on appeal and the
+ir request to have
+                            the record filed with the Appellate Court.
+   08-01-12                 Appellate Court Docketing Order on File.
+                            Appellate Court Docketing Order on File.
+   08-08-12                 Circuit Clerk received the following transcripts:
+                            December 1, 2011, RPK, Tammy Sue Cobb
+                            January 10, 2012, HNL, Tammy Sue Cobb
+                            February 7, 2012, HNL, Joni E. Markel
+                            March 6, 2012, HNL, Tammy Sue Cobb
+   08-24-12                 Court Ordered Payments
+   08-29-12                 Appeal prepared for appellate court this date.
+   09-13-12                 Certificate of mailing prepared.
+                            Record of appeal #4-12-0669 mailed this date.
+                            Certificate of mailing prepared.
+                            Record of appeal #4-12-0655 mailed 9/14/12.
+   09-17-12                 Rcpt. Aplt. Court on file.
+                            Receipt from the Appellate Court that common law rec
+ord received from
+                            the circuit court on file.  Appellate Court No. 4-12
+-0669
+   09-19-12                 Prepared blueback certificate.
+   09-20-12
+                            Receipt from the Appellate Court that common law rec
+ord received from
+                            the circuit court on file.  Appellate Court No. 4-12
+-0655
+   10-24-12                 Pro Se correspondence on file by defendant. File sta
+mped copy
+                            returned to defendant, along with a letter of respon
+se and copy of
+                            charging information filed 8/2/2011.
+   10-29-12                 Case sent out for collections.
+   11-05-12                 Pro Se correspondence on file by defendant. File sta
+mped copy
+                            returned to defendant and copy of charging informati
+on filed 8/2/2011,
+                            forwarded to Rita Ross, Record Office Supervisor at
+Jacksonville CC,
+                            per defendant's request.
+   11-15-12                 Court Ordered Payments
+   11-26-12
+                            Correspondence received from the defendant and order
+ed filed.
+   11-28-12
+                            Letter mailed to the defendant by the Court this dat
+e.
+   03-19-13                 Court Ordered Payments
+   04-23-13                 Court Ordered Payments
+   05-20-13                 Pro Se correspondence on file by defendant. File sta
+mped copy returned
+                            to defendant, along with a print out of the fines/fe
+es ordered in this
+                            matter, per defendant's request.
+   05-21-13                 Court Ordered Payments
+   06-20-13                 Order from the Appellate Court, Gen No 4-12-0655: Ap
+pellant's
+                            Motion to supplement the record on appeal ALLOWED. S
+ix(6) volumes
+                            supplement to record on appeal filed per order, cons
+isting of one
+                            volume common law and five volumes report of proceed
+ings from General
+                            No. 4-12-0669.
+   06-21-13                 Mandate from the Appellate Court regarding Gen No. 4
+-12-0669.
+                            Appellant's motion to dismiss appeal ALLOWED.  APPEA
+L DISMISSED.
+   06-28-13                 Court Ordered Payments
+   07-11-13                 Court Ordered Payments
+   07-16-13
+                            Amended Docketing Order from Appellate Court on file
+.
+   07-18-13                 Order from the Appellate Court, Gen No 4-12-0664:  A
+ppellant's motion
+                            to supplement the record on appeal ALLOWED.
+   07-22-13                 Appellate Court receipt common law.
+                            Appellate Court receipt common law record returned t
+o circuit court on
+                            file.   Appellate Court No. 4-12-0669
+   09-06-13                 Court Ordered Payments
+   09-24-13                 Court Ordered Payments
+   10-22-13                 Court Ordered Payments
+   11-26-13                 Court Ordered Payments
+   12-23-13                 Court Ordered Payments
+   01-24-14                 Court Ordered Payments
+   02-27-14                 Court Ordered Payments
+   03-21-14                 Court Ordered Payments
+   04-28-14                 Court Ordered Payments
+   05-20-14                 Court Ordered Payments
+   08-07-14                 Mandate from the Appellate Court regarding Gen No. 4
+-12-0655 on file,
+                            along with printed copy of the Appellate Order.  It
+is the decision of
+                            this court that the order on appeal from the circuit
+ court be REVERSED
+                            and the cause be REMANDED WITH DIRECTIONS to the Cir
+cuit Court for the
+                            Sixth Judicial Circuit Champaign County, for such ot
+her proceedings as
+                            required by the order of this court.
+   08-18-14                 Letter mailed to Counsel and deft.
+                            Pursuant to the Mandate of the Appellate Court, the
+sentence is
+                            vacated.  A new sentence of 3 years and 286 days imp
+risonment is
+                            imposed with no sentence credit.  The order for paym
+ent of filing fee
+                            and costs is hereby vacated. Notice provided by lett
+er to counsel and
+                            the defendant.
+                            AMENDED Judgement-Sentence to Illinois Department of
+ Corrections
+                            Entered this date.
+   08-19-14                 Vacate Court Order Payments
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Vacated Trial Court AGG BTRY/OFFICER/EM
+PL/GOVT
+                            Disposition Vacated: Guilty
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-4(b)(18)  Class 2
+                            Sentence: 08/19/2014
+                            Disposition 01/02  Count 001  Cost Only
+                            Disposition: Guilty AGG BTRY/OFFICER/EMPL/GOVT
+                            Disposition Vacated: Guilty
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/12-4(b)(18)  Class 2
+                            Sentence: 08/19/2014
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  3Yrs In force
+                            Sentence: Credit Time Served  286Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Cost Only              412.00     *RESTITUTION AMOUN
+T  13992.00
+                            Payment Due
+                            Mittimus prepared.
+   08-20-14                 Case removed from Collections, current due
+   08-27-14                 Error disposition form created this date.
+                            Error disposition form created this date.
+                            Error disposition form created this date.
+                            Error disposition form created this date.
+                            Letter of 8/18/14 is returned from the Court from ID
+OC.
+                            Suggestion from IDOC that the deft. is no longer at
+Jacksonville.
+                            Letter is corrected to reflect the deft. is now loca
+ted at
+                            Southwestern Illinois Correctional Center and mailed
+ to the Deft. at
+                            Southwestern Illinois Correctional Center.
+   09-08-14                 Copy of Letter dated Aug. 18, 2014 to defendant retu
+rned by IDOC.
+                            Review of IDOC website shows defendant is on parole.
+  Court has no
+                            current address to forward the letter.   Letter in t
+he envelope is
+                            placed on file in the Court file.
+   09-10-14                 Submitted material returned for more information.
+                            Notice to the Circuit Clerk of Defendant's Address o
+n file
+   02-25-15                 Receipt on file
+   09-03-15                 Bond
+   03-28-16                 Ck # 156504 to R. Chesnut returned unable to forward
+.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

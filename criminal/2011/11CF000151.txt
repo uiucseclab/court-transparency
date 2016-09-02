@@ -1,0 +1,487 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000151
+
+   Defendant Plaintiff
+GILLENWATER  CLINT
+1600 WEST BRADLEY AP
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/26/11
+                Court Room: F
+           Next Appearance: 04/15/14
+                Birth Date: 08/15/84
+                 DEFENDANT: GILLENWATER  CLINT
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       30.00      BOND -10% BOND FEE            30.00            .00
+      847.30      *RESTITUTION AMOUNT          847.30            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          450.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      200.00       STATE OFFENDER DNA          200.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      320.00      TRAFFIC/CRIMINAL SU          320.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      495.00      FINES                        495.00            .00
+      350.00      DUI NEW EQUIPMENT F          350.00            .00
+      128.00      VICTIMS FUND-FINE            128.00            .00
+      128.00      DRIVERS EDUCATION            128.00            .00
+      400.00      DUI - 80% IL GENERA          400.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+      117.23      BOND -10% BOND FEE              .00         117.23
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       20.00      VICTIMS FUND-NO FIN             .00          20.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+        5.00      CLERK OP & ADMIN-SE             .00           5.00
+         .00      DRUG COURT PROGRAM              .00            .00
+       15.00      FIRE PREVENTION FUN             .00          15.00
+       15.00      FIRE TRUCK REVOLVIN             .00          15.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       30.00      BOND -10% BOND FEE            30.00            .00
+      847.30      *RESTITUTION AMOUNT          847.30            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+      450.00      PROBATION MONITORIN          450.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      200.00       STATE OFFENDER DNA          200.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      320.00      TRAFFIC/CRIMINAL SU          320.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      495.00      FINES                        495.00            .00
+      350.00      DUI NEW EQUIPMENT F          350.00            .00
+      128.00      VICTIMS FUND-FINE            128.00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+      128.00      DRIVERS EDUCATION            128.00            .00
+      400.00      DUI - 80% IL GENERA          400.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117352848 BOND TRANSFERS IN                300.00        02/24/11
+   117592995 BOND TRANSFERS IN                847.30        08/11/11
+   117592999 BOND -10% BOND FEE                30.00        08/11/11
+   117592999 *RESTITUTION AMOUNT              847.30        08/11/11
+   117592999 DOCUMENT STORAGE                   5.00        08/11/11
+   117592999 AUTOMATION                        10.00        08/11/11
+   117592999 CIRCUIT CLERK FEE                100.00        08/11/11
+   117592999 COURT SECURITY                    25.00        08/11/11
+   117592999 ARRESTEE'S MEDICAL                10.00        08/11/11
+   117592999 COURT FINANCE FEE                 50.00        08/11/11
+   117592999 STATES ATTORNEY                   40.00        08/11/11
+   117592999 CRIME STOPPERS                    10.00        08/11/11
+   117592999 PROBATION MONITORING FEE          20.00        08/11/11
+   117592999 *RESTITUTION AMOUNT              847.30        08/11/11
+   117983455 BOND - ORIGINAL                   25.00        06/04/12
+   117983456 PROBATION MONITORING FEE          25.00        06/04/12
+   117990480 EPAY RECEIVABLE                   25.00        06/08/12
+   118531675 PROBATION MONITORING FEE         405.00        04/12/13
+   118531675 SPINAL CORD RESEARCH FUN           5.00        04/12/13
+   118531675  STATE OFFENDER DNA ID S         200.00        04/12/13
+   118531675 TRAUMA FUND                      100.00        04/12/13
+   118531675 TR/CR SUR $10/$40                320.00        04/12/13
+   118531675 CLERK OP & ADMIN-SERIOUS           5.00        04/12/13
+   118531675 CLERK OP & ADMIN FUND             10.00        04/12/13
+   118531675 DRUG COURT PROGRAM                 5.00        04/12/13
+   118531675 FINES                            495.00        04/12/13
+   118531675 DUI NEW EQUIPMENT FINE           350.00        04/12/13
+   118531675 VICTIMS FUND-FINE                128.00        04/12/13
+   118531675 DRIVERS EDUCATION                128.00        04/12/13
+   118531675 DUI - IL GENERAL REVENUE         400.00        04/12/13
+   118531675 FIRE PREVENTION FUND              15.00        04/12/13
+   118531675 FIRE TRUCK REVOLVING LOA          15.00        04/12/13
+   118531675 ST POLICE SERVICES FUND           10.00        04/12/13
+   118531675 ST POLICE OPERATIONS ASS          10.00        04/12/13
+   120985810 BOND - ORIGINAL                  112.00        03/18/14
+   120985811 STATES ATTORNEY AUTOMATI           2.00        03/18/14
+   120985811 PROBATION OPER ASSISTANC          10.00        03/18/14
+   120985811 VIOLENT CRIME VICTIMS AS         100.00        03/18/14
+   120992254 EPAY RECEIVABLE                  112.00        03/21/14
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AGG DUI/NO VALID DL
+
+         1  AGG DUI/NO VALID DL
+
+         1  AGG DUI/NO VALID DL
+
+         1  AGG DUI/NO VALID DL
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   01-25-11                 Request on file for Certified Copies from Douglas Co
+unty Probation.
+   01-26-11                 Charge 01 Count 001 AGG DUI/NO VALID DL
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+   02-09-11                 Certified copies prepared and mailed this date.
+   02-18-11                 Expanded record of arraignment proceedings.
+                            People appear by Scott A. Larson.  Defendant appears
+ personally
+                            together with private counsel, B.Olmstead .  Defenda
+nt is arraigned.
+                            Defendant waives preliminary hearing, enters a plea
+of not guilty and
+                            requests a trial by jury.  Pre-trial orders entered.
+  Defendant
+                            admonished as to trial and sentencing in absentia.
+See Expanded
+                            Record.
+   02-24-11                 Bond Type Transfer Bond From    2011DT000030 GILLENW
+ATER CLINT R
+   03-07-11                 Discovery filed
+   03-18-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   04-29-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   06-03-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+
+                            This will be the LAST continuance.
+   07-08-11
+                            Appearance of the State's Attorney.  Appearance of t
+he
+                            Defendant personally and by Counsel.
+   08-10-11                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty AGG DUI/NO VALID DL
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Sentence: 08/10/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  18Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  60Days In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Public Service  125Hrs In force
+                                      Supervised Court Service
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           2266.00     *RESTITUTION AMOUN
+T    847.30
+                            CRIME STOPPERS          10.00     PROBATION MONITORI
+N    450.00
+                             STATE OFFENDER DNA    200.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel,  .   Defendant
+advised as to the
+                            nature of the proceedings, the charges and the possi
+ble penalties that
+                            may be imposed and the Court finds that the Defendan
+t understands the
+                            same.  Finding Defendant knowingly, understandingly
+and voluntarily
+                            waives rights and enters a plea of guilty to Count 0
+1 of the charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Agg Dui/No
+                            Valid Dl ILCS: 625 5/11-501(a) as charged. Judgment
+entered in favor
+                            of the People and against the defendant on finding o
+f guilt and for
+                            costs.  All financial obligations shall be paid in e
+qual monthly
+                            installments to the Champaign County Circuit Clerk b
+y  2/06/2012.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  D
+efendant is
+                            ordered to serve a period of  18 months probation. D
+efendant is
+                            ordered to serve a period of incarceration of  60 da
+ys in the
+                            Champaign County Correctional Center. Defendant is t
+o receive credit
+                            for   1 days previously served. Defendant is ordered
+ to perform 125
+                            hours of public service work under the supervision o
+f the Champaign
+                            County Court Services Department.  The defendant is
+to be given credit
+                            on public service work for any hours completed in ed
+ucation,
+                            treatment, aftercare, sobriety based self-help group
+ meetings, Victim
+                            Impact Panel and GED classes. Defendant advised of r
+ight to appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same.
+                            Report of Felony Conviction prepared / mailed.
+   08-11-11                 Bond Type Transfer Bond From    2011CF000301 GILLENW
+ATER CLINT
+                            Bond
+   08-15-11
+                            $847.30 is to be transferred from the bond in 11 CF
+301 to pay the
+                            restitution in 11 CF 151.  Remainder of bond to be r
+eturned to the
+                            person who posted it.
+   09-01-11                 Illinois State Police DNA Indexing Laboratory
+   06-04-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   06-08-12                 EPAY RECONCILIATION TRANSACTION
+   06-18-12                 Defendant's change of address filed
+   12-31-12                 Probation Violation Report filed
+   01-07-13                 Petition to Revoke Probation filed
+   01-09-13                 Verified information on Petition to Revoke Probation
+ on file
+   01-14-13                 Summons served.
+   02-06-13                 Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel.  Defendant is admonished as t
+o trial and
+                            sentencing in absentia. Bond is set in the amount of
+ $1,000-ROR
+                            ALLOWED.  See expanded record.
+   02-21-13                 Expanded record of arraignment proceedings.
+                            People appear by Sarah J. Carlson.  Defendant appear
+s personally.
+                            Appearance and entry of appearance by attorney Brett
+ N. Olmstead on
+                            behalf of the Defendant. Defendant is arraigned. Gen
+eral denial to the
+                            Petition to Revoke is entered.  Defendant admonished
+ as to trial and
+                            sentencing in absentia. Bond is to continue. See Exp
+anded Record.
+   03-01-13                 Order (Open Stipulation to PTR)
+                            People/Petitioner appear by Elizabeth Dornik.  Defen
+dant/Respondent
+                            appears personally and with counsel, Brett N. Olmste
+ad.
+                            Defendant/Respondent advised as to the nature of the
+ proceedings and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the defendant/respondent understands the same.  Find
+ing
+                            defendant/respondent knowingly, understandingly and
+voluntarily
+                            stipulates and admits to the allegations contained i
+n the Petition to
+                            Revoke.  Finding the same are true.  The court finds
+ that the
+                            defendant/respondent has violated the terms of his s
+entence.  Finding
+                            entered in favor of the people/petitioner and agains
+t
+                            defendant/respondent. Bond is to continue. Champaign
+ County Court
+                            Services is ordered to complete an updated Pre-Sente
+nce Report.
+                            Defendant is ordered to report to Champaign County C
+ourt Services
+                            immediately following this hearing for the preparati
+on of the
+                            above-referenced reports. Cause is allotted for Re-S
+entencing.
+   04-12-13                 Court Ordered Payments
+                            Disposition 01/01  Count 001  Cost Only
+                            Disposition: Revocation/Vacate/Probation AGG DUI/NO
+VALID DL
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Sentence: 04/12/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  180Days In force
+                            Sentence: Credit Time Served  60Days In force
+                            Sentence: Incarceration is not to be served pursuant
+ to CHIPS  In forc
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              439.23
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Resentencing order on petition to revoke.
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel, Brett N. Olmste
+ad.   Cause called
+                            for resentencing.  Evidence heard.  Statements of co
+unsel heard.
+                            Letters on behalf of the Defendant on file and consi
+dered.
+                            Petitioner's Exhibits #1-4 admitted.  Record of paym
+ent on file and
+                            considered. Statement of the Defendant considered. U
+pon the Judgment
+                            of guilt and upon the judgment revoking defendant's
+probation the
+                            Court resentences the defendant to:  Defendant is or
+dered to serve a
+                            period of  12 months probation. Defendant is ordered
+ to serve a period
+                            of incarceration of 180 days in the Champaign County
+ Correctional
+                            Center. Defendant is to receive credit for  60 days
+previously served.
+                            Defendant's incarceration may not be served pursuant
+ to the CHIP.
+                            Defendant's sentence is held in remission pending fu
+rther hearing.
+                            Defendant is ordered to have a SCRAM decvice install
+ed on his person
+                            as soon as is practicable, and to comply with condit
+ions outlined in
+                            the Order to abstain from Alcohol and For SCRAM Test
+ing.  Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Written Re-sentencing Order entered. See Order.
+                            Order to Abstain from Alcohol and For Scram Testing
+entered.
+                            Order to Abstain from Alcohol and For SCRAM Testing
+entered. See
+                            Order.
+                            Character reference letters on file
+                            Record of exhibits received on file.
+                            Disposition 01/02  Count 001  Modified Order
+                            Disposition: Modified/Trial Court AGG DUI/NO VALID D
+L
+                            Modified Order        2378.00     *RESTITUTION AMOUN
+T    847.30
+                            CRIME STOPPERS          10.00     PROBATION MONITORI
+N    450.00
+                             STATE OFFENDER DNA    200.00
+                            Cause allotted for Remission Hearing on
+   07-10-13
+                            People appear by AJ Ruggieri. Defendant appears pers
+onally, and by
+                            counsel, Brett Olmstead. On the motion of the Defend
+ant, cause is
+                            continued for further hearing on remission.
+   10-11-13                 Remission Hearing
+                            People appear by Elizabeth Dornik. Defendant appears
+ personally, and
+                            by counsel, Brett Olmstead. Cause is called for Remi
+ssion hearing. By
+                            agreement of the parties, cause is continued for fur
+ther hearing on
+                            remission.
+   01-03-14                 Remisssion Hearing
+                            People appear by Elizabeth Dornik. Defendant appears
+ personally, and
+                            by counsel, Roger Webber for Brent Olmstead. Cause i
+s called for
+                            Remission hearing. Representations that Defendant is
+ in compliance
+                            with all court orders. Defendant remains on Probatio
+n until the
+                            expiration of his sentence. Defendant is admonished
+as to continuing
+                            to check in and comply as directed by his probation
+officer. No
+                            further hearing required.
+   03-18-14                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   03-21-14                 EPAY RECONCILIATION TRANSACTION
+   04-16-14                 Order of Discharge from Probation. Order entered.
+                            Disposition 01/03  Count 001  No Fine & Cost
+                            Disposition: Probation Terminated AGG DUI/NO VALID D
+L
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 04/16/2014
+                            Sentence: No Sentence  In force
+                            Case closed.
+   05-02-14                 Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,612 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CM001302
+
+   Defendant Plaintiff
+COPELAND  MAMIE O
+1308 N ROMINE
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 12/07/11
+                Court Room:
+           Next Appearance: 02/14/14
+                Birth Date: 09/22/47
+                 DEFENDANT: COPELAND  MAMIE O
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       25.00      DOCUMENT STORAGE              25.00            .00
+       25.00      E-CITATION                    25.00            .00
+       50.00      AUTOMATION                    50.00            .00
+      375.00      CIRCUIT CLERK FEE            375.00            .00
+      125.00      COURT SECURITY               125.00            .00
+      125.00      COURT FINANCE FEE            125.00            .00
+      100.00      STATES ATTORNEY              100.00            .00
+       50.00      ARRESTEE'S MEDICAL            50.00            .00
+      250.00      TRAFFIC/CRIMINAL SU          250.00            .00
+       50.00      CLERK OP & ADMIN FU           50.00            .00
+       25.00      DRUG COURT PROGRAM            25.00            .00
+     1000.00      FINES                       1000.00            .00
+      100.00      VICTIMS FUND-FINE            100.00            .00
+      100.00      DRIVERS EDUCATION            100.00            .00
+       50.00      ST POLICE SERVICES            50.00            .00
+       50.00      ST POLICE OPERATION           50.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+         .00      COUNTY ORDINANCE                .00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+         .00      TRAUMA FUND                     .00            .00
+       20.00      TRAFFIC/CRIMINAL SU           20.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       75.00      FINES                         75.00            .00
+        8.00      VICTIMS FUND-FINE              8.00            .00
+        8.00      DRIVERS EDUCATION              8.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+         .00      COUNTY ORDINANCE                .00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+         .00      TRAUMA FUND                     .00            .00
+       50.00      TRAFFIC/CRIMINAL SU            2.75          47.25
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      200.00      FINES                           .00         200.00
+       20.00      VICTIMS FUND-FINE               .00          20.00
+       20.00      DRIVERS EDUCATION               .00          20.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+        5.00      DOCUMENT STORAGE                .00           5.00
+        5.00      E-CITATION                      .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+         .00      COUNTY ORDINANCE                .00            .00
+       20.00      STATES ATTORNEY                 .00          20.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+         .00      TRAUMA FUND                     .00            .00
+       50.00      TRAFFIC/CRIMINAL SU             .00          50.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      200.00      FINES                           .00         200.00
+       20.00      VICTIMS FUND-FINE               .00          20.00
+       20.00      DRIVERS EDUCATION               .00          20.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+        5.00      DOCUMENT STORAGE                .00           5.00
+        5.00      E-CITATION                      .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+         .00      COUNTY ORDINANCE                .00            .00
+       20.00      STATES ATTORNEY                 .00          20.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+         .00      TRAUMA FUND                     .00            .00
+       50.00      TRAFFIC/CRIMINAL SU             .00          50.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      200.00      FINES                           .00         200.00
+       20.00      VICTIMS FUND-FINE               .00          20.00
+       20.00      DRIVERS EDUCATION               .00          20.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+        5.00      DOCUMENT STORAGE                .00           5.00
+        5.00      E-CITATION                      .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+         .00      COUNTY ORDINANCE                .00            .00
+       20.00      STATES ATTORNEY                 .00          20.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+         .00      TRAUMA FUND                     .00            .00
+       50.00      TRAFFIC/CRIMINAL SU             .00          50.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      200.00      FINES                           .00         200.00
+       20.00      VICTIMS FUND-FINE               .00          20.00
+       20.00      DRIVERS EDUCATION               .00          20.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+         .00      COUNTY ORDINANCE                .00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+         .00      TRAUMA FUND                     .00            .00
+       50.00      TRAFFIC/CRIMINAL SU           50.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      200.00      FINES                        158.75          41.25
+       20.00      VICTIMS FUND-FINE               .00          20.00
+       20.00      DRIVERS EDUCATION               .00          20.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118006213 DOCUMENT STORAGE                   5.00        06/21/12
+   118006213 E-CITATION                         5.00        06/21/12
+   118006213 AUTOMATION                        10.00        06/21/12
+   118006213 CIRCUIT CLERK FEE                 75.00        06/21/12
+   118006213 COURT SECURITY                    25.00        06/21/12
+   118006213 COURT FINANCE FEE                 25.00        06/21/12
+   118006213 STATES ATTORNEY                   20.00        06/21/12
+   118006213 ARRESTEE'S MEDICAL                10.00        06/21/12
+   118006213 TR/CR SUR $10/$40                 50.00        06/21/12
+   118006213 CLERK OP & ADMIN FUND             10.00        06/21/12
+   118006213 DRUG COURT PROGRAM                 5.00        06/21/12
+   118006213 FINES                             10.00        06/21/12
+   118056858 FINES                            148.75        07/30/12
+   118057164 PERSONAL CHECK/CREDIT CA           1.25        07/30/12
+   118137022 01000000000                         .00        09/17/12
+   118137032 PERSONAL CHECK/CREDIT CA           1.25        09/17/12
+   118137032 DOCUMENT STORAGE                   5.00        09/17/12
+   118137032 E-CITATION                         5.00        09/17/12
+   118137032 AUTOMATION                        10.00        09/17/12
+   118137032 CIRCUIT CLERK FEE                 75.00        09/17/12
+   118137032 COURT SECURITY                    25.00        09/17/12
+   118137032 COURT FINANCE FEE                 25.00        09/17/12
+   118137032 STATES ATTORNEY                   20.00        09/17/12
+   118137032 ARRESTEE'S MEDICAL                10.00        09/17/12
+   118137032 TR/CR SUR $10/$40                 20.00        09/17/12
+   118137032 CLERK OP & ADMIN FUND             10.00        09/17/12
+   118137032 DRUG COURT PROGRAM                 5.00        09/17/12
+   118137032 FINES                             38.75        09/17/12
+   118179874 01000000000                         .00        10/12/12
+   118180163 FINES                             36.25        10/12/12
+   118180163 VICTIMS FUND-FINE                  8.00        10/12/12
+   118180163 DRIVERS EDUCATION                  8.00        10/12/12
+   118180163 ST POLICE SERVICES FUND           10.00        10/12/12
+   118180163 ST POLICE OPERATIONS ASS          10.00        10/12/12
+   118180163 01000000000                         .00        10/12/12
+   118180169 DOCUMENT STORAGE                   5.00        10/12/12
+   118180169 E-CITATION                         5.00        10/12/12
+   118180169 AUTOMATION                        10.00        10/12/12
+   118180169 CIRCUIT CLERK FEE                 75.00        10/12/12
+   118180169 COURT SECURITY                    25.00        10/12/12
+   118180169 COURT FINANCE FEE                 25.00        10/12/12
+   118180169 STATES ATTORNEY                   20.00        10/12/12
+   118180169 ARRESTEE'S MEDICAL                10.00        10/12/12
+   118180169 TR/CR SUR $10/$40                  2.75        10/12/12
+   118255123 DOCUMENT STORAGE                  15.00        11/28/12
+   118255123 E-CITATION                        15.00        11/28/12
+   118255123 AUTOMATION                        20.00        11/28/12
+   118405910 AUTOMATION                        10.00        01/25/13
+   118405910 CIRCUIT CLERK FEE                140.00        01/25/13
+   118442962 CIRCUIT CLERK FEE                 85.00        02/15/13
+   118442962 COURT SECURITY                    75.00        02/15/13
+   118442962 COURT FINANCE FEE                 20.00        02/15/13
+   118504363 COURT FINANCE FEE                 50.00        03/27/13
+   118550251 COURT FINANCE FEE                  5.00        04/24/13
+   118550251 STATES ATTORNEY                   60.00        04/24/13
+   118550251 ARRESTEE'S MEDICAL                10.00        04/24/13
+   118561913 ARRESTEE'S MEDICAL                20.00        05/01/13
+   118561913 TR/CR SUR $10/$40                 80.00        05/01/13
+   118663641 TR/CR SUR $10/$40                 25.00        07/02/13
+   118712364 TR/CR SUR $10/$40                 50.00        08/01/13
+   118802055 TR/CR SUR $10/$40                 30.00        09/25/13
+   118849628 TR/CR SUR $10/$40                 12.25        10/24/13
+   118849628 CLERK OP & ADMIN FUND             27.75        10/24/13
+   118907685 CLERK OP & ADMIN FUND             12.25        11/27/13
+   118907685 DRUG COURT PROGRAM                12.75        11/27/13
+   120844763 DRUG COURT PROGRAM                 7.25        12/19/13
+   120844763 FINES                              7.75        12/19/13
+   120951447 FINES                             50.00        02/27/14
+   121047108 FINES                             75.00        04/24/14
+   121107091 FINES                             80.00        05/29/14
+   121166559 FINES                            100.00        07/02/14
+   121319318 FINES                            200.00        09/26/14
+   121367872 FINES                             25.00        10/27/14
+   121450190 FINES                             50.00        12/15/14
+   121520137 FINES                             50.00        01/29/15
+   121570258 FINES                            150.00        03/02/15
+   121665287 FINES                             53.50        04/22/15
+   121665287 VICTIMS FUND-FINE                 46.50        04/22/15
+   121759808 VICTIMS FUND-FINE                 53.50        06/16/15
+   121759808 DRIVERS EDUCATION                100.00        06/16/15
+   121759808 ST POLICE SERVICES FUND           50.00        06/16/15
+   121759808 ST POLICE OPERATIONS ASS          50.00        06/16/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  ENDANGER LIFE/HEALTH CHILD
+
+         1  ENDANGER LIFE/HEALTH CHILD
+
+         2  ENDANGER LIFE/HEALTH CHILD
+
+         3  ENDANGER LIFE/HEALTH CHILD
+
+         4  ENDANGER LIFE/HEALTH CHILD
+
+         5  ENDANGER LIFE/HEALTH CHILD
+
+         6  CHILD RESTRAINT VIO/CHILD <8
+
+         6  CHILD REST VIO/CHILD <8/2ND
+
+         6  CHILD REST VIO/CHILD <8/2ND
+
+         6  CHILD REST VIO/CHILD <8/2ND
+
+         6  CHILD REST VIO/CHILD <8/2ND
+
+         6  CHILD REST VIO/CHILD <8/2ND
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   12-07-11                 Charge 01 Count 001 ENDANGER LIFE/HEALTH CHILD
+                            Statute 720 5/12-21.6(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 ENDANGER LIFE/HEALTH CHILD
+                            Statute 720 5/12-21.6(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 03 Count 003 ENDANGER LIFE/HEALTH CHILD
+                            Statute 720 5/12-21.6(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 04 Count 004 ENDANGER LIFE/HEALTH CHILD
+                            Statute 720 5/12-21.6(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 05 Count 005 ENDANGER LIFE/HEALTH CHILD
+                            Statute 720 5/12-21.6(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Entry of appearance.
+                            Defendant arraigned.  Appearance and entry of appear
+ance of attorney,
+                            W. Ding with Defendant.  Plea of not guilty entered
+and Defendant
+                            requests trial by jury. Cause set for pre-trial.  De
+fendant admonished
+                            as to trial and sentencing in absentia. See expanded
+ record.
+                            Defendant's bond is set in the amount of $1000. ROR
+ALLOWED.
+                            Charge 06 Count 006 CHILD RESTRAINT VIO/CHILD <8
+                            Statute 625 25/4  Class P  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 07 Count 006 CHILD REST VIO/CHILD <8/2ND
+                            Statute 625 25/4  Class P  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 08 Count 006 CHILD REST VIO/CHILD <8/2ND
+                            Statute 625 25/4  Class P  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 09 Count 006 CHILD REST VIO/CHILD <8/2ND
+                            Statute 625 25/4  Class P  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 10 Count 006 CHILD REST VIO/CHILD <8/2ND
+                            Statute 625 25/4  Class P  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 11 Count 006 CHILD REST VIO/CHILD <8/2ND
+                            Statute 625 25/4  Class P  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 07 Count 007 CHILD RESTRAINT VIO/CHILD <8
+                            Statute 625 25/4  Class P  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 08 Count 008 CHILD RESTRAINT VIO/CHILD <8
+                            Statute 625 25/4  Class P  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 09 Count 009 CHILD RESTRAINT VIO/CHILD <8
+                            Statute 625 25/4  Class P  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 10 Count 010 CHILD RESTRAINT VIO/CHILD <8
+                            Statute 625 25/4  Class P  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 11 Count 011 CHILD RESTRAINT VIO/CHILD <8
+                            Statute 625 25/4  Class P  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   12-20-11                 Affidavit of mailing on file.
+   02-01-12                 Affidavit of mailing, Supplemental Discovery Materia
+l filed.
+   02-07-12                 Motion to Compel Discovery filed.
+   02-10-12
+                            People appear by Sam Rosenberg.  Defendant appears p
+ersonally and with
+                            counsel, Ed Piraino.  On Defendant's motion, cause c
+ontinued for
+                            hearing on the Motion to Compel Discovery.
+   02-22-12
+                            By agreement, cause continued for hearing on the Mot
+ion to Compel
+                            Discovery.
+   03-05-12                 Affidavit of mailing, Supplemental Discovery Materia
+l filed.
+   03-23-12                 Allotted for trial
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   04-03-12                 Subpoena Served.  No Fees.
+   04-12-12                 Subpoena Served.  No Fees.
+   05-16-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   05-21-12                 Disposition 06/00  Count 006  Fine + Cost
+                            Disposition: Guilty CHILD RESTRAINT VIO/CHILD <8
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 25/4  Class P  Orig.
+                            Sentence: 05/21/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Fine + Cost            316.00     E-CITATION
+       5.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Marley C. Nelson.  Appea
+rance of the
+                            Defendant personally and by counsel, Edwin Piraino.
+Defendant is
+                            arraigned on Counts six through eleven, filed this d
+ate.  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Counts 6, 7, 8, 9, 10 and 11 of the chargi
+ng instrument.
+                            Finding Defendant is guilty of the offense of Child
+Restraint
+                            Vio/Child <8 ILCS: 625 25/4 as charged. Judgment ent
+ered in favor of
+                            the People and against the defendant on finding of g
+uilt and for
+                            costs. Defendant is ordered to pay $75 plus court co
+sts on COUNT 6 and
+                            $200 plus court costs on EACH COUNT 7 through 11. Al
+l financial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk within 270 days. Any
+bond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond. On motion of the People, Counts
+ 1 through 5 are
+                            hereby dismissed. No written order required.
+                            Disposition 07/00  Count 006  Fine + Cost
+                            Disposition: Guilty CHILD REST VIO/CHILD <8/2ND
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 25/4  Class P  Orig.
+                            Sentence: 05/21/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Fine + Cost            495.00     E-CITATION
+       5.00
+                            Payment Due
+                            Disposition 08/00  Count 006  Fine + Cost
+                            Disposition: Guilty CHILD REST VIO/CHILD <8/2ND
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 25/4  Class P  Orig.
+                            Sentence: 05/21/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Fine + Cost            495.00     E-CITATION
+       5.00
+                            Payment Due
+                            Disposition 09/00  Count 006  Fine + Cost
+                            Disposition: Guilty CHILD REST VIO/CHILD <8/2ND
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 25/4  Class P  Orig.
+                            Sentence: 05/21/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Fine + Cost            495.00     E-CITATION
+       5.00
+                            Payment Due
+                            Disposition 10/00  Count 006  Fine + Cost
+                            Disposition: Guilty CHILD REST VIO/CHILD <8/2ND
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 25/4  Class P  Orig.
+                            Sentence: 05/21/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Fine + Cost            495.00     E-CITATION
+       5.00
+                            Payment Due
+                            Disposition 11/00  Count 006  Fine + Cost
+                            Disposition: Guilty CHILD REST VIO/CHILD <8/2ND
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 25/4  Class P  Orig.
+                            Sentence: 05/21/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Fine + Cost            495.00     E-CITATION
+       5.00
+                            Payment Due
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed ENDANGER LIFE/HEALTH CHILD
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-21.6(a)  Class A  Orig.
+                            Sentence: 05/21/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed ENDANGER LIFE/HEALTH CHILD
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-21.6(a)  Class A  Orig.
+                            Sentence: 05/21/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed ENDANGER LIFE/HEALTH CHILD
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-21.6(a)  Class A  Orig.
+                            Sentence: 05/21/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed ENDANGER LIFE/HEALTH CHILD
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-21.6(a)  Class A  Orig.
+                            Sentence: 05/21/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 05/00  Count 005  No Fine & Cost
+                            Disposition: Dismissed ENDANGER LIFE/HEALTH CHILD
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-21.6(a)  Class A  Orig.
+                            Sentence: 05/21/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   06-21-12                 Court Ordered Payments
+   07-30-12                 Court Ordered Payments
+                            Telecheck Processing Fee
+                            Defendant's Motion for Extension of Time to Pay Cost
+s filed
+                            and forwarded to court.
+   08-01-12                 Motion for Extension of Time to Pay Costs
+                            Defendant's Motion for Extension of Time to Pay Cost
+s filed 7/30/12 is
+                            allowed. The time to pay is extended 180 days. Circu
+it Clerk is
+                            directed to notify the Defendant.
+   09-17-12                 Check
+   10-12-12                 Court Ordered Payments
+                            Court Ordered Payments
+   10-15-12                 Disposition 01/01  Count 001  Modified Order
+                            Disposition: Modified/Trial Court ENDANGER LIFE/HEAL
+TH CHILD
+                            Modified Order        2475.00     E-CITATION
+      25.00
+   11-28-12                 Court Ordered Payments
+   01-25-13                 Court Ordered Payments
+   02-15-13                 Court Ordered Payments
+                            Payment Due
+   03-27-13                 Court Ordered Payments
+   04-24-13                 Court Ordered Payments
+   05-01-13                 Court Ordered Payments
+   07-02-13                 Court Ordered Payments
+   08-01-13                 Court Ordered Payments
+   08-06-13                 Motion for Extension of Time to Pay Costs filed and
+forwarded to
+                            Court.
+   08-12-13                 Motion for Extension of Time to Pay Costs on file an
+d allowed.
+                            Defendant  is granted an additional six months to pa
+y the financial
+                            obligations in this matter.
+   09-25-13                 Court Ordered Payments
+   10-24-13                 Court Ordered Payments
+   11-27-13                 Court Ordered Payments
+   12-19-13                 Court Ordered Payments
+   01-08-14                 Defendant's Motion for Extension of Time to Pay Cost
+s filed
+                            and forwarded to court.
+   01-23-14                 Motion for Extension of Time to Pay Costs is allowed
+. The time to pay
+                            is extended 180 days. Circuit Clerk is directed to n
+otify the
+                            Defendant.
+   01-29-14                 Payment Due
+                            Defendant notified by mail of payment due date.
+   02-27-14                 Court Ordered Payments
+   04-24-14                 Court Ordered Payments
+   05-29-14                 Court Ordered Payments
+   07-02-14                 Court Ordered Payments
+                            Motion for Extension of Time to Pay Costs on file by
+ the defendant
+                            Pro Se and forwarded to court.
+   07-08-14                 Defendant's Motion for Extension of Time to Pay Cost
+s filed 7/2/14 is
+                            allowed.  The time to pay is extended 180 days. Circ
+uit Clerk to
+                            notify the Defendant. No written order required.
+   07-10-14                 Payment Due
+   09-26-14                 Court Ordered Payments
+   10-27-14                 Court Ordered Payments
+   12-15-14                 Court Ordered Payments
+   01-05-15                 Motion for Extension of Time to Pay Costs on file by
+ the defendant
+                            Pro Se and forwarded to court.
+   01-21-15                 Defendant's Motion for Extension of Time to Pay Cost
+s filed 1/5/15 is
+                            allowed. The time to pay is extended 180 days. No wr
+itten order
+                            required.
+   01-28-15                 Payment Due
+   01-29-15                 Court Ordered Payments
+   03-02-15                 Cash
+   04-22-15                 Cash
+   06-16-15                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

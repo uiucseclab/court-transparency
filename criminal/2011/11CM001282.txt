@@ -1,0 +1,276 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CM001282
+
+   Defendant Plaintiff
+DYKE  KYLE J
+905 HOVEY AVE
+NORMAL IL 61761
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 12/01/11
+                Court Room:
+           Next Appearance: 12/20/12
+                Birth Date: 05/21/93
+                 DEFENDANT: DYKE  KYLE J
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       50.00      BOND -10% BOND FEE            50.00            .00
+     1400.00      *RESTITUTION AMOUNT         1400.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN          180.00            .00
+       30.00      TRAFFIC/CRIMINAL SU           30.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       25.00      PUBLIC DEFENDER               25.00            .00
+      100.00      FINES                        100.00            .00
+       12.00      VICTIMS FUND-FINE             12.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       70.00      WARRANT SERVICE FEE           70.00            .00
+        5.00      CLERK OP & ADMIN FU            5.00            .00
+      450.00                                   450.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117790918 01000000000                         .00        01/10/12
+   117790931 01000000000                         .00        01/10/12
+   117854977 01000000000                         .00        02/28/12
+   118003952 *RESTITUTION AMOUNT               20.00        06/19/12
+   118003952 *RESTITUTION AMOUNT               20.00        06/19/12
+   118226121 BOND - ORIGINAL                  500.00        11/08/12
+   118231485 BOND - ORIGINAL                 2017.00        11/14/12
+   118231486 *RESTITUTION AMOUNT             1380.00        11/14/12
+   118231486 DOCUMENT STORAGE                   5.00        11/14/12
+   118231486 E-CITATION                         5.00        11/14/12
+   118231486 AUTOMATION                        10.00        11/14/12
+   118231486 CIRCUIT CLERK FEE                 75.00        11/14/12
+   118231486 COURT SECURITY                    25.00        11/14/12
+   118231486 COURT FINANCE FEE                 25.00        11/14/12
+   118231486 STATES ATTORNEY                   20.00        11/14/12
+   118231486 CRIME STOPPERS                     5.00        11/14/12
+   118231486 ARRESTEE'S MEDICAL                10.00        11/14/12
+   118231486 PROBATION MONITORING FEE         180.00        11/14/12
+   118231486 TR/CR SUR $10/$40                 30.00        11/14/12
+   118231486 CLERK OP & ADMIN FUND             10.00        11/14/12
+   118231486 DRUG COURT PROGRAM                 5.00        11/14/12
+   118231486 PUBLIC DEFENDER                   25.00        11/14/12
+   118231486 FINES                            100.00        11/14/12
+   118231486 VICTIMS FUND-FINE                 12.00        11/14/12
+   118231486 ST POLICE SERVICES FUND           10.00        11/14/12
+   118231486 ST POLICE OPERATIONS ASS          10.00        11/14/12
+   118231486 WARRANT SERVICE FEE               70.00        11/14/12
+   118231486 CLERK OP & ADMIN FUND              5.00        11/14/12
+   118231486 *RESTITUTION AMOUNT             1380.00        11/14/12
+   118242041 EPAY RECEIVABLE                 2017.00        11/20/12
+   118421223 AUTOMATION                          .00        01/31/13
+   118421223 DOCUMENT STORAGE                    .00        01/31/13
+   118421223 CIRCUIT CLERK FEE                   .00        01/31/13
+   118421223 COURT FINANCE FEE                   .00        01/31/13
+   118421223 LIBRARY FEE                         .00        01/31/13
+   118421223 COURT SECURITY                      .00        01/31/13
+   118421223 TR/CR SUR $10/$40                   .00        01/31/13
+   118421223 BOND -10% BOND FEE                  .00        01/31/13
+   118421223 PROBATION MONITORING FEE            .00        01/31/13
+   118421223 MISCELLANEOUS                       .00        01/31/13
+   118421223 NOTICES MAILED 1ST CLASS            .00        01/31/13
+   118421223 BOND FORFEITURE                     .00        01/31/13
+   118421223 FINES                               .00        01/31/13
+   118421223 % BREAKDOWN-COUNTY                  .00        01/31/13
+   118421223 ABANDONED BOND PROCESSIN            .00        01/31/13
+   118421223 VICTIMS FUND-FINE                   .00        01/31/13
+   118421223 DRIVERS EDUCATION                   .00        01/31/13
+   118421223 CLERK OP & ADMIN FUND               .00        01/31/13
+   118421223 PRISONER REVIEW BOARD               .00        01/31/13
+   118421223 % BREAKDOWN-STATE                   .00        01/31/13
+   118421223  STATE OFFENDER DNA ID S            .00        01/31/13
+   118421223 DUI CRIME LAB                       .00        01/31/13
+   118421223 TRAUMA FUND                         .00        01/31/13
+   118421223 ST DNA ID FUND-ADMIN FEE            .00        01/31/13
+   118421223 DOMESTIC BATTERY                    .00        01/31/13
+   118421223 VIOLATE OP-DOMESTIC ABUS            .00        01/31/13
+   118421223 TRAFFIC SCHOOL TUITION              .00        01/31/13
+   118421223 CLERK OP & ADMIN-SERIOUS            .00        01/31/13
+   118421223 FIRE PREVENTION FUND                .00        01/31/13
+   118421223 FIRE TRUCK REVOLVING LOA            .00        01/31/13
+   118421223 CERTIFIED MAILING                   .00        01/31/13
+   118421223 CERTIFIED COPIES                    .00        01/31/13
+   118421223 INTEREST                            .00        01/31/13
+   118421223 DRUG TRAFFIC PREVENTION             .00        01/31/13
+   118421223 MAIL FEE-EXPUNGEMENTS               .00        01/31/13
+   118421223 UNCLAIMED PROPERTY TO ST            .00        01/31/13
+   118421223 ABANDONED BONDS                     .00        01/31/13
+   118421223 CHECKS-STOPPED                      .00        01/31/13
+   118421223 ABAND RESIDENT RELIEF FU            .00        01/31/13
+   118421223 STATE GUARDIANSHIP AND A            .00        01/31/13
+   118429315 BOND -10% BOND FEE                50.00        02/06/13
+   118429315 *BOND REFUND                     450.00        02/06/13
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  KNOWINGLY DAMAGE PROP<$300
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   12-01-11                 Charge 01 Count 001 KNOWINGLY DAMAGE PROP<$300
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Stephanie Corum appears instanter.  Plea of not guil
+ty entered and
+                            Defendant requests trial by jury.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia.  Bond is set in the amou
+nt of $1,000-ROR
+                            ALLOWED. See expanded record.
+   12-08-11                 Proof of service of discovery materials filed.
+   12-20-11                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty KNOWINGLY DAMAGE PROP<$300
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Sentence: 12/20/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  40Hrs In force
+                                      Supervised Court Service
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Attorney Fees  In force
+                            Sentence: Restitution  In force
+                            Fine + Cost            402.00     *RESTITUTION AMOUN
+T   1400.00
+                            E-CITATION               5.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    180.00     PUBLIC DEFENDER
+      25.00
+                            WARRANT SERVICE FEE     70.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Marley C. Nelson.  Appea
+rance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Knowingly Damage Prop<$300
+ILCS: 720
+                            5/21-1(1)(a) as charged. Judgment entered in favor o
+f the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  6/18/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months Conditional Discharge. Defendan
+t is ordered to
+                            perform  40 hours of public service work under the s
+upervision of the
+                            Champaign County Court Services Department.  The def
+endant is to be
+                            given credit on public service work for any hours co
+mpleted in
+                            education, treatment, aftercare, sobriety based self
+-help group
+                            meetings, Victim Impact Panel and GED classes. Defen
+dant advised of
+                            right to appeal and rights pursuant to Supreme Court
+ Rule 605 and the
+                            Court finds that the defendant understands the same.
+   02-28-12                 Change of Address filed by Restitution Recipient.
+   06-19-12                 Court Ordered Payments
+   09-13-12                 Petition to Revoke Conditional Discharge filed
+   09-19-12                 Verified information on Petition to Revoke Probation
+ on file
+   09-25-12                 Summons returned, not found
+   09-27-12                 Summons returned, not found
+   10-19-12                 Violation of probation warrant.
+                            Verified information on Petition to Revoke Probation
+ on file.
+                            Probable cause to arrest determined.  Warrant issued
+.  Bond set in the
+                            amount of $  5,000.00.
+   10-30-12                 Warrant Served. No Fees.
+   10-31-12                 Cause allotted for hearing on
+   11-08-12                 FTA warrant service fee of $75 is still owed.
+                            The arresting agency is McLean County Sheriff for th
+e FTA warrant
+                            arrest of 10-28-12.
+                            Bond Type Cash 10% deposit Bond
+   11-14-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   11-15-12                 Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ch
+ristopher Mellon
+                            appears instanter.  General denial to the Petition i
+s entered.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. Bond
+                            is to continue. See expanded record.
+   11-20-12                 EPAY RECONCILIATION TRANSACTION
+   11-28-12
+                            People appear by Claire Sharples Brooks. Defendant a
+ppears personally
+                            and with Lindsey Yanchus. On motion of the People Pe
+tition to Revoke
+                            is withdrawn and dismissed.
+   02-06-13                 Bond
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

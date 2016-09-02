@@ -1,0 +1,277 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CM000370
+
+   Defendant Plaintiff
+BARNES  NATHAN A
+11301 S STEWART
+CHICAGO IL 60607
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 04/18/11
+                Court Room:
+           Next Appearance: 05/24/12
+                Birth Date: 03/03/88
+                 DEFENDANT: BARNES  NATHAN A
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      COURT FINANCE FEE             10.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       15.00      PROBATION MONITORIN          180.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+       60.00      TR/CR SUR $10/$40             60.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       24.00      VICTIMS FUND-FINE             24.00            .00
+       23.03       STREET VALUE DRUG            23.03            .00
+      195.00      MANDATORY ASSESSMEN          171.42          23.58
+       10.00      ST POLICE SERVICES              .00          10.00
+      116.90      COLLECTION FEES               70.23          46.67
+      112.05      LATE FEES                       .00         112.05
+      140.82      TAX INTERCEPT                140.82            .00
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117430850 SHERIFF'S BOOKING FEE             20.00        04/19/11
+   117430850 BOND - ORIGINAL                  150.00        04/19/11
+   117499786 BOND -10% BOND FEE                15.00        06/06/11
+   117499786 DOCUMENT STORAGE                   5.00        06/06/11
+   117499786 E-CITATION                         5.00        06/06/11
+   117499786 AUTOMATION                        10.00        06/06/11
+   117499786 CIRCUIT CLERK FEE                 75.00        06/06/11
+   117499786 COURT SECURITY                    25.00        06/06/11
+   117499786 ARRESTEE'S MEDICAL                10.00        06/06/11
+   117499786 COURT FINANCE FEE                  5.00        06/06/11
+   121808872 COURT FINANCE FEE                  5.00        08/18/15
+   121808872 STATES ATTORNEY                   20.00        08/18/15
+   121808872 PROBATION MONITORING FEE          31.69        08/18/15
+   121808872 COLLECTION FEES                    5.66        08/18/15
+   121808872 TAX INTERCEPT                     11.35        08/18/15
+   121810631 BOND -10% BOND FEE                  .00        09/15/15
+   121810631 DOCUMENT STORAGE                    .00        09/15/15
+   121810631 E-CITATION                          .00        09/15/15
+   121810631 AUTOMATION                          .00        09/15/15
+   121810631 CIRCUIT CLERK FEE                   .00        09/15/15
+   121810631 COURT SECURITY                      .00        09/15/15
+   121810631 COURT FINANCE FEE                   .00        09/15/15
+   121810631 STATES ATTORNEY                     .00        09/15/15
+   121810631 ARRESTEE'S MEDICAL                  .00        09/15/15
+   121810631 VICTIMS FUND-NO FINE                .00        09/15/15
+   121810631 PROBATION MONITORING FEE            .00        09/15/15
+   121810631 SPINAL CORD RESEARCH FUN            .00        09/15/15
+   121810631 CRIME LAB                           .00        09/15/15
+   121810631 TRAUMA FUND                         .00        09/15/15
+   121810631 TR/CR SUR $10/$40                   .00        09/15/15
+   121810631 CLERK OP & ADMIN FUND               .00        09/15/15
+   121810631 DRUG COURT PROGRAM                  .00        09/15/15
+   121810631 VICTIMS FUND-FINE                   .00        09/15/15
+   121810631  STREET VALUE DRUG FINES            .00        09/15/15
+   121810631 MANDATORY ASSESSMENT                .00        09/15/15
+   121810631 ST POLICE SERVICES FUND             .00        09/15/15
+   121810631 COLLECTION FEES                     .00        09/15/15
+   121810631 LATE FEES                           .00        09/15/15
+   121810631 TAX INTERCEPT                       .00        09/15/15
+   121810631 ST POLICE OPERATIONS ASS            .00        09/15/15
+   121810631 *BOND REFUND                        .00        09/15/15
+   121922389 PROBATION MONITORING FEE          82.51        09/16/15
+   121922389 COLLECTION FEES                    8.24        09/16/15
+   121922389 TAX INTERCEPT                     16.52        09/16/15
+   121975747 PROBATION MONITORING FEE          65.80        10/15/15
+   121975747 SPINAL CORD RESEARCH FUN           5.00        10/15/15
+   121975747 CRIME LAB                         84.79        10/15/15
+   121975747 COLLECTION FEES                   15.54        10/15/15
+   121975747 TAX INTERCEPT                     31.15        10/15/15
+   121984257 CRIME LAB                         15.21        10/20/15
+   121984257 TRAUMA FUND                       69.68        10/20/15
+   121984257 COLLECTION FEES                    8.48        10/20/15
+   121984257 TAX INTERCEPT                     16.99        10/20/15
+   122011957 TRAUMA FUND                       30.32        11/05/15
+   122011957 TR/CR SUR $10/$40                 51.37        11/05/15
+   122011957 COLLECTION FEES                    8.16        11/05/15
+   122011957 TAX INTERCEPT                     16.35        11/05/15
+   122036486 TR/CR SUR $10/$40                  8.63        11/20/15
+   122036486 CLERK OP & ADMIN FUND             10.00        11/20/15
+   122036486 DRUG COURT PROGRAM                 5.00        11/20/15
+   122036486 VICTIMS FUND-FINE                 24.00        11/20/15
+   122036486  STREET VALUE DRUG FINES           6.11        11/20/15
+   122036486 COLLECTION FEES                    5.37        11/20/15
+   122036486 TAX INTERCEPT                     10.75        11/20/15
+   122067892  STREET VALUE DRUG FINES          16.92        12/09/15
+   122067892 MANDATORY ASSESSMENT               5.63        12/09/15
+   122067892 COLLECTION FEES                    2.25        12/09/15
+   122067892 TAX INTERCEPT                      4.51        12/09/15
+   122079595 MANDATORY ASSESSMENT              31.89        12/17/15
+   122079595 COLLECTION FEES                    3.18        12/17/15
+   122079595 TAX INTERCEPT                      6.39        12/17/15
+   122099700 MANDATORY ASSESSMENT              26.95        12/31/15
+   122099700 COLLECTION FEES                    2.69        12/31/15
+   122099700 TAX INTERCEPT                      5.39        12/31/15
+   122122871 MANDATORY ASSESSMENT              28.61        01/14/16
+   122122871 COLLECTION FEES                    2.86        01/14/16
+   122122871 TAX INTERCEPT                      5.73        01/14/16
+   122148188 MANDATORY ASSESSMENT              35.27        01/29/16
+   122148188 COLLECTION FEES                    3.52        01/29/16
+   122148188 TAX INTERCEPT                      7.06        01/29/16
+   122169521 MANDATORY ASSESSMENT              25.48        02/11/16
+   122169521 COLLECTION FEES                    2.54        02/11/16
+   122169521 TAX INTERCEPT                      5.11        02/11/16
+   122192119 COLLECTION FEES                    1.76        02/25/16
+   122192119 TAX INTERCEPT                     50.17        02/25/16
+   122192208 MANDATORY ASSESSMENT              17.59        02/25/16
+   122192208 COLLECTION FEES                    1.76        02/25/16
+   122192208 TAX INTERCEPT                      3.52        02/25/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  POSSESS CANNABIS/2.5-10 GRAMS
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   04-18-11                 Charge 01 Count 001 POSSESS CANNABIS/2.5-10 GRAMS
+                            Statute 720 550/4(b)  Class B  Orig.
+                            Agency: URBANA POLICE DEPARTMENT  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Melinda Licciardello appears instanter.  Plea of not
+ guilty entered
+                            and Defendant requests trial by jury. Bond to contin
+ue.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+See expanded
+                            record.
+                            Notice of arrest without warrant on file.
+   04-19-11                 Sheriff Booking Fee
+   04-27-11                 Proof of service of discovery materials filed.
+   05-24-11                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty POSSESS CANNABIS/2.5-10 GRAMS
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 550/4(b)  Class B
+                            Sentence: 05/24/2011
+                            Sentence: Cost Only  In force
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  40Hrs In force
+                                      Supervised Court Service
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              617.03     PROBATION MONITORI
+N    180.00
+                            CRIME LAB              100.00     COLLECTION FEES
+     116.90
+                            LATE FEES              112.05     TAX INTERCEPT
+     140.82
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Andrea I. Bergstrom.  Ap
+pearance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Possess Cannabis/2.5-10 Gra
+ms ILCS: 720
+                            550/4(b) as charged. Judgment entered in favor of th
+e People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 11/21/2011.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months Conditional Discharge. Defendan
+t is ordered to
+                            perform  40 hours of public service work under the s
+upervision of the
+                            Champaign County Court Services Department.  The def
+endant is to be
+                            given credit on public service work for any hours co
+mpleted in
+                            education, treatment, aftercare, sobriety based self
+-help group
+                            meetings, Victim Impact Panel and GED classes. Defen
+dant advised of
+                            right to appeal and rights pursuant to Supreme Court
+ Rule 605 and the
+                            Court finds that the defendant understands the same.
+
+                            Pursuant to the Judgment on the guilty plea the drug
+                            fine collected it to be disbursed as follows:
+                                 12.5% to the Youth Drug Abuse Prevention Fund
+                                 37.5% to the General Corporate fund of Champaig
+n
+                                      County and
+                                 50% to the URBANA POLICE DEPARTMENT
+   06-06-11                 Bond
+   12-26-12                 Case sent out for collections.
+   08-18-15                 Cash
+   09-16-15                 Collection Tax Intercept Payment
+   10-15-15                 Collection Tax Intercept Payment
+   10-20-15                 Collection Tax Intercept Payment
+   11-05-15                 Collection Tax Intercept Payment
+   11-20-15                 Collection Tax Intercept Payment
+   12-09-15                 Collection Tax Intercept Payment
+   12-17-15                 Collection Tax Intercept Payment
+   12-31-15                 Collection Tax Intercept Payment
+   01-14-16                 Collection Tax Intercept Payment
+   01-29-16                 Collection Tax Intercept Payment
+   02-11-16                 Collection Tax Intercept Payment
+   02-25-16                 Tax Intercept
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

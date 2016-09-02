@@ -1,0 +1,200 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CM000202
+
+   Defendant Plaintiff
+PETTICREW  SCOTT E
+2107 BATESTOWN
+DANVILLE IL 61873
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 02/16/12
+                Court Room:
+           Next Appearance: 12/03/12
+                Birth Date: 10/27/76
+                 DEFENDANT: PETTICREW  SCOTT E
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       10.00      STATES ATTORNEY               10.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          150.00            .00
+       70.00      TRAFFIC/CRIMINAL SU           70.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      250.00      FINES                        250.00            .00
+       28.00      VICTIMS FUND-FINE             28.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118264591 DOCUMENT STORAGE                   5.00        11/30/12
+   118264591 E-CITATION                         5.00        11/30/12
+   118264591 AUTOMATION                        10.00        11/30/12
+   118264591 CIRCUIT CLERK FEE                 75.00        11/30/12
+   118264591 COURT SECURITY                    25.00        11/30/12
+   118264591 COURT FINANCE FEE                 25.00        11/30/12
+   118264591 STATES ATTORNEY                   10.00        11/30/12
+   118264591 CRIME STOPPERS                     5.00        11/30/12
+   118264591 ARRESTEE'S MEDICAL                10.00        11/30/12
+   118264591 PROBATION MONITORING FEE         150.00        11/30/12
+   118264591 TR/CR SUR $10/$40                 70.00        11/30/12
+   118264591 CLERK OP & ADMIN FUND             10.00        11/30/12
+   118264591 DRUG COURT PROGRAM                 5.00        11/30/12
+   118264591 FINES                            250.00        11/30/12
+   118264591 VICTIMS FUND-FINE                 28.00        11/30/12
+   118264591 ST POLICE OPERATIONS ASS          10.00        11/30/12
+   118264591 STATES ATTORNEY AUTOMATI           2.00        11/30/12
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  KEEP GAMBLING PLACE/1ST
+
+         2  PLAY GAME OF CHANCE
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   02-16-12                 Charge 01 Count 001 KEEP GAMBLING PLACE/1ST
+                            Statute 720 5/28-3  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 PLAY GAME OF CHANCE
+                            Statute 720 5/28-1(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Recognizance bond
+                            Entry of appearance.
+                            Defendant arraigned.  Appearance and entry of appear
+ance of attorney,
+                            G. Ryan, with Defendant.  Plea of not guilty entered
+ and Defendant
+                            requests trial by jury. Cause set for pre-trial.  De
+fendant admonished
+                            as to trial and sentencing in absentia. Bond is set
+in the amount of
+                            $1,000-ROR ALLOWED.  See expanded record.
+   02-17-12                 Motion for Misdemeanor Discovery filed.
+   02-21-12                 Affidavit of mailing of Discovery Materials filed.
+   03-07-12                 Affidavit of mailing, Supplemental Discovery Materia
+l filed.
+   03-16-12
+                            People appear by Samuel A. Rosenberg.  Defendant app
+ears personally
+                            and with counsel, Gregory L. Ryan. Motion by the Def
+endant for
+                            continuance.  Motion allowed.
+   04-27-12
+                            People appear by Marley C. Nelson.  Defendant appear
+s personally and
+                            with counsel, Gregory L. Ryan. Motion by the Defenda
+nt for
+                            continuance.  Motion allowed.
+   06-01-12                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed PLAY GAME OF CHANCE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/28-1(a)(1)  Class A  Orig.
+                            Sentence: 06/01/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Withhold Judgment/Supervision KEEP GAMB
+LING PLACE/1ST
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/28-3  Class A  Orig.
+                            Sentence: 06/01/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Court Supervision  6Mos In force
+                                      Supervised Court Service
+                            Sentence: Seized contraband is forfeited to the arre
+sting agency  In f
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            535.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    150.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Marley C. Nelson.  Appea
+rance of the
+                            Defendant personally and by counsel, Gregory L. Ryan
+.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Keep Gambling Place/1st ILC
+S: 720 5/28-3 as
+                            charged. Upon the plea entered this date,Defendant i
+s sentenced to all
+                            terms and conditions as set forth in the written ord
+er on guilty plea
+                            entered this date. All financial obligations shall b
+e paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk by
+                            11/28/2012.  Any bond posted is to be applied first
+to any court
+                            ordered bond assignment on file and then to all rest
+itution ordered
+                            and then to all financial obligations in this case.
+ Any remaining
+                            bond shall be discharged to the individual who poste
+d the bond.
+                            Defendant is ordered to serve a period of   6 months
+ Court
+                            Supervision. Any contraband seized in this matter, a
+nd any additional
+                            property listed in the written order is forfeited to
+ the arresting
+                            agency. Count 2 is herby dismissed. Defendant advise
+d of right to
+                            appeal and rights pursuant to Supreme Court Rule 605
+ and the Court
+                            finds that the defendant understands the same.
+   11-30-12                 Court Ordered Payments
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

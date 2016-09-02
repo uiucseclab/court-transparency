@@ -1,0 +1,271 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001700
+
+   Defendant Plaintiff
+BARKER  CHRISTOPHER W
+2701 HENDRIX
+BLOOMINGTON IL 61704
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 10/17/11
+                Court Room: E
+           Next Appearance: 01/03/12  09:00
+                Birth Date: 08/25/83
+                 DEFENDANT: BARKER  CHRISTOPHER W
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE             32.08          67.92
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+      150.00      DUI CRIME LAB                   .00         150.00
+      200.00       STATE OFFENDER DNA             .00         200.00
+      100.00      TRAUMA FUND                     .00         100.00
+      190.00      TRAFFIC/CRIMINAL SU             .00         190.00
+        5.00      CLERK OP & ADMIN-SE             .00           5.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+         .00      FINES                           .00            .00
+      200.00      DUI NEW EQUIPMENT F             .00         200.00
+       76.00      VICTIMS FUND-FINE               .00          76.00
+       76.00      DRIVERS EDUCATION               .00          76.00
+      295.00      DUI - 80% IL GENERA             .00         295.00
+       15.00      FIRE PREVENTION FUN             .00          15.00
+       15.00      FIRE TRUCK REVOLVIN             .00          15.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      165.48      COLLECTION FEES                3.92         161.56
+      240.30      LATE FEES                       .00         240.30
+      146.91      TAX INTERCEPT                   .00         146.91
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121129774 DOCUMENT STORAGE                    .00        06/11/14
+   121129774 AUTOMATION                          .00        06/11/14
+   121129774 CIRCUIT CLERK FEE                   .00        06/11/14
+   121129774 COURT SECURITY                      .00        06/11/14
+   121129774 COURT FINANCE FEE                   .00        06/11/14
+   121129774 STATES ATTORNEY                     .00        06/11/14
+   121129774 ARRESTEE'S MEDICAL                  .00        06/11/14
+   121129774 SPINAL CORD RESEARCH FUN            .00        06/11/14
+   121129774 DUI CRIME LAB                       .00        06/11/14
+   121129774  STATE OFFENDER DNA ID S            .00        06/11/14
+   121129774 TRAUMA FUND                         .00        06/11/14
+   121129774 TR/CR SUR $10/$40                   .00        06/11/14
+   121129774 CLERK OP & ADMIN-SERIOUS            .00        06/11/14
+   121129774 CLERK OP & ADMIN FUND               .00        06/11/14
+   121129774 DRUG COURT PROGRAM                  .00        06/11/14
+   121129774 FINES                               .00        06/11/14
+   121129774 DUI NEW EQUIPMENT FINE              .00        06/11/14
+   121129774 VICTIMS FUND-FINE                   .00        06/11/14
+   121129774 DRIVERS EDUCATION                   .00        06/11/14
+   121129774 DUI - IL GENERAL REVENUE            .00        06/11/14
+   121129774 FIRE PREVENTION FUND                .00        06/11/14
+   121129774 FIRE TRUCK REVOLVING LOA            .00        06/11/14
+   121129774 ST POLICE SERVICES FUND             .00        06/11/14
+   121129774 COLLECTION FEES                     .00        06/11/14
+   121129774 LATE FEES                           .00        06/11/14
+   121129774 TAX INTERCEPT                       .00        06/11/14
+   121129774 ST POLICE OPERATIONS ASS            .00        06/11/14
+   121129835 DOCUMENT STORAGE                   5.00        06/10/14
+   121129835 AUTOMATION                        10.00        06/10/14
+   121129835 CIRCUIT CLERK FEE                 32.08        06/10/14
+   121129835 COLLECTION FEES                    3.92        06/10/14
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AGG DUI LIC SUSP OR REVOKED
+
+         2  AGG DUI LIC SUSP OR REVOKED
+
+         3  POSS AMT CON SUB EXCEPT(A)/(D)
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   10-17-11                 Charge 01 Count 001 AGG DUI LIC SUSP OR REVOKED
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 AGG DUI LIC SUSP OR REVOKED
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 03 Count 003 POSS AMT CON SUB EXCEPT(A)/(D)
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Created and properly labeled permanent case file.
+                            Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and L.Yanchus appears instanter.  Defendan
+t waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  See expanded recor
+d.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+                            Bond set in the amount of $2500.  ROR is denied.
+
+                            Defendant advised as to the possibility of Consecuti
+ve Term
+                            Sentencing.
+   10-18-11                 Notice of arrest without warrant on file.
+   10-24-11                 Answer to Discovery filed
+                            Discovery filed
+   11-15-11
+                            Suggestion to the Court that the matter was erroneou
+sly set this date
+                            in Courtroom C from arraignment Court.  Allotment th
+is date is in
+                            Courtroom C is vacated and the matter is re-allotted
+ to Courtroom E
+                            this date.
+
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   11-29-11                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG DUI LIC SUSP OR REVOKED
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Sentence: 11/29/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed POSS AMT CON SUB EXCEPT(A)/(D
+)
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Sentence: 11/29/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty AGG DUI LIC SUSP OR REVOKED
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 11/29/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  2Yrs In force
+                            Sentence: Credit Time Served  45Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           1252.00     DUI CRIME LAB
+     150.00
+                             STATE OFFENDER DNA    200.00     COLLECTION FEES
+     165.48
+                            LATE FEES              240.30     TAX INTERCEPT
+     146.91
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally and by counsel, Jamie Propps.   Defendant
+ advised as to the
+                            nature of the proceedings, the charges and the possi
+ble penalties that
+                            may be imposed and the Court finds that the Defendan
+t understands the
+                            same.  Finding Defendant knowingly, understandingly
+and voluntarily
+                            waives rights and enters a plea of guilty to Count 0
+2 of the charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Agg Dui Lic
+                            Susp Or Revoked ILCS: 625 5/11-501(a) as charged. Ju
+dgment entered in
+                            favor of the People and against the defendant on fin
+ding of guilt and
+                            for costs.  All financial obligations shall be paid
+in equal monthly
+                            installments to the Champaign County Circuit Clerk b
+y  .  Any bond
+                            posted is to be applied first to any court ordered b
+ond assignment on
+                            file and then to all restitution ordered and then to
+ all financial
+                            obligations in this case.  Any remaining bond shall
+be discharged to
+                            the individual who posted the bond.  Defendant is or
+dered to serve a
+                            period of incarceration of   2 years in the Illinois
+ Department of
+                            Corrections. Defendant is to receive credit for  45
+days previously
+                            served. The Defendant is to submit specimens of bloo
+d, saliva, or
+                            tissue to the Illinois Department of State Police or
+ to the Department
+                            of Corrections within 45 days, at a collection site
+designated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Count(s) stated
+                            in the written order are herby dismissed. Case Numbe
+r(s) stated in the
+                            written order are herby dismissed.  Any bond posted
+in said case(s)
+                            shall be transferred to the instant case and shall b
+e applied to any
+                            fines, fees, costs, assessments, and/or restitution
+imposed herein;
+                            any remaining bond shall be used to satisfy such oth
+er of the
+                            Defendant's Champaign County criminal or traffic cas
+es in which the
+                            Defendant owes an outstanding balance of fines, fees
+, costs,
+                            assessments and/or restitution. Defendant advised of
+ right to appeal
+                            and rights pursuant to Supreme Court Rule 605 and th
+e Court finds that
+                            the defendant understands the same.
+   11-30-11                 Report of Felony Conviction prepared / mailed.
+   12-09-11                 Statement of State's Attorney filed
+   09-17-12                 Case sent out for collections.
+   06-10-14                 Court Ordered Payments
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

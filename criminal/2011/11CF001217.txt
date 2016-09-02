@@ -1,0 +1,655 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001217
+
+   Defendant Plaintiff
+BLOCKER  AARON G
+617 W STATE ST
+CHARLESTON IL 61920
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 08/01/11
+                Court Room:
+           Next Appearance: 02/19/15
+                Birth Date: 06/08/83
+                 DEFENDANT: BLOCKER  AARON G
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      150.00      BOND -10% BOND FEE           150.00            .00
+        2.00      NOTICES MAILED 1ST             2.00            .00
+     1348.00      BOND FORFEITURE             1348.00            .00
+    13652.00      UNSATISFIED JUDGMEN             .00       13652.00
+         .00                                      .00            .00
+      500.00      BOND -10% BOND FEE           500.00            .00
+        2.00      NOTICES MAILED 1ST             2.00            .00
+     4423.00      BOND FORFEITURE             4423.00            .00
+    60577.00      UNSATISFIED JUDGMEN             .00       60577.00
+       70.00      WARRANT SERVICE FEE           70.00            .00
+        5.00      CLERK OP & ADMIN FU            5.00            .00
+         .00                                      .00            .00
+      650.00      BOND -10% BOND FEE           650.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          600.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      280.00      TRAFFIC/CRIMINAL SU          280.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       10.00      PRELIMINARY HEARING           10.00            .00
+      116.90      SHERIFF FEES                 116.90            .00
+         .00      FINES                           .00            .00
+        4.00      NOTICES MAILED 1ST             4.00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+      810.00      DRUG TRAFFIC PREVEN          810.00            .00
+      160.00      MANDATORY ASSESSMEN          160.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       70.00      WARRANT SERVICE FEE           70.00            .00
+        5.00      CLERK OP & ADMIN FU            5.00            .00
+     1442.10                                  1442.10            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117578901 SHERIFF'S BOOKING FEE             20.00        08/01/11
+   117578901 BOND - ORIGINAL                 1500.00        08/01/11
+   118055984 BOND -10% BOND FEE               150.00        07/30/12
+   118055984 NOTICES MAILED 1ST CLASS           2.00        07/30/12
+   118055984 BOND FORFEITURE                 1348.00        07/30/12
+   118091281 BOND - ORIGINAL                 5000.00        08/20/12
+   118263977 COPIES                             1.00        11/30/12
+   118263977 COPIES                             6.00        11/30/12
+   118263979 COPIES                             1.00        11/30/12
+   118263979 COPIES                             1.50        11/30/12
+   118405854 BOND -10% BOND FEE               500.00        01/25/13
+   118405854 NOTICES MAILED 1ST CLASS           2.00        01/25/13
+   118405854 BOND FORFEITURE                 4423.00        01/25/13
+   118405854 WARRANT SERVICE FEE               70.00        01/25/13
+   118405854 CLERK OP & ADMIN FUND              5.00        01/25/13
+   121692314 BOND - ORIGINAL                 5000.00        05/07/15
+   121692314 CLERK OP & ADMIN FUND             -5.00        05/07/15
+   121692314 WARRANT SERVICE FEE              -70.00        05/07/15
+   121692314 BOND FORFEITURE                -4423.00        05/07/15
+   121692314 NOTICES MAILED 1ST CLASS          -2.00        05/07/15
+   121692314 BOND -10% BOND FEE              -500.00        05/07/15
+   121698160 BOND -10% BOND FEE              -150.00        05/12/15
+   121698160 NOTICES MAILED 1ST CLASS          -2.00        05/12/15
+   121698160 BOND FORFEITURE                -1348.00        05/12/15
+   121698160 *BOND REFUND                    1500.00        05/12/15
+   121698160 *BOND REFUND                   -1500.00        05/14/15
+   121698239 01000000000                         .00        05/12/15
+   121698483 01000000000                         .00        05/12/15
+   121698501 01000000000                         .00        05/12/15
+   121699001 BOND -10% BOND FEE               650.00        05/12/15
+   121699001 DOCUMENT STORAGE                   5.00        05/12/15
+   121699001 AUTOMATION                        10.00        05/12/15
+   121699001 CIRCUIT CLERK FEE                100.00        05/12/15
+   121699001 COURT SECURITY                    25.00        05/12/15
+   121699001 COURT FINANCE FEE                 50.00        05/12/15
+   121699001 STATES ATTORNEY                   40.00        05/12/15
+   121699001 STATES ATTORNEY AUTOMATI           2.00        05/12/15
+   121699001 CRIME STOPPERS                    10.00        05/12/15
+   121699001 ARRESTEE'S MEDICAL                10.00        05/12/15
+   121699001 PROBATION MONITORING FEE          25.00        05/12/15
+   121699001 PROBATION OPER ASSISTANC          10.00        05/12/15
+   121699001 SPINAL CORD RESEARCH FUN           5.00        05/12/15
+   121699001 CRIME LAB                        100.00        05/12/15
+   121699001  STATE OFFENDER DNA ID S         250.00        05/12/15
+   121699001 TRAUMA FUND                      100.00        05/12/15
+   121699001 TR/CR SUR $10/$40                280.00        05/12/15
+   121699001 CLERK OP & ADMIN FUND             10.00        05/12/15
+   121699001 DRUG COURT PROGRAM                 5.00        05/12/15
+   121699001 PRELIMINARY HEARING               10.00        05/12/15
+   121699001 SHERIFF FEES                     116.90        05/12/15
+   121699001 NOTICES MAILED 1ST CLASS           4.00        05/12/15
+   121699001 VIOLENT CRIME VICTIMS AS         100.00        05/12/15
+   121699001 DRUG TRAFFIC PREVENTION          810.00        05/12/15
+   121699001 MANDATORY ASSESSMENT             160.00        05/12/15
+   121699001 ST POLICE SERVICES FUND           10.00        05/12/15
+   121699001 ST POLICE OPERATIONS ASS          10.00        05/12/15
+   121699001 WARRANT SERVICE FEE               70.00        05/12/15
+   121699001 CLERK OP & ADMIN FUND              5.00        05/12/15
+   121699013 PROBATION MONITORING FEE         575.00        05/12/15
+   121699013 *BOND REFUND                    1442.10        05/12/15
+   121704171 CHECKS-STOPPED                 -1500.00        05/14/15
+   121704171 *REFUND - OTHER                 1500.00        05/14/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  MFG 15>200 PILLS ECSTASY/ANLG
+
+         1  MFG 15>200 PILLS ECSTASY/ANLG
+
+         1  MFG 15>200 PILLS ECSTASY/ANLG
+
+         1  MFG 15>200 PILLS ECSTASY/ANLG
+
+         2  MANU/DEL CAN 30-500 GRAMS/SCH
+
+         3  POSS CANNABIS/30-500 GRAM/1ST
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   08-01-11                 Charge 01 Count 001 MFG 15>200 PILLS ECSTASY/ANLG
+                            Statute 720 570/401(a)(7.5)(A)(ii  Class X  Orig.
+                            Agency: ILLINOIS STATE POLICE TASK FOR  Charge Instr
+: Information
+                            Charge 02 Count 002 MANU/DEL CAN 30-500 GRAMS/SCH
+                            Statute 720 550/5(d)  Class 3  Orig.
+                            Agency: ILLINOIS STATE POLICE TASK FOR  Charge Instr
+: Information
+                            NO BOND No Bond
+                            NO BOND No Bond
+                            Created and properly labeled permanent case file.
+                            Cause set for arraignment on
+                            Sheriff Booking Fee
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Defendant is admonished as to E
+XTENDED TERM and
+                            CLASS X SENTENCING. On Defendant's motion, cause is
+continued for
+                            appearance of counsel. Bond of $15,000 to continue.
+ Defendant is
+                            admonished as to trial and sentencing in absentia.
+See expanded
+                            record.
+                            Notice of arrest without warrant on file.
+                            Charge 03 Count 003 POSS CANNABIS/30-500 GRAM/1ST
+                            Statute 720 550/4(d)  Class 4  Orig.
+                            Agency: ILLINOIS STATE POLICE TASK FOR  Charge Instr
+: Information
+   08-12-11                 Expanded record of arraignment proceedings.
+                            Defendant arraigned.  Appearance of attorney J. Wilk
+e with the
+                            Defendant.  Defendant request Preliminary hearing.
+Defendant
+                            admonished as to trial and sentencing in absentia. S
+ee expanded
+                            record. Cause is set for Felony Pretrial on 9/27/11
+at 11:00 AM in B.
+                            Bond is continued.
+                            Matter allotted for the pre-trial conference
+   08-23-11
+                            People appear by D. Harris.  Defendant appears perso
+nally. No
+                            appearance of counsel for the Defendant. Cause conti
+nued for pre
+                            trial. Mr. Wilke may request a setting for prelimina
+ry hearing at that
+                            time.
+                            Mr. Wilke notified of the next Court date by telepho
+ne from the Court
+                            Clerk this date.
+   08-25-11                 Subpoena Served.  No Fees.
+   08-30-11                 Discovery filed
+   09-27-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+                            Supplemental Discovery filed
+   01-03-12                 Defendant's motion for continuance.
+                            People appear by Troy Lozar.  Defendant appears pers
+onally and with
+                            counsel, John M. Wilkie.
+   01-26-12                 Supplemental Discovery filed
+   01-31-12                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   02-10-12
+                            Appearance of the People by T. Lozar. Appearance of
+the Defendant
+                            personally and with J. Wilke. Cause called for preli
+minary hearing.
+                            Witnesses sworn. Evidence heard. Court finds probabl
+e cause to believe
+                            that the Defendant has committed one or more offense
+ as alleged in the
+                            information.
+                            Witness sworn. Evidence heard. Arguments heard on th
+e Motion to
+                            Suppress. Motion is DENIED.
+                            Mr. Wilke granted leave to file any additional motio
+ns within 30 days.
+   03-12-12                 Motion to Dismiss, and Certificate of Service filed.
+   03-29-12
+                            Correspondence received from the Defendant and place
+d on file. Copies
+                            provided to counsel this date.
+   04-24-12
+                            Appearance of the People by T. Lozar. Appearance of
+the Defendant
+                            personally and with J. Wilke. Cause called for heari
+ng on Mr. Wilke's
+                            Motion for Leave to Withdraw as Attorney. Motion is
+allowed. Mr.
+                            Wilke's appearance is withdrawn.
+                            Cause called for hearing on the Defendant's request
+to proceed pro se.
+                            Defendant is admonished as to the charges and possib
+le penalties and
+                            his rights as to proceeding pro se. Court finds he i
+s competent to
+                            stand trial and that he wishes to proceed pro se.
+                            Cause called for hearing on Defendant's Motion to Di
+smiss. Motion to
+                            Dismiss is DENIED.
+   05-01-12                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   05-08-12                 Subpoena Served.  No Fees.
+   05-14-12
+                            Appearance of the People by T. Lozar. Defendant appe
+ars personally and
+                            pro se. Cause called for trial scheduling. Cause all
+otted for trial
+                            this date at 1:30 p.m. in courtroom B. Defendant ord
+ered to appear.
+
+                            Defendant's Pro Se Motion to Continue on file.
+                            Defendant's Motion for Change of Venue and Memorandu
+m of
+                            Law-Jurisdiction of Trial Court on file.
+
+                            LATER PROCEEDINGS:
+                            Appearance of the People by Troy Lozar.  No appearan
+ce by the
+                            Defendant personally. Court notes Defendant appears
+in Court this
+                            morning and was advised of this setting.  Motion by
+the People for
+                            bond forfeiture and warrant Motion allowed. Defendan
+t's bond
+                            forfeited. CIRCUIT CLERK TO SEND NOTICE OF THE HEARI
+NG ON FORFEITURE.
+                            Warrant to issue.  Bond set in the amount of $ 50,00
+0.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+
+                            Count 3 on file this date.
+   05-15-12                 Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $ 50,000.
+00.
+   05-18-12                 Bond forfeiture notice prepared and mailed.
+   05-22-12                 Circuit Clerk mail returned undeliverable on file.
+   06-15-12                 Correspondence from U.S. District Court received and
+ placed on file
+   07-25-12
+                            Appearance of the People by Troy Lozar.  No appearan
+ce by the
+                            Defendant nor anyone on their behalf.   Proof of Not
+ice of Hearing by
+                            mail on file and approved.  Judgment is entered on t
+he forfeiture in
+                            the amount of $15,000.  Defendant's bond posted to a
+pply.
+                            Disposition 01/00  Count 001  Bond Forfeiture
+                            Disposition: Judgment on Forfeiture MFG 15>200 PILLS
+ ECSTASY/ANLG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(a)(7.5)(A)(ii  Class X  Orig.
+                            Sentence: 07/25/2012
+                            Sentence: No Sentence  In force
+                            Bond Forfeiture       1498.00     NOTICES MAILED 1ST
+       2.00
+                            UNSATISFIED JUDGMEN  13652.00
+   07-30-12                 Bond
+   08-09-12                 Warrant Served. No Fees.
+                            Cause allotted for hearing on
+   08-20-12                 Bond Type Cash 10% deposit Bond
+                            FTA warrant service fee of $75 is still owed.
+                            The arresting agency is Chicago police dept
+   08-29-12                 Defendant's motion for continuance.
+                            People appear by Scott M. Bennett.  Defendant appear
+s personally and
+                            pro se. Defendant appears pursuant to the warrant is
+sued.
+                            Bond ordered to continue.
+   10-23-12
+                            People appear by Troy Lozar.  Defendant appears pers
+onally and pro se.
+                            Motion by the Defendant for continuance.  Motion all
+owed.
+   11-13-12                 Defendant's motion for continuance.
+                            People appear by Troy Lozar.  Defendant appears pro
+se.
+   11-15-12                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   11-26-12
+                            People appear by Troy Lozar.  Defendant appears pers
+onally and pro se.
+   11-30-12                 Copies & Certified Copies
+                            Copies & Certified Copies
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Dismissed MFG 15>200 PILLS ECSTASY/ANLG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(a)(7.5)(A)(ii  Class X
+                            Sentence: 11/30/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+
+                            Appearance of the People by T. Lozar. Appearance of
+the Defendant
+                            personally and pro se. Cause called for motion heari
+ng. Defendant
+                            persists in proceeding pro se. Defendant again advis
+ed of the charges
+                            and possible pleadings.
+                            Cause called for hearing on Defendant's Motion for D
+emand of Filing a
+                            Verified Complaint (and/or Motion to Dismiss) filed
+November 13, 2012.
+                            Arguments of counsel heard. Motion to Dismiss is DEN
+IED.
+                            On motion of the People, Count I is dismissed and st
+ricken.
+                            Defendant is tendered discovery in open Court from t
+he State.
+                            Cause allotted for trial call 12/3/12 at 9:00 a.m. i
+n courtroom B.
+                            Motion for Continuance to Answer and Entry of Appear
+ance
+                            Filed, pro se, and forwarded to court.
+                            Notice of Hearing, Certificate of Service viled.
+   12-03-12
+                            Communication received from the Defendant via teleph
+one. Defendant
+                            indicates he is ill today and is unable to attend to
+day's hearing. At
+                            the direction of the Court, Court Clerk notifies the
+ Defendant that
+                            his presence may be excused today and that this caus
+e is to be
+                            continued to 12/5/12 at 1:00 p.m. in courtroom B. De
+fendant indicates
+                            to the Court Clerk that he understood the court date
+ setting, however,
+                            he is unsure if he will be able to appear on that da
+te as well. Court
+                            Clerk again advises the Defendant that he must appea
+r.
+   12-05-12
+                            Appearance of the People by T. Lozar. No appearance
+of the Defendant.
+                            Phone call received from the Defendant indicating he
+ is again unable
+                            to attend today's proceedings due to transportation
+issues. Motion by
+                            the People for warrant.  Motion taken under adviseme
+nt.
+                            **OUT OF COURT**
+                            Court Clerk notifies the Defendant of the Court's do
+cket entry and the
+                            next Court date via telephone this date.  Defendant
+again reiterates
+                            his inability to attend the scheduled hearing. Court
+ Clerk explains to
+                            the Defendant that a warrant may issue if he does no
+t appear.
+                            Defendant also expresses that he is seeking addition
+al time to review
+                            discovery. Court Clerk informs Defendant that the ma
+tter should be
+                            taken up in Court with a Motion to Continue.
+                            Subpoena Served.  No Fees.
+   12-07-12                 Failure to appear warrant.
+                            Appearance of the People by Troy Lozar.  No appearan
+ce by the
+                            Defendant.  Motion by the People for bond forfeiture
+ and warrant.
+                            Motion allowed.  Defendant's bond forfeited. CIRCUIT
+ CLERK TO SEND
+                            NOTICE OF THE HEARING ON FORFEITURE.  Warrant to iss
+ue.  Bond set in
+                            the amount of $ 50,000.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+
+                            Warrant issued.  Bond set in the amount of $ 50,000.
+00.
+   12-10-12                 Bond forfeiture notice prepared and mailed.
+   12-21-12                 Circuit Clerk mail returned undeliverable on file.
+   01-23-13                 Judgment on bond forfeiture.
+                            Appearance of the People by Troy Lozar.  No appearan
+ce by the
+                            Defendant nor anyone on their behalf.   Proof of Not
+ice of Hearing by
+                            mail on file and approved.  Judgment is entered on t
+he forfeiture in
+                            the amount of $65,000.  Defendant's bond posted to a
+pply.
+                            Disposition 01/02  Count 001  Bond Forfeiture
+                            Disposition: Judgment on Forfeiture MFG 15>200 PILLS
+ ECSTASY/ANLG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(a)(7.5)(A)(ii  Class X  Orig.
+                            Sentence: 01/23/2013
+                            Sentence: No Sentence  In force
+                            Bond Forfeiture       4928.00     NOTICES MAILED 1ST
+       2.00
+                            UNSATISFIED JUDGMEN  60577.00     WARRANT SERVICE FE
+E     70.00
+   01-25-13                 Bond
+                            Expanded record of arraignment proceedings.
+                            People appear by Lindsey Clark.  Defendant appears i
+n-custody.
+                            Defendant states he wishes to proceed pro se. Plea o
+f not guilty
+                            entered and Defendant requests trial by jury.  Defen
+dant admonished as
+                            to trial and sentencing in absentia.  Bond to contin
+ue. See expanded
+                            record.
+   01-28-13                 Warrant served. Service fees $116.90
+   02-13-13                 Pro Se correspondence on file by defendant with
+                            Notice of Hearing, Answer, Motion to Suppress Eviden
+ce Illegally
+                            Seized and Certificate of Service. File stamped copy
+ returned to
+                            Defendant and file forwarded to Judge Difanis.
+   02-19-13                 Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed POSS CANNABIS/30-500 GRAM/1ST
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 550/4(d)  Class 4  Orig.
+                            Sentence: 02/19/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty MANU/DEL CAN 30-500 GRAMS/SCH
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 550/5(d)  Class 3
+                            Sentence: 02/19/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  28Days In force
+                            Sentence: Credit Time Served  28Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Seized contraband is forfeited to the arre
+sting agency  In f
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Defendant's probation to transfer to resid
+ent county  In for
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  28Days I
+n force
+                            Fine + Cost           1703.90     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    600.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    250.00     PRELIMINARY HEARIN
+G     10.00
+                            NOTICES MAILED 1ST       4.00     DRUG TRAFFIC PREVE
+N    810.00
+                            WARRANT SERVICE FEE     70.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally, in custody, and pro se.. Defendant advis
+ed as to the
+                            nature of the proceedings, the charges and the possi
+ble penalties that
+                            may be imposed and the Court finds that the Defendan
+t understands the
+                            same.  Defendant admonished as to EXTENDED TERM SENT
+ENCING. Finding
+                            Defendant knowingly, understandingly and voluntarily
+ waives rights and
+                            enters a plea of guilty to Count 02 of the charging
+instrument.
+                            Finding Defendant is guilty of the offense of Manu/D
+el Can 30-500
+                            Grams/Sch ILCS: 720 550/5(d) as charged. Judgment en
+tered in favor of
+                            the People and against the defendant on finding of g
+uilt and for
+                            costs.  All financial obligations shall be paid in e
+qual monthly
+                            installments to the Champaign County Circuit Clerk b
+y  8/19/2013.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  D
+efendant is
+                            ordered to serve a period of  24 months Conditional
+Discharge.
+                            Defendant is ordered to serve a period of incarcerat
+ion of  28 days in
+                            the Champaign County Correctional Center. Defendant
+is to receive
+                            credit for  28 days previously served. Court Service
+s given the
+                            discretion to transfer Defendant's probation to his
+county of
+                            residence. The Defendant is to submit specimens of b
+lood, saliva, or
+                            tissue to the Illinois Department of State Police or
+ to the Department
+                            of Corrections within 45 days, at a collection site
+designated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Any contraband
+                            seized in this matter, and any additional property l
+isted in the
+                            written order is forfeited to the arresting agency.
+Case Number(s)
+                            stated in the written order are herby dismissed.  An
+y bond posted in
+                            said case(s) shall be transferred to the instant cas
+e and shall be
+                            applied to any fines, fees, costs, assessments, and/
+or restitution
+                            imposed herein; any remaining bond shall be used to
+satisfy such other
+                            of the Defendant's Champaign County criminal or traf
+fic cases in which
+                            the Defendant owes an outstanding balance of fines,
+fees, costs,
+                            assessments and/or restitution.  Defendant advised o
+f right to appeal
+                            and rights pursuant to Supreme Court Rule 605 and th
+e Court finds that
+                            the defendant understands the same.
+                            BOND FORFEITURE JUDGMENT IS VACATED. BOND POSTED BY
+THE DEFENDANT IS
+                            ORDERED TO APPLY TO ALL OUTSTANDING FINES AND COSTS.
+ REMAINDER, IF
+                            ANY, TO BE DISCHARGED.
+                            *** CORRECTED DOCKET ENTRY ***
+                            The original entry should specify that both bond for
+feiture judgments
+                            of 7/25/12 and 1/13/13 were vacated.
+                            Disposition 01/03  Count 001  No Fine & Cost
+                            Disposition: Vacated Trial Court MFG 15>200 PILLS EC
+STASY/ANLG
+                            Disposition Vacated: Judgment on Forfeiture
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(a)(7.5)(A)(ii  Class X
+                            Sentence: 02/19/2013
+   02-26-13                 Record of exhibits received on file.
+
+                            Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            50.0% to the General Corporate Fund of Champaign Cou
+nty, and
+                            37.5% to the Illinois State Police.
+   05-07-15                 Vacate Court Order Payments  PER COURT ORDER
+   05-12-15                 Miscellaneous
+                            Bond
+                            Bond
+   05-14-15                 Bond Refund
+   05-15-15                 Manual disposition form created this date. SPT
+   09-29-15                 Motion allotted for hearing to
+   10-01-15                 Proof(s) of service on file.
+                            Notice of Hearing filed.
+                            Petition for Authority to Dispose of Evidence on fil
+e.
+                            Petition for Authority to Dispose of Evidence on fil
+e.
+   10-02-15
+                            Summons issued to the Defendant. Circuit Clerk direc
+ted to mail to the
+                            Defendant.
+                            Summons issued.
+   10-05-15                 Summons forwarded this date.
+                            Affidavit of mailing attached.
+   11-02-15                 Summons not served by Outside County
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

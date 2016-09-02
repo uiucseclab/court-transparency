@@ -1,0 +1,206 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CM001010
+
+   Defendant Plaintiff
+GILLETT  BRUCE E
+7017 WEST 95TH STREE
+OAK LAWN IL 60453
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 09/29/11
+                Court Room:
+           Next Appearance: 11/18/11
+                Birth Date: 10/07/90
+                 DEFENDANT: GILLETT  BRUCE E
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       75.00      BOND -10% BOND FEE            75.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      190.00      TRAFFIC/CRIMINAL SU          190.00            .00
+        5.00      CLERK OP & ADMIN FU            5.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       37.00      SHERIFF FEES                  37.00            .00
+       50.00      PUBLIC DEFENDER               50.00            .00
+      745.00      FINES                        745.00            .00
+       76.00      VICTIMS FUND-FINE             76.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       70.00      WARRANT SERVICE FEE           70.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117660488 01000000000                         .00        09/29/11
+   117660492 BOND - ORIGINAL                  360.00        09/29/11
+   117672114 SHERIFF'S BOOKING FEE             20.00        10/07/11
+   117672114 BOND - ORIGINAL                  750.00        10/07/11
+   117773424 BOND -10% BOND FEE                75.00        12/28/11
+   117773424 DOCUMENT STORAGE                   5.00        12/28/11
+   117773424 E-CITATION                         5.00        12/28/11
+   117773424 AUTOMATION                        10.00        12/28/11
+   117773424 CIRCUIT CLERK FEE                 75.00        12/28/11
+   117773424 COURT SECURITY                    25.00        12/28/11
+   117773424 ARRESTEE'S MEDICAL                10.00        12/28/11
+   117773424 COURT FINANCE FEE                 25.00        12/28/11
+   117773424 STATES ATTORNEY                   20.00        12/28/11
+   117773424 CRIME LAB                        100.00        12/28/11
+   117773424 TR/CR SUR $10/$40                190.00        12/28/11
+   117773424 CLERK OP & ADMIN FUND              5.00        12/28/11
+   117773424 DRUG COURT PROGRAM                 5.00        12/28/11
+   117773424 SHERIFF FEES                      37.00        12/28/11
+   117773424 PUBLIC DEFENDER                   50.00        12/28/11
+   117773424 FINES                            403.00        12/28/11
+   117773424 WARRANT SERVICE FEE               70.00        12/28/11
+   117780828 01000000000                         .00        01/03/12
+   117780833 PERSONAL CHECK/CREDIT CA           1.25        01/03/12
+   117780833 FINES                            342.00        01/03/12
+   117780833 VICTIMS FUND-FINE                 76.00        01/03/12
+   117780833 ST POLICE SERVICES FUND           10.00        01/03/12
+   117780833 ST POLICE OPERATIONS ASS          10.00        01/03/12
+   117780833 CLERK OP & ADMIN FUND             10.00        01/03/12
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  POSSESS DRUG PARAPHERNALIA
+
+         2  CONSUMPTION OF LIQUOR/MINOR
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   09-29-11                 Charge 01 Count 001 POSSESS DRUG PARAPHERNALIA
+                            Statute 720 600/3.5(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 CONSUMPTION OF LIQUOR/MINOR
+                            Statute 235 5/6-20(e)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Failure to appear warrant.
+                            People appear by Steven D. Ziegler.  No appearance b
+y the Defendant.
+                            Motion by the People for a warrant. Motion allowed.
+Warrant issued
+                            with bond set in the amount of $  7,500.00.
+                            Failure to appear noted in file.
+                            Bond Type Full Cash
+                            Payment received. Defendant notified of must appear
+date.
+   10-07-11                 FTA warrant service fee of $75 is still owed.
+                            The arresting agency is
+                            Champaign County Sheriff
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            A. Riess appears instanter.  Plea of not guilty ente
+red and Defendant
+                            requests trial by jury.  Defendant is admonished as
+to trial and
+                            sentencing in absentia.  See expanded record.
+                            Bond to continue.
+                            Sheriff Booking Fee
+                            Warrant served. Service fees $37.00
+   10-11-11                 Proof of service of discovery materials filed.
+   11-08-11                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty POSSESS DRUG PARAPHERNALIA
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 600/3.5(a)  Class A  Orig.
+                            Sentence: 11/08/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees
+                            Sentence: Attorney Fees
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Fine + Cost           1333.00     E-CITATION
+       5.00
+                            CRIME LAB              100.00     PUBLIC DEFENDER
+      50.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Marley C. Nelson.  Appea
+rance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Possess Drug Paraphernalia
+ILCS: 720
+                            600/3.5(a) as charged. Judgment entered in favor of
+the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  5/07/2012. CO
+UNT II is hereby
+                            dismissed. Any bond posted is to be applied first to
+ any court ordered
+                            bond assignment on file and then to all restitution
+ordered and then
+                            to all financial obligations in this case.  Any rema
+ining bond shall
+                            be discharged to the individual who posted the bond.
+   Defendant is
+                            ordered to pay a Public Defender Fee in the amount o
+f $50. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Waiver of Jury on file. Sentencing Order entered thi
+s date. See Order.
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed CONSUMPTION OF LIQUOR/MINOR
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 235 5/6-20(e)  Class A  Orig.
+                            Sentence: 11/08/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+   12-28-11                 Bond
+   01-03-12                 Check
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

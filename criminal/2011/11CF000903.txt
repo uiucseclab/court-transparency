@@ -1,0 +1,214 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000903
+
+   Defendant Plaintiff
+WHEELER  JASON
+1516 W GREEN
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 06/08/11
+                Court Room: F
+           Next Appearance: 08/11/14
+                Birth Date: 10/03/92
+                 DEFENDANT: WHEELER  JASON
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      171.72      *RESTITUTION AMOUNT          171.72            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+       20.00      VICTIMS FUND-NO FIN           20.00            .00
+       15.00      PROBATION MONITORIN          180.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117609845 *RESTITUTION AMOUNT               20.00        08/23/11
+   117609845 *RESTITUTION AMOUNT               20.00        08/23/11
+   117623001 *RESTITUTION AMOUNT               15.00        09/01/11
+   117623001 *RESTITUTION AMOUNT               15.00        09/01/11
+   117667939 *RESTITUTION AMOUNT               62.00        10/05/11
+   117667939 *RESTITUTION AMOUNT               62.00        10/05/11
+   117780428 *RESTITUTION AMOUNT               37.00        01/03/12
+   117780428 *RESTITUTION AMOUNT               37.00        01/03/12
+   117835317 *RESTITUTION AMOUNT               37.72        02/14/12
+   117835317 DOCUMENT STORAGE                   5.00        02/14/12
+   117835317 E-CITATION                         5.00        02/14/12
+   117835317 AUTOMATION                        10.00        02/14/12
+   117835317 CIRCUIT CLERK FEE                 42.28        02/14/12
+   117835317 *RESTITUTION AMOUNT               37.72        02/14/12
+   117954277 CIRCUIT CLERK FEE                 32.72        05/10/12
+   117954277 COURT SECURITY                    25.00        05/10/12
+   117954277 ARRESTEE'S MEDICAL                10.00        05/10/12
+   117954277 COURT FINANCE FEE                 25.00        05/10/12
+   117954277 STATES ATTORNEY                   20.00        05/10/12
+   117954277 VICTIMS FUND-NO FINE              20.00        05/10/12
+   117954277 PROBATION MONITORING FEE         180.00        05/10/12
+   117954277 CLERK OP & ADMIN FUND             10.00        05/10/12
+   117954277 DRUG COURT PROGRAM                 5.00        05/10/12
+   117954277 ST POLICE SERVICES FUND           10.00        05/10/12
+   117954277 ST POLICE OPERATIONS ASS          10.00        05/10/12
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  KNOW DAMAGE PROP >$300-10K
+
+         1  KNOWINGLY DAMAGE PROP<$300
+
+         1  KNOWINGLY DAMAGE PROP<$300
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   06-06-11
+                            Released on Recognizance Bond Form and Notice of Arr
+est Without
+                            Warrant filed.
+   06-08-11                 NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Expanded record of arraignment proceedings.
+                            People appear by Adam M. Dill.  Defendant appears pe
+rsonally together
+                            with private counsel, John M. Wilkie.  Defendant is
+arraigned.
+                            Defendant waives preliminary hearing, enters a plea
+of not guilty and
+                            requests a trial by jury.  Pre-trial orders entered.
+ Prior $1,000 ROR
+                            bond to continue. Defendant admonished as to trial a
+nd sentencing in
+                            absentia.  See Expanded Record.
+                            Charge 01 Count 001 KNOW DAMAGE PROP >$300-10K
+                            Statute 720 5/21-1(1)(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            Charge 02 Count 001 KNOWINGLY DAMAGE PROP<$300
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Disposition #1/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed KNOWINGLY DAMAGE PROP<$300
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Sentence: 08/02/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+   06-20-11                 Discovery filed
+   07-26-11
+                            Appearance of the State's Attorney.  Appearance of t
+he
+                            Defendant personally and by Counsel.
+   08-02-11                 Disposition 02/00  Count 001  Cost Only
+                            Disposition: Guilty KNOWINGLY DAMAGE PROP<$300
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Sentence: 08/02/2011
+                            Sentence: Cost Only
+                            Sentence: Probation  12Mos
+                                      Supervised Court Service
+                            Sentence: Public Service  30Hrs
+                                      Supervised Court Service
+                            Sentence: Count(s) dismissed.
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Cost Only              225.00     *RESTITUTION AMOUN
+T    171.72
+                            E-CITATION               5.00     PROBATION MONITORI
+N    180.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Christopher Kanis.  Appe
+arance of the
+                            Defendant personally and by counsel, John M. Wilkie.
+   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Know Damage Prop >$300-10k
+ILCS: 720
+                            5/21-1(1)(a) as charged. Judgment entered in favor o
+f the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  .  Any bond p
+osted is to be
+                            applied first to any court ordered bond assignment o
+n file and then to
+                            all restitution ordered and then to all financial ob
+ligations in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.
+                            Defendant advised of his appeal rights pursuant to S
+upreme Court Rule
+                            605 and the Court finds he understands the same.
+   08-23-11                 Court Ordered Payments
+   09-01-11                 Court Ordered Payments
+   09-13-11                 Restitution ck131023 returned not deliverable as add
+ressed.
+   09-14-11
+   10-05-11                 Court Ordered Payments
+   01-03-12                 Court Ordered Payments
+   02-14-12                 Court Ordered Payments
+                            Champaign County Court Services Appointment Slip on
+file.
+   05-10-12                 Court Ordered Payments
+   08-10-12                 Written order of Discharge from probation entered.
+                            Disposition 02/01  Count 001  Manual Calculations
+                            Disposition: Probation Terminated KNOWINGLY DAMAGE P
+ROP<$300
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Sentence: 08/10/2012
+                            Sentence: No Sentence  In force
+                            Case closed.
+   08-20-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

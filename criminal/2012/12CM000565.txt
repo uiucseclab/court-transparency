@@ -1,0 +1,272 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CM000565
+
+   Defendant Plaintiff
+OLEDO  GILBERTO
+1907 PATRICK HENRY C
+URBANA IL 61802
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/14/12
+                Court Room:
+           Next Appearance: 09/19/13
+                Birth Date: 03/21/75
+                 DEFENDANT: OLEDO  GILBERTO
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       75.00      BOND -10% BOND FEE            75.00            .00
+    12006.60      *RESTITUTION AMOUNT         1344.60       10662.00
+        5.00      DOCUMENT STORAGE                .00           5.00
+        5.00      E-CITATION                      .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+         .00      CRIME STOPPERS                  .00            .00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       25.00      PROBATION MONITORIN             .00         300.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+        4.00      VICTIMS FUND-FINE               .00           4.00
+       10.00      ST POLICE SERVICES              .00          10.00
+     3875.25      COLLECTION FEES               11.54        3863.71
+     1684.89      LATE FEES                      3.86        1681.03
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117957905 SHERIFF'S BOOKING FEE             20.00        05/14/12
+   117957905 BOND - ORIGINAL                  750.00        05/14/12
+   118148332 BOND -10% BOND FEE                75.00        09/24/12
+   118148332 *BOND REFUND                     675.00        09/24/12
+   118166968 01000000000                         .00        10/03/12
+   118211053 *RESTITUTION AMOUNT              200.00        10/31/12
+   118211053 *RESTITUTION AMOUNT               43.16        10/31/12
+   118211053 *RESTITUTION AMOUNT              156.84        10/31/12
+   118264005 *RESTITUTION AMOUNT              200.00        11/30/12
+   118264005 *RESTITUTION AMOUNT               43.16        11/30/12
+   118264005 *RESTITUTION AMOUNT              156.84        11/30/12
+   118388529 *RESTITUTION AMOUNT              200.00        01/16/13
+   118388529 *RESTITUTION AMOUNT               43.16        01/16/13
+   118388529 *RESTITUTION AMOUNT              156.84        01/16/13
+   118464810 *RESTITUTION AMOUNT              100.00        03/01/13
+   118464810 *RESTITUTION AMOUNT               21.58        03/04/13
+   118464810 *RESTITUTION AMOUNT               78.42        03/04/13
+   118499690 *RESTITUTION AMOUNT              150.00        03/22/13
+   118499690 *RESTITUTION AMOUNT               32.37        03/22/13
+   118499690 *RESTITUTION AMOUNT              117.63        03/22/13
+   118559160 *RESTITUTION AMOUNT              140.00        04/30/13
+   118559160 *RESTITUTION AMOUNT               30.21        04/30/13
+   118559160 *RESTITUTION AMOUNT              109.79        04/30/13
+   118642147 *RESTITUTION AMOUNT              100.00        06/19/13
+   118642147 *RESTITUTION AMOUNT               21.58        06/19/13
+   118642147 *RESTITUTION AMOUNT               78.42        06/19/13
+   118708664 *RESTITUTION AMOUNT               90.00        07/30/13
+   118708664 *RESTITUTION AMOUNT               19.42        07/30/13
+   118708664 *RESTITUTION AMOUNT               70.58        07/30/13
+   118797156 *RESTITUTION AMOUNT               80.00        09/23/13
+   118797156 *RESTITUTION AMOUNT               17.26        09/23/13
+   118797156 *RESTITUTION AMOUNT               62.74        09/23/13
+   120828190 *RESTITUTION AMOUNT               50.00        12/10/13
+   120828190 *RESTITUTION AMOUNT               39.21        12/10/13
+   120828190 *RESTITUTION AMOUNT               10.79        12/10/13
+   118708664 *RESTITUTION AMOUNT              -70.58        01/27/14
+   120897653 CHECKS-STOPPED                   -70.58        01/27/14
+   120897653 *REFUND - OTHER                   70.58        01/27/14
+   120897844 01000000000                         .00        01/27/14
+   121093867 *RESTITUTION AMOUNT               34.60        05/21/14
+   121093867 COLLECTION FEES                   11.54        05/21/14
+   121093867 LATE FEES                          3.86        05/21/14
+   121093867 *RESTITUTION AMOUNT               27.13        05/21/14
+   121093867 *RESTITUTION AMOUNT                7.47        05/21/14
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  BATTERY/CAUSE BODILY HARM
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   05-14-12                 Charge 01 Count 001 BATTERY/CAUSE BODILY HARM
+                            Statute 720 5/12-3(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Sheriff Booking Fee
+                            Expanded record of arraignment proceedings.
+                            Spanish Interpreter appears. Defendant arraigned. Ch
+ampaign County
+                            Public Defender is appointed and Jim Kuehl appears i
+nstanter.  Plea of
+                            not guilty entered and Defendant requests trial by j
+ury.  Defendant is
+                            admonished as to trial and sentencing in absentia. B
+ond is to continue
+                            as set in the amount of $7,500-ROR DENIED.  See expa
+nded record.
+                            Notice of arrest without warrant on file.
+   05-21-12                 Proof of service of discovery materials filed.
+   06-13-12                 Defendant's motion for continuance.
+                            People appear by Marley C. Nelson.  Defendant appear
+s personally and
+                            with counsel, Baku Patel. Entry of Appearance filed
+this date.
+                            Appointment of the Public Defender is vacated. Motio
+n by the Defendant
+                            for continuance.  Motion allowed.
+   06-15-12                 Entry of Appearance by Baku N. Patel, Motion for
+   07-18-12
+                            People appear by Claire L. Sharples Brooks.  Defenda
+nt appears
+                            personally and with counsel, Raymond Durrenberger wh
+o appears for Baku
+                            Patel. Motion by the Defendant for continuance.  Mot
+ion allowed.
+   08-22-12
+                            People appear by Claire L. Sharples Brooks.  Defenda
+nt appears
+                            personally and with counsel, Raymond Durrenberger. M
+otion by the
+                            Defendant for continuance.  Motion allowed.
+   09-19-12                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty BATTERY/CAUSE BODILY HARM
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3(a)(1)  Class A  Orig.
+                            Sentence: 09/19/2012
+                            Sentence: Cost Only  In force
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Partner Abuse Intervention Program  60Days
+ In force
+                            Sentence: No contact order.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Cost Only              306.00     *RESTITUTION AMOUN
+T  12006.60
+                            E-CITATION               5.00     CRIME STOPPERS
+        .00
+                            PROBATION MONITORIN    300.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, Raymond Dur
+renberger.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Battery/Cause Bodily Harm I
+LCS: 720
+                            5/12-3(a)(1) as charged. Judgment entered in favor o
+f the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  3/18/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months Conditional Discharge. Defendan
+t is to enroll in
+                            a Partner Abuse Intervention Program approved by the
+ Champaign County
+                            Court Services Department within  60 days and succes
+sfully complete it
+                            without termination. Defendant is to have no contact
+, directly or
+                            indirectly, in person, by telephone or electronicall
+y with the persons
+                            stated in the written order. Defendant advised of ri
+ght to appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same. Waiver of Jury on fi
+le. Sentencing
+                            Order entered. See Order.
+   09-21-12                 Defendant shall be entitled to credit or refund of u
+p to his pro rata
+                            share of the total amount if and when the co defenda
+nt in 12CM566 pays
+                            restitution.
+                            Defendant shall be entitled to credit or refund of u
+p to his pro rata
+                            share of the total amount if and when the co-defenda
+nt in 12CM565 pays
+                            restitution.
+   09-24-12                 Bond
+   10-02-12                 Restitution address change for R Pena from state att
+orney victim
+                            witness services office.
+   10-31-12                 Court Ordered Payments
+   11-30-12                 Court Ordered Payments
+   01-16-13                 Court Ordered Payments
+   01-29-13                 Defendant's Motion for Extension of Time to Pay Cost
+s filed
+                            and forwarded to court.
+   01-31-13
+                            Defendant's Motion for Extension of Time to Pay Cost
+s is denied.
+                            Circuit Clerk to notify Defendant.
+   02-01-13                 Certificate of mailing prepared.
+   03-01-13                 Court Ordered Payments
+   03-14-13                 Defendant's change of address filed
+   03-22-13                 Court Ordered Payments
+   04-30-13                 Court Ordered Payments
+   05-02-13                 P.A.T.S. Certificate filed.
+   06-19-13                 Court Ordered Payments
+   07-30-13                 Court Ordered Payments
+   09-23-13                 Court Ordered Payments
+   12-10-13                 Court Ordered Payments
+   01-21-14                 Victim change of address
+   01-27-14                 Miscellaneous
+   03-20-14                 Case sent out for collections.
+   05-21-14                 Court Ordered Payments
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,228 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CM001147
+
+   Defendant Plaintiff
+KIM  TAE Y
+1903 N LINCOLN APT 3
+URBANA IL 0
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 10/09/12
+                Court Room:
+           Next Appearance: 11/18/13
+                Birth Date: 10/04/89
+                 DEFENDANT: KIM  TAE Y
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+      289.62      *RESTITUTION AMOUNT          289.62            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       10.00      STATES ATTORNEY               10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       25.00      PROBATION MONITORIN          300.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121287272 BOND - ORIGINAL                  415.00        02/03/11
+   118173968 SHERIFF'S BOOKING FEE             20.00        10/09/12
+   118173968 BOND - ORIGINAL                  150.00        10/09/12
+   118272148 BOND -10% BOND FEE                15.00        12/04/12
+   118272148 *RESTITUTION AMOUNT              289.62        12/04/12
+   118272148 DOCUMENT STORAGE                   5.00        12/04/12
+   118272148 E-CITATION                         5.00        12/04/12
+   118272148 AUTOMATION                        10.00        12/04/12
+   118272148 CIRCUIT CLERK FEE                 75.00        12/04/12
+   118272148 COURT SECURITY                      .38        12/04/12
+   118272148 *RESTITUTION AMOUNT              289.62        12/05/12
+   118272148 PERSONAL CHECK/CREDIT CA          15.00        12/04/12
+   118287253 COURT SECURITY                    24.62        12/12/12
+   118287253 COURT FINANCE FEE                 25.00        12/12/12
+   118287253 STATES ATTORNEY                   10.00        12/12/12
+   118287253 STATES ATTORNEY AUTOMATI           2.00        12/12/12
+   118287253 CRIME STOPPERS                     5.00        12/12/12
+   118287253 ARRESTEE'S MEDICAL                10.00        12/12/12
+   118287253 PROBATION MONITORING FEE          25.00        12/12/12
+   118287253 PROBATION OPER ASSISTANC          10.00        12/12/12
+   118287253 TR/CR SUR $10/$40                 10.00        12/12/12
+   118287253 DRUG COURT PROGRAM                 5.00        12/12/12
+   118287253 VIOLENT CRIME VICTIMS AS          23.38        12/12/12
+   118470376 PROBATION MONITORING FEE          75.00        03/05/13
+   118470376 VIOLENT CRIME VICTIMS AS          51.62        03/05/13
+   118470376 ST POLICE OPERATIONS ASS          10.00        03/05/13
+   118470376 PERSONAL CHECK/CREDIT CA           5.00        03/05/13
+   118479792 PROBATION MONITORING FEE         200.00        03/11/13
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  KNOWINGLY DAMAGE PROP<$300
+
+         1  KNOWINGLY DAMAGE PROP<$300
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   02-03-11                 Bond Type Full Cash
+                            Bond conversion error corrected this date.
+   10-09-12                 Charge 01 Count 001 KNOWINGLY DAMAGE PROP<$300
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Created and properly labeled court case file.
+                            Sheriff Booking Fee
+                            Entry of appearance.
+                            Defendant arraigned.  Appearance and entry of appear
+ance of attorney,
+                            Mary Ann Midden with Defendant.  Plea of not guilty
+entered and
+                            Defendant requests trial by jury. Cause set for pre-
+trial.  Defendant
+                            admonished as to trial and sentencing in absentia. B
+ond is to continue
+                            as posted. See expanded record.
+                            Notice of arrest without warrant on file.
+   10-18-12                 Affidavit of mailing of Discovery Materials filed.
+   11-16-12                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Withhold Judgment/Supervision KNOWINGLY
+ DAMAGE PROP<$300
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Sentence: 11/16/2012
+                            Sentence: Cost Only  In force
+                            Sentence: Court Supervision  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  30Hrs In force
+                                      Supervised Court Service
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Cost Only              287.00     *RESTITUTION AMOUN
+T    289.62
+                            E-CITATION               5.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    300.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, Mary Ann Mi
+dden.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Knowingly Damage Prop<$300
+ILCS: 720
+                            5/21-1(1)(a) as charged. Upon the plea entered this
+date,Defendant is
+                            sentenced to all terms and conditions as set forth i
+n the written
+                            order on guilty plea entered this date. All financia
+l obligations
+                            shall be paid in equal monthly installments to the C
+hampaign County
+                            Circuit Clerk by  5/15/2013.  Any bond posted is to
+be applied first
+                            to any court ordered bond assignment on file and the
+n to all
+                            restitution ordered and then to all financial obliga
+tions in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Judgment is deferred and the Defen
+dant is ordered to
+                            serve a period of  12 months Court Supervision. Defe
+ndant is ordered
+                            to perform  30 hours of public service work under th
+e supervision of
+                            the Champaign County Court Services Department.  The
+ defendant is to
+                            be given credit on public service work for any hours
+ completed in
+                            education, treatment, aftercare, sobriety based self
+-help group
+                            meetings, Victim Impact Panel and GED classes. Defen
+dant advised of
+                            right to appeal and rights pursuant to Supreme Court
+ Rule 605 and the
+                            Court finds that the defendant understands the same.
+ Waiver of Jury on
+                            file. Sentencing Order entered this date. See Order.
+   12-04-12                 Bond
+                            Credit Card Convenience Fee
+   12-12-12                 Bond
+   01-22-13                 Certificate of completion of public service work fil
+ed
+   03-05-13                 Court Ordered Payments
+                            Credit Card Fee
+   03-11-13                 Court Ordered Payments
+   12-03-13                 Motion to Discharge from Supervision and Dismiss the
+ Case without
+                            Judgment being entered Nunc Pro Tunc.
+   12-09-13                 Motion to Discharge from Supervision and Dismiss the
+ Case Without
+                            Judgment Being Entered Nunc Pro Tunc filed 12/3/13 i
+s allowed. Cause
+                            is dismissed without judgment being entered effectiv
+e November 16,
+                            2013. Order Discharging and Dismissing Case entered
+this date. See
+                            Order.
+                            Order Discharging and Dismissing the Case.
+                            Disposition 01/01  Count 001  Manual Calculations
+                            Disposition: Probation Terminated KNOWINGLY DAMAGE P
+ROP<$300
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/21-1(1)(a)  Class A
+                            Sentence: 12/09/2013
+                            Sentence: No Sentence  In force
+                            Case closed.
+   01-17-14                 Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

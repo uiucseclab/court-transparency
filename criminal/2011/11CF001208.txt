@@ -1,0 +1,251 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001208
+
+   Defendant Plaintiff
+HUDSON  EARL L
+70 E WASHINGTON
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 07/29/11
+                Court Room:
+           Next Appearance: 10/20/14
+                Birth Date: 06/16/64
+                 DEFENDANT: HUDSON  EARL L
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+        4.00      VICTIMS FUND-NO FIN            4.00            .00
+       25.00      PROBATION MONITORIN           25.00         275.00
+         .00       STATE OFFENDER DNA             .00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      200.00      PUBLIC DEFENDER              131.00          69.00
+      125.58      COLLECTION FEES                 .00         125.58
+       54.60      LATE FEES                       .00          54.60
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117809675 DOCUMENT STORAGE                   5.00        01/25/12
+   117809675 AUTOMATION                        10.00        01/25/12
+   117809675 CIRCUIT CLERK FEE                100.00        01/25/12
+   117809675 COURT SECURITY                    25.00        01/25/12
+   117857501 ARRESTEE'S MEDICAL                10.00        02/29/12
+   117857501 COURT FINANCE FEE                 50.00        02/29/12
+   117857501 STATES ATTORNEY                   25.00        02/29/12
+   118077117 STATES ATTORNEY                   15.00        08/10/12
+   118077117 CRIME STOPPERS                     5.00        08/10/12
+   118152894 CRIME STOPPERS                     5.00        09/26/12
+   118152894 VICTIMS FUND-NO FINE               4.00        09/26/12
+   118152894 PROBATION MONITORING FEE          25.00        09/26/12
+   118152894 TR/CR SUR $10/$40                 10.00        09/26/12
+   118152894 CLERK OP & ADMIN FUND             10.00        09/26/12
+   118152894 DRUG COURT PROGRAM                 5.00        09/26/12
+   118152894 PUBLIC DEFENDER                  131.00        09/26/12
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AID/ABET POSS STOL TTL/CERTIF
+
+         2  AID/ABET UNLWFL DISP TTL/PLT/2
+
+         2  AID/ABET UNLWFL DISP TTL/PLT/2
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   07-29-11                 Charge 01 Count 001 AID/ABET POSS STOL TTL/CERTIF
+                            Statute 625 5/4-104(a)(3)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 AID/ABET UNLWFL DISP TTL/PLT/2
+                            Statute 625 5/4-104(a)(4)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Defendant is admonished as to C
+LASS X SENTENCING
+                            and EXTENDED TERM SENTENCING. The Champaign County P
+ublic Defender is
+                            appointed and Christopher Mellon appears instanter.
+ Defendant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond set in the am
+ount of $1,000-ROR
+                            ALLOWED.  Defendant is admonished as to trial and se
+ntencing in
+                            absentia. See expanded record.
+   08-05-11                 Discovery filed
+   08-08-11                 Answer to Discovery filed
+   08-30-11
+                            Appearance of the State's Attorney.  Appearance of t
+he
+                            Defendant personally and by Counsel.
+   10-03-11                 EHD Eligibility Certificate filed
+   10-07-11                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AID/ABET POSS STOL TTL/CERTIF
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/4-104(a)(3)  Class 2  Orig.
+                            Sentence: 10/07/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Payment order for court appointed attorney.
+                            Cause called for hearing on the question of the Defe
+ndant's
+                            contribution to the County for costs of Appointed Co
+unsel.  Written
+                            payment order for Court-Appointed Attorney for $   2
+00.00 entered.
+                            Disposition 02/00  Count 002  Cost Only
+                            Disposition: Guilty AID/ABET UNLWFL DISP TTL/PLT/2
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/4-104(a)(4)  Class 4  Orig.
+                            Sentence: 10/07/2011
+                            Sentence: Cost Only
+                            Sentence: Probation  12Mos
+                                      Supervised Court Service
+                            Sentence: Jail  30Days
+                            Sentence: Count(s) dismissed.
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Cost Only              289.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    300.00      STATE OFFENDER DN
+A       .00
+                            PUBLIC DEFENDER        200.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Andrea I. Bergstrom.  Ap
+pearance of the
+                            Defendant personally and by counsel, Janie Miller-Jo
+nes.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of  Unlawful Display of a Vehi
+cle Registration
+                            Sticker ILCS: 625 5/4-104(a)(4) as charged. Judgment
+ entered in favor
+                            of the People and against the defendant on finding o
+f guilt and for
+                            costs.  All financial obligations shall be paid in e
+qual monthly
+                            installments to the Champaign County Circuit Clerk b
+y  7/10/2012.  Any
+                            bond posted is to be applied first to any court orde
+red bond
+                            assignment on file and then to all restitution order
+ed and then to all
+                            financial obligations in this case.  Any remaining b
+ond shall be
+                            discharged to the individual who posted the bond.  D
+efendant is
+                            ordered to serve a period of  12 months probation. D
+efendant is
+                            ordered to serve a period of incarceration of  30 da
+ys in the
+                            Champaign County Correctional Center.  The defendant
+ is to be given
+                            credit for 0 days served and his sentence may be ser
+ved pursuant to
+                            the Electronic Home Detention Program.  Motion by th
+e defendant to
+                            stay the period of incarceration.  No objection to t
+he Motion by the
+                            People.  Motion is allowed.  Defendant's period of i
+ncarceration is
+                            stayed until 10/18/11 at 8:30 a.m.  Order of Impriso
+nment entered this
+                            date.  See order.   The Defendant is to submit speci
+mens of blood,
+                            saliva, or tissue to the Illinois Department of Stat
+e Police or to the
+                            Department of Corrections within 45 days, at a colle
+ction site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3 unless previously done so by the defendant.
+Count(s) stated in
+                            the written order are hereby dismissed.      Defenda
+nt is advised of
+                            his appellate rights.   Defendant is ordered to repo
+rt to the Court
+                            Services Department this date.  Sentencing Order ent
+ered.  See Order.
+   10-17-11                 Report of Felony Conviction prepared / mailed.
+   11-08-11                 Notice received from Court Services/Circuit Court th
+at the
+                            Defendant had previously provided a sample of his bl
+ood, saliva or
+                            tissue for DNA analysis.  Therefore, per Administrat
+ive Order 10-1,
+                            that part of the sentencing order has been satisfied
+.
+   01-25-12                 Court Ordered Payments
+   02-29-12                 Court Ordered Payments
+   08-10-12                 Court Ordered Payments
+   08-15-12                 Probation Violation Report filed
+   09-26-12                 Court Ordered Payments
+   10-19-12                 Disposition 02/01  Count 002  Manual Calculations
+                            Disposition: Terminated Unsatisfied AID/ABET UNLWFL
+DISP TTL/PLT/2
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/4-104(a)(4)  Class 4  Orig.
+                            Sentence: 10/19/2012
+                            Sentence: No Sentence  In force
+                            Written Order of Unsuccessful Discharge from Probati
+on
+                            Written Order of Unsuccessful Discharge from Probati
+on entered this
+                            date.
+                            Case closed.
+   07-25-13                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

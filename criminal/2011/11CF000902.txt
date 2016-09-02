@@ -1,0 +1,350 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000902
+
+   Defendant Plaintiff
+ALTMAN  RYAN
+1009 FRANCIS APT 8
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 06/08/11
+                Court Room:
+           Next Appearance: 09/23/15
+                Birth Date: 03/27/87
+                 DEFENDANT: ALTMAN  RYAN
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      500.00      BOND -10% BOND FEE           500.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+        4.00      VICTIMS FUND-NO FIN            4.00            .00
+       25.00      PROBATION MONITORIN         1200.00            .00
+      185.00       STATE OFFENDER DNA          185.00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+     3692.00                                  3692.00            .00
+         .00      BOND -10% BOND FEE              .00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+        4.00      VICTIMS FUND-NO FIN            4.00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117507914 SHERIFF'S BOOKING FEE             20.00        06/10/11
+   117507914 BOND - ORIGINAL                 5000.00        06/10/11
+   117660091 DOCUMENT STORAGE                   5.00        09/29/11
+   117660091 AUTOMATION                        10.00        09/29/11
+   117660091 CIRCUIT CLERK FEE                100.00        09/29/11
+   117660091 COURT SECURITY                    25.00        09/29/11
+   117660091 ARRESTEE'S MEDICAL                10.00        09/29/11
+   117660091 COURT FINANCE FEE                 50.00        09/29/11
+   117660091 STATES ATTORNEY                   40.00        09/29/11
+   117660091 CRIME STOPPERS                    10.00        09/29/11
+   117660091 VICTIMS FUND-NO FINE               4.00        09/29/11
+   117660091 TR/CR SUR $10/$40                 10.00        09/29/11
+   117660091 CLERK OP & ADMIN FUND             10.00        09/29/11
+   117660091 DRUG COURT PROGRAM                 5.00        09/29/11
+   117660091 ST POLICE SERVICES FUND           10.00        09/29/11
+   117660091 ST POLICE OPERATIONS ASS          10.00        09/29/11
+   117660258 BOND -10% BOND FEE               500.00        09/29/11
+   117660258 DOCUMENT STORAGE                   5.00        09/29/11
+   117660258 AUTOMATION                        10.00        09/29/11
+   117660258 CIRCUIT CLERK FEE                100.00        09/29/11
+   117660258 COURT SECURITY                    25.00        09/29/11
+   117660258 ARRESTEE'S MEDICAL                10.00        09/29/11
+   117660258 COURT FINANCE FEE                 50.00        09/29/11
+   117660258 STATES ATTORNEY                   40.00        09/29/11
+   117660258 CRIME STOPPERS                    10.00        09/29/11
+   117660258 VICTIMS FUND-NO FINE               4.00        09/29/11
+   117660258 PROBATION MONITORING FEE          25.00        09/29/11
+   117660258  STATE OFFENDER DNA ID S         185.00        09/29/11
+   117660258 TR/CR SUR $10/$40                 10.00        09/29/11
+   117660258 CLERK OP & ADMIN FUND             10.00        09/29/11
+   117660258 DRUG COURT PROGRAM                 5.00        09/29/11
+   117660258 ST POLICE SERVICES FUND           10.00        09/29/11
+   117660258 ST POLICE OPERATIONS ASS          10.00        09/29/11
+   117660258 *BOND REFUND                    3692.00        09/29/11
+   121603630 01000000000                         .00        03/18/15
+   121603639 PROBATION MONITORING FEE         500.00        03/18/15
+   121775074 PROBATION MONITORING FEE         500.00        06/24/15
+   121786687 01000000000                         .00        07/01/15
+   121786689 01000000000                         .00        07/01/15
+   121786691 01000000000                         .00        07/01/15
+   121786692 01000000000                         .00        07/01/15
+   121786695 01000000000                         .00        07/01/15
+   121786698 BOND - ORIGINAL                  175.00        07/01/15
+   121786730 BOND -10% BOND FEE                  .00        07/01/15
+   121786730 DOCUMENT STORAGE                    .00        07/01/15
+   121786730 AUTOMATION                          .00        07/01/15
+   121786730 CIRCUIT CLERK FEE                   .00        07/01/15
+   121786730 COURT SECURITY                      .00        07/01/15
+   121786730 ARRESTEE'S MEDICAL                  .00        07/01/15
+   121786730 COURT FINANCE FEE                   .00        07/01/15
+   121786730 STATES ATTORNEY                     .00        07/01/15
+   121786730 CRIME STOPPERS                      .00        07/01/15
+   121786730 VICTIMS FUND-NO FINE                .00        07/01/15
+   121786730 PROBATION MONITORING FEE            .00        07/01/15
+   121786730  STATE OFFENDER DNA ID S            .00        07/01/15
+   121786730 TR/CR SUR $10/$40                   .00        07/01/15
+   121786730 CLERK OP & ADMIN FUND               .00        07/01/15
+   121786730 DRUG COURT PROGRAM                  .00        07/01/15
+   121786730 ST POLICE SERVICES FUND             .00        07/01/15
+   121786730 ST POLICE OPERATIONS ASS            .00        07/01/15
+   121786730 *BOND REFUND                        .00        07/01/15
+   121786731 01000000000                         .00        07/01/15
+   121786757 PROBATION MONITORING FEE         175.00        07/01/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AGG CRIM SEX AB/VIC 13-16
+
+         1  AGG CRIM SEX AB/VIC 13-16
+
+         2  AGG CRIM SEX AB/VIC 13-16
+
+         2  AGG CRIM SEX AB/VIC 13-16
+
+         2  AGG CRIM SEX AB/VIC 13-16
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   06-08-11                 Charge 01 Count 001 AGG CRIM SEX AB/VIC 13-16
+                            Statute 720 5/12-16(d)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Statute 720 5/12-16(d)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            NO BOND No Bond
+                            Created and properly labeled permanent case file.
+                            Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel. Bond set in the amount of $50
+,000-ROR DENIED.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.  See
+                            expanded record.
+                            Notice of arrest without warrant on file.
+   06-10-11                 Sheriff Booking Fee
+   06-15-11                 Expanded record of arraignment proceedings.
+                            People appear by Kathryn Pugh.  Defendant appears pe
+rsonally together
+                            with private counsel, Harvey C. Welch.  Defendant wa
+ives preliminary
+                            hearing, enters a plea of not guilty and requests a
+trial by jury.
+                            Pre-trial orders entered. Bond to continue. Defendan
+t admonished as to
+                            trial and sentencing in absentia.  See expanded reco
+rd.
+   06-27-11                 Discovery filed
+   07-21-11
+   08-05-11
+                            Appearance of the People by Sarah J. Carlson.  Appea
+rance of the
+                            Defendant personally and by counsel, Harvey C. Welch
+.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Agg Crim Sex Ab/Vic 13-16 S
+T: IL ILCS: 720
+                            5/12-16(d) as charged. Judgment entered in favor of
+the People and
+                            against the defendant on finding of guilt and for co
+sts.
+                            Order on guilty plea.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Agg Crim Sex Ab/Vic 13-16 S
+T: IL ILCS: 720
+                            5/12-16(d) as charged. Judgment entered in favor of
+the People and
+                            against the defendant on finding of guilt and for co
+sts.
+
+                            Cause is allotted for confirmation of the defendant'
+s sentence.  Order
+                            for Sex Offender Evaluation entered this date.  Defe
+ndant is ordered
+                            to obtain a Sex Offender Evaluation for that date, t
+ime and place.
+                            Disposition 01/01  Count 001  Cost Only
+                            Disposition: Guilty AGG CRIM SEX AB/VIC 13-16
+                            Disposition Vacated: Guilty
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-16(d)  Class 2  Orig.
+                            Sentence: 09/23/2011
+                            Sentence: Cost Only
+                            Sentence: Probation  48Mos
+                                      Supervised Court Service
+                            Sentence: Jail  3Days
+                            Sentence: Credit Time Served  3Days
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Sentence: No contact order.
+                            Sentence: Sex Offender Treatment/Evaluation
+                            Sentence: Medical Assessment/Evaluation
+                            Sentence: Sex offender registration
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Cost Only              789.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN   1200.00      STATE OFFENDER DN
+A    185.00
+                            Payment Due
+                            Disposition 02/02  Count 002  Cost Only
+                            Disposition: Guilty AGG CRIM SEX AB/VIC 13-16
+                            Disposition Vacated: Guilty
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-16(d)  Class 2  Orig.
+                            Sentence: 09/23/2011
+                            Sentence: Cost Only
+                            Sentence: Probation  48Mos
+                                      Supervised Court Service
+                            Sentence: Jail  3Days
+                            Sentence: Credit Time Served  3Days
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Sentence: No contact order.
+                            Sentence: Sex Offender Treatment/Evaluation
+                            Sentence: Medical Assessment/Evaluation
+                            Sentence: Sex offender registration
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Cost Only              289.00     CRIME STOPPERS
+      10.00
+   09-23-11                 Bond, if any, to be discharged by Circuit Clerk.
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing Order/Order for Pre-Sentence report.
+                            Appearance of the People by Adam M. Dill.  Appearanc
+e of the Defendant
+                            personally and by counsel, Harvey C. Welch.  Cause c
+alled for
+                            sentencing hearing as to Counts 1 and 2 consolidated
+ for sentencing.
+                            Statements of counsel heard.  Statement of the defen
+dant heard.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk.  Defendant is pl
+aced on 48 months
+                            probation, including 3 days incarceration in the Cha
+mpaign County
+                            Correctional Center with credit for 3 days served.
+Defendant's
+                            sentence on each Count is to be served concurrently
+with one another.
+                            Defendant is ordered to submit specimens of blood, s
+aliva or tissue to
+                            the IL. State Police within 45 days and pay a $200 g
+enetic marker
+                            grouping analysis fee, unless previously done so by
+the defendant, he
+                            is to have NO CONTACT WHATSOEVER with the named vict
+im, he is to
+                            obtain Sex Offender treatment within 60 days from an
+y agency or agent
+                            recommended by Court Serves and undergo medical test
+ing pursuant to
+                            730 ILCS 5/5-5-3(g) within 60 days and comply with t
+he requirements of
+                            the Sex Offender Registration Act.  Defendant is ord
+ered to pay all
+                            fines, costs and fees as set forth in the Sentencing
+ Order entered
+                            this date.  Any bond posted is to be applied first t
+o any court
+                            ordered BOND ASSIGNMENT on file and then to all rest
+itution ordered
+                            and then to all financial obligations in this case.
+ Any remaining
+                            bond shall be discharged to the individual who poste
+d the bond.
+                            Defendant is advised of his appellate rights.  Defen
+dant is ordered to
+                            report to the Court Services Dept.  Sentencing Order
+ entered.
+                            Original is filed in a sealed envelope.   Order for
+blood testing
+                            entered.  See Order.
+   09-29-11                 Bond
+                            Bond
+                            Illinois Sex Offender Registration Act Notification
+Form
+                            Filed.
+   11-10-11                 Medical Testing Form filed.
+   12-09-11
+                            Blood testing results forwarded to the State's Attor
+ney to be
+                            forwarded to the victim this date.
+   03-18-15                 Cash
+   06-24-15                 Cash
+   07-01-15                 Cash Full Cash
+                            Bond
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

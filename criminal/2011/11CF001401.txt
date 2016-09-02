@@ -1,0 +1,411 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001401
+
+   Defendant Plaintiff
+PARKHILL  TROY S
+1003 E MCDOUGAL RD
+MAHOMET IL 61853
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 08/30/11
+                Court Room:
+           Next Appearance: 12/01/14
+                Birth Date: 08/08/65
+                 DEFENDANT: PARKHILL  TROY S
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      250.00      BOND -10% BOND FEE           250.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       25.00      PROBATION MONITORIN          600.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      200.00       STATE OFFENDER DNA          200.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      140.00      TRAFFIC/CRIMINAL SU          140.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+         .00      FINES                           .00            .00
+       56.00      VICTIMS FUND-FINE             56.00            .00
+       30.00       STREET VALUE DRUG            30.00            .00
+      490.00      MANDATORY ASSESSMEN          490.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+      839.00                                   839.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117631260 SHERIFF'S BOOKING FEE             20.00        09/08/11
+   117631260 BOND - ORIGINAL                 2500.00        09/08/11
+   117753853 BOND -10% BOND FEE               250.00        12/08/11
+   117753853 DOCUMENT STORAGE                   5.00        12/08/11
+   117753853 AUTOMATION                        10.00        12/08/11
+   117753853 CIRCUIT CLERK FEE                100.00        12/08/11
+   117753853 COURT SECURITY                    25.00        12/08/11
+   117753853 ARRESTEE'S MEDICAL                10.00        12/08/11
+   117753853 COURT FINANCE FEE                 50.00        12/08/11
+   117753853 STATES ATTORNEY                   40.00        12/08/11
+   117753853 CRIME STOPPERS                    10.00        12/08/11
+   117753853 PROBATION MONITORING FEE          25.00        12/08/11
+   117753853 SPINAL CORD RESEARCH FUN           5.00        12/08/11
+   117753853 CRIME LAB                        100.00        12/08/11
+   117753853  STATE OFFENDER DNA ID S         200.00        12/08/11
+   117753853 TRAUMA FUND                      100.00        12/08/11
+   117753853 TR/CR SUR $10/$40                140.00        12/08/11
+   117753853 DRUG COURT PROGRAM                 5.00        12/08/11
+   117753853 VICTIMS FUND-FINE                 56.00        12/08/11
+   117753853  STREET VALUE DRUG FINES          30.00        12/08/11
+   117753853 MANDATORY ASSESSMENT             490.00        12/08/11
+   117753853 ST POLICE OPERATIONS ASS          10.00        12/08/11
+   117753853 *BOND REFUND                     839.00        12/08/11
+   117796436 PERSONAL CHECK/CREDIT CA           1.25        01/17/12
+   117796436 PROBATION MONITORING FEE          25.00        01/17/12
+   117796439 PROBATION MONITORING FEE         550.00        01/17/12
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+         2  POSSESS CANNABIS/2.5-10 GRAMS
+
+         3  FIREARM W/O VALID FOID/ELIG
+
+         4  FIREARM W/O VALID FOID/ELIG
+
+         5  FIREARM W/O VALID FOID/ELIG
+
+         6  FIREARM W/O VALID FOID/ELIG
+
+         7  AID/ABET CERTIF ORIG/SALE/TTL
+
+         8  AID/ABET CERTIF ORIG/SALE/TTL
+
+         9  AID/ABET CERTIF ORIG/SALE/TTL
+
+         10 AID/ABET CERTIF ORIG/SALE/TTL
+
+         11 AID/ABET CERTIF ORIG/SALE/TTL
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   08-30-11                 Charge 01 Count 001 POSS AMT CON SUB EXCEPT(A)/(D)
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Agency: MAHOMET POLICE DEPARTMENT  Charge Instr: Inf
+ormation
+                            NO BOND No Bond
+                            Charge 02 Count 002 POSSESS CANNABIS/2.5-10 GRAMS
+                            Statute 720 550/4(b)  Class B  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 FIREARM W/O VALID FOID/ELIG
+                            Statute 430 65/2(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 04 Count 004 FIREARM W/O VALID FOID/ELIG
+                            Statute 430 65/2(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 05 Count 005 FIREARM W/O VALID FOID/ELIG
+                            Statute 430 65/2(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 06 Count 006 FIREARM W/O VALID FOID/ELIG
+                            Statute 430 65/2(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 07 Count 007 AID/ABET CERTIF ORIG/SALE/TTL
+                            Statute 625 5/4-104(a)(2)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 08 Count 008 AID/ABET CERTIF ORIG/SALE/TTL
+                            Statute 625 5/4-104(a)(2)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 09 Count 009 AID/ABET CERTIF ORIG/SALE/TTL
+                            Statute 625 5/4-104(a)(2)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 10 Count 010 AID/ABET CERTIF ORIG/SALE/TTL
+                            Statute 625 5/4-104(a)(2)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 11 Count 011 AID/ABET CERTIF ORIG/SALE/TTL
+                            Statute 625 5/4-104(a)(2)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            People appear by Sarah J. Carlson.  Defendant appear
+s in custody and
+                            private counsel, Mark Lipton appears on his behalf.
+ Entry of
+                            Appearance on file.  Defendant is arraigned.  Defend
+ant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests a trial
+                            by jury.  Pre-trial orders entered. Bond set in the
+amount of
+                            $25,000-ROR DENIED.  Defendant admonished as to tria
+l and sentencing
+                            in absentia.  See Expanded Record.
+                            Notice of arrest without warrant filed
+   09-07-11                 Discovery filed
+   09-08-11                 Sheriff Booking Fee
+   09-12-11                 Defendant's Disclosure to Prosecution filed
+   10-17-11                 Cause allotted for plea to
+   10-20-11                 Supplemental Discovery filed
+   10-31-11                 Supplemental Discovery filed.
+   11-01-11                 Cause allotted for plea to
+   12-01-11                 Disposition 11/00  Count 011  No Fine & Cost
+                            Disposition: Dismissed AID/ABET CERTIF ORIG/SALE/TTL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/4-104(a)(2)  Class 4  Orig.
+                            Sentence: 12/01/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 10/00  Count 010  No Fine & Cost
+                            Disposition: Dismissed AID/ABET CERTIF ORIG/SALE/TTL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/4-104(a)(2)  Class 4  Orig.
+                            Sentence: 12/01/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 09/00  Count 009  No Fine & Cost
+                            Disposition: Dismissed AID/ABET CERTIF ORIG/SALE/TTL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/4-104(a)(2)  Class 4  Orig.
+                            Sentence: 12/01/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 08/00  Count 008  No Fine & Cost
+                            Disposition: Dismissed AID/ABET CERTIF ORIG/SALE/TTL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/4-104(a)(2)  Class 4  Orig.
+                            Sentence: 12/01/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 07/00  Count 007  No Fine & Cost
+                            Disposition: Dismissed AID/ABET CERTIF ORIG/SALE/TTL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/4-104(a)(2)  Class 4  Orig.
+                            Sentence: 12/01/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 06/00  Count 006  No Fine & Cost
+                            Disposition: Dismissed FIREARM W/O VALID FOID/ELIG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 430 65/2(a)(1)  Class A  Orig.
+                            Sentence: 12/01/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 05/00  Count 005  No Fine & Cost
+                            Disposition: Dismissed FIREARM W/O VALID FOID/ELIG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 430 65/2(a)(1)  Class A  Orig.
+                            Sentence: 12/01/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed FIREARM W/O VALID FOID/ELIG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 430 65/2(a)(1)  Class A  Orig.
+                            Sentence: 12/01/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed FIREARM W/O VALID FOID/ELIG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 430 65/2(a)(1)  Class A  Orig.
+                            Sentence: 12/01/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed POSSESS CANNABIS/2.5-10 GRAMS
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 550/4(b)  Class B  Orig.
+                            Sentence: 12/01/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Withold Judgment/1410 Probation POSS AM
+T CON SUB EXCEPT(A
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Sentence: 12/01/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees
+                            Sentence: First Offender Probation - Controlled Subs
+tances Act  24Mos
+                                      Supervised Court Service
+                            Sentence: Public Service  30Hrs
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Sentence: Substance Abuse Treatment/Evaluation  60Da
+ys
+                            Sentence: Seized contraband is forfeited to the arre
+sting agency
+                            Sentence: Count(s) dismissed.
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Fine + Cost           1326.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    600.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    200.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally and by counsel, Mark Lipton.   Defendant
+advised as to the
+                            nature of the proceedings, the charges and the possi
+ble penalties that
+                            may be imposed and the Court finds that the Defendan
+t understands the
+                            same.  Finding Defendant knowingly, understandingly
+and voluntarily
+                            waives rights and enters a plea of guilty to Count 0
+1 of the charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Poss Amt
+                            Con Sub Except(A)/(D) ILCS: 720 570/402(c) as charge
+d. Upon the plea
+                            entered this date,Defendant is sentenced to all term
+s and conditions
+                            as set forth in the written order on guilty plea ent
+ered this date.
+                            All financial obligations shall be paid in equal mon
+thly installments
+                            to the Champaign County Circuit Clerk by  6/01/2012.
+  Any bond posted
+                            is to be applied first to any court ordered bond ass
+ignment on file
+                            and then to all restitution ordered and then to all
+financial
+                            obligations in this case.  Any remaining bond shall
+be discharged to
+                            the individual who posted the bond.  Defendant is or
+dered to serve a
+                            period of  24 months First Offender Probation pursua
+nt to the
+                            Controlled Substances Act. Defendant is ordered to p
+erform  30 hours
+                            of public service work under the supervision of the
+Champaign County
+                            Court Services Department.  The defendant is to be g
+iven credit on
+                            public service work for any hours completed in educa
+tion, treatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes. The Defendant is to submit sp
+ecimens of blood,
+                            saliva, or tissue to the Illinois Department of Stat
+e Police or to the
+                            Department of Corrections within 45 days, at a colle
+ction site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3.  Defendant is to obtain an evaluation for a
+lcohol and drug
+                            abuse from an agency or agent recommended by the Cou
+rt Services
+                            Department, and follow any recommendations contained
+ therein as to
+                            treatment and/or counseling. Any contraband seized i
+n this matter, and
+                            any additional property listed in the written order
+is forfeited to
+                            the arresting agency. Count(s) stated in the written
+ order are herby
+                            dismissed. Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.
+   12-06-11                 ISP Supplemental Court Disposition prepared and mail
+ed.
+
+                            Pursuant to the Judgment on the guilty plea the drug
+                            fine collected it to be disbursed as follows:
+                                 12.5% to the Youth Drug Abuse Prevention Fund
+                                 37.5% to the General Corporate fund of Champaig
+n
+                                      County and
+                                 50% to the MAHOMET POLICE DEPARTMENT
+   12-08-11                 Bond
+   12-19-11                 bond ref ck#132747 T. Parkhill returned not delivera
+ble as addressed
+   01-17-12                 Check
+                            Court Ordered Payments
+                            Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   12-16-13
+                            Order of Discharge from Probation and Case Dismissal
+ entered. SEE
+                            ORDER.
+                            Disposition 01/01  Count 001  Manual Calculations
+                            Disposition: Probation Terminated POSS AMT CON SUB E
+XCEPT(A)/(D)
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/402(c)  Class 4
+                            Sentence: 12/16/2013
+                            Sentence: No Sentence  In force
+                            Case closed.
+   01-24-14                 Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

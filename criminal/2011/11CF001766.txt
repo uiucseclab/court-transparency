@@ -1,0 +1,590 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001766
+
+   Defendant Plaintiff
+ASHFORD  DEANGELO N
+206 SHADYBROOK LN
+AURORA IL 60504
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 10/27/11
+                Court Room: F
+           Next Appearance: 01/04/19
+                Birth Date: 04/23/91
+                 DEFENDANT: ASHFORD  DEANGELO N
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       50.00      BOND -10% BOND FEE            50.00            .00
+    21441.84      *RESTITUTION AMOUNT          475.00       20966.84
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       25.00      PROBATION MONITORIN             .00         850.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+       10.00      TR/CR SUR $10/$40               .00          10.00
+         .00      SERIOUS TR VIOLATIO             .00            .00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       50.00      BOND -10% BOND FEE              .00          50.00
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       50.00      BOND -10% BOND FEE            50.00            .00
+    21441.84      *RESTITUTION AMOUNT         1175.00       20266.84
+       15.00      DOCUMENT STORAGE                .00          15.00
+       15.00      AUTOMATION                      .00          15.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+      850.00      PROBATION MONITORIN             .00         850.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+       10.00      TR/CR SUR $10/$40               .00          10.00
+         .00      CLERK OP & ADMIN FU             .00            .00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       15.00      ST POLICE OPERATION             .00          15.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117699207 SHERIFF'S BOOKING FEE             20.00        10/28/11
+   117699207 BOND - ORIGINAL                  500.00        10/28/11
+   118428607 BOND -10% BOND FEE                50.00        02/06/13
+   118428607 *RESTITUTION AMOUNT              450.00        02/06/13
+   118428607 *RESTITUTION AMOUNT               30.24        02/06/13
+   118428607 *RESTITUTION AMOUNT              419.76        02/06/13
+   122066164 *RESTITUTION AMOUNT               25.00        12/09/15
+   122066164 *RESTITUTION AMOUNT               23.32        12/09/15
+   122066164 *RESTITUTION AMOUNT                1.68        12/09/15
+   122145414 BOND - ORIGINAL                  100.00        01/28/16
+   122145466 *RESTITUTION AMOUNT              100.00        01/28/16
+   122145466 *RESTITUTION AMOUNT                6.72        01/28/16
+   122145466 *RESTITUTION AMOUNT               93.28        01/28/16
+   122150799 EPAY RECEIVABLE                  100.00        02/02/16
+   122171070 COPIES                             1.00        02/12/16
+   122171070 COPIES                             1.00        02/12/16
+   122178605 BOND - ORIGINAL                  100.00        02/18/16
+   122181016 *RESTITUTION AMOUNT              100.00        02/18/16
+   122181016 *RESTITUTION AMOUNT                6.72        02/18/16
+   122181016 *RESTITUTION AMOUNT               93.28        02/18/16
+   122187341 EPAY RECEIVABLE                  100.00        02/23/16
+   122199219 COPIES                             1.00        03/01/16
+   122253758 BOND - ORIGINAL                  100.00        03/31/16
+   122253835 *RESTITUTION AMOUNT              100.00        03/31/16
+   122253835 *RESTITUTION AMOUNT                6.72        03/31/16
+   122253835 *RESTITUTION AMOUNT               93.28        03/31/16
+   122261702 EPAY RECEIVABLE                  100.00        04/06/16
+   122304469 BOND - ORIGINAL                  100.00        04/30/16
+   122307012 *RESTITUTION AMOUNT              100.00        04/30/16
+   122307012 *RESTITUTION AMOUNT                6.72        04/30/16
+   122307012 *RESTITUTION AMOUNT               93.28        04/30/16
+   122315038 EPAY RECEIVABLE                  100.00        05/06/16
+   122358233 BOND - ORIGINAL                  100.00        06/01/16
+   122358449 *RESTITUTION AMOUNT              100.00        06/01/16
+   122358449 *RESTITUTION AMOUNT                6.72        06/03/16
+   122358449 *RESTITUTION AMOUNT               93.28        06/03/16
+   122369365 EPAY RECEIVABLE                  100.00        06/07/16
+   122410708 BOND - ORIGINAL                  100.00        06/30/16
+   122410823 *RESTITUTION AMOUNT              100.00        06/30/16
+   122410823 *RESTITUTION AMOUNT                6.72        06/30/16
+   122410823 *RESTITUTION AMOUNT               93.28        06/30/16
+   122419473 EPAY RECEIVABLE                  100.00        07/07/16
+   122462258 BOND - ORIGINAL                  100.00        08/01/16
+   122462566 *RESTITUTION AMOUNT              100.00        08/01/16
+   122462566 *RESTITUTION AMOUNT                6.72        08/02/16
+   122462566 *RESTITUTION AMOUNT               93.28        08/02/16
+   122470297 EPAY RECEIVABLE                  100.00        08/05/16
+   122507081 BOND - ORIGINAL                  100.00        08/30/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  IDENTITY THEFT >$2K - $10K
+
+         2  IDENTITY THEFT >$2K - $10K
+
+         3  IDENTITY THEFT >$300-$2,000
+
+         4  ORGANIZER/FIN CRIME ENTRPRS
+
+         5  FIN CRIME/CONSPIRACY/>10K-100K
+
+         5  FIN CRIME/CONSPIRACY/>10K-100K
+
+         5  FIN CRIME/CONSPIRACY/>10K-100K
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   10-27-11                 Charge 01 Count 001 IDENTITY THEFT >$2K - $10K
+                            Statute 720 5/16G-15(a)(1)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 IDENTITY THEFT >$2K - $10K
+                            Statute 720 5/16G-15(a)(1)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 IDENTITY THEFT >$300-$2,000
+                            Statute 720 5/16G-15(a)(1)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Created and properly labeled permanent case file.
+                            Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel.  Defendant is admonished as t
+o trial and
+                            sentencing in absentia.  See expanded record.
+                            Bond set in the amount of $5000-ROR DENIED.
+                            Notice of arrest without warrant on file.
+                            Companion Charge
+                            Charge 05 Count 005 FIN CRIME/CONSPIRACY/>10K-100K
+                            Statute 720 5/16H-45  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+   10-28-11                 Sheriff Booking Fee
+   11-10-11                 Expanded record of arraignment proceedings.
+                            People appear by Adam M. Dill.  Defendant appears pe
+rsonally together
+                            with private counsel, John M. Wilkie.  Entry of appe
+arance on file.
+                            Defendant is arraigned.  Defendant waives preliminar
+y hearing, enters
+                            a plea of not guilty and requests a trial by jury.
+Pre-trial orders
+                            entered.  Defendant admonished as to trial and sente
+ncing in absentia.
+                            Bond to continue.  See Expanded Record.
+   11-30-11                 Discovery filed
+   12-12-11                 Supplemental Discovery filed
+   12-15-11                 Supplemental Discovery filed
+   12-19-11                 Supplemental Discovery filed
+   01-04-12                 Supplemental Discovery filed
+   01-10-12                 Charge 04 Count 004 ORGANIZER/FIN CRIME ENTRPRS
+                            Statute 720 5/17-10.6(i)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+
+                            Defendant is arraigned on Count 4 this date and as t
+o the possible
+                            penalties.  Court finds he understands the same.  De
+fendant tenders a
+                            plea of not guilty and request for jury trial as to
+Count 4.  Cause
+                            remains as previously allotted.  Defendant's bond is
+ to continue.
+                            Pre-trial Discovery Orders entered previously in thi
+s matter continue
+                            as to Count 4.
+   03-06-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   03-13-12                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   04-23-12                 Supplemental Discovery filed
+   04-26-12                 Subpoena Served.  No Fees.
+   05-01-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+                            Verification appeared in court issued.
+   05-29-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+   07-06-12                 Supplemental Discovery filed
+   07-24-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.  Motion by the Defendant for continuance
+.  Motion allowed.
+                            Cause reallocated for the trial term immediately fol
+lowing the
+                            pre-trial date.
+                            Supplemental Discovery filed
+                            Supplemental Discovery filed
+                            Supplemental Discovery filed
+   07-26-12                 Supplemental Discovery filed
+   07-27-12                 Supplemental Discovery filed
+   07-30-12                 Supplemental Discovery filed
+   08-01-12                 Supplemental Discovery filed
+   08-10-12                 Supplemental Discovery filed
+   08-24-12                 Supplemental Discovery filed
+   08-30-12                 Supplemental Discovery filed
+   09-06-12                 Supplemental Discovery filed
+   09-25-12
+                            Appearance of the People by J. Fletcher. Appearance
+of the Defendant
+                            personally and with J. Wilke.  Count 5 filed this da
+te. Defendant
+                            requests a preliminary hearing. Cause allotted for p
+reliminary
+                            hearing.
+   11-13-12                 Pretrial order after waiver or finding of probable c
+ause
+                            People appear by Joel D. Fletcher.  Defendant appear
+s personally and
+                            with counsel, John M. Wilkie.  Cause called for prel
+iminary hearing.
+                            Witnesses sworn. Evidence heard. The Court having he
+ard the evidence
+                            on preliminary hearing and being fully advised in th
+e premises finds
+                            probable cause to believe that the Defendant has com
+mitted one or more
+                            felony offenses as charged in the information.   Def
+endant enters a
+                            plea of not guilty and requests trial by jury.  Pre-
+Trial Discovery
+                            Order on file.  Bond to continue.
+   11-14-12                 Supplemental Discovery filed
+   12-13-12                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   01-22-13                 Set for Trial-Defendant Appears
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   01-23-13                 Supplemental Discovery filed
+   01-28-13                 Subpoena not served.
+   01-29-13                 Cause allotted for plea to
+                            Subpoena Served.  No Fees.
+   01-30-13                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed IDENTITY THEFT >$2K - $10K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16G-15(a)(1)  Class 2  Orig.
+                            Sentence: 01/30/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed IDENTITY THEFT >$2K - $10K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16G-15(a)(1)  Class 2  Orig.
+                            Sentence: 01/30/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed IDENTITY THEFT >$300-$2,000
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16G-15(a)(1)  Class 3  Orig.
+                            Sentence: 01/30/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed ORGANIZER/FIN CRIME ENTRPRS
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/17-10.6(i)  Class X  Orig.
+                            Sentence: 01/30/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition #5/00  Count 005  Cost Only
+                            Disposition: Guilty FIN CRIME/CONSPIRACY/>10K-100K
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16H-45  Class 2
+                            Sentence: 01/30/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  36Mos In force
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Defendant's probation to transfer to resid
+ent county  In for
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Cost Only              447.00     *RESTITUTION AMOUN
+T  21441.84
+                            CRIME STOPPERS          10.00     PROBATION MONITORI
+N    850.00
+                             STATE OFFENDER DNA    250.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Joel D. Fletcher.  Appea
+rance of the
+                            Defendant personally and by counsel, John M. Wilkie.
+   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 05 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Fin Crime/Conspiracy/>10k-1
+00k ILCS: 720
+                            5/16H-45 as charged. Judgment entered in favor of th
+e People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  7/29/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  36 months probation. The Defendant is to
+submit specimens
+                            of blood, saliva, or tissue to the Illinois Departme
+nt of State Police
+                            or to the Department of Corrections within 45 days,
+at a collection
+                            site designated by the Champaign County Court Servic
+es Department
+                            and/or Illinois Department of State Police, in accor
+dance with 730
+                            ILCS 5/5-4-3. Count(s) stated in the written order a
+re herby
+                            dismissed.  Defendant advised of right to appeal and
+ rights pursuant
+                            to Supreme Court Rule 605 and the Court finds that t
+he defendant
+                            understands the same.
+   02-04-13                 Joint & several with case 11CF1769, 11CF1768 and 11C
+F1767
+                            Deft shall be entitled to credit or refund of up to
+his pro rata share
+                            of the total amount if and when the co-Deft in  thos
+e matters pay
+                            restitution.
+                            Subpoena not served.
+                            Subpoena not served.
+   02-06-13                 Bond
+   03-05-13                 Subpoena not found.
+   07-16-15                 Payee change information received via email from Eba
+y GAP.
+   09-08-15                 Probation transferred to Coles Co. effective May 201
+3.
+                            Probation monitoring fees adjusted accordingly.
+   09-17-15                 Probation Violation Report on file
+   10-01-15                 Petition to Revoke Probation filed.
+   10-08-15                 Change of address filed with the Circuit Clerk.
+                            Verified information on Petition to Revoke Probation
+ on file
+                            Summons issued this date.
+   10-13-15                 Summons forwarded this date.
+                            Affidavit of mailing attached.
+   11-04-15                 Summons served by Substitute Service on file.
+                            Summons served on Deangelo N. Ashford by Substitute
+Service on   on
+                            file.
+   11-05-15                 Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Be
+njamin Dyer
+                            appears instanter.  General denial to the Petition i
+s entered. Bond
+                            set in the amount of $1,000-ROR ALLOWED.  Defendant
+is admonished as
+                            to trial and sentencing in absentia.  See expanded r
+ecord.
+                            Expanded record of court proceedings on arraignment.
+                            Released On Recognizance bond form on file.
+                            Affidavit in support of request to appoint attorney.
+   12-02-15                 Disposition 05/01  Count 005  Cost Only
+                            Disposition: Revocation/Vacate/Probation FIN CRIME/C
+ONSPIRACY/>10K-100
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16H-45  Class 2
+                            Sentence: 12/02/2015
+                            Sentence: Cost Only  In force
+                            Sentence: Conditional Discharge  36Mos In force
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              337.00
+                            Payment Due
+                            Resentencing on petition to revoke.
+                            Appearance of the People by Joel D. Fletcher.  Appea
+rance of the
+                            Defendant personally and by counsel, George Vargas.
+   Defendant
+                            advised as to the nature of the proceedings and the
+possible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly, understandin
+gly and
+                            voluntarily stipulates and admits to the allegations
+ contained in the
+                            Petition to Revoke.  Finding the same are true.  The
+ court finds that
+                            the Defendant has violated the terms of his sentence
+.  Finding entered
+                            in favor of the People and against Defendant.   All
+financial
+                            obligations, EXCEPT RESTITUTION, shall be paid in eq
+ual monthly
+                            installments to the Champaign County Circuit Clerk b
+y  5/30/2016.
+                            Restitution shall be paid within the first 30 months
+ and Defendant is
+                            to pay $100 per month towards restitution.  Any bond
+ posted is to be
+                            applied first to any court ordered bond assignment o
+n file and then to
+                            all restitution ordered and then to all financial ob
+ligations in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.
+                            Defendant is ordered to serve a period of  36 months
+ Conditional
+                            Discharge subject to the previous terms and conditio
+ns ordered. The
+                            Defendant is to submit specimens of blood, saliva, o
+r tissue to the
+                            Illinois Department of State Police or to the Depart
+ment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Sentencing Order / Resentencing on Petition to revok
+e on
+                            file.
+                            Disposition 05/02  Count 005  Modified Order
+                            Disposition: Modified/Trial Court FIN CRIME/CONSPIRA
+CY/>10K-100K
+                            Modified Order         467.00     *RESTITUTION AMOUN
+T  21441.84
+                            CRIME STOPPERS          10.00     PROBATION MONITORI
+N    850.00
+                             STATE OFFENDER DNA    250.00
+   12-08-15                 Disposition sent through ADR process this date. SPT
+   12-09-15                 Cash
+   12-21-15                 Disposition entered.
+   12-23-15                 Disposition sent through ADR process this date. SPT
+   01-28-16                 EPAY BOND PAYMENT
+                            Bond
+   02-02-16                 EPAY RECONCILIATION TRANSACTION
+   02-12-16                 Copies & Certified Copies
+   02-18-16                 EPAY BOND PAYMENT
+                            Bond
+   02-23-16                 EPAY RECONCILIATION TRANSACTION
+   03-01-16                 Copies & Certified Copies
+   03-31-16                 EPAY BOND PAYMENT
+                            Bond
+   04-06-16                 EPAY RECONCILIATION TRANSACTION
+   04-30-16                 EPAY BOND PAYMENT
+                            Bond
+   05-06-16                 EPAY RECONCILIATION TRANSACTION
+   06-01-16                 EPAY BOND PAYMENT
+                            Bond
+   06-07-16                 EPAY RECONCILIATION TRANSACTION
+   06-30-16                 EPAY BOND PAYMENT
+                            Bond
+   07-07-16                 EPAY RECONCILIATION TRANSACTION
+   08-01-16                 EPAY BOND PAYMENT
+                            Bond
+   08-05-16                 EPAY RECONCILIATION TRANSACTION
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

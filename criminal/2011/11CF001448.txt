@@ -1,0 +1,372 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001448
+
+   Defendant Plaintiff
+BURKE  THOMAS J
+80 TONI LANE
+URBANA IL 61802
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 09/06/11
+                Court Room:
+           Next Appearance: 07/13/15
+                Birth Date: 12/22/63
+                 DEFENDANT: BURKE  THOMAS J
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       30.00      BOND -10% BOND FEE            30.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          900.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      250.00       STATE OFFENDER DNA          250.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      190.00      TRAFFIC/CRIMINAL SU          190.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+         .00      FINES                           .00            .00
+      350.00      DUI NEW EQUIPMENT F          350.00            .00
+       76.00      VICTIMS FUND-FINE             76.00            .00
+       76.00      DRIVERS EDUCATION             76.00            .00
+      395.00      DUI - 80% IL GENERA          395.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117683767 BOND TRANSFERS IN                300.00        10/18/11
+   118036932 BOND -10% BOND FEE                30.00        07/16/12
+   118036932 DOCUMENT STORAGE                   5.00        07/16/12
+   118036932 AUTOMATION                        10.00        07/16/12
+   118036932 CIRCUIT CLERK FEE                100.00        07/16/12
+   118036932 COURT SECURITY                    25.00        07/16/12
+   118036932 COURT FINANCE FEE                 50.00        07/16/12
+   118036932 STATES ATTORNEY                   40.00        07/16/12
+   118036932 CRIME STOPPERS                    10.00        07/16/12
+   118036932 ARRESTEE'S MEDICAL                10.00        07/16/12
+   118036932 PROBATION MONITORING FEE          20.00        07/16/12
+   118806827 PROBATION MONITORING FEE          25.00        09/27/13
+   118806827 SPINAL CORD RESEARCH FUN           5.00        09/27/13
+   118806827  STATE OFFENDER DNA ID S          70.00        09/27/13
+   118881005 PROBATION MONITORING FEE          25.00        11/12/13
+   118881005  STATE OFFENDER DNA ID S          15.00        11/12/13
+   120840107 PROBATION MONITORING FEE          25.00        12/17/13
+   120840107  STATE OFFENDER DNA ID S          35.00        12/17/13
+   120917440 PROBATION MONITORING FEE          25.00        02/06/14
+   120917440  STATE OFFENDER DNA ID S          75.00        02/06/14
+   121185895 PROBATION MONITORING FEE          25.00        07/15/14
+   121185895  STATE OFFENDER DNA ID S          25.00        07/15/14
+   121216341 PROBATION MONITORING FEE          25.00        07/31/14
+   121216341  STATE OFFENDER DNA ID S          25.00        07/31/14
+   121256937 PROBATION MONITORING FEE          25.00        08/22/14
+   121256937  STATE OFFENDER DNA ID S           5.00        08/22/14
+   121256937 TRAUMA FUND                      100.00        08/22/14
+   121256937 TR/CR SUR $10/$40                 20.00        08/22/14
+   121333567 PROBATION MONITORING FEE          25.00        10/03/14
+   121333567 TR/CR SUR $10/$40                 25.00        10/03/14
+   121952756 PERSONAL CHECK/CREDIT CA           1.25        10/02/15
+   121952756 PROBATION MONITORING FEE         680.00        10/02/15
+   121952756 TR/CR SUR $10/$40                145.00        10/02/15
+   121952756 CLERK OP & ADMIN-SERIOUS           5.00        10/02/15
+   121952756 CLERK OP & ADMIN FUND             10.00        10/02/15
+   121952756 DRUG COURT PROGRAM                 5.00        10/02/15
+   121952756 DUI NEW EQUIPMENT FINE           350.00        10/02/15
+   121952756 VICTIMS FUND-FINE                 76.00        10/02/15
+   121952756 DRIVERS EDUCATION                 76.00        10/02/15
+   121952756 DUI - IL GENERAL REVENUE         395.00        10/02/15
+   121952756 FIRE PREVENTION FUND              15.00        10/02/15
+   121952756 FIRE TRUCK REVOLVING LOA          15.00        10/02/15
+   121952756 ST POLICE SERVICES FUND           10.00        10/02/15
+   121952756 ST POLICE OPERATIONS ASS          10.00        10/02/15
+   121952756 STATES ATTORNEY AUTOMATI           2.00        10/02/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AGG DUI/3
+
+         1  AGG DUI/3
+
+         2  DRIVING RVK/SUSP DUI/SSS 3RD
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   09-06-11                 Charge 01 Count 001 AGG DUI/3
+                            Statute 625 5/11-501(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 DRIVING RVK/SUSP DUI/SSS 3RD
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Created and properly labeled permanent case file.
+                            Cause set for arraignment on
+   10-07-11                 Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel. Bond from 11-DT-474 is ordere
+d transferred to
+                            this case. Defendant is admonished as to trial and s
+entencing in
+                            absentia.  See expanded record.
+   10-14-11
+                            Defendant makes second motion for continuance to obt
+ain counsel.
+                            Motion allowed.  Bond to continue.
+   10-18-11                 Bond Type Transfer Bond From    2011DT000474 BURKE T
+HOMAS J
+   10-21-11                 Expanded record of arraignment proceedings.
+                            Motion by the Defendant for court appointed counsel.
+  Motion denied.
+                            On the Court's own motion cause is set for Prelimina
+ry hearing.
+                            Defendant is admonished as to proceeding without cou
+nsel. Bond to
+                            continue.
+   10-26-11
+                            Entry of Appearance of Mark Lipton filed.
+   11-07-11                 Pre-trial order after waiver or finding of probable
+cause.
+                            People appear by Christopher Kanis.  Defendant appea
+rs with counsel,
+                            Mark Lipton. Defendant waives preliminary hearing, e
+nters a plea of
+                            not guilty and requests trial by jury. Cause set for
+ pre-trial on
+                            1/5/12 at 10:30 a.m. in Courtroom E. Pre-Trial Order
+s entered. See
+                            Orders. Bond to continue
+                            Discovery filed.
+   11-10-11                 Defendant's Disclosure to Prosecution filed.
+   01-05-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   02-16-12
+                            People appear by Christopher Kanis.  Defendant appea
+rs personally and
+                            with counsel, Mark Lipton. Motion by the Defendant f
+or continuance.
+                            Motion allowed.
+   03-22-12
+                            Appearance of the State's Attorney.  Appearance of t
+he
+                            Defendant personally and by Counsel.
+   04-27-12
+                            People appear by Marley C. Nelson.  Defendant appear
+s personally and
+                            with counsel, Mark Lipton. Motion by the Defendant f
+or continuance.
+                            Motion allowed.
+   06-07-12
+                            People appear by Andrea Bergstrom. Mark Litpon appea
+rs on behalf of
+                            the Defendant. Representation the Defendant is curre
+ntly hospitalized.
+                            Motion on behalf of the Defendant to continue. Motio
+n allowed.
+   06-20-12                 Agreed plea - set over for sentencing
+                            Appearance of the People by Marley C. Nelson.  Appea
+rance of the
+                            Defendant personally and by counsel, Mark Lipton.
+Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Agg Dui/3 ILCS: 625 5/11-501(a) as charge
+d.   Cause
+                            allotted for sentencing confirmation on July 12, 201
+2 at 10:30 AM in
+                            Courtroom E.  Defendant is ordered to appear and is
+advised of
+                            sentencing in absentia.  Defendant is ordered to obt
+ain a substance
+                            abuse evaluation prior to the hearing.  Waiver of Ju
+ry on file.  Count
+                            II and is to be dismissed at the sentencing.
+   06-27-12                 EHD Eligibility Certificate filed
+   07-12-12                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty AGG DUI/3
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)  Class 2  Orig.
+                            Sentence: 07/12/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  36Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  180Days In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Public Service  100Hrs In force
+                                      Supervised Court Service
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  60Da
+ys In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           1534.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    900.00      STATE OFFENDER DN
+A    250.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Andrea I. Bergstrom.  Ap
+pearance of the
+                            Defendant personally and by counsel, Mark Lipton. Ca
+use called for
+                            sentencing confirmation. Sentence is confirmed this
+date.  Judgment
+                            entered in favor of the People and against the defen
+dant on finding of
+                            guilt and for costs.  All financial obligations shal
+l be paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk by
+                            1/08/2013.  Any bond posted is to be applied first t
+o any court
+                            ordered bond assignment on file and then to all rest
+itution ordered
+                            and then to all financial obligations in this case.
+ Any remaining
+                            bond shall be discharged to the individual who poste
+d the bond.
+                            Defendant is ordered to serve a period of  36 months
+ probation.
+                            Defendant is ordered to serve a period of incarcerat
+ion of 180 days in
+                            the Champaign County Correctional Center. Defendant
+is to receive
+                            credit for 1 day previously served. The Defendant is
+ ordered to have a
+                            Secured Remote Alcohol Monitoring (SCRAM) device ins
+talled on his/her
+                            person as soon as practicable, through SCRAM provide
+r CAM Systems and
+                            comply with conditions outlined in the Order to Abst
+ain from Alcohol
+                            and for SCRAM Testing entered herein. See ORDER. The
+ Defendant is to
+                            submit specimens of blood, saliva, or tissue to the
+Illinois
+                            Department of State Police or to the Department of C
+orrections within
+                            45 days, at a collection site designated by the Cham
+paign County Court
+                            Services Department and/or Illinois Department of St
+ate Police, in
+                            accordance with 730 ILCS 5/5-4-3. Defendant is order
+ed to perform 100
+                            hours of public service work under the supervision o
+f the Champaign
+                            County Court Services Department.  The defendant is
+to be given credit
+                            on public service work for any hours completed in ed
+ucation,
+                            treatment, aftercare, sobriety based self-help group
+ meetings, Victim
+                            Impact Panel and GED classes.  Defendant is to atten
+d the next Victim
+                            Impact Panel presented by the Champaign County Court
+ Services
+                            Department.  Defendant is to obtain an evaluation fo
+r alcohol and drug
+                            abuse from an agency or agent recommended by the Cou
+rt Services
+                            Department, and follow any recommendations contained
+ therein as to
+                            treatment and/or counseling. Count II is hereby dism
+issed. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Sentencing Order entered this date. See Order.
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed DRIVING RVK/SUSP DUI/SSS 3RD
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Sentence: 07/12/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   07-13-12                 Report of Felony Conviction prepared / mailed.
+   07-16-12                 Bond
+   08-01-12                 Drug Detail Report Filed.
+   08-03-12                 Notice of Filing on file.
+   08-08-12                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   10-12-12                 Prepared blueback certificate.
+   09-27-13                 Court Ordered Payments
+   09-30-13                 Defendant's change of address filed
+   11-12-13                 Court Ordered Payments
+   11-26-13                 Change of Address of Defendant on file.
+   12-17-13                 Court Ordered Payments
+   02-06-14                 Court Ordered Payments
+   07-15-14                 Court Ordered Payments
+   07-31-14                 Court Ordered Payments
+   08-22-14                 Court Ordered Payments
+   10-03-14                 Court Ordered Payments
+   07-10-15                 Order of Discharge from Probation entered this date.
+ See Order.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Probation Terminated AGG DUI/3
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 2
+                            Sentence: 07/10/2015
+                            Sentence: No Sentence  In force
+   07-17-15                 Case closed.
+   07-24-15                 Disposition sent through ADR process this date. SPT
+   10-02-15                 Check
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,240 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CM000636
+
+   Defendant Plaintiff
+RODRIGUEZ  MONICA N
+616 S LONG
+TOLONO IL 61880
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/31/12
+                Court Room:
+           Next Appearance: 08/20/12
+                Birth Date: 08/07/88
+                 DEFENDANT: RODRIGUEZ  MONICA N
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      190.00      TRAFFIC/CRIMINAL SU          190.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      750.00      FINES                        750.00            .00
+       76.00      VICTIMS FUND-FINE             76.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+      425.39      COLLECTION FEES              425.39            .00
+      184.95      LATE FEES                    184.95            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118386540 DOCUMENT STORAGE                   5.00        01/15/13
+   118386540 E-CITATION                         5.00        01/15/13
+   118386540 AUTOMATION                        10.00        01/15/13
+   118386540 CIRCUIT CLERK FEE                 75.00        01/15/13
+   118386540 COURT SECURITY                     5.00        01/15/13
+   118885222 COURT SECURITY                    20.00        11/14/13
+   118885222 COURT FINANCE FEE                 25.00        11/14/13
+   118885222 STATES ATTORNEY                   20.00        11/14/13
+   118885222 CRIME STOPPERS                     4.20        11/14/13
+   118885222 COLLECTION FEES                   23.08        11/14/13
+   118885222 LATE FEES                          7.72        11/14/13
+   118911788 CRIME STOPPERS                      .80        12/02/13
+   118911788 ARRESTEE'S MEDICAL                10.00        12/02/13
+   118911788 CRIME LAB                         58.40        12/02/13
+   118911788 COLLECTION FEES                   23.08        12/02/13
+   118911788 LATE FEES                          7.72        12/02/13
+   120889370 CRIME LAB                         27.68        01/21/14
+   120889370 COLLECTION FEES                    9.23        01/21/14
+   120889370 LATE FEES                          3.09        01/21/14
+   120921214 CRIME LAB                         13.92        02/10/14
+   120921214 TR/CR SUR $10/$40                 20.68        02/10/14
+   120921214 COLLECTION FEES                   11.54        02/10/14
+   120921214 LATE FEES                          3.86        02/10/14
+   120960902 TR/CR SUR $10/$40                 34.60        03/04/14
+   120960902 COLLECTION FEES                   11.54        03/04/14
+   120960902 LATE FEES                          3.86        03/04/14
+   121011744 TR/CR SUR $10/$40                 34.60        04/02/14
+   121011744 COLLECTION FEES                   11.54        04/02/14
+   121011744 LATE FEES                          3.86        04/02/14
+   121069058 TR/CR SUR $10/$40                 34.60        05/06/14
+   121069058 COLLECTION FEES                   11.54        05/06/14
+   121069058 LATE FEES                          3.86        05/06/14
+   121158349 TR/CR SUR $10/$40                  6.92        06/27/14
+   121158349 COLLECTION FEES                    2.31        06/27/14
+   121158349 LATE FEES                           .77        06/27/14
+   121342427 TR/CR SUR $10/$40                 13.84        10/09/14
+   121342427 COLLECTION FEES                    4.62        10/09/14
+   121342427 LATE FEES                          1.54        10/09/14
+   121483354 TR/CR SUR $10/$40                 13.84        01/07/15
+   121483354 COLLECTION FEES                    4.62        01/07/15
+   121483354 LATE FEES                          1.54        01/07/15
+   121735631 TR/CR SUR $10/$40                 13.84        06/02/15
+   121735631 COLLECTION FEES                    4.62        06/02/15
+   121735631 LATE FEES                          1.54        06/02/15
+   121808193 TR/CR SUR $10/$40                  6.92        07/14/15
+   121808193 COLLECTION FEES                    2.31        07/14/15
+   121808193 LATE FEES                           .77        07/14/15
+   121483354 COLLECTION FEES                    4.62        11/06/15
+   121483354 COLLECTION FEES                   -4.62        11/06/15
+   122170855 PERSONAL CHECK/CREDIT CA           1.25        02/12/16
+   122170855 TR/CR SUR $10/$40                 10.16        02/12/16
+   122170855 CLERK OP & ADMIN FUND             10.00        02/12/16
+   122170855 DRUG COURT PROGRAM                 5.00        02/12/16
+   122170855 FINES                            750.00        02/12/16
+   122170855 VICTIMS FUND-FINE                 76.00        02/12/16
+   122170855 ST POLICE SERVICES FUND           10.00        02/12/16
+   122170855 ST POLICE OPERATIONS ASS          10.00        02/12/16
+   122170855 COLLECTION FEES                  305.36        02/12/16
+   122170855 LATE FEES                        144.82        02/12/16
+   122170855 STATES ATTORNEY AUTOMATI           2.00        02/12/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  POSSESS DRUG PARAPHERNALIA
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   05-31-12                 Charge 01 Count 001 POSSESS DRUG PARAPHERNALIA
+                            Statute 720 600/3.5(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Entry of appearance.
+                            Defendant arraigned.  Appearance and entry of appear
+ance of attorney,
+                            Mark Lipton, with Defendant.  Plea of not guilty ent
+ered and Defendant
+                            requests trial by jury. Cause set for pre-trial.  De
+fendant admonished
+                            as to trial and sentencing in absentia. Bond is set
+in the amount of
+                            $1,000-ROR ALLOWED. See expanded record.
+                            Recognizance bond
+   06-05-12                 Released On Recognizance bond form on file.
+   06-06-12                 Affidavit of mailing of Discovery Materials filed.
+   07-12-12                 Affidavit of mailing, Supplemental Discovery Materia
+l filed.
+   07-17-12                 Affidavit of mailing, Supplemental Discovery Materia
+l filed.
+   08-10-12                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty POSSESS DRUG PARAPHERNALIA
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 600/3.5(a)  Class A  Orig.
+                            Sentence: 08/10/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           1223.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     CRIME LAB
+     100.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Elizabeth A. Taylor.  Ap
+pearance of the
+                            Defendant personally and by counsel, Mark Lipton.
+Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Possess Drug Paraphernalia ILCS: 720 600/
+3.5(a) as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.  All financial oblig
+ations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by  2/06/2013.  Any bond posted is to be appli
+ed first to any
+                            court ordered bond assignment on file and then to al
+l restitution
+                            ordered and then to all financial obligations in thi
+s case.  Any
+                            remaining bond shall be discharged to the individual
+ who posted the
+                            bond.  Case Numbers 12-TR-6898, 12-TR-6899, 12-TR-69
+00 and 12-TR-8009
+                            are dismissed. Any bond posted in said cases shall b
+e transferred to
+                            the instant case and shall be applied to any fines,
+fees, costs,
+                            assessments, and/or restitution imposed herein; any
+remaining bond
+                            shall be used to satisfy such other of the Defendant
+'s Champaign
+                            County criminal or traffic cases in which the Defend
+ant owes an
+                            outstanding balance of fines, fees, costs, assessmen
+ts and/or
+                            restitution. Defendant advised of right to appeal an
+d rights pursuant
+                            to Supreme Court Rule 605 and the Court finds that t
+he defendant
+                            understands the same. Waiver of jury on file. Senten
+cing Order entered
+                            this date. See Order.
+   08-13-12
+                            DL ON FILE.
+   01-15-13                 Court Ordered Payments
+   07-25-13                 Case sent out for collections.
+   11-14-13                 Court Ordered Payments
+   12-02-13                 Court Ordered Payments
+   01-21-14                 Court Ordered Payments
+   02-10-14                 Court Ordered Payments
+   03-04-14                 Court Ordered Payments
+   04-02-14                 Court Ordered Payments
+   05-06-14                 Court Ordered Payments
+   06-27-14                 Court Ordered Payments
+   10-09-14                 Court Ordered Payments
+   01-07-15                 Court Ordered Payments
+   06-02-15                 Cash
+   07-14-15                 Cash
+   02-12-16                 Check
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,607 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001767
+
+   Defendant Plaintiff
+ALEXANDER  HEATHER D
+6340 S KENWOOD AVENU
+CHICAGO IL 60637
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 10/27/11
+                Court Room: A
+           Next Appearance: 07/05/16  09:00
+                Birth Date: 12/22/90
+                 DEFENDANT: ALEXANDER  HEATHER D
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       25.00      BOND -10% BOND FEE            25.00            .00
+    21441.84      *RESTITUTION AMOUNT          485.00       20956.84
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       25.00      PROBATION MONITORIN             .00        1500.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+       10.00      TR/CR SUR $10/$40               .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+        4.00      VICTIMS FUND-FINE               .00           4.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117711471 SHERIFF'S BOOKING FEE             20.00        11/07/11
+   117711471 BOND - ORIGINAL                  250.00        11/07/11
+   118064819 BOND -10% BOND FEE                25.00        08/02/12
+   118064819 *BOND REFUND                     225.00        08/02/12
+   118837047 BOND - ORIGINAL                   25.00        10/16/13
+   118837081 *RESTITUTION AMOUNT               25.00        10/16/13
+   118837081 *RESTITUTION AMOUNT               23.32        10/16/13
+   118837081 *RESTITUTION AMOUNT                1.68        10/16/13
+   118841838 EPAY RECEIVABLE                   25.00        10/21/13
+   121628628 BOND - ORIGINAL                  100.00        04/01/15
+   121629652 *RESTITUTION AMOUNT              100.00        04/01/15
+   121629652 *RESTITUTION AMOUNT                6.72        04/06/15
+   121629652 *RESTITUTION AMOUNT               93.28        04/06/15
+   121633438 EPAY RECEIVABLE                  100.00        04/06/15
+   121719587 BOND - ORIGINAL                   50.00        05/22/15
+   121720960 *RESTITUTION AMOUNT               50.00        05/22/15
+   121720960 *RESTITUTION AMOUNT               46.64        05/22/15
+   121720960 *RESTITUTION AMOUNT                3.36        05/22/15
+   121726793 EPAY RECEIVABLE                   50.00        05/28/15
+   121779984 BOND - ORIGINAL                   50.00        06/28/15
+   121782539 *RESTITUTION AMOUNT               50.00        06/28/15
+   121782539 *RESTITUTION AMOUNT               46.64        06/27/15
+   121782539 *RESTITUTION AMOUNT                3.36        06/27/15
+   118837081 *RESTITUTION AMOUNT                1.68        07/16/15
+   118837081 *RESTITUTION AMOUNT               -1.68        07/16/15
+   118837081 *RESTITUTION AMOUNT                1.57        07/16/15
+   118837081 *RESTITUTION AMOUNT                 .11        07/16/15
+   118837081 *RESTITUTION AMOUNT               -1.57        07/24/15
+   118837081 *RESTITUTION AMOUNT                -.11        07/24/15
+   121629652 *RESTITUTION AMOUNT                6.72        07/16/15
+   121629652 *RESTITUTION AMOUNT               -6.72        07/16/15
+   121629652 *RESTITUTION AMOUNT                6.27        07/16/15
+   121629652 *RESTITUTION AMOUNT                 .45        07/16/15
+   121629652 *RESTITUTION AMOUNT               -6.27        07/24/15
+   121629652 *RESTITUTION AMOUNT                -.45        07/24/15
+   121720960 *RESTITUTION AMOUNT                3.36        07/16/15
+   121720960 *RESTITUTION AMOUNT               -3.36        07/16/15
+   121720960 *RESTITUTION AMOUNT                3.13        07/16/15
+   121720960 *RESTITUTION AMOUNT                 .23        07/16/15
+   121720960 *RESTITUTION AMOUNT               -3.13        07/24/15
+   121720960 *RESTITUTION AMOUNT                -.23        07/24/15
+   121782539 *RESTITUTION AMOUNT                3.36        07/16/15
+   121782539 *RESTITUTION AMOUNT               -3.36        07/16/15
+   121782539 *RESTITUTION AMOUNT                3.13        07/16/15
+   121782539 *RESTITUTION AMOUNT                 .23        07/16/15
+   121782539 *RESTITUTION AMOUNT               -3.13        07/24/15
+   121782539 *RESTITUTION AMOUNT                -.23        07/24/15
+   121787629 EPAY RECEIVABLE                   50.00        07/02/15
+   121790197 BOND - ORIGINAL                   50.00        07/03/15
+   121793561 *RESTITUTION AMOUNT               50.00        07/03/15
+   121793561 *RESTITUTION AMOUNT               46.64        07/06/15
+   121793561 *RESTITUTION AMOUNT                3.36        07/06/15
+   121793561 *RESTITUTION AMOUNT                3.36        07/16/15
+   121793561 *RESTITUTION AMOUNT               -3.36        07/16/15
+   121793561 *RESTITUTION AMOUNT                3.13        07/16/15
+   121793561 *RESTITUTION AMOUNT                 .23        07/16/15
+   121793561 *RESTITUTION AMOUNT               -3.13        07/24/15
+   121793561 *RESTITUTION AMOUNT                -.23        07/24/15
+   121799808 EPAY RECEIVABLE                   50.00        07/09/15
+   121831514 CHECKS-STOPPED                   -18.48        07/27/15
+   121831514 *REFUND - OTHER                   18.48        07/27/15
+   121894784 BOND - ORIGINAL                   50.00        08/31/15
+   121895111 *RESTITUTION AMOUNT               50.00        08/31/15
+   121895111 *RESTITUTION AMOUNT               46.64        08/31/15
+   121895111 *RESTITUTION AMOUNT                3.36        08/31/15
+   121899982 EPAY RECEIVABLE                   50.00        09/03/15
+   121947530 BOND - ORIGINAL                   50.00        09/30/15
+   121947617 *RESTITUTION AMOUNT               50.00        09/30/15
+   121947617 *RESTITUTION AMOUNT               46.64        09/30/15
+   121947617 *RESTITUTION AMOUNT                3.36        09/30/15
+   121947617 *RESTITUTION AMOUNT               46.64        09/30/15
+   121947617 *RESTITUTION AMOUNT                3.36        09/30/15
+   121947617 *RESTITUTION AMOUNT              -46.64        09/30/15
+   121947617 *RESTITUTION AMOUNT               -3.36        09/30/15
+   121947617 *RESTITUTION AMOUNT                3.13        09/30/15
+   121947617 *RESTITUTION AMOUNT               43.51        09/30/15
+   121947617 *RESTITUTION AMOUNT                3.13        09/30/15
+   121947617 *RESTITUTION AMOUNT                 .23        09/30/15
+   121953681 EPAY RECEIVABLE                   50.00        10/05/15
+   122013056 BOND - ORIGINAL                   50.00        11/06/15
+   122015162 *RESTITUTION AMOUNT               50.00        11/06/15
+   122015162 *RESTITUTION AMOUNT               46.64        11/06/15
+   122015162 *RESTITUTION AMOUNT                3.36        11/06/15
+   122020904 EPAY RECEIVABLE                   50.00        11/11/15
+   122108940 BOND - ORIGINAL                   30.00        01/06/16
+   122109092 *RESTITUTION AMOUNT               30.00        01/06/16
+   122109092 *RESTITUTION AMOUNT               27.98        01/06/16
+   122109092 *RESTITUTION AMOUNT                2.02        01/06/16
+   122114731 EPAY RECEIVABLE                   30.00        01/11/16
+   122323994 BOND - ORIGINAL                   30.00        05/11/16
+   122324221 *RESTITUTION AMOUNT               30.00        05/11/16
+   122324221 *RESTITUTION AMOUNT               27.98        05/11/16
+   122324221 *RESTITUTION AMOUNT                2.02        05/11/16
+   122332255 EPAY RECEIVABLE                   30.00        05/17/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  IDENTITY THEFT >$2K - $10K
+
+         2  IDENTITY THEFT >$2K - $10K
+
+         3  IDENTITY THEFT >$300-$2,000
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   10-27-11                 Charge 01 Count 001 IDENTITY THEFT >$2K - $10K
+                            Statute 720 5/16G-15(a)(1)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 IDENTITY THEFT >$2K - $10K
+                            Statute 720 5/16G-15(a)(1)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 IDENTITY THEFT >$300-$2,000
+                            Statute 720 5/16G-15(a)(1)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Created and properly labeled permanent case file.
+                            Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Ms. Corum appears instanter.  Defendan
+t waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  See expanded recor
+d.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+                            Bond set in the amount of $2500-ROR DENIED.
+                            Notice of arrest without warrant on file.
+   11-07-11                 Sheriff Booking Fee
+   11-30-11                 Discovery filed
+   12-08-11                 Supplemental Discovery filed
+                            Supplemental Discovery filed
+   12-12-11                 Supplemental Discovery filed
+   12-15-11                 Supplemental Discovery filed
+   12-19-11                 Supplemental Discovery filed
+   12-20-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by counsel.  By agreement, trial
+                            setting is vacated.  Cause allotted for the trial te
+rm
+                            immediately following the pre-trial date.
+   01-04-12                 Supplemental Discovery filed
+   01-17-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the State for
+                            Continuance.  Motion allowed.  Cause allotted for th
+e
+                            trial term immediately following the pre-trial date.
+   02-14-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by counsel.  By agreement, trial
+                            setting is vacated.  Cause allotted for the trial te
+rm
+                            immediately following the pre-trial date.
+   03-13-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the State for
+                            Continuance.  Motion allowed.  Cause allotted for th
+e
+                            trial term immediately following the pre-trial date.
+   05-08-12
+                            Appearance of the People by S. Larson.  Written Subs
+titution of
+                            Attorney on file.  Appointment of the Public Defende
+r has been
+                            terminated.  Alfred D. Ivy III enters his appearance
+ for the
+                            defendant.  See order entered.  A. Ivy appears with
+the defendant.  On
+                            motion of the defendant cause continued for Pre-Tria
+l to June 12, 2012
+                            at 11:00 a.m. in Courtroom A.  Defendant's bond to c
+ontinue.
+   06-12-12
+                            People appear by Joel Fletcher. Defendant appears pe
+rsonally and by
+                            counsel, Alfred Ivy. Motion by the Defendant to cont
+inue. People
+                            announce ready for trial. Cause allotted for the Jur
+y Trial Call on
+                            7/30/12 at 1:00 p.m. in Courtroom A. Bond to continu
+e.
+   06-20-12                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena not served.
+   06-28-12                 Subpoena not found.
+   06-29-12                 Subpoena Served.  No Fees.
+   07-02-12                 Subpoena not served.
+   07-06-12                 Supplemental Discovery filed
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   07-10-12                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Motion allotted for hearing to
+   07-12-12
+                            Per email representations, People move to vacate hea
+ring set this
+                            date. Motion allowed. Hearing on Motion this date is
+ hereby vacated.
+   07-16-12                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   07-19-12                 Supplemental Discovery filed
+   07-24-12                 Supplemental Discovery filed
+                            Supplemental Discovery filed
+                            Supplemental Discovery filed
+                            Motion to Suppress Statements filed.
+   07-25-12                 Motion to suppress
+   07-26-12                 Subpoena Served.  No Fees.
+                            Supplemental Discovery filed
+   07-27-12
+                            Appearance of the People by Assistant State's Attorn
+ey, J. Fletcher.
+                            Appearance of the defendant personally and with Coun
+sel, A. Ivy.
+                            Cause called for hearing on the Defendant's Motion t
+o Suppress
+                            Statements filed July 24, 2012.  Testimony presented
+ on behalf of the
+                            People.  Testimony presented on behalf of the Defend
+ant.  Defendant's
+                            Motion to Suppress Statements denied.  Motion by the
+ People for a
+                            ruling as to whether certain Busey Bank customers ot
+her than those
+                            specifically names in the charges can be used in the
+ presentation of
+                            the People's evidence.  Objection by the Defendant.
+ Motion allowed.
+                            Cause remains allotted for the Jury Trial Call on Ju
+ly 30, 2012 at
+                            1:00 p.m. in Courtroom A.  Defendant's bond to conti
+nue.
+                            Record of exhibits received on file.
+                            Supplemental Discovery filed
+   07-30-12                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed IDENTITY THEFT >$2K - $10K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16G-15(a)(1)  Class 2  Orig.
+                            Sentence: 07/30/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed IDENTITY THEFT >$2K - $10K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16G-15(a)(1)  Class 2  Orig.
+                            Sentence: 07/30/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  Cost Only
+                            Disposition: Guilty IDENTITY THEFT >$300-$2,000
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16G-15(a)(1)  Class 3
+                            Sentence: 07/30/2012
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  30Mos In force
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Cost Only              316.00     *RESTITUTION AMOUN
+T  21441.84
+                            CRIME STOPPERS          10.00     PROBATION MONITORI
+N   1500.00
+                             STATE OFFENDER DNA    250.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Joel D. Fletcher.  Appea
+rance of the
+                            Defendant personally and by counsel, Alfred D. Ivy,
+Iii.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 03 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Identity Theft >$300-$2,000
+ ILCS: 720
+                            5/16G-15(a)(1) as charged. Judgment entered in favor
+ of the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  1/28/2013.  A
+ny bond posted is
+                            to discharged pursuant to the bond assignment filed
+this date.
+                            Defendant is ordered to serve a period of  30 months
+ probation. The
+                            Defendant is to submit specimens of blood, saliva, o
+r tissue to the
+                            Illinois Department of State Police or to the Depart
+ment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Count(s) stated
+                            in the written order are herby dismissed. The Defend
+ant shall make
+                            herself available to testify, and shall testify trut
+hfully in any
+                            trial or sentencing in 2011-CF-1769, 2011-CF-1768 an
+d 2011-CF-1766.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same.   Written Sentencing Order entered.  See ORDER
+.  Motion by the
+                            defendant to transfer supervision of the probation t
+o her county of
+                            residence.  Motion allowed without objection.  Super
+vision of the
+                            probation order entered this date may be transferred
+ to Cook County.
+                            Supplemental Discovery filed
+   07-31-12                 Defendant shall be entitled to credit or refund of u
+p to her pro rata
+                            Share of the total amount if and when the co-Defenda
+nts in 11CF1769,
+                            11CF1768. and 11CF1766 pay restitution.
+   08-01-12                 Supplemental Discovery filed
+                            Subpoena Served.  No Fees.
+                            Supplemental Discovery filed
+   08-02-12                 Bond
+   08-10-12                 Clerk's Certificate as to Attendance, Etc., of Witne
+ss from Foreign
+                            County or State in Criminal Case on file. Fees: $60.
+00
+   09-05-12                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   10-16-13                 EPAY BOND PAYMENT
+                            Bond
+   10-21-13                 EPAY RECONCILIATION TRANSACTION
+   12-09-14                 Court Services Change of Address on file.
+                            Probation Violation Report on file
+   12-22-14                 Verified information on Petition to Revoke Probation
+ on file
+                            Petition to Revoke Probation filed.
+                            Summons issued this date.
+                            Circuit clerk directed to mail summons to Sheriff of
+                            appropriate County.
+   12-29-14                 Summons forwarded this date.
+                            Affidavit of mailing attached.
+   01-16-15                 Summons not served by Outside County
+                            Summons not served on Heather D. Alexander by out-of
+-county agency on
+                            on file.
+   01-20-15                 Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Pa
+m Burnside appears
+                            instanter.  General denial to the Petition is entere
+d. Bond set in the
+                            amount of $1,000-ROR ALLOWED. Defendant is admonishe
+d as to trial and
+                            sentencing in absentia.  See expanded record.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+                            Released On Recognizance bond form on file.
+   02-23-15                 Defendant's motion for continuance.
+                            People appear by Sarah J. Carlson.  Defendant appear
+s personally and
+                            with counsel, Stephanie A. Corum. Motion by the Defe
+ndant for
+                            continuance.  Motion allowed.  Bond to continue.
+   04-01-15                 EPAY BOND PAYMENT
+                            Bond
+   04-06-15                 EPAY RECONCILIATION TRANSACTION
+   04-20-15                 Ck #154096 to Ebay and Paypal returned unable to for
+ward.
+   04-24-15                 Defendant motion to continue hearing on petition to
+revoke.
+                            People appear by Scott Larson.  Defendant appears pe
+rsonally and with
+                            counsel, Stephanie A. Corum.  On motion of Defendant
+'s counsel, cause
+                            allotted for further proceedings on the Petition to
+Revoke on May 27,
+                            2015 at 1:30 p.m. in Courtroom A.  Bond is to contin
+ue.
+   05-01-15                 Circuit Clerk mail returned undeliverable on file.
+   05-22-15                 EPAY BOND PAYMENT
+                            Bond
+   05-27-15                 Defendant motion to continue hearing on petition to
+revoke.
+                            People appear by Sarah J. Carlson.  Defendant appear
+s by Stephanie
+                            Corum.  Ms. Corum tenders documentation as to the de
+fendant's payments
+                            recently made.  Defendant's appearance this date is
+excused.  Cause
+                            allotted for further proceedings on the petition to
+revoke probation
+                            on July 27, 2015 at 1:30 p.m. in Courtroom A.  Bond
+is to continue.
+                            Printout of payments made on case.
+   05-28-15                 EPAY RECONCILIATION TRANSACTION
+   06-28-15                 EPAY BOND PAYMENT
+                            Bond
+   07-02-15                 EPAY RECONCILIATION TRANSACTION
+   07-03-15                 EPAY BOND PAYMENT
+                            Bond
+   07-09-15                 EPAY RECONCILIATION TRANSACTION
+   07-16-15                 Payee change information received via email from Eba
+y GAP.
+                            Ck #155584 returned undeliverable.
+   07-27-15                 Defendant motion to continue hearing on petition to
+revoke.
+                            People appear by Sarah J. Carlson.  Defendant appear
+s personally and
+                            with counsel, Stephanie A. Corum.  On motion of coun
+sel for the
+                            defendant cause allotted for further proceedings on
+the petition to
+                            revoke probation on November 25, 2015 at 1:30 p.m. i
+n Courtroom A.
+                            Bond is to continue.  In the event the defendant has
+ made all required
+                            payments towards the financial obligations ordered i
+n this cause, her
+                            appearance on November 25, 2015 is excused.
+                            Miscellaneous
+   08-31-15                 EPAY BOND PAYMENT
+                            Bond
+   09-03-15                 EPAY RECONCILIATION TRANSACTION
+   09-30-15                 EPAY BOND PAYMENT
+                            Bond
+   10-05-15                 EPAY RECONCILIATION TRANSACTION
+   11-06-15                 EPAY BOND PAYMENT
+                            Bond
+   11-11-15                 EPAY RECONCILIATION TRANSACTION
+   11-25-15                 Defendant's motion for continuance.
+                            People appear by Tobias J. Ortega.  Defendant appear
+s by counsel,
+                            Stephanie A. Corum. Motion by the Defendant for cont
+inuance.  Motion
+                            allowed.  Appearance of the Defendant at next hearin
+g is excused on
+                            the condition that Defendant continues to make month
+ly payments as
+                            ordered.
+   01-06-16                 EPAY BOND PAYMENT
+                            Bond
+   01-11-16                 EPAY RECONCILIATION TRANSACTION
+   02-17-16
+                            No appearance of the defendant personally.  Suggesti
+on the defendant's
+                            appearance this date is waived.  On motion of defend
+ant's counsel,
+                            cause allotted for further proceedings on the petiti
+on to revoke
+                            probation on May 9, 2016 at 1:30 p.m. in Courtroom A
+.  Bond is to
+                            continue.  The appearance of the defendant is excuse
+d on May 9, 2016
+                            is she continues to make payments to satisfy the fin
+ancial obligations
+                            ordered in this cause.
+   05-03-16                 Hearing allotment time of 1:30 p.m. on May 9, 2016 i
+s vacated and
+                            and the cause is re-allotted for further proceedings
+ on the petition
+                            to revoke probation on May 9, 2016 at 10:00 a.m. in
+Courtroom A.
+                            E-mail sent to Ms. Carlson, Ms. Corum and the Court
+Services
+                            Department notifying them of the order entered this
+date.  Ms. Corum
+                            to notify her client.
+                            Email on file.
+   05-09-16
+                            No appearance of the defendant personally.  Appearan
+ce of the
+                            defendant this date was excused.  Motion to extend t
+he defendant's
+                            probation by 5 years.  Cause allotted for hearing on
+ the motion to
+                            extend defendant's probation by 5 years to June 20,
+2016 at 9:00 a.m.
+                            in Courtroom A.  Office of the Public Defender is to
+ notify the
+                            defendant of the hearing allotment and provide proof
+ thereof.
+   05-11-16                 EPAY BOND PAYMENT
+                            Bond
+   05-17-16                 EPAY RECONCILIATION TRANSACTION
+   06-20-16
+                            Lindsey Yanchus appears for Stephanie Corum for the
+defendant.  No
+                            appearance of the defendant.  No proof of notice of
+hearing on file.
+                            Cause re-allotted for hearing on the motion to exten
+d the defendant's
+                            probation for 5 years on July 5, 2016 at 9:00 a.m. i
+n Courtroom A.
+                            State to give notice and provide proof thereof.
+                            LATER
+                            Appearance of the People by Scott Larson.  Defendant
+ appears with
+                            Lindsey Yanchus for Stephanie Corum.  Motion by the
+defendant to
+                            extend her probation for 5 years.  No objection by t
+he People.  Motion
+                            allowed.  Defendant's probation is extended for 5 ye
+ars on the same
+                            terms and conditions as previously set.  Defendant i
+s to be given
+                            credit for any terms and conditions previously done.
+  Petition to
+                            revoke probation filed December 22, 2014 is dismisse
+d.
+   06-23-16                 Probation termination date
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

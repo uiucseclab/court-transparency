@@ -1,0 +1,273 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CM000640
+
+   Defendant Plaintiff
+DONALDSON  MICHAEL E
+2230 VETERANS RD
+MORTON IL 61550
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 06/21/11
+                Court Room:
+           Next Appearance: 10/04/12
+                Birth Date: 01/12/81
+                 DEFENDANT: DONALDSON  MICHAEL E
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          300.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      190.00      TR/CR SUR $10/$40            190.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      750.00      FINES                         11.89         738.11
+       33.50      FOREIGN SERVICE                 .00          33.50
+       76.00      VICTIMS FUND-FINE               .00          76.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      414.72      COLLECTION FEES               79.57         335.15
+      249.68      LATE FEES                       .00         249.68
+      159.53      TAX INTERCEPT                159.53            .00
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   122371466 DOCUMENT STORAGE                    .00        05/07/16
+   122371466 E-CITATION                          .00        05/07/16
+   122371466 AUTOMATION                          .00        05/07/16
+   122371466 CIRCUIT CLERK FEE                   .00        05/07/16
+   122371466 COURT SECURITY                      .00        05/07/16
+   122371466 COURT FINANCE FEE                   .00        05/07/16
+   122371466 STATES ATTORNEY                     .00        05/07/16
+   122371466 CRIME STOPPERS                      .00        05/07/16
+   122371466 ARRESTEE'S MEDICAL                  .00        05/07/16
+   122371466 PROBATION MONITORING FEE            .00        05/07/16
+   122371466 CRIME LAB                           .00        05/07/16
+   122371466 TR/CR SUR $10/$40                   .00        05/07/16
+   122371466 CLERK OP & ADMIN FUND               .00        05/07/16
+   122371466 DRUG COURT PROGRAM                  .00        05/07/16
+   122371466 FINES                               .00        05/07/16
+   122371466 FOREIGN SERVICE                     .00        05/07/16
+   122371466 VICTIMS FUND-FINE                   .00        05/07/16
+   122371466 ST POLICE SERVICES FUND             .00        05/07/16
+   122371466 COLLECTION FEES                     .00        05/07/16
+   122371466 LATE FEES                           .00        05/07/16
+   122371466 TAX INTERCEPT                       .00        05/07/16
+   122371466 ST POLICE OPERATIONS ASS            .00        05/07/16
+   122371467 DOCUMENT STORAGE                    .00        05/07/16
+   122371467 E-CITATION                          .00        05/07/16
+   122371467 AUTOMATION                          .00        05/07/16
+   122371467 CIRCUIT CLERK FEE                   .00        05/07/16
+   122371467 COURT SECURITY                      .00        05/07/16
+   122371467 COURT FINANCE FEE                   .00        05/07/16
+   122371467 STATES ATTORNEY                     .00        05/07/16
+   122371467 CRIME STOPPERS                      .00        05/07/16
+   122371467 ARRESTEE'S MEDICAL                  .00        05/07/16
+   122371467 PROBATION MONITORING FEE            .00        05/07/16
+   122371467 CRIME LAB                           .00        05/07/16
+   122371467 TR/CR SUR $10/$40                   .00        05/07/16
+   122371467 CLERK OP & ADMIN FUND               .00        05/07/16
+   122371467 DRUG COURT PROGRAM                  .00        05/07/16
+   122371467 FINES                               .00        05/07/16
+   122371467 FOREIGN SERVICE                     .00        05/07/16
+   122371467 VICTIMS FUND-FINE                   .00        05/07/16
+   122371467 ST POLICE SERVICES FUND             .00        05/07/16
+   122371467 COLLECTION FEES                     .00        05/07/16
+   122371467 LATE FEES                           .00        05/07/16
+   122371467 ST POLICE OPERATIONS ASS            .00        05/07/16
+   122371467 TAX INTERCEPT                       .00        05/07/16
+   122378113 DOCUMENT STORAGE                   5.00        06/09/16
+   122378113 E-CITATION                         5.00        06/09/16
+   122378113 AUTOMATION                        10.00        06/09/16
+   122378113 CIRCUIT CLERK FEE                 75.00        06/09/16
+   122378113 COURT SECURITY                    24.09        06/09/16
+   122378113 COLLECTION FEES                   11.89        06/09/16
+   122378113 TAX INTERCEPT                     23.84        06/09/16
+   122394760 COURT SECURITY                      .91        06/22/16
+   122394760 COURT FINANCE FEE                 25.00        06/22/16
+   122394760 STATES ATTORNEY                   20.00        06/22/16
+   122394760 CRIME STOPPERS                     5.00        06/22/16
+   122394760 ARRESTEE'S MEDICAL                10.00        06/22/16
+   122394760 PROBATION MONITORING FEE          17.73        06/22/16
+   122394760 COLLECTION FEES                    7.85        06/22/16
+   122394760 TAX INTERCEPT                     15.74        06/22/16
+   122422757 PROBATION MONITORING FEE         121.55        07/09/16
+   122422757 COLLECTION FEES                   12.14        07/09/16
+   122422757 TAX INTERCEPT                     24.33        07/09/16
+   122466371 PROBATION MONITORING FEE         160.72        08/03/16
+   122466371 CRIME LAB                         37.59        08/03/16
+   122466371 COLLECTION FEES                   19.80        08/03/16
+   122466371 TAX INTERCEPT                     39.70        08/03/16
+   122466372 CRIME LAB                         62.41        08/03/16
+   122466372 TR/CR SUR $10/$40                128.38        08/03/16
+   122466372 COLLECTION FEES                   19.05        08/03/16
+   122466372 TAX INTERCEPT                     38.20        08/03/16
+   122490456 TR/CR SUR $10/$40                 61.62        08/18/16
+   122490456 CLERK OP & ADMIN FUND             10.00        08/18/16
+   122490456 DRUG COURT PROGRAM                 5.00        08/18/16
+   122490456 FINES                             11.89        08/18/16
+   122490456 COLLECTION FEES                    8.84        08/18/16
+   122490456 TAX INTERCEPT                     17.72        08/18/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  POSSESS DRUG PARAPHERNALIA
+
+         2  POSSESS CANNABIS/2.5-10 GRAMS
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   06-21-11                 Charge 01 Count 001 POSSESS DRUG PARAPHERNALIA
+                            Statute 720 600/3.5(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 POSSESS CANNABIS/2.5-10 GRAMS
+                            Statute 720 550/4(b)  Class B  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+
+                            Verified information on file.
+   07-06-11                 Summons served.
+   07-22-11                 Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel. Bond set in the amount of $1,
+000-ROR ALLOWED.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.  See
+                            expanded record.
+   08-10-11                 Expanded record of arraignment proceedings.
+                            Motion by the Defendant for court appointed counsel.
+ Motion allowed.
+                            Champaign County Public Defender is appointed and Me
+linda Licciardello
+                            appears instanter.  Plea of not guilty entered and D
+efendant requests
+                            trial by jury.  Bond to continue. Defendant is admon
+ished as to trial
+                            and sentencing in absentia.  See expanded record.
+   08-17-11                 Discovery filed
+   10-04-11                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty POSSESS DRUG PARAPHERNALIA
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 600/3.5(a)  Class A
+                            Sentence: 10/04/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  50Hrs In force
+                                      Supervised Court Service
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           1226.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    300.00     CRIME LAB
+     100.00
+                            FOREIGN SERVICE         33.50     COLLECTION FEES
+     574.25
+                            LATE FEES              249.68     TAX INTERCEPT
+        .00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Marley C. Nelson.  Appea
+rance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Possess Drug Paraphernalia
+ILCS: 720
+                            600/3.5(a) as charged. Judgment entered in favor of
+the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  4/02/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of 12 months CONDITIONAL DISCHARGE. Defendant
+ is ordered to
+                            perform  50 hours of public service work under the s
+upervision of the
+                            Champaign County Court Services Department.  The def
+endant is to be
+                            given credit on public service work for any hours co
+mpleted in
+                            education, treatment, aftercare, sobriety based self
+-help group
+                            meetings, Victim Impact Panel and GED classes. Count
+ II is herby
+                            dismissed. Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same. Waiver of Jury on file.
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed POSSESS CANNABIS/2.5-10 GRAMS
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 550/4(b)  Class B  Orig.
+                            Sentence: 10/04/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+   07-25-13                 Case sent out for collections.
+   06-09-16                 Collection Tax Intercept Payment
+   06-22-16                 Collection Tax Intercept Payment
+   07-09-16                 Collection Tax Intercept Payment
+   08-03-16                 Collection Tax Intercept Payment
+                            Collection Tax Intercept Payment
+   08-18-16                 Collection Tax Intercept Payment
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

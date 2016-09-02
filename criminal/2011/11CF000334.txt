@@ -1,0 +1,243 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000334
+
+   Defendant Plaintiff
+WELLING  RICHARD D
+1101 CLIFFORD #4
+URBANA IL 61802
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 03/03/11
+                Court Room:
+           Next Appearance: 09/05/14
+                Birth Date: 09/03/62
+                 DEFENDANT: WELLING  RICHARD D
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       20.00      BOND -10% BOND FEE            20.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       20.00      VICTIMS FUND-NO FIN           20.00            .00
+       25.00      PROBATION MONITORIN          300.00            .00
+         .00      SPINAL CORD RESEARC             .00            .00
+      200.00       STATE OFFENDER DNA          200.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       23.24      COLLECTION FEES               23.24            .00
+       33.75      LATE FEES                     33.75            .00
+       20.64      TAX INTERCEPT                 20.64            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117391603 BOND TRANSFERS IN                200.00        03/22/11
+   117586523 BOND -10% BOND FEE                20.00        08/05/11
+   117586523 DOCUMENT STORAGE                   5.00        08/05/11
+   117586523 AUTOMATION                        10.00        08/05/11
+   117586523 CIRCUIT CLERK FEE                100.00        08/05/11
+   117586523 COURT SECURITY                    25.00        08/05/11
+   117586523 ARRESTEE'S MEDICAL                10.00        08/05/11
+   117586523 COURT FINANCE FEE                 30.00        08/05/11
+   118029673 PROBATION MONITORING FEE         300.00        07/10/12
+   118029673  STATE OFFENDER DNA ID S         100.00        07/10/12
+   121137649 COURT FINANCE FEE                 20.00        06/03/14
+   121137649 STATES ATTORNEY                   40.00        06/03/14
+   121137649 CRIME STOPPERS                    10.00        06/03/14
+   121137649 VICTIMS FUND-NO FINE              20.00        06/03/14
+   121137649  STATE OFFENDER DNA ID S         100.00        06/03/14
+   121137649 CLERK OP & ADMIN FUND             10.00        06/03/14
+   121137649 DRUG COURT PROGRAM                 5.00        06/03/14
+   121137649 ST POLICE SERVICES FUND           10.00        06/03/14
+   121137649 COLLECTION FEES                   18.05        06/03/14
+   121137649 LATE FEES                          1.88        06/03/14
+   121147595 COLLECTION FEES                    3.66        06/17/14
+   121147595 LATE FEES                         31.87        06/17/14
+   121147595 TAX INTERCEPT                      2.17        06/17/14
+   121147595 ST POLICE OPERATIONS ASS          10.00        06/17/14
+   121154553 COLLECTION FEES                     .77        07/01/14
+   121154553 TAX INTERCEPT                      9.23        07/01/14
+   121157683 COLLECTION FEES                     .76        07/15/14
+   121157683 TAX INTERCEPT                      9.24        07/15/14
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  DRIVING RVK/SUSP DUI/SSS 3RD
+
+         1  DRIVING RVK/SUSP DUI/SSS 3RD
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   03-03-11                 Charge 01 Count 001 DRIVING RVK/SUSP DUI/SSS 3RD
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+   03-18-11                 Expanded record of arraignment proceedings.
+                            People appear by Samuel A. Rosenberg.  Defendant app
+ears personally
+                            together with private counsel Mr. Lehman for Baku Pa
+tel.  Entry of
+                            Appearance on file. Defendant is arraigned.  Defenda
+nt waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests a trial
+                            by jury.  Pre-trial orders entered.  Defendant admon
+ished as to trial
+                            and sentencing in absentia.  See Expanded Record.
+   03-22-11                 Bond Type Transfer Bond From    2011TR002957 WELLING
+ RICHARD D
+                            Discovery filed
+   05-16-11
+                            Defendant's motion for pre-trial.  Motion allowed.
+   06-20-11
+                            Defendant's motion for pre-trial.  Motion allowed.
+   07-18-11
+                            Bond to continue.
+   07-29-11                 EHD Eligibility Certificate filed
+   08-02-11                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty DRIVING RVK/SUSP DUI/SSS 3RD
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/6-303(a)  Class 4
+                            Sentence: 08/02/2011
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  120Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Public Service  300Hrs In force
+                                      Supervised Court Service
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              315.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    300.00      STATE OFFENDER DN
+A    200.00
+                            COLLECTION FEES         23.24     LATE FEES
+      33.75
+                            TAX INTERCEPT           20.64
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Samuel A. Rosenberg.  Ap
+pearance of the
+                            Defendant personally and by counsel, Baku Patel.   D
+efendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Driving Rvk/Susp Dui/Sss 3rd ILCS: 625 5/
+6-303(a) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  1/30/2012.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  12
+                            months probation. Defendant is ordered to serve a pe
+riod of
+                            incarceration of 120 days in the Champaign County Co
+rrectional Center.
+                            The Defendant is to submit specimens of blood, saliv
+a, or tissue to
+                            the Illinois Department of State Police or to the De
+partment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Defendant is
+                            ordered to perform 300 hours of public service work
+under the
+                            supervision of the Champaign County Court Services D
+epartment.  The
+                            defendant is to be given credit on public service wo
+rk for any hours
+                            completed in education, treatment, aftercare, sobrie
+ty based self-help
+                            group meetings, Victim Impact Panel and GED classes.
+ Defendant advised
+                            of right to appeal and rights pursuant to Supreme Co
+urt Rule 605 and
+                            the Court finds that the defendant understands the s
+ame.      Written
+                            Order of Imprisonment-Electronic Home Detention ente
+red. See ORDER.
+   08-03-11                 Report of Felony Conviction prepared / mailed.
+   08-05-11                 Bond
+   09-12-11                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   07-10-12                 Court Ordered Payments
+   07-24-12                 Probation Violation Report filed
+   09-04-12                 Order of unsuccessful discharge from probation enter
+ed.
+                            Order of Unsuccessful Discharge from Probation enter
+ed.  See Order.
+                            Disposition 01/01  Count 001  Manual Calculations
+                            Disposition: Terminated Unsatisfied DRIVING RVK/SUSP
+ DUI/SSS 3RD
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Sentence: 09/04/2012
+                            Sentence: No Sentence  In force
+                            Case closed.
+   12-26-12                 Case sent out for collections.
+   06-03-14                 Court Ordered Payments
+   06-17-14                 Court Ordered Payments
+   07-01-14                 Court Ordered Payments
+   07-15-14                 Court Ordered Payments
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,351 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000479
+
+   Defendant Plaintiff
+BROWN  SHANTELL B
+407 E COLUMBIA AVE
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 03/28/11
+                Court Room:
+           Next Appearance: 02/21/14
+                Birth Date: 02/03/76
+                 DEFENDANT: BROWN  SHANTELL B
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      265.00      BOND -10% BOND FEE           265.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       20.00      VICTIMS FUND-NO FIN           20.00            .00
+       25.00      PROBATION MONITORIN          200.00            .00
+         .00       STATE OFFENDER DNA             .00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117399579 SHERIFF'S BOOKING FEE             20.00        03/28/11
+   117399579 BOND - ORIGINAL                  150.00        03/28/11
+   117537139 BOND TRANSFERS IN               2500.00        06/30/11
+   117541068 BOND -10% BOND FEE               265.00        07/05/11
+   117541068 DOCUMENT STORAGE                   5.00        07/05/11
+   117541068 AUTOMATION                        10.00        07/05/11
+   117541068 CIRCUIT CLERK FEE                100.00        07/05/11
+   117541068 COURT SECURITY                    25.00        07/05/11
+   117541068 ARRESTEE'S MEDICAL                10.00        07/05/11
+   117541068 COURT FINANCE FEE                 50.00        07/05/11
+   117541068 STATES ATTORNEY                   40.00        07/05/11
+   117541068 CRIME STOPPERS                    10.00        07/05/11
+   117541068 VICTIMS FUND-NO FINE              20.00        07/05/11
+   117541068 PROBATION MONITORING FEE          25.00        07/05/11
+   117541068  STATE OFFENDER DNA ID S         195.00        07/05/11
+   117541068 CLERK OP & ADMIN FUND             10.00        07/05/11
+   117541068 DRUG COURT PROGRAM                 5.00        07/05/11
+   117541068 ST POLICE SERVICES FUND           10.00        07/05/11
+   117541068 ST POLICE OPERATIONS ASS          10.00        07/05/11
+   117562241 BOND -10% BOND FEE                  .00        07/20/11
+   117562241 DOCUMENT STORAGE                    .00        07/20/11
+   117562241 AUTOMATION                          .00        07/20/11
+   117562241 CIRCUIT CLERK FEE                   .00        07/20/11
+   117562241 COURT SECURITY                      .00        07/20/11
+   117562241 ARRESTEE'S MEDICAL                  .00        07/20/11
+   117562241 COURT FINANCE FEE                   .00        07/20/11
+   117562241 STATES ATTORNEY                     .00        07/20/11
+   117562241 CRIME STOPPERS                      .00        07/20/11
+   117562241 VICTIMS FUND-NO FINE                .00        07/20/11
+   117562241 PROBATION MONITORING FEE            .00        07/20/11
+   117562241  STATE OFFENDER DNA ID S            .00        07/20/11
+   117562241 CLERK OP & ADMIN FUND               .00        07/20/11
+   117562241 DRUG COURT PROGRAM                  .00        07/20/11
+   117562241 ST POLICE SERVICES FUND             .00        07/20/11
+   117562241 ST POLICE OPERATIONS ASS            .00        07/20/11
+   117562241 *BOND REFUND                        .00        07/20/11
+   117563473 PROBATION MONITORING FEE         195.00        07/20/11
+   117563473  STATE OFFENDER DNA ID S        -195.00        07/20/11
+   117670001 *BOND TRANSFERS OUT             -174.00        10/06/11
+   117670123 *BOND TRANSFERS OUT              -75.00        10/06/11
+   117670131 *BOND TRANSFERS OUT             -407.00        10/06/11
+   117670133 *BOND TRANSFERS OUT             -200.00        10/06/11
+   117670139 *BOND TRANSFERS OUT             -200.00        10/06/11
+   117670141 *BOND TRANSFERS OUT              -75.00        10/06/11
+   117670147 *BOND TRANSFERS OUT              -77.00        10/06/11
+   117670154 *BOND TRANSFERS OUT             -265.00        10/06/11
+   117670157 *BOND TRANSFERS OUT              -77.00        10/06/11
+   117670164 *BOND TRANSFERS OUT             -126.00        10/06/11
+   117670187 BOND TRANSFERS IN                 77.00        10/06/11
+   117670246 *BOND TRANSFERS OUT             -157.00        10/06/11
+   117670582 *BOND TRANSFERS OUT             -104.00        10/07/11
+   117924564 PROBATION MONITORING FEE         -20.00        04/19/12
+   117924564 BOND - ORIGINAL                   20.00        04/19/12
+   117924575 BOND -10% BOND FEE                  .00        04/19/12
+   117924575 DOCUMENT STORAGE                    .00        04/19/12
+   117924575 AUTOMATION                          .00        04/19/12
+   117924575 CIRCUIT CLERK FEE                   .00        04/19/12
+   117924575 COURT SECURITY                      .00        04/19/12
+   117924575 ARRESTEE'S MEDICAL                  .00        04/19/12
+   117924575 COURT FINANCE FEE                   .00        04/19/12
+   117924575 STATES ATTORNEY                     .00        04/19/12
+   117924575 CRIME STOPPERS                      .00        04/19/12
+   117924575 VICTIMS FUND-NO FINE                .00        04/19/12
+   117924575 PROBATION MONITORING FEE            .00        04/19/12
+   117924575  STATE OFFENDER DNA ID S            .00        04/19/12
+   117924575 CLERK OP & ADMIN FUND               .00        04/19/12
+   117924575 DRUG COURT PROGRAM                  .00        04/19/12
+   117924575 ST POLICE SERVICES FUND             .00        04/19/12
+   117924575 ST POLICE OPERATIONS ASS            .00        04/19/12
+   117924575 *BOND REFUND                        .00        04/19/12
+   117924595 *BOND TRANSFERS OUT              -20.00        04/19/12
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  OBSTRUCT JUST/DESTROY EVIDENCE
+
+         1  OBSTRUCT JUST/DESTROY EVIDENCE
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   03-28-11                 Charge 01 Count 001 OBSTRUCT JUST/DESTROY EVIDENCE
+                            Statute 720 5/31-4(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Sheriff Booking Fee
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned. Defendant is admonished as t
+o EXTENDED TERM
+                            SENTENCING. Public Defender is appointed and Katie J
+essup appears
+                            instanter. Defendant requests Preliminary hearing. B
+ond to continue as
+                            posted. Defendant is admonished as to trial and sent
+encing in
+                            absentia.  See expanded record.
+                            Cause allotted for pre-trial on
+                            Notice of arrest without warrant on file.
+   04-01-11                 Subpoena Served.  No Fees.
+   04-14-11                 Expanded record of arraignment proceedings.
+                            People appear by Stephanie Weber. Defendant appears
+personally and
+                            Anthony Ortega appears on his behalf. Defendant waiv
+es preliminary
+                            hearing, enters a plea of not guilty and requests tr
+ial by jury.
+                            Pre-trial orders entered. Bond to continue.
+   04-19-11                 Discovery filed
+   04-20-11                 Answer to Discovery filed
+   05-10-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   06-07-11
+                            Appearance of the State's Attorney.  Appearance of t
+he
+                            Defendant personally and by Counsel.
+   06-14-11                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty OBSTRUCT JUST/DESTROY EVIDENCE
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/31-4(a)  Class 4  Orig.
+                            Sentence: 06/14/2011
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  1Days In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Case(s) dismissed  In force
+                            Cost Only              560.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    200.00      STATE OFFENDER DN
+A       .00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Stephanie Weber.  Appear
+ance of the
+                            Defendant personally and by counsel, Melinda Licciar
+dello.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Defendant is advise
+d she is eligible
+                            for extended term sentencing.  Finding Defendant kno
+wingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Obstruct Just/Destroy Evide
+nce ILCS: 720
+                            5/31-4(a) as charged. Judgment entered in favor of t
+he People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 12/13/2011.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months probation. Defendant is ordered
+ to serve a period
+                            of incarceration of   1 days in the Champaign County
+ Correctional
+                            Center. Defendant is to receive credit for   1 days
+previously served.
+                            The Defendant is to submit specimens of blood, saliv
+a, or tissue to
+                            the Illinois Department of State Police or to the De
+partment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Case Number(s)
+                            stated in the written order are herby dismissed.  An
+y bond posted in
+                            said case(s) shall be transferred to the instant cas
+e and shall be
+                            applied to any fines, fees, costs, assessments, and/
+or restitution
+                            imposed herein; any remaining bond shall be used to
+satisfy such other
+                            of the Defendant's Champaign County criminal or traf
+fic cases in which
+                            the Defendant owes an outstanding balance of fines,
+fees, costs,
+                            assessments and/or restitution.
+   06-30-11                 Bond Type Transfer Bond From    2011CF000714 BROWN S
+HANTELL B
+   07-05-11                 Bond
+   07-20-11                 Bond
+                            Notice received from Court Services/Circuit Court th
+at the
+                            Defendant had previously provided a sample of her bl
+ood, saliva or
+                            tissue for DNA analysis.  Therefore, per Administrat
+ive Order 10-1,
+                            that part of the sentencing order has been satisfied
+.
+   10-06-11                 Bond Type Transfer Bond To    1992T 024435 BROWN SHA
+NTELL
+                            Bond Type Transfer Bond To    1993T 021454 BROWN SHA
+NTELL
+                            Bond Type Transfer Bond To    1994T 004061 BROWN SHA
+NTELL
+                            Bond Type Transfer Bond To    1994T 006958 BROWN SHA
+NTELL
+                            Bond Type Transfer Bond To    1994T 006959 BROWN SHA
+NTELL
+                            Bond Type Transfer Bond To    1994T 012540 BROWN SHA
+NTELL
+                            Bond Type Transfer Bond To    1998TR004984 BROWN SHA
+NTELL
+                            Bond Type Transfer Bond To    1996TR019447 BROWN SHA
+NTELL
+                            Bond Type Transfer Bond To    1998TR004984 BROWN SHA
+NTELL
+                            Bond Type Transfer Bond To    1999TR004685 BROWN SHA
+NTELL
+                            Bond Type Transfer Bond From    1998TR004984 BROWN S
+HANTELL
+                            Bond Type Transfer Bond To    1993CM001201B BROWN SH
+ANTELL
+   10-07-11                 Bond Type Transfer Bond To    2002TR001227 BROWN SHA
+NTELL
+   01-12-12                 Probation Violation Report filed
+   01-13-12                 Petition to Revoke Probation filed
+   02-21-12                 Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Terminated Unsatisfied OBSTRUCT JUST/DE
+STROY EVIDENCE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/31-4(a)  Class 4  Orig.
+                            Sentence: 02/21/2012
+                            Sentence: No Sentence  In force
+                            Case closed.
+   02-23-12
+                            Verified information on Petition to Revoke Probation
+ on file.
+                            Summons issued.
+   03-05-12                 Summons served.
+   03-13-12                 Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and J.
+ Miller-Jones
+                            appears instanter.  General denial to the Petition i
+s entered.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.  See
+                            expanded record.
+                            Bond set in the amount of $1000. ROR ALLOWED.
+   03-16-12
+                            People appear by Duke C. Harris.  Representation tha
+t the Petition to
+                            Revoke in this cause is to be withdrawn pursuant to
+a plea agreement
+                            in 11-CF-1445. On motion of the People, the Petition
+ to Revoke is
+                            withdrawn and dismissed.  Defendant's bond discharge
+d to the
+                            individual who posted the bond.
+   04-19-12                 Per Sentence Order in 11CF1445 this case is terminat
+ed unsuccessfully
+                            ISP Supplemental Court Disposition prepared and mail
+ed.
+                            Court Ordered Payments
+                            Bond Type Transfer Bond To    2002TR001227 BROWN SHA
+NTELL
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

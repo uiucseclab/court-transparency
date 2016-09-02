@@ -1,0 +1,253 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000244
+
+   Defendant Plaintiff
+HANNON  TIMOTHY F
+23538 HACKBERRY RD
+FARMER CITY IL 61842
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 02/16/11
+                Court Room:
+           Next Appearance: 07/01/11
+                Birth Date: 09/06/54
+                 DEFENDANT: HANNON  TIMOTHY F
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      625.00      BOND -10% BOND FEE           625.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      150.00      DUI CRIME LAB                150.00            .00
+      200.00       STATE OFFENDER DNA          200.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      880.00      TRAFFIC/CRIMINAL SU          880.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       37.00      SHERIFF FEES                  37.00            .00
+     2490.00      FINES                       2490.00            .00
+      200.00      DUI NEW EQUIPMENT F          200.00            .00
+        2.00      NOTICES MAILED 1ST             2.00            .00
+      352.00      VICTIMS FUND-FINE            352.00            .00
+      352.00      DRIVERS EDUCATION            352.00            .00
+      800.00      DUI - 80% IL GENERA          800.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION            8.75           1.25
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117349065 SHERIFF'S BOOKING FEE             20.00        02/23/11
+   117349065 BOND - ORIGINAL                  150.00        02/23/11
+   117365595 PERSONAL CHECK/CREDIT CA           5.00        03/04/11
+   117365595 SHERIFF'S BOOKING FEE             15.00        03/04/11
+   117365595 CLERK OP & ADMIN FUND              5.00        03/04/11
+   117365595 WARRANT SERVICE FEE               70.00        03/04/11
+   117365595 BOND - ORIGINAL                 5000.00        03/04/11
+   117381944 BOND TRANSFERS IN               1100.00        03/16/11
+   117537066 BOND -10% BOND FEE               625.00        06/30/11
+   117537066 DOCUMENT STORAGE                   5.00        06/30/11
+   117537066 AUTOMATION                        10.00        06/30/11
+   117537066 CIRCUIT CLERK FEE                100.00        06/30/11
+   117537066 COURT SECURITY                    25.00        06/30/11
+   117537066 ARRESTEE'S MEDICAL                10.00        06/30/11
+   117537066 COURT FINANCE FEE                 50.00        06/30/11
+   117537066 STATES ATTORNEY                   40.00        06/30/11
+   117537066 CRIME STOPPERS                    10.00        06/30/11
+   117537066 SPINAL CORD RESEARCH FUN           5.00        06/30/11
+   117537066 DUI CRIME LAB                    150.00        06/30/11
+   117537066  STATE OFFENDER DNA ID S         200.00        06/30/11
+   117537066 TRAUMA FUND                      100.00        06/30/11
+   117537066 TR/CR SUR $10/$40                880.00        06/30/11
+   117537066 CLERK OP & ADMIN-SERIOUS           5.00        06/30/11
+   117537066 CLERK OP & ADMIN FUND             10.00        06/30/11
+   117537066 DRUG COURT PROGRAM                 5.00        06/30/11
+   117537066 SHERIFF FEES                      37.00        06/30/11
+   117537066 FINES                           2490.00        06/30/11
+   117537066 DUI NEW EQUIPMENT FINE           200.00        06/30/11
+   117537066 NOTICES MAILED 1ST CLASS           2.00        06/30/11
+   117537066 VICTIMS FUND-FINE                352.00        06/30/11
+   117537066 DRIVERS EDUCATION                352.00        06/30/11
+   117537066 DUI - IL GENERAL REVENUE         587.00        06/30/11
+   117560242 COPIES                             1.00        07/19/11
+   117560242 COPIES                             2.00        07/19/11
+   117724248 COPIES                             1.00        11/16/11
+   117809075 COPIES                             1.00        01/25/12
+   117809075 COPIES                             9.50        01/25/12
+   117809075 COPIES                             4.75        01/25/12
+   117831509 PERSONAL CHECK/CREDIT CA           1.25        02/10/12
+   117831509 DUI - IL GENERAL REVENUE         213.00        02/10/12
+   117831509 FIRE PREVENTION FUND              15.00        02/10/12
+   117831509 FIRE TRUCK REVOLVING LOA          15.00        02/10/12
+   117831509 ST POLICE SERVICES FUND           10.00        02/10/12
+   117831509 ST POLICE OPERATIONS ASS           8.75        02/10/12
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AGG DUI/3
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   02-16-11                 Charge 01 Count 001 AGG DUI/3
+                            Statute 625 5/11-501(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Failure to appear warrant.
+                            People appear by D. Clifton  .  No appearance by the
+ Defendant. Motion
+                            by the People for a warrant. Motion allowed.  Defend
+ant's bond is
+                            forfeited and cause allotted for hearing on the bond
+ forfeiture.
+                            Warrant issued with bond set in the $ 50,000.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+                            Failure to appear noted in file.
+   02-17-11                 Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $ 50,000.
+00.
+   02-18-11                 Bond forfeiture notice prepared and mailed.
+   02-23-11                 Sheriff Booking Fee
+   03-04-11                 Sheriff Booking w/Telecheck
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel. Bond to continue.  Defendant
+is admonished as
+                            to trial and sentencing in absentia.  See expanded r
+ecord.
+                            Warrant served. Service fees $37.00
+   03-10-11
+                            Entry of Appearance of John T. Wozniak filed.
+   03-11-11                 Expanded record of arraignment proceedings.
+                            People appear by Adam M. Dill.  Defendant appears pe
+rsonally together
+                            with private counsel, John T. Wozniak.  Defendant wa
+ives preliminary
+                            hearing, enters a plea of not guilty and requests a
+trial by jury.
+                            Pre-trial orders entered.  Bond to continue. Defenda
+nt admonished as
+                            to trial and sentencing in absentia. See expanded re
+cord.
+   03-16-11                 Bond Type Transfer Bond From    2011DT000076 HANNON
+TIMOTHY F
+   03-25-11                 Discovery filed
+   03-30-11                 Supplemental Discovery filed
+   03-31-11                 Supplemental Discovery filed
+   04-29-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   05-04-11                 Supplemental Discovery filed
+   06-03-11
+                            Defendant ordered to appear.
+   06-21-11                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty AGG DUI/3
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)  Class 2  Orig.
+                            Sentence: 06/21/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees
+                            Sentence: Department Of Corrections  3Yrs
+                            Sentence: Credit Time Served  2Days
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Fine + Cost           6151.00     CRIME STOPPERS
+      10.00
+                            DUI CRIME LAB          150.00      STATE OFFENDER DN
+A    200.00
+                            NOTICES MAILED 1ST       2.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Andrea I. Bergstrom.  Ap
+pearance of the
+                            Defendant personally and by counsel, John T. Wozniak
+.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Agg Dui/3 ILCS: 625 5/11-50
+1(a) as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.  All financial oblig
+ations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by 12/19/2011.  Any bond posted is to be appli
+ed first to any
+                            court ordered bond assignment on file and then to al
+l restitution
+                            ordered and then to all financial obligations in thi
+s case.  Any
+                            remaining bond shall be discharged to the individual
+ who posted the
+                            bond.  Defendant is ordered to serve a period of inc
+arceration of   3
+                            years,   months in the Illinois Department of Correc
+tions. Defendant
+                            is to receive credit for   2 days previously served.
+ Defendant advised
+                            of right to appeal and rights pursuant to Supreme Co
+urt Rule 605 and
+                            the Court finds that the defendant understands the s
+ame.
+                            Mittimus prepared.
+                            Defendant ordered to be returned
+   06-27-11                 Report of Felony Conviction prepared / mailed.
+   06-30-11                 Bond
+   07-13-11                 Statement of State's Attorney filed
+   07-19-11                 Copies & Certified Copies
+   11-16-11                 Copies & Certified Copies
+   01-25-12                 Copies & Certified Copies
+   02-10-12                 Check
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

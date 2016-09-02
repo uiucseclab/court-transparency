@@ -1,0 +1,426 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000192
+
+   Defendant Plaintiff
+JONES  GERALD A
+607 E GROVE ST
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 02/07/11
+                Court Room:
+           Next Appearance: 01/20/14
+                Birth Date: 08/15/65
+                 DEFENDANT: JONES  GERALD A
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+         .00      BOND -10% BOND FEE            60.00          60.00
+         .00      DOCUMENT STORAGE               5.00           5.00
+         .00      AUTOMATION                    10.00          10.00
+         .00      CIRCUIT CLERK FEE            100.00         100.00
+         .00      COURT SECURITY                25.00          25.00
+         .00      ARRESTEE'S MEDICAL            10.00          10.00
+         .00      COURT FINANCE FEE             50.00          50.00
+         .00      STATES ATTORNEY               40.00          40.00
+         .00      CRIME STOPPERS                10.00          10.00
+         .00      PROBATION MONITORIN           25.00          25.00
+         .00      MOTION TO VACATE                .00            .00
+         .00       STATE OFFENDER DNA          200.00         200.00
+         .00      TRAFFIC/CRIMINAL SU           65.00          65.00
+         .00      CLERK OP & ADMIN FU             .00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+         .00      SHERIFF FEES                    .00            .00
+         .00      FINES                           .00            .00
+         .00      NOTICES MAILED 1ST              .00            .00
+         .00      VICTIMS FUND-FINE               .00            .00
+         .00      SEXUAL OFFENDER REG             .00            .00
+         .00      ST POLICE SERVICES              .00            .00
+         .00      ST POLICE OPERATION             .00            .00
+       60.00      BOND -10% BOND FEE            60.00            .00
+      540.00                                   540.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117347107 SHERIFF'S BOOKING FEE             20.00        02/22/11
+   117347107 BOND - ORIGINAL                  500.00        02/22/11
+   117559254 SHERIFF'S BOOKING FEE             20.00        07/18/11
+   117559254 BOND - ORIGINAL                  100.00        07/18/11
+   117610408 BOND -10% BOND FEE                60.00        08/24/11
+   117610408 DOCUMENT STORAGE                   5.00        08/24/11
+   117610408 AUTOMATION                        10.00        08/24/11
+   117610408 CIRCUIT CLERK FEE                100.00        08/24/11
+   117610408 COURT SECURITY                    25.00        08/24/11
+   117610408 ARRESTEE'S MEDICAL                10.00        08/24/11
+   117610408 COURT FINANCE FEE                 50.00        08/24/11
+   117610408 STATES ATTORNEY                   40.00        08/24/11
+   117610408 CRIME STOPPERS                    10.00        08/24/11
+   117610408 PROBATION MONITORING FEE          25.00        08/24/11
+   117610408  STATE OFFENDER DNA ID S         200.00        08/24/11
+   117610408 TR/CR SUR $10/$40                 65.00        08/24/11
+   117801043 BOND - ORIGINAL                  600.00        01/19/12
+   117801043 TR/CR SUR $10/$40                -65.00        01/19/12
+   117801043  STATE OFFENDER DNA ID S        -200.00        01/19/12
+   117801043 PROBATION MONITORING FEE         -25.00        01/19/12
+   117801043 CRIME STOPPERS                   -10.00        01/19/12
+   117801043 STATES ATTORNEY                  -40.00        01/19/12
+   117801043 COURT FINANCE FEE                -50.00        01/19/12
+   117801043 ARRESTEE'S MEDICAL               -10.00        01/19/12
+   117801043 COURT SECURITY                   -25.00        01/19/12
+   117801043 CIRCUIT CLERK FEE               -100.00        01/19/12
+   117801043 AUTOMATION                       -10.00        01/19/12
+   117801043 DOCUMENT STORAGE                  -5.00        01/19/12
+   117801043 BOND -10% BOND FEE               -60.00        01/19/12
+   117809887 BOND -10% BOND FEE                60.00        01/26/12
+   117809887 *BOND REFUND                     540.00        01/26/12
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  NOTIFICATION/NO FIXED ADDR/2+
+
+         1  NOTIFICATION/NO FIXED ADDR/2+
+
+         1  NOTIFICATION/NO FIXED ADDR/2+
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   02-07-11                 Charge 01 Count 001 NOTIFICATION/NO FIXED ADDR/2+
+                            Statute 730 150/3(a)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and David Appleman appears instanter.  Def
+endant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered. Bond of $5,000 to c
+ontinue. Defendant
+                            is admonished as to trial and sentencing in absentia
+. See expanded
+                            record.
+                            Notice of arrest without warrant on file.
+   02-16-11                 Discovery filed
+                            Answer to Discovery filed
+   02-22-11                 Sheriff Booking Fee
+   03-29-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   05-03-11                 Motion to Continue Trial
+                            People appear by Mr. Dill.  Defendant appears with a
+ttorney Ms. Riess.
+                            Suggestion to the Court that the defendant has hired
+ Mr. McClellan.
+                            No appearance by Mr. McClellan.  Cause is continued
+to 11:00 a.m. this
+                            date for the defendant to appear with Mr. McClellan.
+                            LATER:
+                            People appear by Mr. Dill.  Defendant appears with a
+ttorney Ms. Riess.
+                            No appearance by attorney Mr. McClellan as previousl
+y suggested.
+                            Motion by the defendant to Continue Trial on file.
+No objection to
+                            the Motion by the People.  Motion is allowed.  Cause
+ is continued for
+                            further pre-trial 5/31/11 at 9:00 a.m. in Courtroom
+C.
+                            LATER:
+                            People appear by Mr. Dill.  Attorney Mr. McClellan a
+ppears LATE.  Mr.
+                            McClellan states he will be entering his appearance
+in this matter
+                            this date.  Court vacates the appointment of the Pub
+lic Defenders
+                            Office and the allotment for 9:00 a.m. on 5/31/11.
+Motion by the
+                            defendant to continue.  Motion allowed.  Cause is co
+ntinued for
+                            further pre-trial 11:00 a.m. on 5/31/11 in Courtroom
+ C.  Mr. McClellan
+                            is directed to file a Substitution of Counsel.  Defe
+ndant's bond is to
+                            continue.
+   05-19-11
+                            Motion for Substitution of Counsel filed by Michael
+McClellan.
+   05-31-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+
+                            Motion to Continue filed.
+   06-28-11
+                            Appearance of the State's Attorney.  Counsel appears
+                            for the Defendant.  No appearance by the Defendant
+                            personally.  People's motion for bond forfeiture and
+                            warrant allowed. Defendant's bond forfeited.  Warran
+t
+                            to issue.  Bond set in the amount of $25,000.00.
+                            Warrant issued.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+                            Warrant issued.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+                            Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $ 25,000.
+00.
+                            Motion to continue on file by Atty. Michael McClella
+n
+   06-29-11                 Bond forfeiture notice prepared and mailed.
+   07-01-11
+                            Motion to Quash Warrant and Vacate Bond Forfeiture f
+iled.
+   07-05-11
+                            Defendant's Motion to Quash Warrant and Vacate Bond
+Forfeiture
+                            allotted for hearing on 7/11/11 at 10:30 a.m. in Cou
+rtroom C.  Mr.
+                            McClellan to send notice to the State.
+   07-07-11                 Notice of Hearing Filed
+   07-11-11
+                            People appear by Mr. Dill.  Defendant appears in cus
+tody pursuant to
+                            the warrant issued 6/28/11 and with counsel Mr. McCl
+ellan.  Mr.
+                            McClellan moves to have the Court consider this hear
+ing as an oral
+                            motion to reduce bond as his Motion to Quash Warrant
+ and Vacate Bond
+                            Forfeiture is moot with the defendant's apprehension
+ on the warrant.
+                            No objection to the Motion by Mr. Dill.  Cause is ca
+lled for hearing
+                            on the oral motion to reduce bond.  Arguments heard.
+  Motion is
+                            allowed.  Court reduces the defendant's bond to $1,0
+00, ROR is denied.
+                            Motion by Mr. McClellan to allot the matter for pre-
+trial.  Motion
+                            allowed.  Cause is allotted for pre-trial on the def
+endant's motion to
+                            8/2/11 at 11:00 a.m. in Courtroom C.  Defendant is o
+rdered to appear.
+                            Defendant's bond as reduced is to continue.
+                            Warrant served. Service fees $37.00
+   07-18-11                 Sheriff Booking Fee
+   08-02-11                 Motion to continue.
+                            People appear by Mr. Dill.   Defendant appears with
+Mr. McClellan.
+                            Cause is called for pre-trial.  Motion by the defend
+ant to continue.
+                            Objection by the People.  Comments of counsel heard.
+  Motion is
+                            denied.  Cause is allotted for trial scheduling.  De
+fendant ordered to
+                            appear.  Defendant's bond is to continue.
+   08-15-11
+                            People appear by Mr. Dill.  Defendant appears with a
+ttorney Mr.
+                            McClellan.  Cause is called for trial scheduling.  M
+otion by Ms. Riess
+                            to allot the matter for status.  No objection to the
+ Motion by the
+                            People.  Motion is allowed.  Cause is allotted for s
+tatus hearing.
+                            Defendant ordered to appear.  Defendant's bond is to
+ continue.
+   08-17-11
+                            People appear by Mr. Dill.  Defendant appears with a
+ttorney Mr.
+                            McClellan.  Cause is called for jury trial.  Motion
+by the defendant
+                            to allot this matter for plea at 1:30 p.m. this date
+.  No objection to
+                            the Motion by the People.  Motion is allowed.  Cause
+ is allotted for
+                            plea at 1:30 p.m. this date.
+
+                            People appear by Mr. Dill.  Defendant appears with a
+ttorney Mr.
+                            McClellan.  Cause is re-allotted for plea.  Defendan
+t's bond is to
+                            continue.
+   08-22-11                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty NOTIFICATION/NO FIXED ADDR/2+
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 730 150/3(a)  Class 2  Orig.
+                            Sentence: 08/22/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees
+                            Sentence: Probation  12Mos
+                                      Supervised Court Service
+                            Sentence: Jail  25Days
+                            Sentence: Credit Time Served  25Days
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Sentence: Sex offender registration
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            CRIME STOPPERS            .00     PROBATION MONITORI
+N       .00
+                            MOTION TO VACATE          .00      STATE OFFENDER DN
+A       .00
+                            NOTICES MAILED 1ST        .00     SEXUAL OFFENDER RE
+G       .00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Adam M. Dill.  Appearanc
+e of the Defendant
+                            personally and by counsel, Michael B. McClellan.   D
+efendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Notification/No Fixed Addr/2+ ILCS: 730 1
+50/3(a) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  5/25/2012.  Any b
+ond posted is to
+                            be applied first to any court ordered BOND ASSIGNMEN
+T on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  12
+                            months probation. Defendant is ordered to serve a pe
+riod of
+                            incarceration of  25 days in the Champaign County Co
+rrectional Center.
+                            Defendant is to receive credit for  25 days previous
+ly served. The
+                            Defendant is to submit specimens of blood, saliva, o
+r tissue to the
+                            Illinois Department of State Police or to the Depart
+ment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Comply with the
+                            requirements of the Sex          Offender Registrati
+on Act (730 ILCS
+                            150/1 et seq) within   days. Defendant advised of ri
+ght to appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same.    Sentencing Order
+entered.  See
+                            Order.  Defendant is ordered to report to the Court
+Services Dept.
+                            this date.
+   08-24-11                 Bond
+   09-21-11
+                            Motion to Withdraw Plea filed.
+   01-04-12
+                            Court has reviewed the letter from Court Services Of
+ficer Jeremy
+                            Jessup indicating Defendant was wrongfully convicted
+.  Upon reviewing
+                            the Court file, the Court notes Mr. McClellan timely
+ filed a Motion to
+                            Withdraw Guilty Plea but never called it to the Cour
+t's attention or
+                            asked to set it for hearing.  Accordingly, the Motio
+n is set for
+                            hearing January 19, 2012 at 11:00 a.m. in Courtroom
+C.  Mr. McClellan
+                            is directed to file a certificate in compliance with
+ Supreme Court
+                            Rule 609(d) on or before the hearing.  Parties notif
+ied by letter.
+   01-11-12
+                            Copy of letter from the Court dated 1/4/12 is faxed
+to Mr. McClellan
+                            per his request this date.
+   01-19-12                 Vacate Court Order Payments
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Vacated Trial Court NOTIFICATION/NO FIX
+ED ADDR/2+
+                            Disposition Vacated: Guilty
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 730 150/3(a)  Class 2  Orig.
+                            Sentence: 01/19/2012
+
+                            People appear by Mr. Dill.  Defendant appears with a
+ttorney Mr.
+                            McClellan.  Cause is called for hearing on the Defen
+dant's Motion to
+                            Withdraw Guilty Plea.  State states no objection to
+the Motion.
+                            Motion is allowed.  Defendant is permitted to withdr
+aw his Guilty
+                            Plea.  Judgment is ordered vacated.  Motion by the P
+eople to withdraw
+                            and dismiss the case.  No objection to the Motion by
+ the Defendant.
+                            Motion is allowed.  Cause is ordered dismissed and s
+tricken.
+                            Defendant's bond order is vacated.  Case is ordered
+closed.
+                            Disposition 01/02  Count 001  No Fine & Cost
+                            Disposition: Dismissed NOTIFICATION/NO FIXED ADDR/2+
+                            Disposition Type: By Bench   Defendant Plea: No Plea
+ Entered
+                            Statute 730 150/3(a)  Class 2  Orig.
+                            Sentence: 01/19/2012
+                            Sentence: No Sentence
+                            No Fine & Cost          60.00
+                            Case closed.
+   01-25-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   01-26-12                 Bond
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

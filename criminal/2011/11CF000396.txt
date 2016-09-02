@@ -1,0 +1,302 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000396
+
+   Defendant Plaintiff
+PATTERSON  TYLER T
+1703 CRESCENT DR
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 03/14/11
+                Court Room:
+           Next Appearance: 07/28/14
+                Birth Date: 08/12/62
+                 DEFENDANT: PATTERSON  TYLER T
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      100.00      BOND -10% BOND FEE           100.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       15.00      PROBATION MONITORIN          180.00            .00
+       10.00      DOMESTIC BATTERY              10.00            .00
+       60.00      TRAFFIC/CRIMINAL SU           60.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      250.00      PUBLIC DEFENDER              250.00            .00
+         .00      FINES                           .00            .00
+       24.00      VICTIMS FUND-FINE             24.00            .00
+      185.00      DOMESTIC VIOLENCE            185.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+      141.00                                   141.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117381420 SHERIFF'S BOOKING FEE             20.00        03/16/11
+   117381420 BOND - ORIGINAL                 1000.00        03/16/11
+   117448791 BOND -10% BOND FEE               100.00        04/29/11
+   117448791 DOCUMENT STORAGE                   5.00        04/29/11
+   117448791 E-CITATION                         5.00        04/29/11
+   117448791 AUTOMATION                        10.00        04/29/11
+   117448791 CIRCUIT CLERK FEE                 75.00        04/29/11
+   117448791 COURT SECURITY                    25.00        04/29/11
+   117448791 ARRESTEE'S MEDICAL                10.00        04/29/11
+   117448791 COURT FINANCE FEE                 25.00        04/29/11
+   117448791 STATES ATTORNEY                   20.00        04/29/11
+   117448791 CRIME STOPPERS                     5.00        04/29/11
+   117448791 PROBATION MONITORING FEE          15.00        04/29/11
+   117448791 DOMESTIC BATTERY                  10.00        04/29/11
+   117448791 TR/CR SUR $10/$40                 60.00        04/29/11
+   117448791 CLERK OP & ADMIN FUND             10.00        04/29/11
+   117448791 DRUG COURT PROGRAM                 5.00        04/29/11
+   117448791 PUBLIC DEFENDER                  250.00        04/29/11
+   117448791 VICTIMS FUND-FINE                 24.00        04/29/11
+   117448791 DOMESTIC VIOLENCE                185.00        04/29/11
+   117448791 ST POLICE SERVICES FUND           10.00        04/29/11
+   117448791 ST POLICE OPERATIONS ASS          10.00        04/29/11
+   117448791 *BOND REFUND                     141.00        04/29/11
+   117699192 PROBATION MONITORING FEE          10.00        10/28/11
+   117712060 PROBATION MONITORING FEE          10.00        11/07/11
+   117822971 01000000000                         .00        02/06/12
+   117823054 PROBATION MONITORING FEE          15.00        02/06/12
+   117823057 PROBATION MONITORING FEE         130.00        02/06/12
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AGG DOMESTIC BATTERY/STRANGLE
+
+         2  DOMESTIC BATTERY/BODILY HARM
+
+         2  DOMESTIC BATTERY/BODILY HARM
+
+         3  DOMESTIC BTRY/PHYSICAL CONTACT
+
+         4  DOMESTIC BTRY/PHYSICAL CONTACT
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   03-14-11                 Charge 01 Count 001 AGG DOMESTIC BATTERY/STRANGLE
+                            Statute 720 5/12-3.3(a-5)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 DOMESTIC BATTERY/BODILY HARM
+                            Statute 720 5/12-3.2(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 DOMESTIC BTRY/PHYSICAL CONTACT
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 04 Count 004 DOMESTIC BTRY/PHYSICAL CONTACT
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Anthony Ortega appears instanter.  Def
+endant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond of $10,000 to
+ continue. As a
+                            condition of bond, Defendant is ordered to have NO C
+ONTACT whatsoever,
+                            directly or indirectly, with any of the victims or t
+he address as
+                            recited in bond court. Motion by the Defendant for o
+ne time relief to
+                            return to the property to obtain personal items. Mot
+ion is denied.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. See
+                            expanded record.
+   03-16-11                 Sheriff Booking Fee
+   03-29-11                 Discovery filed
+   04-19-11                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG DOMESTIC BATTERY/STRANGLE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.3(a-5)  Class 2  Orig.
+                            Sentence: 04/19/2011
+                            Sentence: No Sentence
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed DOMESTIC BTRY/PHYSICAL CONTAC
+T
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Sentence: 04/19/2011
+                            Sentence: No Sentence
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed DOMESTIC BTRY/PHYSICAL CONTAC
+T
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Sentence: 04/19/2011
+                            Sentence: No Sentence
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty DOMESTIC BATTERY/BODILY HARM
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3.2(a)(1)  Class A  Orig.
+                            Sentence: 04/19/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees
+                            Sentence: Probation  12Mos
+                                      Supervised Court Service
+                            Sentence: Public Service  30Hrs
+                                      Supervised Court Service
+                            Sentence: Count(s) dismissed.
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Sentence: Attorney Fees
+                            Fine + Cost            389.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    180.00
+                            DOMESTIC BATTERY        10.00     PUBLIC DEFENDER
+     250.00
+                            DOMESTIC VIOLENCE      185.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Christopher Kanis.  Appe
+arance of the
+                            Defendant personally and by counsel, Scott Schmidt.
+  Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Domestic Battery/Bodily Har
+m ILCS: 720
+                            5/12-3.2(a)(1) as charged. Judgment entered in favor
+ of the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 10/17/2011.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months probation. Defendant is ordered
+ to perform  30
+                            hours of public service work under the supervision o
+f the Champaign
+                            County Court Services Department.  The defendant is
+to be given credit
+                            on public service work for any hours completed in ed
+ucation,
+                            treatment, aftercare, sobriety based self-help group
+ meetings, Victim
+                            Impact Panel and GED classes. Count(s) stated in the
+ written order are
+                            herby dismissed. Defendant advised of right to appea
+l and rights
+                            pursuant to Supreme Court Rule 605 and the Court fin
+ds that the
+                            defendant understands the same.
+   04-29-11                 Bond
+   10-28-11                 Court Ordered Payments
+   11-07-11                 Court Ordered Payments
+   02-06-12                 Court Ordered Payments
+                            Court Ordered Payments
+   02-09-12                 Probation Violation Report filed
+   04-09-12                 Petition to Revoke Probation filed
+   04-10-12                 Expanded record of arraignment proceedings.
+                            Verified information on Petition to Revoke Probation
+ on file.
+                            Summons issued.
+   04-16-12                 Summons served.
+   04-27-12                 Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and J.
+ Miller-Jones
+                            appears instanter.  General denial to the Petition i
+s entered.
+                            Defendant is admonished as to trial and sentencing i
+n absentia.  See
+                            expanded record.
+                            Defendant's bond is set in the amount of $1000. ROR
+ALLOWED.
+                            Recognizance bond
+   05-23-12
+                            People appear by Stephanie Weber.  Defendant appears
+ personally and
+                            with counsel, George Vargas.  On Defendant's motion,
+ hearing on
+                            Petition to Revoke this date is vacated.
+   07-25-12
+                            People appear by Stephanie Weber.  Defendant appears
+ by counsel,
+                            George Vargas. On motion of the People, the Petition
+ to Revoke is
+                            withdrawn and dismissed.  Defendant's bond discharge
+d to the
+                            individual who posted the bond.
+                            Probation in this cause is terminated.
+                            Disposition 02/01  Count 002  Manual Calculations
+                            Disposition: Probation Terminated DOMESTIC BATTERY/B
+ODILY HARM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(1)  Class A  Orig.
+                            Sentence: 07/25/2012
+                            Sentence: No Sentence  In force
+                            Case closed.
+   07-30-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

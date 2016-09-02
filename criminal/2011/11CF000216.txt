@@ -1,0 +1,487 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000216
+
+   Defendant Plaintiff
+STILLWELL  LOGAN W
+1 EAST 8TH STREET #3
+CHICAGO IL 60605
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 02/11/11
+                Court Room: F
+           Next Appearance: 04/28/15
+                Birth Date: 09/22/84
+                 DEFENDANT: STILLWELL  LOGAN W
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      200.00       STATE OFFENDER DNA          200.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+     1000.00      TRAFFIC/CRIMINAL SU         1000.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+         .00      FINES                           .00            .00
+      400.00      VICTIMS FUND-FINE            400.00            .00
+     2000.00       STREET VALUE DRUG          2000.00            .00
+     1240.00      MANDATORY ASSESSMEN         1240.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121432094 BOND - ORIGINAL                 1000.00        12/04/14
+   121434478 DOCUMENT STORAGE                   5.00        12/04/14
+   121434478 AUTOMATION                        10.00        12/04/14
+   121434478 CIRCUIT CLERK FEE                100.00        12/04/14
+   121434478 COURT SECURITY                    25.00        12/04/14
+   121434478 ARRESTEE'S MEDICAL                10.00        12/04/14
+   121434478 COURT FINANCE FEE                 50.00        12/04/14
+   121434478 STATES ATTORNEY                   40.00        12/04/14
+   121434478 SPINAL CORD RESEARCH FUN           5.00        12/04/14
+   121434478 CRIME LAB                        100.00        12/04/14
+   121434478  STATE OFFENDER DNA ID S         200.00        12/04/14
+   121434478 TRAUMA FUND                      100.00        12/04/14
+   121434478 TR/CR SUR $10/$40                355.00        12/04/14
+   121440205 EPAY RECEIVABLE                 1000.00        12/09/14
+   121509265 BOND - ORIGINAL                 1000.00        01/23/15
+   121511616 TR/CR SUR $10/$40                645.00        01/23/15
+   121511616 CLERK OP & ADMIN FUND             10.00        01/23/15
+   121511616 DRUG COURT PROGRAM                 5.00        01/23/15
+   121511616 VICTIMS FUND-FINE                340.00        01/23/15
+   121516396 EPAY RECEIVABLE                 1000.00        01/28/15
+   121564685 BOND - ORIGINAL                 1000.00        02/25/15
+   121564836 DOCUMENT STORAGE                    .00        02/25/15
+   121564836 AUTOMATION                          .00        02/25/15
+   121564836 CIRCUIT CLERK FEE                   .00        02/25/15
+   121564836 COURT SECURITY                      .00        02/25/15
+   121564836 ARRESTEE'S MEDICAL                  .00        02/25/15
+   121564836 COURT FINANCE FEE                   .00        02/25/15
+   121564836 STATES ATTORNEY                     .00        02/25/15
+   121564836 SPINAL CORD RESEARCH FUN            .00        02/25/15
+   121564836 CRIME LAB                           .00        02/25/15
+   121564836  STATE OFFENDER DNA ID S            .00        02/25/15
+   121564836 TRAUMA FUND                         .00        02/25/15
+   121564836 TR/CR SUR $10/$40                   .00        02/25/15
+   121564836 CLERK OP & ADMIN FUND               .00        02/25/15
+   121564836 DRUG COURT PROGRAM                  .00        02/25/15
+   121564836 FINES                               .00        02/25/15
+   121564836 VICTIMS FUND-FINE                   .00        02/25/15
+   121564836  STREET VALUE DRUG FINES            .00        02/25/15
+   121564836 MANDATORY ASSESSMENT                .00        02/25/15
+   121564836 ST POLICE SERVICES FUND             .00        02/25/15
+   121564836 ST POLICE OPERATIONS ASS            .00        02/25/15
+   121564836 *BOND REFUND                        .00        02/25/15
+   121565758 VICTIMS FUND-FINE                 60.00        02/25/15
+   121565758  STREET VALUE DRUG FINES         940.00        02/25/15
+   121570092 EPAY RECEIVABLE                 1000.00        03/02/15
+   121580688 BOND - ORIGINAL                 1000.00        03/05/15
+   121581249  STREET VALUE DRUG FINES        1000.00        03/05/15
+   121586606 EPAY RECEIVABLE                 1000.00        03/10/15
+   121650697 BOND - ORIGINAL                 1320.00        04/15/15
+   121653670  STREET VALUE DRUG FINES          60.00        04/15/15
+   121653670 MANDATORY ASSESSMENT            1240.00        04/15/15
+   121653670 ST POLICE SERVICES FUND           10.00        04/15/15
+   121653670 ST POLICE OPERATIONS ASS          10.00        04/15/15
+   121659108 EPAY RECEIVABLE                 1320.00        04/20/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  UNLFL CRMNL DRG CONSPIRACY
+
+         2  CRIM CONSPIRACY/CANNABIS/1ST
+
+         3  CONTROLLED SUB TRAFFICKING
+
+         4  CANNABIS TRAFFICKING>5000 GRAM
+
+         5  1500+ OBJECTS/PARTS LSD/ANALOG
+
+         6  MFG/DEL 100<400 GR COCA/ANLG
+
+         7  MFG/DEL 100<400 GR COCA/ANLG
+
+         8  5<15 GRAMS LSD/ANALOG
+
+         9  MFG/DEL 1<15 GR COCAINE/ANLG
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   02-11-11                 Charge 02 Count 002 CRIM CONSPIRACY/CANNABIS/1ST
+                            Statute 720 570/405.1Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 CRIM CONSPIRACY/CANNABIS/1ST
+                            Statute 720 550/9(b)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            NO BOND No Bond
+                            Charge 03 Count 003 CONTROLLED SUB TRAFFICKING
+                            Statute 720 570/401.1(a)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 04 Count 004 CANNABIS TRAFFICKING>5000 GRAM
+                            Statute 720 550/5.1(a)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 05 Count 005 1500+ OBJECTS/PARTS LSD/ANALOG
+                            Statute 720 570/401(a)(7)(D)(ii)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 07 Count 007 MFG/DEL 100<400 GR COCA/ANLG
+                            Statute 720 570/401(a)(2)(B)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Statute 720 570/401(a)(2)(B)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 07 Count 007 MFG/DEL 100<400 GR COCA/ANLG
+                            Statute 720 550/5(g)  Class X  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Expanded record of arraignment proceedings.
+                            People appear by Sarah J. Carlson.  Defendant appear
+s in custody.
+                            Entry of Appearance filed instanter by Thomas Gibbon
+s and Mitchell
+                            Kreiter. Defendant is arraigned.  Defendant waives p
+reliminary
+                            hearing, enters a plea of not guilty and requests a
+trial by jury.
+                            Pre-trial orders entered. Bond set in the amount of
+$2,500,000-ROR
+                            DENIED. Court notes Motion for a Source of Bail Hear
+ing on file by the
+                            People this date. Cause set for hearing on the Motio
+n 3:30 p.m. this
+                            date. Bond cannot be posted until hearing on said mo
+tion is held.
+                            Defendant admonished as to trial and sentencing in a
+bsentia.  See
+                            Expanded Record.
+                            LATER:
+                            People appear by Dan Clifton. Defendant appears in c
+ustody and with
+                            attorneys Thomas Gibbons and Mitchell Kreiter.
+                            Cause called for hearing on People's Motion for a So
+urce of Bail
+                            Hearing. Arguments of counsel heard. Motion is DENIE
+D. Bond to
+                            continue as previously set. As the Motion for a Sour
+ce of Bail Hearing
+                            has been denied, posting of said bond is permitted.
+                            NO BOND No Bond
+                            Motion for a Source of Bail Hearing filed.
+                            Notice of arrest without warrant on file.
+                            NO BOND No Bond
+   02-14-11                 Charge 08 Count 008 5<15 GRAMS LSD/ANALOG
+                            Statute 720 570/401(c)(7)(i)  Class 1  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   02-16-11                 Discovery filed
+   02-28-11                 Supplemental Discovery filed
+   03-01-11
+                            Motion for Bond Reduction filed.
+   03-02-11
+                            Defendant's Motion for Bond Reduction allotted for h
+earing.
+                            Defendant's attorney to send notice to the State.
+   03-03-11                 Notice of Hearing Filed
+
+                            Amended Notice of Hearing filed
+   03-08-11                 Motion for Discovery/Motion to Dismiss
+                            Defendant's Motion to Produce Information Pertaining
+ to Informant on
+                            file.  Defendant's Motion for Bill of a Bill of Part
+iculars on file.
+                            Defendant's Motion to Dismiss Counts One and Two on
+file.  Defendant's
+                            Motion for Discovery on file.  Motion of the Defenda
+nt to Dismiss on
+                            file.
+
+                            People appear by Ms. Carlson.  Defendant appears per
+sonally and in
+                            custody with attorney Mr. Gibbons.  Court notes Coun
+t 8 is on file as
+                            of 2/14/11.  Defendant is arraigned on Count 8 filed
+ 2/14/11.
+                            Defendant waives preliminary hearing as to Count 8 a
+nd enters a plea
+                            of not guilty and requests jury trial.   Cause is ca
+lled for hearing
+                            on the Motion of the Defendant to Reduce Bond.  Argu
+ments heard.
+                            Motion is denied.  Cause is allotted for hearing on
+the defendant's
+                            Motions filed this date to 3/30/11 at 3:00 p.m. in C
+ourtroom C.
+                            Request by Mr. Gibbons for extension of time to file
+ the defendant's
+                            discovery.  Comments of counsel considered.  Defenda
+nt is afforded an
+                            additional 30 days from today's date to tender disco
+very.
+                            Defendant's bond is to continue.
+   03-11-11                 Supplemental Discovery filed
+   03-21-11                 Supplemental Discovery filed
+   03-25-11
+                            Motion to Suppress Statements filed.
+
+                            Motion to Quash Arrest and Suppress Evidence filed.
+   03-29-11
+
+                            Due to a conflict with Ms. Carlson's schedule and by
+ agreement of the
+                            defendant's counsel, the hearing allotted for 3/30/1
+1 is vacated and
+                            re-allotted to 5/6/11 at 1:30 p.m. in Courtroom C.
+   05-04-11
+                            People appear by Ms. Carlson.  Representation to the
+ Court by Counsel
+                            for the Deft., by letter filed this date, to agreeme
+nt of counsel to
+                            vacate the hearing allotted for 5/6/11.  Hearing all
+otted for 5/6/11
+                            is vacated and re-allotted to 6/3/11 at 2:00 p.m. in
+ Courtroom C.
+   05-27-11                 Letter and documents from defense counsel
+                            Ms. Carlson tenders a letter and documents from defe
+ndse counsel,
+                            Mitchell Kreiter, to the Court.
+   05-31-11
+                            Letter sent to Mr. Kreiter, copy to Ms. Carlson, req
+uiring written
+                            motion to continue.
+   06-02-11                 Motion to Continue
+                            Faxed copy of the Motion to Continue received and or
+dered filed.
+                            Motion to Continue is allowed without objection by t
+he People.
+                            Hearing allotted for 6/3/11 is vacated and re-allott
+ed to 7/11/11 at
+                            11:00 a.m. in Courtroom C.  Defendant's bond is to c
+ontinue.
+   06-06-11
+                            Motion to Continue Status Hearing filed.
+   07-11-11                 Charge 09 Count 009 MFG/DEL 1<15 GR COCAINE/ANLG
+                            Statute 720 570/401(c)(2)  Class 1  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed UNLFL CRMNL DRG CONSPIRACY
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/405.1Class X  Orig.
+                            Sentence: 07/11/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed CRIM CONSPIRACY/CANNABIS/1ST
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 550/9(b)  Class 3  Orig.
+                            Sentence: 07/11/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed CONTROLLED SUB TRAFFICKING
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401.1(a)  Class X  Orig.
+                            Sentence: 07/11/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed CANNABIS TRAFFICKING>5000 GRA
+M
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 550/5.1(a)  Class X  Orig.
+                            Sentence: 07/11/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 05/00  Count 005  No Fine & Cost
+                            Disposition: Dismissed 1500+ OBJECTS/PARTS LSD/ANALO
+G
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(a)(7)(D)(ii)  Class X  Orig.
+                            Sentence: 07/11/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 06/00  Count 006  No Fine & Cost
+                            Disposition: Dismissed MFG/DEL 100<400 GR COCA/ANLG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(a)(2)(B)  Class X  Orig.
+                            Sentence: 07/11/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 07/00  Count 007  No Fine & Cost
+                            Disposition: Dismissed MFG/DEL 100<400 GR COCA/ANLG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(a)(2)(B)  Class X  Orig.
+                            Sentence: 07/11/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 08/00  Count 008  No Fine & Cost
+                            Disposition: Dismissed 5<15 GRAMS LSD/ANALOG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(c)(7)(i)  Class 1  Orig.
+                            Sentence: 07/11/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 09/00  Count 009  Cost Only
+                            Disposition: Guilty MFG/DEL 1<15 GR COCAINE/ANLG
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 570/401(c)(2)  Class 1  Orig.
+                            Sentence: 07/11/2011
+                            Sentence: Cost Only
+                            Sentence: Department Of Corrections  8Yrs
+                            Sentence: Credit Time Served  152Days
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Sentence: Seized contraband is forfeited to the arre
+sting agency
+                            Sentence: Count(s) dismissed.
+                            Cost Only             5020.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    200.00
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Mittimus prepared.
+                            Sentencing order.
+                            Appearance of the People by Sarah J. Carlson.  Appea
+rance of the
+                            Defendant personally and by counsel, Thomas A. Gibbo
+ns.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 09 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Mfg/Del 1<15 Gr Cocaine/Anl
+g ILCS: 720
+                            570/401(c)(2) as charged. Judgment entered in favor
+of the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk  Any bond posted
+is to be applied
+                            first to any court ordered bond assignment on file a
+nd then to all
+                            restitution ordered and then to all financial obliga
+tions in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of
+                            incarceration of   8 years,  in the Illinois Departm
+ent of
+                            Corrections. Defendant is to receive credit for 152
+days previously
+                            served. The Defendant is to submit specimens of bloo
+d, saliva, or
+                            tissue to the Illinois Department of State Police or
+ to the Department
+                            of Corrections within 45 days, at a collection site
+designated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Any contraband
+                            seized in this matter, and any additional property l
+isted in the
+                            written order is forfeited to the arresting agency.
+Count(s) stated in
+                            the written order are hereby dismissed.     Sentenci
+ng Order entered.
+                            See Order.  Defendant is authorized to be considered
+ for the Impact
+                            Incarceration Program.  See Order.   Defendant is re
+manded to the
+                            custody of the Sheriff for transportation to the IL.
+ Dept. of
+                            Corrections.
+
+                            Pursuant to the Judgment on the guilty plea the drug
+                            fine collected it to be disbursed as follows:
+                                 12.5% to the Youth Drug Abuse Prevention Fund
+                                 37.5% to the General Corporate fund of Champaig
+n
+                                      County and
+                                 50% to the CHAMPAIGN POLICE DEPARTMENT
+                            Character letters on file.
+   07-20-11                 Statement of State's Attorney filed
+   09-15-11                 Notice of Acceptance in Impact Incarceration Program
+ filed
+   10-31-11                 Case sent out for collections.
+   06-13-12                 Certification Notice of Impact Incarceration Program
+ filed.
+   10-30-14                 Case removed from collections.
+   12-04-14                 EPAY BOND PAYMENT
+                            Bond
+   12-09-14                 EPAY RECONCILIATION TRANSACTION
+   01-23-15                 EPAY BOND PAYMENT
+                            Bond
+   01-28-15                 EPAY RECONCILIATION TRANSACTION
+   02-25-15                 EPAY BOND PAYMENT
+                            Bond
+   03-02-15                 EPAY RECONCILIATION TRANSACTION
+   03-05-15                 EPAY BOND PAYMENT
+                            Bond
+   03-10-15                 EPAY RECONCILIATION TRANSACTION
+   04-15-15                 EPAY BOND PAYMENT
+                            Bond
+   04-20-15                 EPAY RECONCILIATION TRANSACTION
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,426 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001692
+
+   Defendant Plaintiff
+ROBINSON  CHRISTOPHER D
+904 N BROADWAY APT 1
+URBANA IL 0
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 10/14/11
+                Court Room:
+           Next Appearance: 07/09/14
+                Birth Date: 10/06/84
+                 DEFENDANT: ROBINSON  CHRISTOPHER D
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       65.00      BOND -10% BOND FEE            65.00            .00
+      508.14      *RESTITUTION AMOUNT          508.14            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE             61.86          38.14
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       25.00      PROBATION MONITORIN             .00         175.00
+       10.00      DOMESTIC BATTERY                .00          10.00
+      240.00       STATE OFFENDER DNA             .00         240.00
+       60.00      TRAFFIC/CRIMINAL SU             .00          60.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      PRELIMINARY HEARING             .00          10.00
+         .00      FINES                           .00            .00
+       24.00      VICTIMS FUND-FINE               .00          24.00
+      190.00      DOMESTIC VIOLENCE               .00         190.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       65.00      BOND -10% BOND FEE              .00          65.00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       60.00      TRAFFIC/CRIMINAL SU             .00          60.00
+         .00      DRUG COURT PROGRAM              .00            .00
+      210.00      FINES                           .00         210.00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       65.00      BOND -10% BOND FEE            65.00            .00
+      508.14      *RESTITUTION AMOUNT          508.14            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE             61.86          38.14
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+      175.00      PROBATION MONITORIN             .00         175.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       10.00      DOMESTIC BATTERY                .00          10.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+      120.00      TRAFFIC/CRIMINAL SU             .00         120.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      PRELIMINARY HEARING             .00          10.00
+         .00      FINES                           .00            .00
+         .00      VICTIMS FUND-FINE               .00            .00
+      100.00      VIOLENT CRIME VICTI             .00         100.00
+       85.00      DOMESTIC VIOLENCE               .00          85.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      334.70      COLLECTION FEES                 .00         334.70
+      145.52      LATE FEES                       .00         145.52
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117683204 SHERIFF'S BOOKING FEE             20.00        10/18/11
+   117683204 BOND - ORIGINAL                  150.00        10/18/11
+   118036954 BOND -10% BOND FEE                15.00        07/16/12
+   118036954 *RESTITUTION AMOUNT              135.00        07/16/12
+   118036954 *RESTITUTION AMOUNT              135.00        07/16/12
+   118038030 BOND TRANSFERS IN                500.00        07/16/12
+   118040184 BOND -10% BOND FEE                50.00        07/17/12
+   118040184 *RESTITUTION AMOUNT              373.14        07/17/12
+   118040184 DOCUMENT STORAGE                   5.00        07/17/12
+   118040184 AUTOMATION                        10.00        07/17/12
+   118040184 CIRCUIT CLERK FEE                 61.86        07/17/12
+   118040184 *RESTITUTION AMOUNT              373.14        07/17/12
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  DOMESTIC BTRY/BODILY HARM PRI
+
+         1  DOMESTIC BTRY/BODILY HARM PRI
+
+         1  DOMESTIC BTRY/BODILY HARM PRI
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   10-14-11                 Charge 01 Count 001 DOMESTIC BTRY/BODILY HARM PRI
+                            Statute 720 5/12-3.2(a)(1)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Cause allotted for hearing on
+                            Matter allotted for the pre-trial conference
+                            Expanded record of arraignment proceedings.
+                            People appear by A.Dill. Defendant appears. Defendan
+t is arraigned.
+                            Motion by the defendant for court appointed counsel
+is granted. Ms.
+                            Corum appears instanter. Cause continued for prelimi
+nary hearing on
+                            10/21/11 at 9:00 am in courtroom F. Cause continued
+for pretrial on
+                            11/29/11 at 9:00 am in courtroom B.
+                            Bond set in the amount of $1500.   ROR is denied.
+                            Bond further conditioned upon the Defendant initiati
+ng NO CONTACT
+                            WHATSOEVER  with the named victim as recited in cour
+t
+                            Notice of arrest without warrant on file.
+   10-18-11                 Sheriff Booking Fee
+   10-21-11                 Pretrial order after waiver or finding of probable c
+ause
+                            People appear by Troy Lozar.  Defendant appears pers
+onally and with
+                            counsel, Jamie Propps.  Cause called for preliminary
+ hearing.
+                            Witnesses sworn. Evidence heard. The Court having he
+ard the evidence
+                            on preliminary hearing and being fully advised in th
+e premises finds
+                            probable cause to believe that the Defendant has com
+mitted one or more
+                            felony offenses as charged in the information.   Def
+endant enters a
+                            plea of not guilty and requests trial by jury.  Pre-
+Trial Discovery
+                            Order on file.  Bond to continue.
+   10-26-11
+                            Notice of Intent to Present Evidence Under 725 ILCS
+5/115-7.4 filed.
+
+                            Motion to Present Evidence Pursuant to 725 ILCS 5/11
+5-7.4 filed.
+                            Discovery filed
+                            Answer to Discovery filed
+   11-16-11                 Supplemental Answer to Discovery filed.
+   11-28-11                 Motion to Continue filed.
+   11-29-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   12-30-11                 Motion to Continue filed
+   01-03-12
+                            Appearance of the State's Attorney.  Appearance of t
+he
+                            Defendant personally and by Counsel.
+   02-29-12
+                            People appear by Stephanie Weber.  Defendant appears
+ personally and
+                            with counsel, Scott Schmidt.
+   03-07-12                 Motion to Continue Trial filed.
+   03-12-12
+                            People appear by Stephanie Weber.  Defendant appears
+ personally and
+                            with counsel, Scott Schmidt for Katie L. Jessup. Mot
+ion by the
+                            Defendant for continuance.  Motion allowed.
+   04-23-12                 Motion to Modify Bond Conditions, Motion to Continue
+ filed.
+                            Motion to Continue filed
+   04-24-12
+                            People appear by Stephanie Weber.  Defendant appears
+ by counsel, G.
+                            Vargas for Katie L. Jessup. Motion by the Defendant
+for continuance.
+                            Motion allowed.
+   04-26-12
+                            Order to Modify Bond Conditions entered. Defendant p
+ermitted to leave
+                            the State of Illinois. SEE ORDER.
+   06-26-12                 Allotted for trial
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   07-06-12                 Subpoena not found.
+                            Subpoena Served.  No Fees.
+   07-09-12                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty DOMESTIC BTRY/BODILY HARM PRI
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3.2(a)(1)  Class 4  Orig.
+                            Sentence: 07/09/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: No contact order.  In force
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Fine + Cost            426.00     *RESTITUTION AMOUN
+T    508.14
+                            CRIME STOPPERS          10.00     PROBATION MONITORI
+N    175.00
+                            DOMESTIC BATTERY        10.00      STATE OFFENDER DN
+A    240.00
+                            PRELIMINARY HEARING     10.00     DOMESTIC VIOLENCE
+     190.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally and by counsel, Katie L. Jessup.   Defend
+ant advised as to
+                            the nature of the proceedings, the charges and the p
+ossible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly, understandin
+gly and
+                            voluntarily waives rights and enters a plea of guilt
+y to Count 01 of
+                            the charging instrument.  Finding Defendant is guilt
+y of the offense
+                            of Domestic Btry/Bodily Harm Pri ILCS: 720 5/12-3.2(
+a)(1) as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.  All financial oblig
+ations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by  1/07/2013.  Any bond posted is to be appli
+ed first to any
+                            court ordered bond assignment on file and then to al
+l restitution
+                            ordered and then to all financial obligations in thi
+s case.  Any
+                            remaining bond shall be discharged to the individual
+ who posted the
+                            bond.  Defendant is ordered to serve a period of  24
+ months probation.
+                            The Defendant is to submit specimens of blood, saliv
+a, or tissue to
+                            the Illinois Department of State Police or to the De
+partment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Defendant is to
+                            have no contact, directly or indirectly, in person,
+by telephone or
+                            electronically with the persons stated in the writte
+n order. Case
+                            Number(s) stated in the written order are herby dism
+issed.  Any bond
+                            posted in said case(s) shall be transferred to the i
+nstant case and
+                            shall be applied to any fines, fees, costs, assessme
+nts, and/or
+                            restitution imposed herein; any remaining bond shall
+ be used to
+                            satisfy such other of the Defendant's Champaign Coun
+ty criminal or
+                            traffic cases in which the Defendant owes an outstan
+ding balance of
+                            fines, fees, costs, assessments and/or restitution.
+Defendant advised
+                            of right to appeal and rights pursuant to Supreme Co
+urt Rule 605 and
+                            the Court finds that the defendant understands the s
+ame.
+                            Subpoena not found.
+   07-16-12                 Bond
+                            Bond Type Transfer Bond From    2011CF001720 ROBINSO
+N CHRISTOPHER D
+   07-17-12                 Bond
+   08-02-12                 Subpoena Served.  No Fees.
+   08-03-12                 Subpoena not found.
+   09-05-12                 Suggestion for Prior Order for DNA Testing filed.
+   01-09-13                 Probation Violation Report filed
+   02-06-13                 Probation Violation Report filed
+   02-13-13                 Petition to Revoke Probation filed
+   02-14-13                 Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and R.
+ Rosenbaum appears
+                            instanter.  General denial to the Petition is entere
+d.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+See expanded
+                            record.
+                            Bond set in the amount in the amount of $1500. ROR D
+ENIED.
+                            DEFENDANT ADMONISHED AS TO EXTENDED TERM SENTENCING
+.
+   02-20-13                 Disposition 01/01  Count 001  Fine + Cost
+                            Disposition: Revocation/Vacate/Probation DOMESTIC BT
+RY/BODILY HARM PRI
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/12-3.2(a)(1)  Class 4  Orig.
+                            Sentence: 02/20/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  1Yrs In force
+                            Sentence: Credit Time Served  23Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Credit toward all fees and fines  23Days I
+n force
+                            Fine + Cost            697.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Resentencing on petition to revoke.
+                            Appearance of the People by Stephanie Weber.  Appear
+ance of the
+                            Defendant personally and by counsel, R. Rosenbaum.
+  Defendant
+                            advised as to the nature of the proceedings and the
+possible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly, understandin
+gly and
+                            voluntarily stipulates and admits to the allegations
+ contained in the
+                            Petition to Revoke.  Finding the same are true.  The
+ court finds that
+                            the Defendant has violated the terms of his sentence
+.  Finding entered
+                            in favor of the People and against Defendant.
+Any bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of incarceration of   1 year in the Illinois
+Department of
+                            Corrections. Defendant is to receive credit for  23
+days previously
+                            served. The Defendant is to submit specimens of bloo
+d, saliva, or
+                            tissue to the Illinois Department of State Police or
+ to the Department
+                            of Corrections within 45 days, at a collection site
+designated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Mittimus prepared.
+   03-01-13                 ISP Supplemental Court Disposition prepared and mail
+ed.
+                            Disposition 01/02  Count 001  Modified Order
+                            Disposition: Modified/Trial Court DOMESTIC BTRY/BODI
+LY HARM PRI
+                            Modified Order         572.00     *RESTITUTION AMOUN
+T    508.14
+                            CRIME STOPPERS          10.00     PROBATION MONITORI
+N    175.00
+                            DOMESTIC BATTERY        10.00      STATE OFFENDER DN
+A    250.00
+                            PRELIMINARY HEARING     10.00     DOMESTIC VIOLENCE
+      85.00
+                            Bond, if any, to be discharged by Circuit Clerk.
+   03-18-13                 Statement of State's Attorney filed
+   08-19-14                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

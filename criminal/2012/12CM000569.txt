@@ -1,0 +1,266 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CM000569
+
+   Defendant Plaintiff
+CASTON  MIKEL J
+1212 W BEARDSLEY AVE
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/14/12
+                Court Room: E
+           Next Appearance: 08/24/12  11:00
+                Birth Date: 05/08/91
+                 DEFENDANT: CASTON  MIKEL J
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       65.00      BOND -10% BOND FEE            65.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      COURT FINANCE FEE             10.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+       80.00      TRAFFIC/CRIMINAL SU           37.69          42.31
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       37.00      SHERIFF FEES                  37.00            .00
+         .00      FINES                           .00            .00
+        2.00      NOTICES MAILED 1ST             2.00            .00
+       32.00      VICTIMS FUND-FINE             32.00            .00
+       18.00       STREET VALUE DRUG            18.00            .00
+       90.00      REGULAR DRUG FINES            90.00            .00
+      200.00      MANDATORY ASSESSMEN           22.00         178.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       94.88      COLLECTION FEES               11.57          83.31
+       41.25      LATE FEES                      3.87          37.38
+       10.00      ST POLICE OPERATION             .00          10.00
+       70.00      WARRANT SERVICE FEE           70.00            .00
+        5.00      CLERK OP & ADMIN FU            5.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117957867 SHERIFF'S BOOKING FEE             20.00        05/14/12
+   117957867 BOND - ORIGINAL                  150.00        05/14/12
+   118034458 SHERIFF'S BOOKING FEE             20.00        07/12/12
+   118034458 BOND - ORIGINAL                  500.00        07/12/12
+   118045474 BOND -10% BOND FEE                65.00        07/20/12
+   118045474 DOCUMENT STORAGE                   5.00        07/20/12
+   118045474 E-CITATION                         5.00        07/20/12
+   118045474 AUTOMATION                        10.00        07/20/12
+   118045474 CIRCUIT CLERK FEE                 75.00        07/20/12
+   118045474 COURT SECURITY                    25.00        07/20/12
+   118045474 COURT FINANCE FEE                 10.00        07/20/12
+   118045474 STATES ATTORNEY                   20.00        07/20/12
+   118045474 ARRESTEE'S MEDICAL                10.00        07/20/12
+   118045474 SPINAL CORD RESEARCH FUN           5.00        07/20/12
+   118045474 CRIME LAB                        100.00        07/20/12
+   118045474 TRAUMA FUND                      100.00        07/20/12
+   118045474 TR/CR SUR $10/$40                 80.00        07/20/12
+   118045474 CLERK OP & ADMIN FUND             10.00        07/20/12
+   118045474 DRUG COURT PROGRAM                 5.00        07/20/12
+   118045474 SHERIFF FEES                      37.00        07/20/12
+   118045474 NOTICES MAILED 1ST CLASS           2.00        07/20/12
+   118045474 VICTIMS FUND-FINE                 32.00        07/20/12
+   118045474  STREET VALUE DRUG FINES          18.00        07/20/12
+   118045474 REGULAR DRUG FINES                36.00        07/20/12
+   118196717 REGULAR DRUG FINES                10.00        10/23/12
+   118204963 REGULAR DRUG FINES                16.00        10/26/12
+   118282463 REGULAR DRUG FINES                20.00        12/10/12
+   118409929 REGULAR DRUG FINES                 8.00        01/28/13
+   118409929 MANDATORY ASSESSMENT               2.00        01/28/13
+   118457479 MANDATORY ASSESSMENT              10.00        02/26/13
+   118501322 MANDATORY ASSESSMENT              10.00        03/26/13
+   118534604 TR/CR SUR $10/$40                -75.00        04/15/13
+   118534604 WARRANT SERVICE FEE               70.00        04/15/13
+   118534604 CLERK OP & ADMIN FUND              5.00        04/15/13
+   118768838 STATES ATTORNEY AUTOMATI           2.00        09/06/13
+   118768838 TR/CR SUR $10/$40                  5.01        09/06/13
+   118768838 COLLECTION FEES                    2.34        09/06/13
+   118768838 LATE FEES                           .78        09/06/13
+   118856936 TR/CR SUR $10/$40                  6.92        10/29/13
+   118856936 COLLECTION FEES                    2.31        10/29/13
+   118856936 LATE FEES                           .77        10/29/13
+   120869904 TR/CR SUR $10/$40                 10.38        01/10/14
+   120869904 COLLECTION FEES                    3.46        01/10/14
+   120869904 LATE FEES                          1.16        01/10/14
+   120908595 TR/CR SUR $10/$40                  3.46        01/31/14
+   120908595 COLLECTION FEES                    1.15        01/31/14
+   120908595 LATE FEES                           .39        01/31/14
+   120935052 TR/CR SUR $10/$40                  6.92        02/19/14
+   120935052 COLLECTION FEES                    2.31        02/19/14
+   120935052 LATE FEES                           .77        02/19/14
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  POSSESS CANNABIS< 2.5 GRAMS
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   05-14-12                 Charge 01 Count 001 POSSESS CANNABIS< 2.5 GRAMS
+                            Statute 720 550/4(a)  Class C  Orig.
+                            Agency: UNIVERSITY OF ILLINOIS POLICE  Charge Instr:
+ Information
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Sheriff Booking Fee
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Jim Kuehl appears instanter.  Plea of not guilty ent
+ered and Defendant
+                            requests trial by jury.  Defendant is admonished as
+to trial and
+                            sentencing in absentia. Bond is to continue as poste
+d.  See expanded
+                            record.
+                            Notice of arrest without warrant on file.
+   05-15-12                 Proof of service of discovery materials filed.
+   06-19-12                 Proof of Service of Supplemental Discovery Materials
+ filed.
+   07-02-12                 Warrant issued.
+                            People appear by Claire L. Sharples Brooks.   Appear
+ance of Lindsey R.
+                            Yanchus on behalf of the Defendant.  No appearance b
+y Defendant as
+                            previously ordered by the Court.  Motion by People f
+or bond forfeiture
+                            and warrant. Objection by counsel for Defendant.  Mo
+tion is allowed.
+                            Defendant's bond is forfeited.  Warrant issued with
+bond set in the
+                            amount of $5,000.00.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+   07-03-12                 Bond forfeiture notice prepared and mailed.
+   07-11-12                 Cause allotted for hearing on Deft.'s motion to quas
+h warrant and plea
+   07-12-12                 Sheriff Booking Fee
+                            Expanded record of arraignment proceedings.
+                            People appear by Sarah Carlson. Defendant appears pe
+rsonally, and by
+                            counsel, Anthony Ortega. By agreement of the parties
+, cause is
+                            continued for plea. Bond is to continue. See expande
+d record.
+                            Defendant is admonished as to trial and sentencing a
+bsentia.
+   07-13-12
+                            Bond forfeiture previously entered is vacated and bo
+nd is reinstated.
+                            Bond forfeiture hearing of 8/24/12 is vacated.
+                            Warrant served. Service fees $37.00
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty POSSESS CANNABIS< 2.5 GRAMS
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 550/4(a)  Class C  Orig.
+                            Sentence: 07/13/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            824.00     E-CITATION
+       5.00
+                            CRIME LAB              100.00     NOTICES MAILED 1ST
+       2.00
+                            WARRANT SERVICE FEE     70.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, Lindsey R.
+Yanchus.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Possess Cannabis< 2.5 Grams
+ ILCS: 720
+                            550/4(a) as charged. Judgment entered in favor of th
+e People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  1/09/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant advised o
+f right to appeal
+                            and rights pursuant to Supreme Court Rule 605 and th
+e Court finds that
+                            the defendant understands the same. Waiver of Jury o
+n file. Sentencing
+                            Order entered this date. See Order.
+   07-19-12
+                            Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            37.5% to the General Corporate Fund of Champaign Cou
+nty, and
+                            50.0% to the University Of Illinois Police.
+   07-20-12                 Bond
+   10-23-12                 Court Ordered Payments
+   10-26-12                 Court Ordered Payments
+   12-10-12                 Court Ordered Payments
+   01-28-13                 Court Ordered Payments
+   02-26-13                 Court Ordered Payments
+   03-26-13                 Court Ordered Payments
+   04-15-13                 FTA warrant service fee of $75 is still owed.
+                            The arresting agency is Champaign Police Department
+for the FTA
+                            warrant issued 7-02-12.
+                            Court Ordered Payments
+   04-25-13                 Case sent out for collections.
+   09-06-13                 Court Ordered Payments
+   10-29-13                 Court Ordered Payments
+   01-10-14                 Court Ordered Payments
+   01-31-14                 Court Ordered Payments
+   02-19-14                 Court Ordered Payments
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

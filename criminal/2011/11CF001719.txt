@@ -1,0 +1,271 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001719
+
+   Defendant Plaintiff
+THOMAS  MARCELLA
+417 S WASHINGTON
+CARBONDALE IL 62901
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 10/21/11
+                Court Room:
+           Next Appearance: 02/02/15
+                Birth Date: 10/22/65
+                 DEFENDANT: THOMAS  MARCELLA
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE             60.00          40.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+        4.00      VICTIMS FUND-NO FIN             .00           4.00
+       25.00      PROBATION MONITORIN             .00         300.00
+         .00       STATE OFFENDER DNA             .00            .00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      153.78      SHERIFF FEES                    .00         153.78
+        2.00      NOTICES MAILED 1ST              .00           2.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      256.95      COLLECTION FEES                 .00         256.95
+      111.72      LATE FEES                       .00         111.72
+       10.00      ST POLICE OPERATION             .00          10.00
+       70.00      WARRANT SERVICE FEE             .00          70.00
+        5.00      CLERK OP & ADMIN FU             .00           5.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117863636 DOCUMENT STORAGE                   5.00        03/05/12
+   117863636 AUTOMATION                        10.00        03/05/12
+   117863636 CIRCUIT CLERK FEE                 35.00        03/05/12
+   117949545 CIRCUIT CLERK FEE                 25.00        05/08/12
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AGG BATTERY/PEACE OFFICER
+
+         1  AGG BATTERY/PEACE OFFICER
+
+         1  AGG BATTERY/PEACE OFFICER
+
+         2  CRIM TRESPASS REMAIN ON LAND
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   10-21-11                 Charge 01 Count 001 AGG BATTERY/PEACE OFFICER
+                            Statute 720 5/12-3.05(d)(4)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 CRIM TRESPASS REMAIN ON LAND
+                            Statute 720 5/21-3(a)(3)  Class B  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Created and properly labeled permanent case file.
+                            Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Scott Schmidt appears instanter.  Defe
+ndant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond is set in the
+ amount of
+                            $1,000-ROR ALLOWED. See expanded record.  Defendant
+is admonished as
+                            to trial and sentencing in absentia.
+   10-24-11                 Released On Recognizance bond form on file.
+                            Notice of arrest without warrant on file.
+   11-04-11                 Discovery filed
+   11-15-11
+                            Appearance of the State's Attorney.  Counsel appears
+                            for the Defendant.  No appearance by the Defendant
+                            personally.  People's motion for bond forfeiture and
+                            warrant allowed. Defendant's bond forfeited.  Warran
+t
+                            to issue.  Bond set in the amount of $10,000.00.
+                            Warrant issued.
+                            Circuit clerk to send notice of bond forfeiture hear
+ing.
+                            Motion to Continue Trial on file
+   11-16-11                 Failure to appear warrant.
+                            Warrant issued.  Bond set in the amount of $ 10,000.
+00.
+                            Bond forfeiture notice prepared and mailed.
+   01-09-12
+                            Appearance of the People by Adam M. Dill.  No appear
+ance by the
+                            Defendant nor anyone on their behalf.   Proof of Not
+ice of Hearing by
+                            mail on file and approved.  Judgment is entered on t
+he forfeiture.
+                            Defendant's bond posted to apply.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Judgment on Forfeiture AGG BATTERY/PEAC
+E OFFICER
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(d)(4)  Class 2  Orig.
+                            Sentence: 01/09/2012
+                            Sentence: No Sentence
+   01-10-12                 Warrant served. Service fees $153.78
+                            Expanded record of arraignment proceedings.
+                            Christopher Mellon appears on the Defendant's behalf
+. Cause
+                            re-allotted to the Felony Pre-trial calendar. Bond i
+s to continue. See
+                            expanded record.  Defendant is admonished as to tria
+l and sentencing
+                            in absentia.
+   01-26-12
+                            Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty AGG BATTERY/PEACE OFFICER
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3.05(d)(4)  Class 2  Orig.
+                            Sentence: 01/26/2012
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  20Days In force
+                            Sentence: Credit Time Served  20Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Defendant's probation to transfer to resid
+ent county  In for
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              437.78     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    300.00      STATE OFFENDER DN
+A       .00
+                            NOTICES MAILED 1ST       2.00     WARRANT SERVICE FE
+E     70.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed CRIM TRESPASS REMAIN ON LAND
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/21-3(a)(3)  Class B  Orig.
+                            Sentence: 01/26/2012
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Sentencing order.
+                            Appearance of the People by Adam M. Dill.  Appearanc
+e of the Defendant
+                            personally and by counsel, Amanda Riess.   Defendant
+ advised as to the
+                            nature of the proceedings, the charges and the possi
+ble penalties that
+                            may be imposed and the Court finds that the Defendan
+t understands the
+                            same.  Finding Defendant knowingly, understandingly
+and voluntarily
+                            waives rights and enters a plea of guilty to Count 0
+1 of the charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Agg
+                            Battery/Peace Officer ILCS: 720 5/12-3.05(d)(4) as c
+harged. Judgment
+                            entered in favor of the People and against the defen
+dant on finding of
+                            guilt and for costs.  All financial obligations shal
+l be paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk by
+                            11/28/2012.  Any bond posted is to be applied first
+to any court
+                            ordered bond assignment on file and then to all rest
+itution ordered
+                            and then to all financial obligations in this case.
+ Any remaining
+                            bond shall be discharged to the individual who poste
+d the bond.
+                            Defendant is ordered to serve a period of  12 months
+ probation.
+                            Defendant is ordered to serve a period of incarcerat
+ion of  20 days in
+                            the Champaign County Correctional Center. Defendant
+is to receive
+                            credit for  20 days previously served. The Defendant
+ is to submit
+                            specimens of blood, saliva, or tissue to the Illinoi
+s Department of
+                            State Police or to the Department of Corrections wit
+hin 45 days, at a
+                            collection site designated by the Champaign County C
+ourt Services
+                            Department and/or Illinois Department of State Polic
+e, in accordance
+                            with 730 ILCS 5/5-4-3. Count(s) stated in the writte
+n order are herby
+                            dismissed.  Defendant advised of right to appeal and
+ rights pursuant
+                            to Supreme Court Rule 605 and the Court finds that t
+he defendant
+                            understands the same.   Sentencing Order entered.  S
+ee Order.
+                            Defendant is ordered to report to the Court Services
+ Dept.  Court
+                            waives court-appointed attorney fee.
+   01-30-12                 FTA warrant service fee of $75 is still owed.
+                            The arresting agency is Murphysboro Police Departmen
+t per FTA arrest
+                            of 1/9/12
+   02-02-12                 Notice received from Court Services/Circuit Court th
+at the
+                            Defendant had previously provided a sample of her bl
+ood, saliva or
+                            tissue for DNA analysis.  Therefore, per Administrat
+ive Order 10-1,
+                            that part of the sentencing order has been satisfied
+.
+   03-05-12                 Court Ordered Payments
+   05-08-12                 Court Ordered Payments
+   02-01-13                 Order of unsuccessful discharge from probation.
+                            Written Order of Unsuccessful Discharge from Probati
+on entered this
+                            date.
+                            Disposition 01/02  Count 001  No Fine & Cost
+                            Disposition: Terminated Unsatisfied AGG BATTERY/PEAC
+E OFFICER
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(d)(4)  Class 2  Orig.
+                            Sentence: 02/01/2013
+                            Sentence: No Sentence  In force
+                            Case closed.
+   02-20-13                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   04-25-13                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

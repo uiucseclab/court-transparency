@@ -1,0 +1,400 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001269
+
+   Defendant Plaintiff
+GODDARD  DONALD L
+704 DOGWOOD
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 08/09/11
+                Court Room:
+           Next Appearance: 02/20/17
+                Birth Date: 09/19/69
+                 DEFENDANT: GODDARD  DONALD L
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      500.00      BOND -10% BOND FEE           500.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          750.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      890.00      TRAFFIC/CRIMINAL SU          890.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       10.00      PRELIMINARY HEARING           10.00            .00
+         .00      FINES                           .00            .00
+      100.00      VIOLENT CRIME VICTI          100.00            .00
+     1540.00       STREET VALUE DRUG          1540.00            .00
+     1990.00      MANDATORY ASSESSMEN         1990.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117593325 SHERIFF'S BOOKING FEE             20.00        08/11/11
+   117593325 BOND - ORIGINAL                 5000.00        08/11/11
+   118622247 BOND -10% BOND FEE               500.00        06/06/13
+   118622247 DOCUMENT STORAGE                   5.00        06/06/13
+   118622247 AUTOMATION                        10.00        06/06/13
+   118622247 CIRCUIT CLERK FEE                100.00        06/06/13
+   118622247 COURT SECURITY                    25.00        06/06/13
+   118622247 COURT FINANCE FEE                 50.00        06/06/13
+   118622247 STATES ATTORNEY                   40.00        06/06/13
+   118622247 STATES ATTORNEY AUTOMATI           2.00        06/06/13
+   118622247 CRIME STOPPERS                    10.00        06/06/13
+   118622247 ARRESTEE'S MEDICAL                10.00        06/06/13
+   118622247 PROBATION MONITORING FEE          25.00        06/06/13
+   118622247 PROBATION OPER ASSISTANC          10.00        06/06/13
+   118622247 SPINAL CORD RESEARCH FUN           5.00        06/06/13
+   118622247 CRIME LAB                        100.00        06/06/13
+   118622247 TRAUMA FUND                      100.00        06/06/13
+   118622247 TR/CR SUR $10/$40                890.00        06/06/13
+   118622247 CLERK OP & ADMIN FUND             10.00        06/06/13
+   118622247 DRUG COURT PROGRAM                 5.00        06/06/13
+   118622247 PRELIMINARY HEARING               10.00        06/06/13
+   118622247 VIOLENT CRIME VICTIMS AS         100.00        06/06/13
+   118622247  STREET VALUE DRUG FINES        1540.00        06/06/13
+   118622247 MANDATORY ASSESSMENT            1453.00        06/06/13
+   118745434 PROBATION MONITORING FEE          10.00        08/21/13
+   118798520 PROBATION MONITORING FEE          10.00        09/24/13
+   118845868 PROBATION MONITORING FEE          10.00        10/22/13
+   118898096 PROBATION MONITORING FEE          10.00        11/21/13
+   120843573 PROBATION MONITORING FEE          10.00        12/19/13
+   120893849 PROBATION MONITORING FEE          10.00        01/23/14
+   120995405 PROBATION MONITORING FEE          25.00        03/24/14
+   121051830 PROBATION MONITORING FEE          25.00        04/28/14
+   121101314 PROBATION MONITORING FEE          25.00        05/27/14
+   121198286 PROBATION MONITORING FEE          25.00        07/22/14
+   121252400 PROBATION MONITORING FEE          25.00        08/20/14
+   121301847 PROBATION MONITORING FEE          25.00        09/17/14
+   121301847 MANDATORY ASSESSMENT              75.00        09/17/14
+   121358269 PROBATION MONITORING FEE          25.00        10/21/14
+   121358269 MANDATORY ASSESSMENT              25.00        10/21/14
+   121408474 PROBATION MONITORING FEE          25.00        11/19/14
+   121408474 MANDATORY ASSESSMENT              25.00        11/19/14
+   121443179 PROBATION MONITORING FEE          25.00        12/10/14
+   121443179 MANDATORY ASSESSMENT              25.00        12/10/14
+   121518933 PROBATION MONITORING FEE          25.00        01/29/15
+   121518933 MANDATORY ASSESSMENT              75.00        01/29/15
+   121562736 PROBATION MONITORING FEE          25.00        02/25/15
+   121562736 MANDATORY ASSESSMENT              75.00        02/25/15
+   121616080 PROBATION MONITORING FEE          25.00        03/25/15
+   121616080 MANDATORY ASSESSMENT             175.00        03/25/15
+   121664064 PROBATION MONITORING FEE         200.00        04/22/15
+   121711421 PROBATION MONITORING FEE          25.00        05/19/15
+   121711421 MANDATORY ASSESSMENT              62.00        05/19/15
+   121711421 ST POLICE SERVICES FUND           10.00        05/19/15
+   121711421 ST POLICE OPERATIONS ASS          10.00        05/19/15
+   121711424 PROBATION MONITORING FEE         140.00        05/19/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  MFG/DEL 15<100 GR COCA/ANALOG
+
+         2  MFG/DEL 1<15 GR COCAINE/ANLG
+
+         3  POSSESS 15<100 GRAMS COCAINE
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   08-09-11                 Charge 01 Count 001 MFG/DEL 15<100 GR COCA/ANALOG
+                            Statute 720 570/401(a)(2)(A)  Class X  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            Charge 02 Count 002 MFG/DEL 1<15 GR COCAINE/ANLG
+                            Statute 720 570/401(c)(2)  Class 1  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            Charge 03 Count 003 POSSESS 15<100 GRAMS COCAINE
+                            Statute 720 570/402(a)(2)(A)  Class 1  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            NO BOND No Bond
+                            NO BOND No Bond
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned.  Public Defender is appointe
+d and appears
+                            instanter.  Defendant requests Preliminary hearing.
+ Defendant is
+                            admonished as to trial and sentencing in absentia.
+See expanded
+                            record.
+                            Defendant's bond is set in the amount of $50,000. RO
+R DENIED.
+   08-10-11                 Notice of arrest without warrant on file.
+   08-11-11                 Sheriff Booking Fee
+   08-15-11                 Subpoena Served.  No Fees.
+   08-23-11
+                            People appear by Duke C. Harris.  Defendant appears
+personally and
+                            with counsel, M. Gerstein. Motion by the Defendant f
+or continuance.
+                            Motion allowed.
+   08-30-11                 Pretrial order after waiver or finding of probable c
+ause
+                            People appear by Duke Harris.  Defendant appears per
+sonally and with
+                            counsel, Marvin Gerstein.  Cause called for prelimin
+ary hearing.
+                            Witnesses sworn. Evidence heard. The Court having he
+ard the evidence
+                            on preliminary hearing and being fully advised in th
+e premises finds
+                            probable cause to believe that the Defendant has com
+mitted one or more
+                            felony offenses as charged in the information.   Def
+endant enters a
+                            plea of not guilty and requests trial by jury.  Pre-
+Trial Discovery
+                            Order on file.  Bond to continue.
+   09-09-11                 Discovery filed
+   09-22-11                 Supplemental Discovery filed
+   09-26-11                 Supplemental Discovery filed
+   10-11-11                 Supplemental Discovery filed
+   11-01-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   01-03-12
+                            Appearance of the State's Attorney.  Appearance of t
+he
+                            Defendant personally and by Counsel.
+   02-23-12
+                            People appear by Christopher Kanis.  Defendant appea
+rs personally. No
+                            appearance of counsel for the Defendant, Marvin Gers
+tein.
+                            Communication received to the Court from Mr. Gerstei
+n that he in ill
+                            and unable to attend today's hearing. Motion by the
+Defendant for
+                            continuance.  Motion allowed.
+   03-20-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   05-29-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   07-09-12                 Motion to Continue filed
+   07-24-12
+                            Court is in receipt of Mr. Gerstein's Motion to Cont
+inue. Motion is
+                            allowed. Hearing allotted for 7/31/12 is VACATED. Ca
+use realloted for
+                            pre trial.
+   09-25-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   11-08-12                 Order on guilty plea.
+                            Defendant ordered to appear at the sentencing hearin
+g.  Defendant
+                            admonished as to sentencing in absentia.  Defendant
+ordered to report
+                            to the Champaign County Court Services Department.
+The Court Services
+                            Department is to prepare a pre-sentence report and f
+ile a copy of the
+                            same. Defendant also seeks TASC Report and an evalua
+tion for drug
+                            sentencing options. Counts I and II to be dismissed
+at sentencing.
+                            Defendant's bond is to Continue.
+
+
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally and by counsel, Marvin Gerstein.   Defend
+ant advised as to
+                            the nature of the proceedings, the charges and the p
+ossible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly, understandin
+gly and
+                            voluntarily waives rights and enters a plea of guilt
+y to Count 03 of
+                            the charging instrument.  Finding Defendant is guilt
+y of the offense
+                            of Possess 15<100 Grams Cocaine ILCS: 720 570/402(a)
+(2)(A) as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.
+                            Affidavit of Mailing of TASC Report order filed.
+   01-23-13                 Defendant's motion for continuance.
+                            People appear by Troy Lozar.  Defendant appears pers
+onally. No
+                            appearance by attorney Marvin Gerstein. Communicatio
+n received from
+                            Mr. Gerstein indicating that he is ill and cannot at
+tend today's
+                            proceedings. Sentencing hearing is continued.
+   02-20-13                 Disposition 03/00  Count 003  Fine + Cost
+                            Disposition: Guilty POSSESS 15<100 GRAMS COCAINE
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 570/402(a)(2)(A)  Class 1  Orig.
+                            Sentence: 02/20/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  48Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  100Hrs In force
+                                      Supervised Court Service
+                            Sentence: Mandatory Assessment Fine  In force
+                            Sentence: Probation Service Fee  48Mos In force
+                            Sentence: Credit toward all fees and fines  2Days In
+ force
+                            Sentence: Criminal Laboratory Analysis Fee  In force
+                            Sentence: Mandatory Street Value Fine  In force
+                            Fine + Cost           5412.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    750.00     CRIME LAB
+     100.00
+                            PRELIMINARY HEARING     10.00
+                            Payment Due
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed MFG/DEL 15<100 GR COCA/ANALOG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(a)(2)(A)  Class X  Orig.
+                            Sentence: 02/20/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed MFG/DEL 1<15 GR COCAINE/ANLG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(c)(2)  Class 1  Orig.
+                            Sentence: 02/20/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Payment Due
+                            Sentencing Order/Order for Pre-Sentence report.
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally and by counsel, Marvin Gerstein.  Cause c
+alled for
+                            sentencing hearing.  Witnesses sworn. Evidence heard
+. Statements of
+                            counsel heard.  Statement of the defendant heard.  A
+ll financial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  8/20/2015.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  48
+                            months probation. Defendant is ordered to perform 10
+0 hours of public
+                            service work under the supervision of the Champaign
+County Court
+                            Services Department.  The defendant is to be given c
+redit on public
+                            service work for any hours completed in education, t
+reatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes.  Probation sentence imposed i
+s to run
+                            concurrent with the probation sentence imposed in 11
+-DT-432.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same.
+   03-11-13                 Written Order of Conditions entered.
+   03-14-13                 ISP Supplemental Court Disposition prepared and mail
+ed.
+
+                            Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            37.5% to the General Corporate Fund of Champaign Cou
+nty, and
+                            50.0% to the Champaign Police Department.
+   04-05-13                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   05-30-13                 Order
+                            Amended Order of Conditions entered. SEE ORDER.
+   06-06-13                 Bond
+   08-21-13                 Court Ordered Payments
+   09-24-13                 Court Ordered Payments
+   10-22-13                 Court Ordered Payments
+   11-21-13                 Court Ordered Payments
+   12-19-13                 Court Ordered Payments
+   01-23-14                 Court Ordered Payments
+   03-24-14                 Court Ordered Payments
+   04-28-14                 Court Ordered Payments
+   05-27-14                 Court Ordered Payments
+   07-22-14                 Court Ordered Payments
+   08-20-14                 Court Ordered Payments
+   09-17-14                 Court Ordered Payments
+   10-21-14                 Court Ordered Payments
+   11-19-14                 Court Ordered Payments
+   12-10-14                 Court Ordered Payments
+   01-29-15                 Court Ordered Payments
+   02-25-15                 Cash
+   03-25-15                 Cash
+   04-22-15                 Cash
+   05-19-15                 Cash
+                            Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

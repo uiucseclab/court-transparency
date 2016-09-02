@@ -1,0 +1,251 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001969
+
+   Defendant Plaintiff
+HOWELL  TAYLOR
+606 LONE BEECH RD
+MONTICELLO IL 61856
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 12/01/11
+                Court Room:
+           Next Appearance: 12/19/11
+                Birth Date: 12/01/89
+                 DEFENDANT: HOWELL  TAYLOR
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       30.00      BOND -10% BOND FEE            30.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      200.00       STATE OFFENDER DNA          200.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      190.00      TRAFFIC/CRIMINAL SU          190.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+         .00      FINES                           .00            .00
+      350.00      DUI NEW EQUIPMENT F          350.00            .00
+       76.00      VICTIMS FUND-FINE             76.00            .00
+       76.00      DRIVERS EDUCATION             76.00            .00
+      275.00      DUI - 80% IL GENERA          275.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+      456.09      COLLECTION FEES              456.09            .00
+      198.30      LATE FEES                    198.30            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117764220 BOND TRANSFERS IN                300.00        12/16/11
+   117772507 BOND -10% BOND FEE                30.00        12/27/11
+   117772507 DOCUMENT STORAGE                   5.00        12/27/11
+   117772507 AUTOMATION                        10.00        12/27/11
+   117772507 CIRCUIT CLERK FEE                100.00        12/27/11
+   117772507 COURT SECURITY                    25.00        12/27/11
+   117772507 ARRESTEE'S MEDICAL                10.00        12/27/11
+   117772507 COURT FINANCE FEE                 50.00        12/27/11
+   117772507 STATES ATTORNEY                   40.00        12/27/11
+   117772507 CRIME STOPPERS                    10.00        12/27/11
+   117772507 SPINAL CORD RESEARCH FUN           5.00        12/27/11
+   117772507  STATE OFFENDER DNA ID S          15.00        12/27/11
+   118391518 PERSONAL CHECK/CREDIT CA           1.25        01/17/13
+   118391518  STATE OFFENDER DNA ID S         185.00        01/17/13
+   118391518 TRAUMA FUND                       45.77        01/17/13
+   118391518 COLLECTION FEES                   69.23        01/17/13
+   118429314 PERSONAL CHECK/CREDIT CA           1.25        02/06/13
+   118429314 TRAUMA FUND                       54.23        02/06/13
+   118429314 TR/CR SUR $10/$40                190.00        02/06/13
+   118429314 CLERK OP & ADMIN-SERIOUS           5.00        02/06/13
+   118429314 CLERK OP & ADMIN FUND             10.00        02/06/13
+   118429314 DRUG COURT PROGRAM                 5.00        02/06/13
+   118429314 DUI NEW EQUIPMENT FINE            25.30        02/06/13
+   118429314 COLLECTION FEES                   86.86        02/06/13
+   118484999 PERSONAL CHECK/CREDIT CA           1.25        03/13/13
+   118484999 DUI NEW EQUIPMENT FINE           246.75        03/13/13
+   118484999 COLLECTION FEES                   53.25        03/13/13
+   118541249 PERSONAL CHECK/CREDIT CA           1.25        04/18/13
+   118541249 DUI NEW EQUIPMENT FINE            77.95        04/18/13
+   118541249 VICTIMS FUND-FINE                 75.90        04/18/13
+   118541249 COLLECTION FEES                   46.15        04/18/13
+   118594996 PERSONAL CHECK/CREDIT CA           1.25        05/21/13
+   118594996 VICTIMS FUND-FINE                   .10        05/21/13
+   118594996 DRIVERS EDUCATION                 76.00        05/21/13
+   118594996 DUI - IL GENERAL REVENUE         154.67        05/21/13
+   118594996 COLLECTION FEES                   69.23        05/21/13
+   118619915 PERSONAL CHECK/CREDIT CA           1.25        06/05/13
+   118619915 DUI - IL GENERAL REVENUE         120.33        06/05/13
+   118619915 FIRE PREVENTION FUND              15.00        06/05/13
+   118619915 FIRE TRUCK REVOLVING LOA          15.00        06/05/13
+   118619915 ST POLICE SERVICES FUND           10.00        06/05/13
+   118619915 COLLECTION FEES                   69.23        06/05/13
+   118619915 LATE FEES                         70.44        06/05/13
+   118649032 PERSONAL CHECK/CREDIT CA           1.25        06/24/13
+   118649032 COLLECTION FEES                   62.14        06/24/13
+   118649032 LATE FEES                        127.86        06/24/13
+   118649032 ST POLICE OPERATIONS ASS          10.00        06/24/13
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AGG DUI LIC SUSP OR REVOKED
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   12-01-11                 Charge 01 Count 001 AGG DUI LIC SUSP OR REVOKED
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Created and properly labeled court case file.
+                            Cause set for arraignment on
+   12-02-11                 Expanded record of arraignment proceedings.
+                            People appear by Samuel A. Rosenberg.  Defendant app
+ears in custody
+                            together with private counsel, Walter Ding.  Entry o
+f appearance on
+                            file.  Defendant is arraigned.  Defendant waives pre
+liminary hearing,
+                            enters a plea of not guilty and requests a trial by
+jury.  Pre-trial
+                            orders entered.  Defendant admonished as to trial an
+d sentencing in
+                            absentia. Bond set in the amount of $10,000-ROR DENI
+ED.
+   12-07-11                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty AGG DUI LIC SUSP OR REVOKED
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Sentence: 12/07/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  5Yrs In force
+                            Sentence: Credit Time Served  25Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           1412.00     CRIME STOPPERS
+      10.00
+                             STATE OFFENDER DNA    200.00     COLLECTION FEES
+     456.09
+                            LATE FEES              198.30
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Sarah J. Carlson.  Appea
+rance of the
+                            Defendant in custody and by counsel, Walter Ding.
+Defendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Agg Dui Lic Susp Or Revoked ILCS: 625 5/1
+1-501(a) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  6/04/2012.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of
+                            incarceration of  5 years in the Illinois Department
+ of Corrections.
+                            Defendant is to receive credit for 25 days previousl
+y served. THE
+                            SENTENCE IS TO RUN CONCURRENT TO THE SENTENCE IN CAS
+E 10-CF-2125. The
+                            Defendant is to submit specimens of blood, saliva, o
+r tissue to the
+                            Illinois Department of State Police or to the Depart
+ment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Request for
+                            Impact Incarceration Program filed by the Defendant
+this date. The
+                            court finds the Defendant eligible for the Impact In
+carceration
+                            Program. See Sentencing Order entered. Defendant adv
+ised of right to
+                            appeal and rights pursuant to Supreme Court Rule 605
+ and the Court
+                            finds that the defendant understands the same. Sente
+ncing Order
+                            entered this date. See Order.
+                            Judgment-Sentence to Illinois Department of Correcti
+ons
+                            Judgment-Sentence to Illinois Department of Correcti
+ons entered this
+                            date. See Order.
+                            Mittimus prepared.
+   12-08-11                 Report of Felony Conviction prepared / mailed.
+                            Statement of State's Attorney filed
+   12-15-11                 Prepared blueback certificate.
+   12-16-11                 Bond Type Transfer Bond From    2011DT000566 HOWELL
+TAYLOR J
+   12-27-11                 Bond
+   02-09-12                 Correspondence from Judge Difanis to Stateville Corr
+ectional Center
+                            Records Department on file.
+   04-12-12                 Notice of Acceptance in Impact Incarceration Program
+ filed.
+   12-26-12                 Case sent out for collections.
+   01-17-13                 Check
+   02-06-13                 Check
+   03-13-13                 Check
+   04-18-13                 Check
+   05-21-13                 Check
+   06-05-13                 Check
+   06-24-13                 Check
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

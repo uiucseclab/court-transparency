@@ -1,0 +1,244 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001556
+
+   Defendant Plaintiff
+WILSON  JOHN A
+2421 W BRADLEY AVE
+APT G
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 09/23/11
+                Court Room:
+           Next Appearance: 11/27/14
+                Birth Date: 09/02/92
+                 DEFENDANT: WILSON  JOHN A
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      150.00      BOND -10% BOND FEE           150.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       25.00      PROBATION MONITORIN           25.00         275.00
+       10.00      DOMESTIC BATTERY              10.00            .00
+       60.00      TRAFFIC/CRIMINAL SU           60.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      500.00      PUBLIC DEFENDER              500.00            .00
+         .00      FINES                           .00            .00
+       24.00      VICTIMS FUND-FINE             24.00            .00
+      190.00      DOMESTIC VIOLENCE            190.00            .00
+       94.88      COLLECTION FEES                 .00          94.88
+       41.25      LATE FEES                       .00          41.25
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+      326.00                                   326.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117665935 SHERIFF'S BOOKING FEE             20.00        10/04/11
+   117665935 BOND - ORIGINAL                 1500.00        10/04/11
+   117714309 BOND -10% BOND FEE               150.00        11/08/11
+   117714309 DOCUMENT STORAGE                   5.00        11/08/11
+   117714309 E-CITATION                         5.00        11/08/11
+   117714309 AUTOMATION                        10.00        11/08/11
+   117714309 CIRCUIT CLERK FEE                 75.00        11/08/11
+   117714309 COURT SECURITY                    25.00        11/08/11
+   117714309 ARRESTEE'S MEDICAL                10.00        11/08/11
+   117714309 COURT FINANCE FEE                 25.00        11/08/11
+   117714309 STATES ATTORNEY                   20.00        11/08/11
+   117714309 CRIME STOPPERS                     5.00        11/08/11
+   117714309 PROBATION MONITORING FEE          25.00        11/08/11
+   117714309 DOMESTIC BATTERY                  10.00        11/08/11
+   117714309 TR/CR SUR $10/$40                 60.00        11/08/11
+   117714309 CLERK OP & ADMIN FUND             10.00        11/08/11
+   117714309 DRUG COURT PROGRAM                 5.00        11/08/11
+   117714309 PUBLIC DEFENDER                  500.00        11/08/11
+   117714309 VICTIMS FUND-FINE                 24.00        11/08/11
+   117714309 DOMESTIC VIOLENCE                190.00        11/08/11
+   117714309 ST POLICE SERVICES FUND           10.00        11/08/11
+   117714309 ST POLICE OPERATIONS ASS          10.00        11/08/11
+   117714309 *BOND REFUND                     326.00        11/08/11
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AGG BTRY/PREGNANT/HANDICAPPED
+
+         2  DOMESTIC BTRY/PHYSICAL CONTACT
+
+         2  DOMESTIC BTRY/PHYSICAL CONTACT
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   09-23-11                 Charge 01 Count 001 AGG BTRY/PREGNANT/HANDICAPPED
+                            Statute 720 5/12-3.05(d)(2)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 DOMESTIC BTRY/PHYSICAL CONTACT
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Melinda Licciardello appears instanter
+.  Defendant
+                            waives preliminary hearing, enters a plea of not gui
+lty and requests
+                            trial by jury.  Pre-trial orders entered.  Bond set
+in the amount of
+                            $15,000-ROR DENIED. As a condition of bond, the Defe
+ndant is ordered
+                            to have NO CONTACT whatsoever, directly or indirectl
+y, with the victim
+                            and/or address recited in open court. Defendant is a
+dmonished as to
+                            trial and sentencing in absentia. See expanded recor
+d.
+                            Notice of arrest without warrant on file.
+   10-04-11                 Sheriff Booking Fee
+   10-05-11                 Discovery filed
+   11-01-11                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed AGG BTRY/PREGNANT/HANDICAPPED
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.05(d)(2)  Class 3  Orig.
+                            Sentence: 11/01/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty DOMESTIC BTRY/PHYSICAL CONTACT
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Sentence: 11/01/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees
+                            Sentence: Probation  12Mos
+                                      Supervised Court Service
+                            Sentence: Jail  2Days
+                            Sentence: Credit Time Served  2Days
+                            Sentence: Partner Abuse Intervention Program  60Days
+                            Sentence: Defendant stipulates victim is a family or
+ household member.
+                            Sentence: Count(s) dismissed.
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Sentence: Attorney Fees
+                            Fine + Cost            439.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    300.00
+                            DOMESTIC BATTERY        10.00     PUBLIC DEFENDER
+     500.00
+                            DOMESTIC VIOLENCE      190.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally and by counsel, Scott Schmidt.   Defendan
+t advised as to
+                            the nature of the proceedings, the charges and the p
+ossible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly, understandin
+gly and
+                            voluntarily waives rights and enters a plea of guilt
+y to Count 02 of
+                            the charging instrument.  Finding Defendant is guilt
+y of the offense
+                            of Domestic Btry/Physical Contact ILCS: 720 5/12-3.2
+(a)(2) as charged.
+                            Judgment entered in favor of the People and against
+the defendant on
+                            finding of guilt and for costs.  All financial oblig
+ations shall be
+                            paid in equal monthly installments to the Champaign
+County Circuit
+                            Clerk by  4/30/2012.  Any bond posted is to be appli
+ed first to any
+                            court ordered bond assignment on file and then to al
+l restitution
+                            ordered and then to all financial obligations in thi
+s case.  Any
+                            remaining bond shall be discharged to the individual
+ who posted the
+                            bond.  Defendant is ordered to serve a period of  12
+ months probation.
+                            Defendant is ordered to serve a period of incarcerat
+ion of   2 days in
+                            the Champaign County Correctional Center. Defendant
+is to receive
+                            credit for   2 days previously served. Defendant is
+to enroll in a
+                            Partner Abuse Intervention Program approved by the C
+hampaign County
+                            Court Services Department within  60 days and succes
+sfully complete it
+                            without termination. The Defendant hereby stipulates
+ that a victim of
+                            this offense is a family or household member of his
+within the meaning
+                            of 725 ILCS 5/112A-3(3); 720 ILCS 5/12-3.2(b); 720 I
+LCS 5/12-30(d);
+                            and 730 ILCS 5/5-9-1.5. Count(s) stated in the writt
+en order are herby
+                            dismissed. Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.
+   11-08-11                 Bond
+   11-26-12                 Written Order of Unsuccessful Discharge from Probati
+on
+                            Written Order of Unsuccessful Discharge from Probati
+on entered this
+                            date.
+                            Disposition 02/01  Count 002  Manual Calculations
+                            Disposition: Terminated Unsatisfied DOMESTIC BTRY/PH
+YSICAL CONTACT
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Sentence: 11/26/2012
+                            Sentence: No Sentence  In force
+                            Case closed.
+   12-06-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   07-25-13                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,385 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CM001484
+
+   Defendant Plaintiff
+RHODES  DUSTIN
+2538 CR 1450 E RD BO
+THOMASBORO IL 61878
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 12/21/12
+                Court Room:
+           Next Appearance: 09/07/15
+                Birth Date: 09/28/85
+                 DEFENDANT: RHODES  DUSTIN
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       50.00      BOND -10% BOND FEE            50.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          600.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      630.00      TRAFFIC/CRIMINAL SU          630.00            .00
+        5.00      CLERK OP & ADMIN-SE            5.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+     1745.00      FINES                       1745.00            .00
+      350.00      DUI NEW EQUIPMENT F          350.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+      252.00      DRIVERS EDUCATION            252.00            .00
+      400.00      DUI - 80% IL GENERA          400.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           15.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118320153 SHERIFF'S BOOKING FEE             20.00        12/26/12
+   118320153 BOND - ORIGINAL                  500.00        12/26/12
+   118788401 BOND -10% BOND FEE                50.00        09/17/13
+   118788401 DOCUMENT STORAGE                   5.00        09/17/13
+   118788401 E-CITATION                         5.00        09/17/13
+   118788401 AUTOMATION                        10.00        09/17/13
+   118788401 CIRCUIT CLERK FEE                 75.00        09/17/13
+   118788401 COURT SECURITY                    25.00        09/17/13
+   118788401 STATES ATTORNEY                   20.00        09/17/13
+   118788401 STATES ATTORNEY AUTOMATI           2.00        09/17/13
+   118788401 CRIME STOPPERS                     5.00        09/17/13
+   118788401 ARRESTEE'S MEDICAL                10.00        09/17/13
+   118788401 PROBATION MONITORING FEE          25.00        09/17/13
+   118788401 PROBATION OPER ASSISTANC          10.00        09/17/13
+   118788401 SPINAL CORD RESEARCH FUN           5.00        09/17/13
+   118788401 TRAUMA FUND                      100.00        09/17/13
+   118788401 TR/CR SUR $10/$40                153.00        09/17/13
+   121033783 PERSONAL CHECK/CREDIT CA           1.25        04/16/14
+   121033783 PROBATION MONITORING FEE          25.00        04/16/14
+   121033783 TR/CR SUR $10/$40                477.00        04/16/14
+   121033783 CLERK OP & ADMIN-SERIOUS           5.00        04/16/14
+   121033783 DRUG COURT PROGRAM                 5.00        04/16/14
+   121033783 FINES                            288.00        04/16/14
+   121116506 PERSONAL CHECK/CREDIT CA           1.25        06/04/14
+   121116506 PROBATION MONITORING FEE          25.00        06/04/14
+   121116506 FINES                            225.00        06/04/14
+   121179583 PROBATION MONITORING FEE          25.00        07/11/14
+   121179583 FINES                            275.00        07/11/14
+   121346232 PROBATION MONITORING FEE          25.00        10/14/14
+   121346232 FINES                            957.00        10/14/14
+   121346232 DUI NEW EQUIPMENT FINE           350.00        10/14/14
+   121346232 VIOLENT CRIME VICTIMS AS          13.00        10/14/14
+   121531673 PROBATION MONITORING FEE          25.00        02/05/15
+   121531673 VIOLENT CRIME VICTIMS AS          62.00        02/05/15
+   121531673 DRIVERS EDUCATION                252.00        02/05/15
+   121531673 DUI - IL GENERAL REVENUE         400.00        02/05/15
+   121531673 FIRE PREVENTION FUND              15.00        02/05/15
+   121531673 FIRE TRUCK REVOLVING LOA          15.00        02/05/15
+   121531673 ST POLICE SERVICES FUND           10.00        02/05/15
+   121531673 ST POLICE OPERATIONS ASS          10.00        02/05/15
+   121531673 CLERK OP & ADMIN FUND             10.00        02/05/15
+   121531675 PROBATION MONITORING FEE         450.00        02/05/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  FIREARM W/O VALID FOID/ELIG
+
+         2  CARRY/POSSESS FIREARM/1ST
+
+         3  DRVG UNDER INFLU OF ALCOHOL
+
+         3  DRVG UNDER INFLU OF ALCOHOL
+
+         4  DRVG UNDER INFLU/BAC 0.08
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   12-21-12                 Charge 01 Count 001 FIREARM W/O VALID FOID/ELIG
+                            Statute 430 65/2(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 CARRY/POSSESS FIREARM/1ST
+                            Statute 720 5/24-1(a)(4)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 03 Count 003 DRVG UNDER INFLU OF ALCOHOL
+                            Statute 625 5/11-501(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 04 Count 004 DRVG UNDER INFLU/BAC 0.08
+                            Statute 625 5/11-501(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charging documents
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel.  Defendant is admonished as t
+o trial and
+                            sentencing in absentia. Bond is set in the amount of
+ $5,000-ROR
+                            DENIED.  See expanded record.
+   12-26-12                 Sheriff Booking Fee
+                            Cause continued for further proceedings
+                            Notice of arrest without warrant on file.
+   01-04-13                 Expanded record of arraignment proceedings.
+                            Defendant makes second motion for continuance to obt
+ain counsel.
+                            Motion allowed.  Bond to continue.  See expanded rec
+ord.
+   01-17-13                 Drivers License on File.
+                            Entry of appearance filed this date.
+   01-18-13                 Entry of appearance.
+                            Appearance and entry of appearance of attorney, Bret
+t Olmstead for J.
+                            Steven Beckett, with Defendant.  Plea of not guilty
+entered and
+                            Defendant requests trial by jury. Cause set for pre-
+trial.  Defendant
+                            admonished as to trial and sentencing in absentia. B
+ond is to
+                            continue. See expanded record.
+   01-24-13                 Affidavit of mailing of Discovery Materials filed.
+   01-28-13                 Confirmation of Statutory Summary Suspension on file
+.
+                            Provisional reinstatement date
+                            02-05-14
+   03-01-13                 Defendant's motion for continuance.
+                            People appear by Aj Ruggieri.  Defendant appears per
+sonally and with
+                            counsel, J. S. Beckett. Motion by the Defendant for
+continuance.
+                            Motion allowed.
+   04-12-13                 Defendant's motion for continuance.
+                            People appear by AJ Ruggieri.  Defendant appears per
+sonally and with
+                            counsel, Roger Webber. Motion by the Defendant for c
+ontinuance.
+                            Motion allowed.
+   05-10-13                 EHD Eligibility Certificate filed
+   05-17-13                 Defendant's motion for continuance.
+                            People appear by AJ Ruggieri.  Defendant appears per
+sonally and with
+                            counsel, J. S. Beckett. Motion by the Defendant for
+continuance.
+                            Motion allowed. Motion by the Defendant for permissi
+on to leave the
+                            State of Illinois while on bond. Motion allowed. All
+ other conditions
+                            of bond remain in full force and effect.
+   07-03-13
+                            Appearance of the State's Attorney.  Defendant appea
+rs personally and
+                            by Counsel.
+   07-26-13                 Agreed plea-set over for sentencing.
+                            Appearance of the People by AJ Ruggieri.  Appearance
+ of the Defendant
+                            personally and by counsel, J. S. Beckett.   Defendan
+t advised as to
+                            the nature of the proceedings, the charges and the p
+ossible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly, understandin
+gly and
+                            voluntarily waives rights and enters a plea of guilt
+y to Count 03 of
+                            the charging instrument.  Finding Defendant is guilt
+y of the offense
+                            of Drvg Under Influ Of Alcohol ILCS: 625 5/11-501(a)
+(2) as charged.
+                            Cause allotted for sentencing confirmation on Septem
+ber 06, 2013 at
+                            08:30 AM in Courtroom E.  Defendant is ordered to ap
+pear and is
+                            advised of sentencing in absentia.  Defendant is ord
+ered to obtain a
+                            substance abuse evaluation prior to the hearing.  Wa
+iver of Jury on
+                            file.  Counts I, II and IV are to be dismissed at th
+e sentencing.
+   09-05-13                 Drug and alcohol evaluation on file.
+   09-06-13                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed FIREARM W/O VALID FOID/ELIG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 430 65/2(a)(1)  Class A
+                            Sentence: 09/06/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  Fine + Cost
+                            Disposition: Guilty DRVG UNDER INFLU OF ALCOHOL
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)(2)  Class A
+                            Sentence: 09/06/2013
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  90Days In force
+                            Sentence: Credit Time Served  1Days In force
+                            Sentence: Anti-Crime Assessment Fee  In force
+                            Sentence: Violent Crime Victims Assistance Fine  In
+force
+                            Sentence: Probation Service Fee  24Mos In force
+                            Sentence: Credit toward all fees and fines  1Days In
+ force
+                            Sentence: Victim Impact Panel  In force
+                            Sentence: Substance Abuse Treatment/Evaluation  In f
+orce
+                            Sentence: SCRAM  90Days In force
+                            Sentence: Seized contraband is forfeited to the arre
+sting agency  In f
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           3834.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    600.00
+                            Payment Due
+                            Sentencing order.
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant personally and by counsel, J. S. Beckett.
+ Cause called for
+                            sentencing confirmation. Drug and Alcohol Evaluation
+ signed by the
+                            Defendant placed on file. Sentence is confirmed this
+ date. Judgment
+                            entered in favor of the People and against the defen
+dant on finding of
+                            guilt and for costs.  All financial obligations shal
+l be paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk by
+                            3/05/2014.  Any bond posted is to be applied first t
+o any court
+                            ordered bond assignment on file and then to all rest
+itution ordered
+                            and then to all financial obligations in this case.
+ Any remaining
+                            bond shall be discharged to the individual who poste
+d the bond.
+                            Defendant is ordered to serve a period of  24 months
+ probation.
+                            Defendant is ordered to serve a period of incarcerat
+ion of  90 days in
+                            the Champaign County Correctional Center. Defendant
+is to receive
+                            credit for 1 day previously served. DEFENDANT IS ORD
+ERED TO REPORT TO
+                            THE CHAMPAIGN COUNTY CORRECTIONAL CENTER ON 9/11/13
+AT 9:00 AM FOR
+                            COMMENCEMENT OF THE SENTENCE. Defendant is to attend
+ the next Victim
+                            Impact Panel presented by the Champaign County Court
+ Services
+                            Department.  Defendant is to obtain an evaluation fo
+r alcohol and drug
+                            abuse from an agency or agent recommended by the Cou
+rt Services
+                            Department, and follow any recommendations contained
+ therein as to
+                            treatment and/or counseling.  Any contraband seized
+in this matter,
+                            and any additional property listed in the written or
+der is forfeited
+                            to the arresting agency. The Defendant is ordered to
+ have a Secured
+                            Remote Alcohol Monitoring (SCRAM) device installed o
+n his/her person
+                            as soon as practicable, through SCRAM provider CAM S
+ystems and comply
+                            with conditions outlined in the Order to Abstain fro
+m Alcohol and for
+                            SCRAM Testing entered herein. Counts I, II and IV ar
+e hereby
+                            dismissed. Defendant is advised of his right to appe
+al and the Court
+                            finds he understands. Sentencing Order entered this
+date. See Order.
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed CARRY/POSSESS FIREARM/1ST
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/24-1(a)(4)  Class A
+                            Sentence: 09/06/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed DRVG UNDER INFLU/BAC 0.08
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)(1)  Class A
+                            Sentence: 09/06/2013
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Sentencing order.
+                            Order to Abstain From Alcohol and for Scram Testing
+filed
+   09-16-13                 Report of Court Disposition sent to Secretary of Sta
+te.
+   09-17-13                 Bond
+                            Defendant's driver's license forward to the
+                            Secretary of State's office.
+   04-16-14                 Check
+                            Temporary Travel Permit approved and placed on file.
+ See Permit.
+                            Provisional Travel Permit on file.
+   06-04-14                 Check
+   07-11-14                 Court Ordered Payments
+   10-14-14                 Court Ordered Payments
+   02-05-15                 Court Ordered Payments
+                            Court Ordered Payments
+   09-14-15                 Order of Discharge from Probation entered this date.
+ See Order.
+                            Order of discharge from probation on file.
+                            Disposition 03/01  Count 003  Manual Calculations
+                            Disposition: Probation Terminated DRVG UNDER INFLU O
+F ALCOHOL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)(2)  Class A
+                            Sentence: 09/14/2015
+                            Sentence: No Sentence  In force
+   10-01-15                 All obligations have been met, case is closed.
+   10-07-15                 Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

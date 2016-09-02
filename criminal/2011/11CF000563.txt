@@ -1,0 +1,231 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000563
+
+   Defendant Plaintiff
+HULS  JOSHUA M
+207 W MAIN
+ROYAL IL 61871
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 04/07/11
+                Court Room:
+           Next Appearance: 05/11/15
+                Birth Date: 04/21/78
+                 DEFENDANT: HULS  JOSHUA M
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      100.00      BOND -10% BOND FEE           100.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+        4.00      VICTIMS FUND-NO FIN            4.00            .00
+       25.00      PROBATION MONITORIN          450.00            .00
+         .00      SPINAL CORD RESEARC             .00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+         .00      DRUG COURT PROGRAM              .00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+      591.00                                   591.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117483270 BOND TRANSFERS IN               1000.00        05/24/11
+   117692784 BOND -10% BOND FEE               100.00        10/25/11
+   117692784 DOCUMENT STORAGE                   5.00        10/25/11
+   117692784 AUTOMATION                        10.00        10/25/11
+   117692784 CIRCUIT CLERK FEE                100.00        10/25/11
+   117692784 COURT SECURITY                    25.00        10/25/11
+   117692784 ARRESTEE'S MEDICAL                10.00        10/25/11
+   117692784 COURT FINANCE FEE                 50.00        10/25/11
+   117692784 STATES ATTORNEY                   40.00        10/25/11
+   117692784 VICTIMS FUND-NO FINE               4.00        10/25/11
+   117692784 PROBATION MONITORING FEE          25.00        10/25/11
+   117692784 TR/CR SUR $10/$40                 10.00        10/25/11
+   117692784 CLERK OP & ADMIN FUND             10.00        10/25/11
+   117692784 ST POLICE SERVICES FUND           10.00        10/25/11
+   117692784 ST POLICE OPERATIONS ASS          10.00        10/25/11
+   117692784 *BOND REFUND                     591.00        10/25/11
+   118542731 PROBATION MONITORING FEE         425.00        04/19/13
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  DRIVING RVK/SUSP DUI/SSS 4-9
+
+         1  DRIVING RVK/SUSP DUI/SSS 4-9
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   04-07-11                 Charge 01 Count 001 DRIVING RVK/SUSP DUI/SSS 4-9
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause allotted for hearing on
+                            Created and properly labeled court case file.
+   05-17-11                 Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and appears instanter.  Defendant waives p
+reliminary
+                            hearing, enters a plea of not guilty and requests tr
+ial by jury.
+                            Pre-trial orders entered.  See expanded record.  Def
+endant is
+                            admonished as to trial and sentencing in absentia.
+   05-24-11                 Bond Type Transfer Bond From    2011TR005511 HULS JO
+SHUA M
+   06-10-11                 Discovery filed
+                            Answer to Discovery filed
+   06-23-11
+                            Defendant's motion for pre-trial.  Motion allowed.
+   07-21-11
+                            Bond to continue.
+   08-04-11
+                            Defendant ordered to appear.
+                            Representation the defendant has hired private attor
+ney.
+   08-10-11                 Subpoena Served.  No Fees.
+   08-11-11
+                            Court vacates the appointment of the Public Defender
+'s office as
+                            counsel for the defendant and B. Olmstead is now att
+orney of record.
+                            Entry of appearance on file.
+                            Plea of not guilty and request for  jury trial made.
+  Entry of
+                            appearance on file.
+   09-20-11
+                            Hearing allotment of 09/22/2011 is vacated and re-al
+lotted for the
+                            Jury Trial call to 10/04/2011 at 1:30 pm in Courtroo
+m L.
+   09-21-11                 Payment Due
+   10-04-11
+                            People appear by Elizabeth A. Taylor.  Defendant app
+ears personally
+                            and with counsel, Brett N. Olmstead.
+   10-19-11                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty DRIVING RVK/SUSP DUI/SSS 4-9
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Sentence: 10/19/2011
+                            Sentence: Cost Only
+                            Sentence: Probation  18Mos
+                                      Supervised Court Service
+                            Sentence: Jail  180Days
+                            Sentence: Credit Time Served  6Days
+                            Sentence: Incarceration is not to be served pursuant
+ to CHIPS
+                            Sentence: Not eligible for good time credit.
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Cost Only              384.00     PROBATION MONITORI
+N    450.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, Brett N. Ol
+mstead.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Driving Rvk/Susp Dui/Sss 4-
+9 ILCS: 625
+                            5/6-303(a) as charged. Judgment entered in favor of
+the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  4/16/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  18 months probation. Defendant is ordered
+ to serve a period
+                            of incarceration of 180 days in the Champaign County
+ Correctional
+                            Center. Defendant is to receive credit for   6 days
+previously served.
+                            Defendant is NOT entitled to day for day good time c
+redit under the
+                            County Jail Good Behavior Allowance Act. The Defenda
+nt is to submit
+                            specimens of blood, saliva, or tissue to the Illinoi
+s Department of
+                            State Police or to the Department of Corrections wit
+hin 45 days, at a
+                            collection site designated by the Champaign County C
+ourt Services
+                            Department and/or Illinois Department of State Polic
+e, in accordance
+                            with 730 ILCS 5/5-4-3. Defendant advised of right to
+ appeal and rights
+                            pursuant to Supreme Court Rule 605 and the Court fin
+ds that the
+                            defendant understands the same.
+   10-21-11                 Report of Felony Conviction prepared / mailed.
+   10-25-11                 Bond
+   10-27-11                 Subpoena Served.  No Fees.
+   05-24-12                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   04-04-13                 Probation Violation Report filed
+   04-19-13                 Court Ordered Payments
+   05-09-13                 Order of Discharge from Probation entered this date.
+ See Order.
+                            Disposition 01/01  Count 001  Manual Calculations
+                            Disposition: Probation Terminated DRIVING RVK/SUSP D
+UI/SSS 4-9
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/6-303(a)  Class 4  Orig.
+                            Sentence: 05/09/2013
+                            Sentence: No Sentence  In force
+                            Case closed.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

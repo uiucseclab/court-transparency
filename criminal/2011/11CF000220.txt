@@ -1,0 +1,218 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000220
+
+   Defendant Plaintiff
+BAILEY  HENRY
+54 E BEARDSLEY
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 02/14/11
+                Court Room:
+           Next Appearance: 07/25/11
+                Birth Date: 07/26/70
+                 DEFENDANT: BAILEY  HENRY
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      100.00      BOND -10% BOND FEE           100.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       20.00      VICTIMS FUND-NO FIN           20.00            .00
+      200.00       STATE OFFENDER DNA          200.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+      405.00                                   405.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117338119 SHERIFF'S BOOKING FEE             20.00        02/15/11
+   117338119 BOND - ORIGINAL                 1000.00        02/15/11
+   117566416 BOND -10% BOND FEE               100.00        07/22/11
+   117566416 DOCUMENT STORAGE                   5.00        07/22/11
+   117566416 AUTOMATION                        10.00        07/22/11
+   117566416 CIRCUIT CLERK FEE                100.00        07/22/11
+   117566416 COURT SECURITY                    25.00        07/22/11
+   117566416 ARRESTEE'S MEDICAL                10.00        07/22/11
+   117566416 COURT FINANCE FEE                 50.00        07/22/11
+   117566416 STATES ATTORNEY                   40.00        07/22/11
+   117566416 VICTIMS FUND-NO FINE              20.00        07/22/11
+   117566416  STATE OFFENDER DNA ID S         200.00        07/22/11
+   117566416 CLERK OP & ADMIN FUND             10.00        07/22/11
+   117566416 DRUG COURT PROGRAM                 5.00        07/22/11
+   117566416 ST POLICE SERVICES FUND           10.00        07/22/11
+   117566416 ST POLICE OPERATIONS ASS          10.00        07/22/11
+   117566416 *BOND REFUND                     405.00        07/22/11
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  FAILURE REPORT ACCIDENT/INJURY
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   02-14-11                 Charge 01 Count 001 FAILURE REPORT ACCIDENT/INJURY
+                            Statute 625 5/11-401(b)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Katie Jessup appears instanter.  Defen
+dant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond of $10,000 to
+ continue.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. See
+                            expanded record.
+   02-15-11                 Sheriff Booking Fee
+   03-02-11                 Discovery filed
+                            Answer to Discovery filed
+   04-21-11
+                            Court vacates the appointment of the Public Defender
+'s office as
+                            counsel for the defendant and J. Gadau is attorney o
+f record. See
+                            ORDER entered.
+                            Defendant's motion for pre-trial.  Motion allowed.
+                            DEFENDANT ADVISED THAT THIS WILL BE THE LAST CONTINU
+ANCE.
+   05-02-11
+                            Defendant's Motion to Suppress Confession, Statement
+s and Other
+                            Information Obtained filed.
+   05-13-11                 Response to Defendant's motion to suppress confessio
+n,statements
+                            And other information obtained on file
+   05-16-11
+                            Defendant ordered to appear.
+   05-24-11
+                            Defendant ordered to appear.
+   06-07-11                 Subpoena Served.  No Fees.
+   06-08-11                 Subpoena Served.  No Fees.
+   06-14-11
+                            Joint motion to continue on file and allowed by the
+Court.
+                            Defendant ordered to appear.
+                            Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   06-15-11
+                            Defendant's motion to continue on file and allowed w
+ith no objection
+                            by the People.
+                            Defendant ordered to appear.
+                            Subpoena Served.  No Fees.
+   06-22-11                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   06-24-11                 Subpoena Served.  No Fees.
+   06-27-11                 Subpoena Served.  No Fees.
+   07-07-11                 Subpoena Served.  No Fees.
+   07-14-11                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty FAILURE REPORT ACCIDENT/INJURY
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-401(b)  Class 2  Orig.
+                            Sentence: 07/14/2011
+                            Sentence: Cost Only
+                            Sentence: Department Of Corrections  3Yrs
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Cost Only              395.00      STATE OFFENDER DN
+A    200.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Marley C. Nelson.  Appea
+rance of the
+                            Defendant personally and by counsel, John Gadau.   D
+efendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Failure Report Accident/Injury ILCS: 625
+5/11-401(b) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  1/10/2012.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of
+                            incarceration of   3 year  in the Illinois Departmen
+t of Corrections.
+                            The Defendant is to submit specimens of blood, saliv
+a, or tissue to
+                            the Illinois Department of State Police or to the De
+partment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Defendant
+                            advised of right to appeal and rights pursuant to Su
+preme Court Rule
+                            605 and the Court finds that the defendant understan
+ds the same.
+                            Mittimus prepared.
+   07-19-11                 Written Judgment-Sentence to Illinois Department of
+Corrections
+                            Written Judgment-Sentence to Illinois Department of
+Corrections
+                            entered.
+   07-21-11                 Report of Felony Conviction prepared / mailed.
+
+                            Statement of State's Attorney, filed.
+   07-22-11                 Bond
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

@@ -1,0 +1,81 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CM000003
+
+   Defendant Plaintiff
+WHITMIRE  COREY
+1202 OGLETHORPE
+URBANA IL 61802
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/03/12
+                Court Room:
+           Next Appearance: 01/03/14
+                Birth Date: 12/30/94
+                 DEFENDANT: WHITMIRE  COREY
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       10.00      BOND -10% BOND FEE            10.00            .00
+       90.00                                    90.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117780377 SHERIFF'S BOOKING FEE             20.00        01/03/12
+   117780377 BOND - ORIGINAL                  100.00        01/03/12
+   117794983 BOND -10% BOND FEE                10.00        01/13/12
+   117794983 *BOND REFUND                      90.00        01/13/12
+   117794983 *BOND REFUND                     -90.00        11/22/15
+   122007071 ABANDONED BOND PROCESSIN          20.00        11/09/15
+   122007071 ABANDONED BONDS                   70.00        11/09/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  THEFT CONTROL INTENT <$500
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   01-03-12                 Charge 01 Count 001 THEFT CONTROL INTENT <$500
+                            Statute 720 5/16-1(a)(1)(A)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Sheriff Booking Fee
+                            Notice of arrest without warrant on file.
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed THEFT CONTROL INTENT <$500
+                            Disposition Type: By Bench   Defendant Plea: No Plea
+ Entered
+                            Statute 720 5/16-1(a)(1)(A)  Class A  Orig.
+                            Sentence: 01/03/2012
+                            Sentence: No Sentence
+                            No Fine & Cost          10.00
+                            Case closed.
+   01-13-12                 Bond
+   01-30-12                 Circuit Clerk mail returned undeliverable on file.
+   11-09-15                 Miscellaneous
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

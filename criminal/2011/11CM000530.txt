@@ -1,0 +1,336 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CM000530
+
+   Defendant Plaintiff
+GLOVER  RAYMOND L
+302 S SECOND ST APT
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 05/25/11
+                Court Room:
+           Next Appearance: 10/24/12
+                Birth Date: 04/25/59
+                 DEFENDANT: GLOVER  RAYMOND L
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       10.00      COURT FINANCE FEE             10.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+       20.00      VICTIMS FUND-NO FIN           20.00            .00
+       15.00      PROBATION MONITORIN           79.61         100.39
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      114.89      COLLECTION FEES               65.77          49.12
+       49.95      LATE FEES                     21.62          28.33
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117666678 DOCUMENT STORAGE                   5.00        10/05/11
+   117958692 E-CITATION                         2.00        05/15/12
+   118028379 E-CITATION                         3.00        07/09/12
+   118028379 AUTOMATION                         2.00        07/09/12
+   118084804 AUTOMATION                         8.00        08/15/12
+   118084804 CIRCUIT CLERK FEE                 12.00        08/15/12
+   118181799 CIRCUIT CLERK FEE                  5.00        10/15/12
+   118235664 CIRCUIT CLERK FEE                  5.00        11/15/12
+   118290956 CIRCUIT CLERK FEE                  5.00        12/14/12
+   118526820 CIRCUIT CLERK FEE                  5.00        04/10/13
+   118603795 CIRCUIT CLERK FEE                  5.00        05/28/13
+   118648039 CIRCUIT CLERK FEE                  5.00        06/24/13
+   118719838 CIRCUIT CLERK FEE                  3.85        08/06/13
+   118719838 COLLECTION FEES                    1.15        08/06/13
+   118767284 CIRCUIT CLERK FEE                  3.46        09/05/13
+   118767284 COLLECTION FEES                    1.15        09/05/13
+   118767284 LATE FEES                           .39        09/05/13
+   118867388 CIRCUIT CLERK FEE                  3.46        11/04/13
+   118867388 COLLECTION FEES                    1.15        11/04/13
+   118867388 LATE FEES                           .39        11/04/13
+   118919019 CIRCUIT CLERK FEE                  3.46        12/05/13
+   118919019 COLLECTION FEES                    1.15        12/05/13
+   118919019 LATE FEES                           .39        12/05/13
+   120865953 CIRCUIT CLERK FEE                  3.46        01/09/14
+   120865953 COLLECTION FEES                    1.15        01/09/14
+   120865953 LATE FEES                           .39        01/09/14
+   120910306 CIRCUIT CLERK FEE                  3.46        02/03/14
+   120910306 COLLECTION FEES                    1.15        02/03/14
+   120910306 LATE FEES                           .39        02/03/14
+   121018330 CIRCUIT CLERK FEE                  3.46        04/07/14
+   121018330 COLLECTION FEES                    1.15        04/07/14
+   121018330 LATE FEES                           .39        04/07/14
+   121120418 CIRCUIT CLERK FEE                  3.46        06/05/14
+   121120418 COLLECTION FEES                    1.15        06/05/14
+   121120418 LATE FEES                           .39        06/05/14
+   121169747 CIRCUIT CLERK FEE                  3.46        07/07/14
+   121169747 COLLECTION FEES                    1.15        07/07/14
+   121169747 LATE FEES                           .39        07/07/14
+   121223888 CIRCUIT CLERK FEE                  1.47        08/05/14
+   121223888 COURT SECURITY                     1.99        08/05/14
+   121223888 COLLECTION FEES                    1.15        08/05/14
+   121223888 LATE FEES                           .39        08/05/14
+   121281804 COURT SECURITY                     3.46        09/05/14
+   121281804 COLLECTION FEES                    1.15        09/05/14
+   121281804 LATE FEES                           .39        09/05/14
+   121327157 COURT SECURITY                     3.46        10/01/14
+   121327157 COLLECTION FEES                    1.15        10/01/14
+   121327157 LATE FEES                           .39        10/01/14
+   121379741 COURT SECURITY                     3.46        11/03/14
+   121379741 COLLECTION FEES                    1.15        11/03/14
+   121379741 LATE FEES                           .39        11/03/14
+   121411999 COURT SECURITY                     6.92        11/21/14
+   121411999 COLLECTION FEES                    2.31        11/21/14
+   121411999 LATE FEES                           .77        11/21/14
+   121422666 COURT SECURITY                     5.71        12/01/14
+   121422666 ARRESTEE'S MEDICAL                 1.21        12/01/14
+   121422666 COLLECTION FEES                    2.31        12/01/14
+   121422666 LATE FEES                           .77        12/01/14
+   121473518 ARRESTEE'S MEDICAL                 6.92        12/31/14
+   121473518 COLLECTION FEES                    2.31        12/31/14
+   121473518 LATE FEES                           .77        12/31/14
+   121520774 ARRESTEE'S MEDICAL                 1.87        01/30/15
+   121520774 COURT FINANCE FEE                  5.05        01/30/15
+   121520774 COLLECTION FEES                    2.31        01/30/15
+   121520774 LATE FEES                           .77        01/30/15
+   121569513 COURT FINANCE FEE                  4.95        03/02/15
+   121569513 STATES ATTORNEY                    1.97        03/02/15
+   121569513 COLLECTION FEES                    2.31        03/02/15
+   121569513 LATE FEES                           .77        03/02/15
+   121630355 STATES ATTORNEY                    6.92        04/02/15
+   121630355 COLLECTION FEES                    2.31        04/02/15
+   121630355 LATE FEES                           .77        04/02/15
+   121681424 STATES ATTORNEY                    6.92        05/01/15
+   121681424 COLLECTION FEES                    2.31        05/01/15
+   121681424 LATE FEES                           .77        05/01/15
+   121732044 STATES ATTORNEY                    4.19        06/01/15
+   121732044 VICTIMS FUND-NO FINE               2.73        06/01/15
+   121732044 COLLECTION FEES                    2.31        06/01/15
+   121732044 LATE FEES                           .77        06/01/15
+   121790802 VICTIMS FUND-NO FINE               6.92        07/06/15
+   121790802 COLLECTION FEES                    2.31        07/06/15
+   121790802 LATE FEES                           .77        07/06/15
+   121842745 VICTIMS FUND-NO FINE               6.92        08/03/15
+   121842745 COLLECTION FEES                    2.31        08/03/15
+   121842745 LATE FEES                           .77        08/03/15
+   121898444 VICTIMS FUND-NO FINE               3.43        09/02/15
+   121898444 PROBATION MONITORING FEE           3.49        09/02/15
+   121898444 COLLECTION FEES                    2.31        09/02/15
+   121898444 LATE FEES                           .77        09/02/15
+   121952542 PROBATION MONITORING FEE           6.92        10/02/15
+   121952542 COLLECTION FEES                    2.31        10/02/15
+   121952542 LATE FEES                           .77        10/02/15
+   121520774 COLLECTION FEES                    2.31        11/06/15
+   121520774 COLLECTION FEES                   -2.31        11/06/15
+   122006796 PROBATION MONITORING FEE           6.92        11/03/15
+   122006796 COLLECTION FEES                    2.31        11/03/15
+   122006796 LATE FEES                           .77        11/03/15
+   122053493 PROBATION MONITORING FEE           6.92        12/02/15
+   122053493 COLLECTION FEES                    2.31        12/02/15
+   122053493 LATE FEES                           .77        12/02/15
+   122099834 PROBATION MONITORING FEE           6.92        12/31/15
+   122099834 COLLECTION FEES                    2.31        12/31/15
+   122099834 LATE FEES                           .77        12/31/15
+   122148287 PROBATION MONITORING FEE           6.92        02/01/16
+   122148287 COLLECTION FEES                    2.31        02/01/16
+   122148287 LATE FEES                           .77        02/01/16
+   122202291 PROBATION MONITORING FEE           6.92        03/03/16
+   122202291 COLLECTION FEES                    2.31        03/03/16
+   122202291 LATE FEES                           .77        03/03/16
+   122254556 PROBATION MONITORING FEE           6.92        04/01/16
+   122254556 COLLECTION FEES                    2.31        04/01/16
+   122254556 LATE FEES                           .77        04/01/16
+   122303198 PROBATION MONITORING FEE           6.92        04/29/16
+   122303198 COLLECTION FEES                    2.31        04/29/16
+   122303198 LATE FEES                           .77        04/29/16
+   122360396 PROBATION MONITORING FEE           6.92        06/02/16
+   122360396 COLLECTION FEES                    2.31        06/02/16
+   122360396 LATE FEES                           .77        06/02/16
+   122412248 PROBATION MONITORING FEE           6.92        07/01/16
+   122412248 COLLECTION FEES                    2.31        07/01/16
+   122412248 LATE FEES                           .77        07/01/16
+   122461031 PROBATION MONITORING FEE           6.92        08/01/16
+   122461031 COLLECTION FEES                    2.31        08/01/16
+   122461031 LATE FEES                           .77        08/01/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  CRIMINAL TRESPASS TO LAND
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   05-25-11                 Charge 01 Count 001 CRIMINAL TRESPASS TO LAND
+                            Statute 720 5/21-3(a)(2)  Class B  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Stephanie Corum appears instanter.  Plea of not guil
+ty entered and
+                            Defendant requests trial by jury. Prior $1,000 recog
+nizance bond to
+                            continue. Defendant is ordered to have NO CONTACT wh
+atsoever with the
+                            Circle K located at 609 E. University Ave. in Champa
+ign, IL. Defendant
+                            is admonished as to trial and sentencing in absentia
+.  See expanded
+                            record.
+   06-02-11                 Proof of service of discovery materials filed.
+   06-28-11                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty CRIMINAL TRESPASS TO LAND
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/21-3(a)(2)  Class B  Orig.
+                            Sentence: 06/28/2011
+                            Sentence: Cost Only
+                            Sentence: Conditional Discharge  12Mos
+                                      Supervised Court Service
+                            Sentence: Public Service  40Hrs
+                                      Supervised Court Service
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Cost Only              210.00     E-CITATION
+       5.00
+                            PROBATION MONITORIN    180.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Andrea I. Bergstrom.  Ap
+pearance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Criminal Trespass To Land I
+LCS: 720
+                            5/21-3(a)(2) as charged. Judgment entered in favor o
+f the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by 12/27/2011.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months Conditional Discharge. Defendan
+t is ordered to
+                            perform  40 hours of public service work under the s
+upervision of the
+                            Champaign County Court Services Department.  The def
+endant is to be
+                            given credit on public service work for any hours co
+mpleted in
+                            education, treatment, aftercare, sobriety based self
+-help group
+                            meetings, Victim Impact Panel and GED classes. Defen
+dant advised of
+                            right to appeal and rights pursuant to Supreme Court
+ Rule 605 and the
+                            Court finds that the defendant understands the same.
+   10-05-11                 Court Ordered Payments
+   10-27-11                 Certificate of completion of public service work fil
+ed
+   04-24-12                 Defendant's Motion for Extension of Time to Pay Cost
+s filed
+                            and forwarded to court.
+
+                            Court notes Defendant's Motion for Extension of Time
+ to Pay Costs.
+                            Motion allowed. Defendant is granted an additional 1
+80 Days to pay
+                            from today's date.
+   05-15-12                 Court Ordered Payments
+   07-09-12                 Court Ordered Payments
+   08-15-12                 Court Ordered Payments
+   10-15-12                 Court Ordered Payments
+   11-15-12                 Court Ordered Payments
+   12-14-12                 Court Ordered Payments
+   04-10-13                 Court Ordered Payments
+   05-28-13                 Court Ordered Payments
+   06-24-13                 Court Ordered Payments
+   07-25-13                 Case sent out for collections.
+   08-06-13                 Court Ordered Payments
+   09-05-13                 Court Ordered Payments
+   11-04-13                 Court Ordered Payments
+   12-05-13                 Court Ordered Payments
+   01-09-14                 Court Ordered Payments
+   02-03-14                 Court Ordered Payments
+   04-07-14                 Court Ordered Payments
+   06-05-14                 Court Ordered Payments
+   07-07-14                 Court Ordered Payments
+   08-05-14                 Court Ordered Payments
+   09-05-14                 Court Ordered Payments
+   10-01-14                 Court Ordered Payments
+   11-03-14                 Court Ordered Payments
+   11-21-14                 Court Ordered Payments
+   12-01-14                 Court Ordered Payments
+   12-31-14                 Court Ordered Payments
+   01-30-15                 Court Ordered Payments
+   03-02-15                 Cash
+   04-02-15                 Cash
+   05-01-15                 Cash
+   06-01-15                 Cash
+   07-06-15                 Cash
+   08-03-15                 Cash
+   09-02-15                 Cash
+   10-02-15                 Cash
+   11-03-15                 Cash
+   12-02-15                 Cash
+   12-31-15                 Cash
+   02-01-16                 Cash
+   03-03-16                 Cash
+   04-01-16                 Cash
+   04-29-16                 Cash
+   06-02-16                 Cash
+   07-01-16                 Cash
+   08-01-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

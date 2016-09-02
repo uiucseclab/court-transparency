@@ -1,0 +1,236 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CM001053
+
+   Defendant Plaintiff
+MILLER  JOSEPH
+844 PROSPECT AVE
+WINNETKA IL 0
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 09/17/12
+                Court Room:
+           Next Appearance: 11/17/14
+                Birth Date: 02/11/93
+                 DEFENDANT: MILLER  JOSEPH
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       15.00      BOND -10% BOND FEE            15.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       10.00      STATES ATTORNEY               10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          600.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+      130.00      TRAFFIC/CRIMINAL SU          130.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      495.00      FINES                        495.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118150588 SHERIFF'S BOOKING FEE             20.00        09/25/12
+   118150588 BOND - ORIGINAL                  150.00        09/25/12
+   118283902 BOND -10% BOND FEE                15.00        12/11/12
+   118283902 DOCUMENT STORAGE                   5.00        12/11/12
+   118283902 E-CITATION                         5.00        12/11/12
+   118283902 AUTOMATION                        10.00        12/11/12
+   118283902 CIRCUIT CLERK FEE                 75.00        12/11/12
+   118283902 COURT SECURITY                    25.00        12/11/12
+   118283902 COURT FINANCE FEE                 15.00        12/11/12
+   118763054 COURT FINANCE FEE                 10.00        09/03/13
+   118763054 STATES ATTORNEY                   10.00        09/03/13
+   118763054 STATES ATTORNEY AUTOMATI           2.00        09/03/13
+   118763054 CRIME STOPPERS                     5.00        09/03/13
+   118763054 ARRESTEE'S MEDICAL                10.00        09/03/13
+   118763054 PROBATION MONITORING FEE          25.00        09/03/13
+   118763054 PROBATION OPER ASSISTANC          10.00        09/03/13
+   118763054 TR/CR SUR $10/$40                130.00        09/03/13
+   118763054 DRUG COURT PROGRAM                 5.00        09/03/13
+   118763054 FINES                            495.00        09/03/13
+   118763054 VIOLENT CRIME VICTIMS AS          75.00        09/03/13
+   118763054 ST POLICE OPERATIONS ASS          10.00        09/03/13
+   118763055 PROBATION MONITORING FEE         575.00        09/03/13
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  RESIST/PC OFF/CORR EMP/FRFTR
+
+         2  PURCHASE/ACCEPT LIQUOR/MINOR
+
+         2  PURCHASE/ACCEPT LIQUOR/MINOR
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   09-17-12                 Charge 01 Count 001 RESIST/PC OFF/CORR EMP/FRFTR
+                            Statute 720 5/31-1(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 PURCHASE/ACCEPT LIQUOR/MINOR
+                            Statute 235 5/6-20(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Created and properly labeled court case file.
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Katie Jessup appears instanter.  Plea of not guilty
+entered and
+                            Defendant requests trial by jury.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia. Bond to continue as post
+ed.  See expanded
+                            record.
+   09-25-12                 Sheriff Booking Fee
+                            Proof of service of discovery materials filed.
+   10-09-12                 Substitution of Counsel
+                            Substitution of Counsel on file. The Public Defender
+ withdraws as
+                            counsel for the Defendant and Mark Lipton enters his
+ appearance. See
+                            Order. Pre trial hearing 10/10/12 is vacated. Counse
+l notified this
+                            date.
+   11-16-12                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed RESIST/PC OFF/CORR EMP/FRFTR
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/31-1(a)  Class A  Orig.
+                            Sentence: 11/16/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Withhold Judgment/Supervision PURCHASE/
+ACCEPT LIQUOR/MINO
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 235 5/6-20(a)  Class A  Orig.
+                            Sentence: 11/16/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Court Supervision  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  100Hrs In force
+                                      Supervised Court Service
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            902.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    600.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, M. Lipton .
+   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Purchase/Accept Liquor/Mino
+r ILCS: 235
+                            5/6-20(a) as charged. Upon the plea entered this dat
+e,Defendant is
+                            sentenced to all terms and conditions as set forth i
+n the written
+                            order on guilty plea entered this date. All financia
+l obligations
+                            shall be paid in equal monthly installments to the C
+hampaign County
+                            Circuit Clerk by 11/12/2013.  Any bond posted is to
+be applied first
+                            to any court ordered bond assignment on file and the
+n to all
+                            restitution ordered and then to all financial obliga
+tions in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of  24 months
+                            Court Supervision. Defendant is ordered to perform 1
+00 hours of public
+                            service work under the supervision of the Champaign
+County Court
+                            Services Department.  The defendant is to be given c
+redit on public
+                            service work for any hours completed in education, t
+reatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes. Count(s) stated in the writte
+n order are herby
+                            dismissed. Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.
+   11-30-12                 Report of Court Supervision sent to Secretary of Sta
+te.
+   12-11-12                 Bond
+   08-27-13                 Certificate of completion of public service work fil
+ed
+   09-03-13                 Court Ordered Payments
+                            Court Ordered Payments
+   02-06-15                 Motion to terminate court supervision and to dismiss
+.
+   02-09-15                 Order for discharging/dismissing case on file.
+                            Disposition 02/01  Count 002  Manual Calculations
+                            Disposition: Terminated Satisfied PURCHASE/ACCEPT LI
+QUOR/MINOR
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 235 5/6-20(a)  Class A
+                            Sentence: 02/09/2015
+                            Sentence: No Sentence  In force
+   02-10-15                 Motion to Terminate Court Supervision and to Dismiss
+ filed 2/6/15 is
+                            allowed. Order of Discharge and Dismissal entered th
+is date. See
+                            Order.
+   02-25-15                 All obligations have been met, case is closed.
+   03-05-15                 Disposition sent through ADR process this date. SPT
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

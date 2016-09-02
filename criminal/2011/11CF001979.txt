@@ -1,0 +1,411 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001979
+
+   Defendant Plaintiff
+HILL  MONTRELL D
+206 W VINE
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 12/02/11
+                Court Room: E
+           Next Appearance: 11/21/12  11:00
+                Birth Date: 07/20/85
+                 DEFENDANT: HILL  MONTRELL D
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      100.00      BOND -10% BOND FEE           100.00            .00
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+      250.00       STATE OFFENDER DNA             .00         250.00
+      100.00      TRAUMA FUND                     .00         100.00
+      190.00      TRAFFIC/CRIMINAL SU             .00         190.00
+        5.00      CLERK OP & ADMIN-SE             .00           5.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+         .00      FINES                           .00            .00
+      350.00      DUI NEW EQUIPMENT F          265.00          85.00
+       76.00      VICTIMS FUND-FINE             76.00            .00
+       76.00      DRIVERS EDUCATION             76.00            .00
+      380.00      DUI - 80% IL GENERA          380.00            .00
+       15.00      FIRE PREVENTION FUN           15.00            .00
+       15.00      FIRE TRUCK REVOLVIN           13.00           2.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      318.78      COLLECTION FEES                 .00         318.78
+      138.60      LATE FEES                       .00         138.60
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117749538 SHERIFF'S BOOKING FEE             20.00        12/06/11
+   117749538 BOND - ORIGINAL                 1000.00        12/06/11
+   117991012 BOND -10% BOND FEE               100.00        06/08/12
+   117991012 DOCUMENT STORAGE                   5.00        06/08/12
+   117991012 AUTOMATION                        10.00        06/08/12
+   117991012 CIRCUIT CLERK FEE                100.00        06/08/12
+   117991012 COURT SECURITY                    25.00        06/08/12
+   117991012 COURT FINANCE FEE                 50.00        06/08/12
+   117991012 STATES ATTORNEY                   40.00        06/08/12
+   117991012 CRIME STOPPERS                    10.00        06/08/12
+   117991012 ARRESTEE'S MEDICAL                10.00        06/08/12
+   117991012 SPINAL CORD RESEARCH FUN           5.00        06/08/12
+   117991012  STATE OFFENDER DNA ID S         250.00        06/08/12
+   117991012 TRAUMA FUND                      100.00        06/08/12
+   117991012 TR/CR SUR $10/$40                190.00        06/08/12
+   117991012 CLERK OP & ADMIN-SERIOUS           5.00        06/08/12
+   117991012 CLERK OP & ADMIN FUND             10.00        06/08/12
+   117991012 DRUG COURT PROGRAM                 5.00        06/08/12
+   117991012 DUI NEW EQUIPMENT FINE            85.00        06/08/12
+   117998774 BOND TRANSFERS IN                825.00        06/14/12
+   117998779 DUI NEW EQUIPMENT FINE           265.00        06/14/12
+   117998779 VICTIMS FUND-FINE                 76.00        06/14/12
+   117998779 DRIVERS EDUCATION                 76.00        06/14/12
+   117998779 DUI - IL GENERAL REVENUE         380.00        06/14/12
+   117998779 FIRE PREVENTION FUND              15.00        06/14/12
+   117998779 FIRE TRUCK REVOLVING LOA          13.00        06/14/12
+   118077255 DOCUMENT STORAGE                  -5.00        08/10/12
+   118077255 AUTOMATION                       -10.00        08/10/12
+   118077255 CIRCUIT CLERK FEE               -100.00        08/10/12
+   118077255 COURT SECURITY                   -25.00        08/10/12
+   118077255 COURT FINANCE FEE                -50.00        08/10/12
+   118077255 STATES ATTORNEY                  -40.00        08/10/12
+   118077255 CRIME STOPPERS                   -10.00        08/10/12
+   118077255 ARRESTEE'S MEDICAL               -10.00        08/10/12
+   118077255 SPINAL CORD RESEARCH FUN          -5.00        08/10/12
+   118077255  STATE OFFENDER DNA ID S        -250.00        08/10/12
+   118077255 TRAUMA FUND                     -100.00        08/10/12
+   118077255 TR/CR SUR $10/$40               -190.00        08/10/12
+   118077255 CLERK OP & ADMIN-SERIOUS          -5.00        08/10/12
+   118077255 CLERK OP & ADMIN FUND            -10.00        08/10/12
+   118077255 DRUG COURT PROGRAM                -5.00        08/10/12
+   118077255 DUI NEW EQUIPMENT FINE           -85.00        08/10/12
+   118077255 BOND - ORIGINAL                  900.00        08/10/12
+   118077283 *BOND REFUND                     900.00        08/10/12
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AGG DUI/NO VALID DL
+
+         2  OBSTRUCT JUST/DESTROY EVIDENCE
+
+         3  FLEEING/ATTEMPT ELUDE OFFICER
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   12-02-11                 Charge 01 Count 001 AGG DUI/NO VALID DL
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 OBSTRUCT JUST/DESTROY EVIDENCE
+                            Statute 720 5/31-4(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 03 Count 003 FLEEING/ATTEMPT ELUDE OFFICER
+                            Statute 625 5/11-204(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Defendant is admonished as to E
+XTENDED TERM
+                            SENTENCING.The Champaign County Public Defender is a
+ppointed and
+                            Lindsey Yanchus appears instanter.  Defendant waives
+ preliminary
+                            hearing, enters a plea of not guilty and requests tr
+ial by jury.
+                            Pre-trial orders entered.  Bond is set in the amount
+ of $10,000-ROR
+                            DENIED. See expanded record.  Defendant is admonishe
+d as to trial and
+                            sentencing in absentia.
+   12-05-11                 Notice of arrest without warrant on file.
+   12-06-11                 Sheriff Booking Fee
+   12-09-11                 Discovery filed
+                            Answer to Discovery filed
+   01-03-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   02-14-12                 Allotted for trial
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.
+   02-21-12
+                            People appear by Christopher Kanis.  Defendant appea
+rs personally and
+                            with counsel, Christopher A. Mellon. Motion by the D
+efendant for
+                            continuance.  Motion allowed.
+                            Entry of Appearance filed by Baku N. Patel.
+                            Bond assignment on file.
+   03-21-12
+                            People appear by Chris Kanis. Defendant appears pers
+onally and by
+                            counsel, Kavita Uppal. Motion by the Defendant to co
+ntinue to the next
+                            pre trial. Objection by the People. Motion denied. C
+ause set for jury
+                            trial.
+   04-12-12                 Subpoena Served.  No Fees.
+   04-16-12                 Sentencing order.
+                            Appearance of the People by Andrea I. Bergstrom.  Ap
+pearance of the
+                            Defendant personally and by counsel, Baku Patel.   D
+efendant advised
+                            as to the nature of the proceedings, the charges and
+ the possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 01
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Agg Dui/No Valid Dl ILCS: 625 5/11-501(a)
+ as charged. Cause
+                            allotted for SENTENCING on 6/4/12 at 11:30 a.m. in C
+ourtroom E.
+                            Defendant is ordered to obtain a substance abuse eva
+luation prior to
+                            the hearing and appear at the hearing. Court Service
+s is directed to
+                            prepare a pre sentence report. The Defendant also se
+eks TASC and Drug
+                            Court Suitability Reports. Counts II and III as well
+ as case 10-CM-923
+                            will be dismissed. Order on Guilty Plea entered this
+ date. See Order.
+   04-17-12                 Affidavit of Mailing of TASC Report order filed.
+   06-04-12                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty AGG DUI/NO VALID DL
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Sentence: 06/04/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  42Mos In force
+                            Sentence: Credit Time Served  4Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           1589.00     CRIME STOPPERS
+      10.00
+                             STATE OFFENDER DNA    250.00
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing Order/Order for Pre-Sentence report.
+                            Appearance of the People by Andrea I. Bergstrom.  Ap
+pearance of the
+                            Defendant personally and by counsel, Baku Patel.  Ca
+use called for
+                            sentencing hearing.  Statements of counsel heard.  S
+tatement of the
+                            defendant heard.  All financial obligations shall be
+ paid in equal
+                            monthly installments to the Champaign County Circuit
+ Clerk.  Any bond
+                            posted is to be applied first to any court ordered b
+ond assignment on
+                            file and then to all restitution ordered and then to
+ all financial
+                            obligations in this case.  Any remaining bond shall
+be discharged to
+                            the individual who posted the bond.  Defendant is or
+dered to serve a
+                            period of incarceration of   years,  42 months in th
+e Illinois
+                            Department of Corrections. Defendant is to receive c
+redit for   4 days
+                            previously served. The Defendant is to submit specim
+ens of blood,
+                            saliva, or tissue to the Illinois Department of Stat
+e Police or to the
+                            Department of Corrections within 45 days, at a colle
+ction site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3. Count(s) stated in the written order are he
+rby dismissed.
+                            Case Number(s) stated in the written order are herby
+ dismissed.  Any
+                            bond posted in said case(s) shall be transferred to
+the instant case
+                            and shall be applied to any fines, fees, costs, asse
+ssments, and/or
+                            restitution imposed herein; any remaining bond shall
+ be used to
+                            satisfy such other of the Defendant's Champaign Coun
+ty criminal or
+                            traffic cases in which the Defendant owes an outstan
+ding balance of
+                            fines, fees, costs, assessments and/or restitution.
+Defendant advised
+                            of right to appeal and rights pursuant to Supreme Co
+urt Rule 605 and
+                            the Court finds that the defendant understands the s
+ame.
+                            Mittimus prepared.
+                            Statement of State's Attorney filed
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismiss/State Motion OBSTRUCT JUST/DEST
+ROY EVIDENCE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/31-4(a)  Class 4  Orig.
+                            Sentence: 06/04/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismiss/State Motion FLEEING/ATTEMPT EL
+UDE OFFICER
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-204(a)  Class A  Orig.
+                            Sentence: 06/04/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   06-07-12                 Record of exhibits received on file.
+   06-08-12                 Report of Felony Conviction prepared / mailed.
+                            Bond
+   06-14-12                 Bond Type Transfer Bond From    2010CM000923 HILL MO
+NTRELL D
+                            Bond
+   06-15-12                 Motion to Reconsider Sentence filed.
+   06-18-12
+                            Cause allotted for hearing on Defendant's Motion to
+Reconsider
+                            Sentence on 7/9/12 at 11:30 a.m. in Courtroom E. Def
+ense counsel to
+                            notify the State's Attorney.
+   06-21-12                 Notice of Hearing Filed
+   07-09-12
+                            People appear by Andrea Bergstrom. Defendant appears
+ by counsel
+                            Raymond Durrenberger, who appears for Baku Patel thi
+s date.
+                            Representation the Defendant is incarcerated. Motion
+ on behalf of the
+                            Defendant to continue hearing on Defendant's Motion
+to Reconsider.
+                            Motion allowed. Cause continued to 7/23/12 at 11:00
+a.m. in Courtroom
+                            E. Bond to continue.
+   07-11-12
+                            By agreement of the parties, hearing on Defendant's
+Motion to
+                            Reconsider Sentence allotted 7/23/12 is vacated. Cau
+se is re allotted
+                            for hearing on said Motion to 8/8/12 at 11:00 a.m. i
+n Courtroom E.
+                            Counsel notified by email this date.
+   07-17-12
+                            Writ of Habeas Corpus Ad Prosequendum on file.Writ t
+o issue for the
+                            Defendant returnable 8/8/12 at 11:00 a.m. in Courtro
+om E. See Order.
+                            Petition, order and writ issued and sent.
+                            See affidavit of mailing.
+   08-08-12                 Motion to Reconsider Sentence.
+                            People appear by Claire Sharples Brooks. Defendant a
+ppears in custody
+                            of the Department of Corrections and by counsel, Bak
+u Patel. Cause
+                            called for hearing on Defendant's Motion to Reconsid
+er Sentence.
+                            Motion by the parties to continue. Motion allowed. C
+ause is continued
+                            for hearing on the Motion to 8/9/12 at 3:00 p.m. in
+Courtroom E.
+                            Defendant is remanded to the custody of the Champaig
+n County Sheriff
+                            to be held until said hearing. See ORDER.
+   08-09-12
+                            People appear by Andrea Bergstrom. Defendant appears
+ in custody and
+                            with counsel, Baku Patel. Cause called for hearing o
+n Defendant's
+                            Motion to Reconsider. Court notes no Rule 604d Certi
+ficate on file.
+                            Cause continued pending filing of the same. Defendan
+t is remanded to
+                            the custody of DOC. Order Remanding Individual to Il
+linois Department
+                            of Corrections Following Satisfaction of Writ entere
+d this date. See
+                            Order.
+   08-10-12                 Cash
+                            Bond
+   09-26-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   10-05-12                 Rule 604(d) Certificate on file.
+   10-09-12
+                            Cause allotted for hearing on the Defendant's Motion
+ to Reconsider
+                            Sentence on 11/21/12 at 11:00 a.m. in Courtroom E. D
+efense counsel to
+                            notify the State's Attorney and prepare a writ for t
+he Defendant.
+   10-10-12
+                            Writ of Habeas Corpus Ad Prosequendum to issue retur
+nable 11/21/12 at
+                            11:00 a.m. in Courtroom E. See Order.
+                            Petition, order and writ issued and sent.
+                            See affidavit of mailing.
+                            Notice of Hearing Filed
+   11-21-12
+                            People appear by Matthew Banach. Defendant appears i
+n custody of the
+                            Department of Corrections and with counsel, Baku Pat
+el. Cause called
+                            for hearing on Defendant's Motion to Reconsider Sent
+ence. Arguments
+                            heard. Motion is denied.
+   04-25-13                 Case sent out for collections.
+   08-01-14                 Drug and Alcohol Evaluation on file.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

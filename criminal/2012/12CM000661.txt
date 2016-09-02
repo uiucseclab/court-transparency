@@ -1,0 +1,298 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CM000661
+
+   Defendant Plaintiff
+LEWIS  JAMES
+CRESCENT
+CHAMPAIGN IL 61821
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 06/08/12
+                Court Room:
+           Next Appearance: 10/15/13
+                Birth Date: 01/20/87
+                 DEFENDANT: LEWIS  JAMES
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      150.00      BOND -10% BOND FEE           150.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN           15.00         165.00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       10.00      DOMESTIC BATTERY              10.00            .00
+       60.00      TRAFFIC/CRIMINAL SU           60.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       37.00      SHERIFF FEES                  37.00            .00
+       25.00      PUBLIC DEFENDER               25.00            .00
+         .00      FINES                           .00            .00
+         .00      VICTIMS FUND-FINE               .00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+      185.00      DOMESTIC VIOLENCE            185.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       18.95      COLLECTION FEES                 .00          18.95
+       24.75      LATE FEES                       .00          24.75
+       37.98      TAX INTERCEPT                   .00          37.98
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118110355 SHERIFF'S BOOKING FEE             20.00        08/30/12
+   118110355 BOND - ORIGINAL                 1000.00        08/30/12
+   118193900 BOND -10% BOND FEE               100.00        10/22/12
+   118193900 DOCUMENT STORAGE                   5.00        10/22/12
+   118193900 E-CITATION                         5.00        10/22/12
+   118193900 AUTOMATION                        10.00        10/22/12
+   118193900 CIRCUIT CLERK FEE                 75.00        10/22/12
+   118193900 COURT SECURITY                    25.00        10/22/12
+   118193900 COURT FINANCE FEE                 25.00        10/22/12
+   118193900 STATES ATTORNEY                   20.00        10/22/12
+   118193900 STATES ATTORNEY AUTOMATI           2.00        10/22/12
+   118193900 CRIME STOPPERS                     5.00        10/22/12
+   118193900 ARRESTEE'S MEDICAL                10.00        10/22/12
+   118193900 PROBATION MONITORING FEE          15.00        10/22/12
+   118193900 PROBATION OPER ASSISTANC          10.00        10/22/12
+   118193900 DOMESTIC BATTERY                  10.00        10/22/12
+   118193900 TR/CR SUR $10/$40                 60.00        10/22/12
+   118193900 CLERK OP & ADMIN FUND             10.00        10/22/12
+   118193900 DRUG COURT PROGRAM                 5.00        10/22/12
+   118193900 SHERIFF FEES                      37.00        10/22/12
+   118193900 PUBLIC DEFENDER                   25.00        10/22/12
+   118193900 VIOLENT CRIME VICTIMS AS          75.00        10/22/12
+   118193900 DOMESTIC VIOLENCE                185.00        10/22/12
+   118193900 ST POLICE SERVICES FUND           10.00        10/22/12
+   118193900 ST POLICE OPERATIONS ASS          10.00        10/22/12
+   118193900 *BOND REFUND                     266.00        10/22/12
+   118194485 BOND TRANSFERS IN                500.00        10/22/12
+   118194489 BOND -10% BOND FEE                50.00        10/22/12
+   118194514 *BOND TRANSFERS OUT             -450.00        10/22/12
+   121664454 BOND -10% BOND FEE                  .00        05/23/15
+   121664454 DOCUMENT STORAGE                    .00        05/23/15
+   121664454 E-CITATION                          .00        05/23/15
+   121664454 AUTOMATION                          .00        05/23/15
+   121664454 CIRCUIT CLERK FEE                   .00        05/23/15
+   121664454 COURT SECURITY                      .00        05/23/15
+   121664454 COURT FINANCE FEE                   .00        05/23/15
+   121664454 STATES ATTORNEY                     .00        05/23/15
+   121664454 STATES ATTORNEY AUTOMATI            .00        05/23/15
+   121664454 CRIME STOPPERS                      .00        05/23/15
+   121664454 ARRESTEE'S MEDICAL                  .00        05/23/15
+   121664454 PROBATION MONITORING FEE            .00        05/23/15
+   121664454 PROBATION OPER ASSISTANC            .00        05/23/15
+   121664454 DOMESTIC BATTERY                    .00        05/23/15
+   121664454 TR/CR SUR $10/$40                   .00        05/23/15
+   121664454 CLERK OP & ADMIN FUND               .00        05/23/15
+   121664454 DRUG COURT PROGRAM                  .00        05/23/15
+   121664454 SHERIFF FEES                        .00        05/23/15
+   121664454 PUBLIC DEFENDER                     .00        05/23/15
+   121664454 FINES                               .00        05/23/15
+   121664454 VICTIMS FUND-FINE                   .00        05/23/15
+   121664454 VIOLENT CRIME VICTIMS AS            .00        05/23/15
+   121664454 DOMESTIC VIOLENCE                   .00        05/23/15
+   121664454 ST POLICE SERVICES FUND             .00        05/23/15
+   121664454 COLLECTION FEES                     .00        05/23/15
+   121664454 LATE FEES                           .00        05/23/15
+   121664454 TAX INTERCEPT                       .00        05/23/15
+   121664454 ST POLICE OPERATIONS ASS            .00        05/23/15
+   121664454 *BOND REFUND                        .00        05/23/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  DOMESTIC BTRY/PHYSICAL CONTACT
+
+         1  DOMESTIC BTRY/PHYSICAL CONTACT
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   06-08-12                 Charge 01 Count 001 DOMESTIC BTRY/PHYSICAL CONTACT
+                            Statute 720 5/12-3.2(a)(2)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Warrant - expanded record of arraignment proceedings
+.
+                            Verified information on file.  Witness sworn.  Evide
+nce heard.
+                            Probable cause to arrest determined, warrant issued.
+  Bond set in the
+                            amount of $ 10,000.00.
+                            Warrant issued.
+   08-23-12                 Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Geoprge Vargas appears instanter.  Plea of not guilt
+y entered and
+                            Defendant requests trial by jury.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia.  Bond is to continue as
+posted. See
+                            expanded record.
+   08-30-12                 Sheriff Booking Fee
+                            Proof of service of discovery materials filed.
+   09-05-12                 Warrant served. Service fees $37.00
+   10-10-12
+                            On Defendant's motion cause is allotted for jury tri
+al call. Defendant
+                            ordered to appear. Bond to continue.
+   10-15-12                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty DOMESTIC BTRY/PHYSICAL CONTACT
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3.2(a)(2)  Class A
+                            Sentence: 10/15/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Probation  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Jail  3Days In force
+                            Sentence: Credit Time Served  3Days In force
+                            Sentence: Partner Abuse Intervention Program  60Days
+ In force
+                            Sentence: No contact order.  In force
+                            Sentence: Defendant's previous probation unsuccessfu
+lly termed  In for
+                            Sentence: Case(s) dismissed  In force
+                            Sentence: Public Defender Fees  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            544.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    180.00     DOMESTIC BATTERY
+      10.00
+                            PUBLIC DEFENDER         25.00     DOMESTIC VIOLENCE
+     185.00
+                            COLLECTION FEES         18.95     LATE FEES
+      24.75
+                            TAX INTERCEPT           37.98
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, Lindsey R.
+Yanchus.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Domestic Btry/Physical Cont
+act ILCS: 720
+                            5/12-3.2(a)(2) as charged. Judgment entered in favor
+ of the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  4/15/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months probation. Defendant is ordered
+ to serve a period
+                            of incarceration of 3 days in the Champaign County C
+orrectional
+                            Center. Defendant is to receive credit for 3 days pr
+eviously served.
+                            Defendant is to enroll in a Partner Abuse Interventi
+on Program
+                            approved by the Champaign County Court Services Depa
+rtment within  60
+                            days and successfully complete it without terminatio
+n. Defendant is to
+                            have no contact, directly or indirectly, in person,
+by telephone or
+                            electronically with the persons stated in the writte
+n order.  Case
+                            Number 12-CM-269 is dismissed.  Any bond posted in s
+aid case shall be
+                            transferred to the instant case and shall be applied
+ to any fines,
+                            fees, costs, assessments, and/or restitution imposed
+ herein; any
+                            remaining bond shall be used to satisfy such other o
+f the Defendant's
+                            Champaign County criminal or traffic cases in which
+the Defendant owes
+                            an outstanding balance of fines, fees, costs, assess
+ments and/or
+                            restitution.  Defendant advised of right to appeal a
+nd rights pursuant
+                            to Supreme Court Rule 605 and the Court finds that t
+he defendant
+                            understands the same. Waiver of Jury on file. Senten
+cing Order entered
+                            this date. See Order.
+   10-18-12                 Subpoena Served.  No Fees.
+   10-19-12                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   10-22-12                 Bond
+                            Bond Type Transfer Bond From    2012CM000989 LEWIS J
+AMES
+                            Bond
+                            Bond Type Transfer Bond To    2012CM000269 LEWIS JAM
+ES III
+   12-11-12                 Temporary Travel Permit
+                            Temporary Travel Permit on file and approved this da
+te. See Order.
+   11-13-13                 Order of Discharge from Probation entered. See Order
+.
+                            Order of discharge from probation on file.
+                            Disposition 01/01  Count 001  Manual Calculations
+                            Disposition: Terminated Satisfied DOMESTIC BTRY/PHYS
+ICAL CONTACT
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(2)  Class A
+                            Sentence: 11/13/2013
+                            Sentence: No Sentence  In force
+                            Case closed.
+   12-04-13                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   08-19-14                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

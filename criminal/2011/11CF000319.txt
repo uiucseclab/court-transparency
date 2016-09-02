@@ -1,0 +1,280 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000319
+
+   Defendant Plaintiff
+WATSON  CHRISTOPHER M
+1102 E COLORADO APT
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 03/01/11
+                Court Room:
+           Next Appearance: 06/08/15
+                Birth Date: 12/05/72
+                 DEFENDANT: WATSON  CHRISTOPHER M
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       30.00      BOND -10% BOND FEE            30.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       15.00      PROBATION MONITORIN           15.00         345.00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      200.00       STATE OFFENDER DNA             .00         200.00
+      100.00      TRAUMA FUND                     .00         100.00
+      250.00      TRAFFIC/CRIMINAL SU             .00         250.00
+        5.00      CLERK OP & ADMIN-SE             .00           5.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      245.00      FINES                           .00         245.00
+      350.00      DUI NEW EQUIPMENT F             .00         350.00
+      100.00      VICTIMS FUND-FINE               .00         100.00
+      100.00      DRIVERS EDUCATION               .00         100.00
+      400.00      DUI - 80% IL GENERA             .00         400.00
+       15.00      FIRE PREVENTION FUN             .00          15.00
+       15.00      FIRE TRUCK REVOLVIN             .00          15.00
+      745.20      COLLECTION FEES                 .00         745.20
+      324.00      LATE FEES                       .00         324.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117422554 BOND TRANSFERS IN                300.00        04/12/11
+   117503264 BOND -10% BOND FEE                30.00        06/08/11
+   117503264 DOCUMENT STORAGE                   5.00        06/08/11
+   117503264 AUTOMATION                        10.00        06/08/11
+   117503264 CIRCUIT CLERK FEE                100.00        06/08/11
+   117503264 COURT SECURITY                    25.00        06/08/11
+   117503264 ARRESTEE'S MEDICAL                10.00        06/08/11
+   117503264 COURT FINANCE FEE                 50.00        06/08/11
+   117503264 STATES ATTORNEY                   40.00        06/08/11
+   117503264 CRIME STOPPERS                    10.00        06/08/11
+   117503264 PROBATION MONITORING FEE          15.00        06/08/11
+   117503264 SPINAL CORD RESEARCH FUN           5.00        06/08/11
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AGG DUI/NO VALID DL
+
+         1  AGG DUI/NO VALID DL
+
+         1  AGG DUI/NO VALID DL
+
+         2  AGG DUI/NO VALID DL
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   03-01-11                 Charge 02 Count 002 AGG DUI/NO VALID DL
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+   04-01-11                 Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            appears instanter.  Plea of not guilty entered and D
+efendant requests
+                            trial by jury.  Defendant is admonished as to trial
+and sentencing in
+                            absentia.  See expanded record.
+   04-06-11                 Discovery filed
+   04-12-11                 Bond Type Transfer Bond From    2011DT000105 WATSON
+CHRISTOPHER M
+   04-21-11                 EHD Eligibility Certificate filed
+   04-26-11                 Cause continued for sentencing to
+                            Cause allotted for sentencing confirmation hearing
+                            People appear by S.Larson. Defendant appears with K.
+Jessup.  Defendant
+                            tenders a plea of guilty to this matter. Plea agreem
+ent is recited
+                            into the record and the Court concurs with the agree
+ment. Cause
+                            continued for sentencing confirmation hearing on 5/3
+1/11 at 9:00 am in
+                            courtroom E.
+                            Disposition 01/01  Count 001  Awaiting Sentencing
+                            Disposition: Guilty AGG DUI/NO VALID DL
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+   05-24-11                 Drug and alcohol evaluation on file.
+   05-31-11                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed AGG DUI/NO VALID DL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Sentence: 05/31/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty AGG DUI/NO VALID DL
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Sentence: 05/31/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees
+                            Sentence: Probation  24Mos
+                                      Supervised Court Service
+                            Sentence: Jail  20Days
+                            Sentence: Credit Time Served  1Days
+                            Sentence: Public Service  100Hrs
+                                      Supervised Court Service
+                            Sentence: Victim Impact Panel
+                            Sentence: Substance Abuse Treatment/Evaluation  60Da
+ys
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Sentence: Count(s) dismissed.
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Sentence: Comprehensive Home Incarceration Program (
+CHIPs)
+                                      Not Supervised
+                            Fine + Cost           1890.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    360.00      STATE OFFENDER DN
+A    200.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Scott A. Larson.  Appear
+ance of the
+                            Defendant personally and by counsel, Katie L. Jessup
+.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Agg Dui/No Valid Dl ILCS: 6
+25 5/11-501(a) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by 11/28/2011.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  24
+                            months probation. Defendant is ordered to serve a pe
+riod of
+                            incarceration of  20 days in the Champaign County Co
+rrectional Center.
+                            Defendant is to receive credit for   1 days previous
+ly served.
+                            Defendant is ordered to perform 100 hours of public
+service work under
+                            the supervision of the Champaign County Court Servic
+es Department.
+                            The defendant is to be given credit on public servic
+e work for any
+                            hours completed in education, treatment, aftercare,
+sobriety based
+                            self-help group meetings, Victim Impact Panel and GE
+D classes.
+                            Defendant is to attend the next Victim Impact Panel
+presented by the
+                            Champaign County Court Services Department.  Defenda
+nt is to obtain an
+                            evaluation for alcohol and drug abuse from an agency
+ or agent
+                            recommended by the Court Services Department, and fo
+llow any
+                            recommendations contained therein as to treatment an
+d/or counseling.
+                            The Defendant is to submit specimens of blood, saliv
+a, or tissue to
+                            the Illinois Department of State Police or to the De
+partment of
+                            Corrections within 45 days, at a collection site des
+ignated by the
+                            Champaign County Court Services Department and/or Il
+linois Department
+                            of State Police, in accordance with 730 ILCS 5/5-4-3
+. Count(s) stated
+                            in the written order are herby dismissed. Defendant
+advised of right
+                            to appeal and rights pursuant to Supreme Court Rule
+605 and the Court
+                            finds that the defendant understands the same. The S
+heriff of
+                            Champaign County having previously approved for part
+icipation therein,
+                            the sentence of imprisonment is subject to the terms
+ and conditions of
+                            the Comprehensive Home Incarcertion Program of the C
+hampaign County
+                            Sheriff.  The defendant is ordered to report to the
+Champaign County
+                            Correctional Center, 502 South Lierman, Urbana, Illi
+nois on said date
+                            and time for commencement of the sentence of impriso
+nment.
+   06-07-11                 Report of Felony Conviction prepared / mailed.
+   06-08-11                 Bond
+   03-15-13                 Probation Violation Report filed
+   06-07-13                 Order of Unsuccessful Discharge from Probation enter
+ed. See Order.
+                            Disposition 01/02  Count 001  Manual Calculations
+                            Disposition: Terminated Unsatisfied AGG DUI/NO VALID
+ DL
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Sentence: 06/07/2013
+                            Sentence: No Sentence  In force
+                            Case closed.
+   06-20-13                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   11-18-14                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

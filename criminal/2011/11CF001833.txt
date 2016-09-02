@@ -1,0 +1,226 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001833
+
+   Defendant Plaintiff
+ROSARIO  KEVIN M
+420 S TANNER ST
+RANTOUL IL 61866
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 11/07/11
+                Court Room:
+           Next Appearance: 01/13/12
+                Birth Date: 07/29/90
+                 DEFENDANT: ROSARIO  KEVIN M
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      200.00       STATE OFFENDER DNA          200.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      320.00      TRAFFIC/CRIMINAL SU           26.64         293.36
+        5.00      CLERK OP & ADMIN-SE             .00           5.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+         .00      FINES                           .00            .00
+      800.00      DUI NEW EQUIPMENT F             .00         800.00
+      128.00      VICTIMS FUND-FINE               .00         128.00
+      128.00      DRIVERS EDUCATION               .00         128.00
+      150.00      DUI - 80% IL GENERA             .00         150.00
+       15.00      FIRE PREVENTION FUN             .00          15.00
+       15.00      FIRE TRUCK REVOLVIN             .00          15.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      221.06      COLLECTION FEES               51.46         169.60
+      321.15      LATE FEES                       .00         321.15
+      196.44      TAX INTERCEPT                 46.90         149.54
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   121146960 DOCUMENT STORAGE                   5.00        05/28/14
+   121146960 AUTOMATION                        10.00        05/28/14
+   121146960 CIRCUIT CLERK FEE                100.00        05/28/14
+   121146960 COURT SECURITY                    25.00        05/28/14
+   121146960 COURT FINANCE FEE                 50.00        05/28/14
+   121146960 STATES ATTORNEY                   40.00        05/28/14
+   121146960 ARRESTEE'S MEDICAL                10.00        05/28/14
+   121146960 SPINAL CORD RESEARCH FUN           5.00        05/28/14
+   121146960  STATE OFFENDER DNA ID S         109.50        05/28/14
+   121146960 COLLECTION FEES                   29.50        05/28/14
+   121723234  STATE OFFENDER DNA ID S          90.50        06/01/15
+   121723234 TRAUMA FUND                      100.00        06/01/15
+   121723234 TR/CR SUR $10/$40                 26.64        06/01/15
+   121723234 COLLECTION FEES                   21.96        06/01/15
+   121723234 TAX INTERCEPT                     46.90        06/01/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  AGG DUI LIC SUSP OR REVOKED
+
+         2  DRIVING ON REVOKED LICENSE
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   11-07-11                 Charge 01 Count 001 AGG DUI LIC SUSP OR REVOKED
+                            Statute 625 5/11-501(a)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 DRIVING ON REVOKED LICENSE
+                            Statute 625 5/6-303(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Defendant is admonished as to E
+XTENDED TERM
+                            SENTENCING.  The Champaign County Public Defender is
+ appointed and
+                            Anthony Ortega appears instanter.  Defendant waives
+preliminary
+                            hearing, enters a plea of not guilty and requests tr
+ial by jury.
+                            Pre-trial orders entered.  Bond is to continue as se
+t in 11DT601 in
+                            the amount of $25,000-ROR DENIED. See expanded recor
+d.  Defendant is
+                            admonished as to trial and sentencing in absentia.
+   11-29-11                 Discovery filed.
+   11-30-11                 Answer to Discovery filed
+   01-03-12                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty AGG DUI LIC SUSP OR REVOKED
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 625 5/11-501(a)  Class 4
+                            Sentence: 01/03/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  3Yrs In force
+                            Sentence: Credit Time Served  60Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost           1941.00      STATE OFFENDER DN
+A    200.00
+                            COLLECTION FEES        221.06     LATE FEES
+     321.15
+                            TAX INTERCEPT          196.44
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed DRIVING ON REVOKED LICENSE
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 625 5/6-303(a)  Class A  Orig.
+                            Sentence: 01/03/2012
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Sentencing order.
+                            Appearance of the People by Samuel A. Rosenberg.  Ap
+pearance of the
+                            Defendant personally and by counsel, Katie L. Jessup
+.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Agg Dui Lic Susp Or Revoked
+ ILCS: 625
+                            5/11-501(a) as charged. Judgment entered in favor of
+ the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  7/09/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of incarceration of   3 years,   months in th
+e Illinois
+                            Department of Corrections. Defendant is to receive c
+redit for  60 days
+                            previously served. The Defendant is to submit specim
+ens of blood,
+                            saliva, or tissue to the Illinois Department of Stat
+e Police or to the
+                            Department of Corrections within 45 days, at a colle
+ction site
+                            designated by the Champaign County Court Services De
+partment and/or
+                            Illinois Department of State Police, in accordance w
+ith 730 ILCS
+                            5/5-4-3. Count(s) stated in the written order are he
+rby dismissed.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same.   Sentencing Order entered.  See Order.
+                            Mittimus prepared.
+   01-04-12                 Report of Felony Conviction prepared / mailed.
+   01-05-12                 Statement of State's Attorney filed
+   05-16-12                 Certification Notice in Impact Incarceration Program
+ filed
+   12-26-12                 Case sent out for collections.
+   05-28-14                 Court Ordered Payments
+   06-01-15                 Cash
+   05-11-16                 Proof/Certificate of Service on file by Defendant, P
+ro Se.
+                            File forwarded to Judge Kennedy and file stamped cop
+y returned.
+                            Motion to Dismiss and/or Revoke Fines on file by Def
+endant, Pro Se
+   05-26-16                 Defendant's Motion to Dismiss and/or Revoke Fines fi
+led 5/11/16
+                            is denied. No written order required. Circuit Clerk
+to notify the
+                            Defendant.
+   05-31-16                 Certificate of mailing prepared.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

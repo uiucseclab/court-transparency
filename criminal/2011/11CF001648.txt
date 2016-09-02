@@ -1,0 +1,617 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001648
+
+   Defendant Plaintiff
+FRAZIER  PHYLLIS
+1301 W EADS
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 10/06/11
+                Court Room: B
+           Next Appearance: 11/30/16  09:00
+                Birth Date: 06/14/67
+                 DEFENDANT: FRAZIER  PHYLLIS
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      250.00      BOND -10% BOND FEE           250.00            .00
+    57363.86      *RESTITUTION AMOUNT          756.00       56607.86
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       10.00      PROBATION MONITORIN             .00         480.00
+       10.00      TRAFFIC/CRIMINAL SU             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+        4.00      VICTIMS FUND-FINE               .00           4.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117672087 SHERIFF'S BOOKING FEE             20.00        10/07/11
+   117672087 BOND - ORIGINAL                 2500.00        10/07/11
+   118057264 BOND -10% BOND FEE               250.00        07/30/12
+   118057264 *BOND REFUND                    2250.00        07/30/12
+   118120138 *RESTITUTION AMOUNT               40.00        09/06/12
+   118120138 *RESTITUTION AMOUNT               14.46        09/06/12
+   118120138 *RESTITUTION AMOUNT               13.18        09/06/12
+   118120138 *RESTITUTION AMOUNT                4.75        09/06/12
+   118120138 *RESTITUTION AMOUNT                2.33        09/06/12
+   118120138 *RESTITUTION AMOUNT                1.94        09/06/12
+   118120138 *RESTITUTION AMOUNT                1.60        09/06/12
+   118120138 *RESTITUTION AMOUNT                1.17        09/06/12
+   118120138 *RESTITUTION AMOUNT                 .57        09/06/12
+   118120138 *RESTITUTION AMOUNT              -14.46        10/21/12
+   118120138 *RESTITUTION AMOUNT              -13.18        10/21/12
+   118120138 *RESTITUTION AMOUNT               -4.75        10/21/12
+   118120138 *RESTITUTION AMOUNT               -2.33        10/21/12
+   118120138 *RESTITUTION AMOUNT               -1.94        10/21/12
+   118120138 *RESTITUTION AMOUNT               -1.60        10/21/12
+   118120138 *RESTITUTION AMOUNT               -1.17        10/21/12
+   118120138 *RESTITUTION AMOUNT                -.57        10/21/12
+   118186180 *RESTITUTION AMOUNT               40.00        10/16/12
+   118186180 CHECKS-STOPPED                   -40.00        10/16/12
+   118186180 *RESTITUTION AMOUNT               40.00        10/16/12
+   118205367 *RESTITUTION AMOUNT               40.00        10/26/12
+   118205367 *RESTITUTION AMOUNT               40.00        10/26/12
+   118264649 *RESTITUTION AMOUNT              160.00        11/30/12
+   118264649 *RESTITUTION AMOUNT              160.00        11/30/12
+   118378947 *RESTITUTION AMOUNT               80.00        01/11/13
+   118378947 *RESTITUTION AMOUNT               80.00        01/11/13
+   118508711 BOND - ORIGINAL                   80.00        03/29/13
+   118508903 *RESTITUTION AMOUNT               80.00        03/29/13
+   118508903 *RESTITUTION AMOUNT               80.00        03/28/13
+   118514974 EPAY RECEIVABLE                   80.00        04/03/13
+   118718964 *RESTITUTION AMOUNT               80.00        08/06/13
+   118718964 *RESTITUTION AMOUNT               80.00        08/06/13
+   118912366 *RESTITUTION AMOUNT               80.00        12/03/13
+   118912366 *RESTITUTION AMOUNT               80.00        12/03/13
+   120993062 *RESTITUTION AMOUNT               40.00        03/21/14
+   120993062 *RESTITUTION AMOUNT               40.00        03/21/14
+   121148307 *RESTITUTION AMOUNT               37.00        06/23/14
+   121148307 *RESTITUTION AMOUNT               37.00        06/24/14
+   121184316 *RESTITUTION AMOUNT                5.00        07/15/14
+   121184316 *RESTITUTION AMOUNT                5.00        07/15/14
+   121489352 *RESTITUTION AMOUNT                5.00        01/12/15
+   121489352 *RESTITUTION AMOUNT                5.00        01/12/15
+   121556787 01000000000                         .00        02/23/15
+   121556790 *RESTITUTION AMOUNT                5.00        02/23/15
+   121556790 *RESTITUTION AMOUNT                5.00        02/23/15
+   121670582 *RESTITUTION AMOUNT               20.00        04/27/15
+   121670582 *RESTITUTION AMOUNT               20.00        04/27/15
+   121719190 *RESTITUTION AMOUNT                5.00        05/22/15
+   121719190 *RESTITUTION AMOUNT                5.00        05/22/15
+   121980671 *RESTITUTION AMOUNT               15.00        10/20/15
+   121980671 *RESTITUTION AMOUNT               15.00        10/20/15
+   122077376 *RESTITUTION AMOUNT               15.00        12/16/15
+   122077376 *RESTITUTION AMOUNT               15.00        12/16/15
+   122352853 *RESTITUTION AMOUNT               20.00        05/27/16
+   122352853 *RESTITUTION AMOUNT               20.00        05/27/16
+   122436403 *RESTITUTION AMOUNT                9.00        07/15/16
+   122436403 *RESTITUTION AMOUNT                9.00        07/15/16
+   122465794 *RESTITUTION AMOUNT               20.00        08/03/16
+   122465794 *RESTITUTION AMOUNT               20.00        08/03/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  FIN EXPLT ELD>80 PROP $5000+
+
+         2  AGG ID THEFT/AGE 60+>$300-$10K
+
+         2  AGG ID THEFT/AGE 60+>$300-$10K
+
+         2  AGG ID THEFT/AGE 60+>$300-$10K
+
+         3  AGG ID THEFT/AGE 60+>$300-$10K
+
+         4  AGG ID THEFT/AGE 60+>$300-$10K
+
+         5  FIN EXPLT ELD>80 PROP $5000+
+
+         6  FELON POSS/USE WEAPON/FIREARM
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   10-06-11                 Charge 01 Count 001 FIN EXPLT ELD>80 PROP $5000+
+                            Statute 720 5/16-1.3(a)  Class 1  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 AGG ID THEFT/AGE 60+>$300-$10K
+                            Statute 720 5/16G-20(a)(1)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 05 Count 005 FIN EXPLT ELD>80 PROP $5000+
+                            Statute 720 5/16-1.3(a)  Class 1  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 03 Count 003 AGG ID THEFT/AGE 60+>$300-$10K
+                            Statute 720 5/16G-20(a)(1)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Charge 04 Count 004 AGG ID THEFT/AGE 60+>$300-$10K
+                            Statute 720 5/16G-20(a)(1)  Class 2  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  On Defendant's motion, cause i
+s continued for
+                            appearance of counsel.  Defendant is admonished as t
+o trial and
+                            sentencing in absentia.  See expanded record.
+                            BOND SET IN THE AMOUNT OF $25,000. ROR IS DENIED.
+
+                            As a condition of the Defendant's bond, Defendant is
+ ordered to have
+                            NO CONTACT whatsoever, directly or indirectly, with
+the named victim
+                            and/or the address as recited in open court.
+                            Companion Charge
+   10-07-11                 Sheriff Booking Fee
+   10-14-11                 Expanded record of arraignment proceedings.
+                            People appear by Adam M. Dill.  Defendant appears pe
+rsonally together
+                            with private counsel,  .  Entry of appearance on fil
+e.  Defendant is
+                            arraigned.  Defendant waives preliminary hearing, en
+ters a plea of not
+                            guilty and requests a trial by jury.  Pre-trial orde
+rs entered.
+                            Defendant admonished as to trial and sentencing in a
+bsentia.  See
+                            Expanded Record.
+                            Defendant's bond to continue.
+   10-25-11                 Discovery filed
+   10-27-11                 NOTICE FILED
+                            NOTICE FILED
+   11-01-11                 Motion allotted for hearing to
+   11-10-11                 Charge 06 Count 006 FELON POSS/USE WEAPON/FIREARM
+                            Statute 720 5/24-1.1(a)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+
+                            Appearance of the People by J. Fletcher. Appearance
+of the Defendant
+                            personally and with D. Jackson. Motion by Mr. Jackso
+n to Withdraw as
+                            Counsel for the Defendant because of a conflict of i
+nterest. Motion is
+                            ALLOWED. The appearance of Mr. Jackson is WITHDRAWN.
+                            Count 6 on file this date. Defendant to be arraigned
+ on count 6 upon
+                            the entry of appearance by new counsel.
+                            Pre trial hearing of 11/29/11 is VACATED.
+   11-15-11                 Supplemental Discovery filed.
+   11-23-11                 Motion for Pre-Trial Discovery Pursuant to Illinois
+Supreme Court Rule
+                            412 filed.
+   11-30-11                 Supplemental Discovery filed
+   12-02-11                 Affidavit of mailing on file.
+
+                            People appear by Joel D. Fletcher.  Defendant appear
+s personally and
+                            with counsel, M. Lehman for B. Patel. Entry of Appea
+rance by Mr. Patel
+                            on file. Defendant is arraigned on COUNT 6 this date
+. Defendant waives
+                            preliminary hearing on Count 6.  Motion by the Defen
+dant for
+                            continuance.  Motion allowed.
+   12-09-11                 Supplemental Discovery filed
+   12-14-11                 Supplemental Discovery filed
+   01-05-12                 Supplemental Discovery filed
+   01-17-12                 Supplemental Discovery filed
+   01-18-12                 Supplemental Discovery filed
+   02-07-12
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   03-20-12
+                            Appearance of the State's Attorney.  Appearance of t
+he
+                            Defendant personally and by Counsel.
+   04-03-12                 Supplemental Discovery filed
+   04-10-12                 Affidavit of mailing, Supplemental Discovery Materia
+l filed.
+   05-02-12                 Disposition 02/00  Count 002  Awaiting Sentencing
+                            Disposition: Guilty AGG ID THEFT/AGE 60+>$300-$10K
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16G-20(a)(1)  Class 2  Orig.
+
+                            COUNTS 1,3,4,5,6 TO BE DISMISSED AT SENTENCING.
+                            RESTITUTION TO BE ORDERED AT SENTENCING AS LISTED IN
+ THE WRITTEN
+                            ORDER.
+                            PROPERTY AND FIREARMS LISTED IN THE WRITTEN ORDER TO
+ BE FORFEITED.
+                            Defendant ordered to appear at the sentencing hearin
+g.  Defendant
+                            admonished as to sentencing in absentia.  Defendant
+ordered to report
+                            to the Champaign County Court Services Department.
+The Court Services
+                            Department is to prepare a pre-sentence report and f
+ile a copy of the
+                            same.  Defendant's bond is to Continue.
+                            Court Services to make arrangements for preparation
+of a
+                            pre-sentence report for sentencing hearing.
+                            Sentencing order.
+                            Appearance of the People by Joel D. Fletcher.  Appea
+rance of the
+                            Defendant personally and by counsel, B. Patel.   Def
+endant advised as
+                            to the nature of the proceedings, the charges and th
+e possible
+                            penalties that may be imposed and the Court finds th
+at the Defendant
+                            understands the same.  Finding Defendant knowingly,
+understandingly
+                            and voluntarily waives rights and enters a plea of g
+uilty to Count 02
+                            of the charging instrument.  Finding Defendant is gu
+ilty of the
+                            offense of Agg Id Theft/Age 60+>$300-$10k ILCS: 720
+5/16G-20(a)(1) as
+                            charged.
+                            Disposition 02/01  Count 002  Cost Only
+                            Disposition: Guilty AGG ID THEFT/AGE 60+>$300-$10K
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 5/16G-20(a)(1)  Class 2
+                            Sentence: 07/25/2012
+                            Sentence: Cost Only  In force
+                            Sentence: Probation  48Mos In force
+                                      Supervised Court Service
+                            Sentence: Probation Service Fee  48Mos In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Sentence: Restitution  In force
+                            Cost Only              541.00     *RESTITUTION AMOUN
+T  57363.86
+                            CRIME STOPPERS          10.00     PROBATION MONITORI
+N    480.00
+                            Payment Due
+   05-07-12                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   05-09-12                 Subpoena Served.  No Fees.
+   05-10-12                 Subpoena Served.  No Fees.
+                            Subpoena Served.  No Fees.
+   07-19-12                 Supplemental Discovery filed
+   07-23-12
+                            Appearance of the People by J. Fletcher. Appearance
+of the Defendant
+                            personally and with Mr. Durrenberger. Cause called f
+or sentencing
+                            hearing. Motion by the Defendant for continuance in
+order to have
+                            adequate time to review the pre sentence report with
+ the Defendant. No
+                            objection by the People. Motion is allowed. Cause co
+ntinued for
+                            sentencing hearing 7/25/12 at 10:30 a.m. in courtroo
+m B.
+   07-24-12                 Cause continued for sentencing to
+   07-25-12                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed FIN EXPLT ELD>80 PROP $5000+
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1.3(a)  Class 1  Orig.
+                            Sentence: 07/25/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed AGG ID THEFT/AGE 60+>$300-$10
+K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16G-20(a)(1)  Class 2  Orig.
+                            Sentence: 07/25/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 04/00  Count 004  No Fine & Cost
+                            Disposition: Dismissed AGG ID THEFT/AGE 60+>$300-$10
+K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16G-20(a)(1)  Class 2  Orig.
+                            Sentence: 07/25/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 05/00  Count 005  No Fine & Cost
+                            Disposition: Dismissed FIN EXPLT ELD>80 PROP $5000+
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1.3(a)  Class 1  Orig.
+                            Sentence: 07/25/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Disposition 06/00  Count 006  No Fine & Cost
+                            Disposition: Dismissed FELON POSS/USE WEAPON/FIREARM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/24-1.1(a)  Class 3  Orig.
+                            Sentence: 07/25/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing Order/Order for Pre-Sentence report.
+                            Appearance of the People by Joel D. Fletcher.  Appea
+rance of the
+                            Defendant personally and by counsel, B. Patel.  Caus
+e called for
+                            sentencing hearing. Witness sworn. Evidence heard.
+Statements of
+                            counsel heard.  Statement of the defendant heard.  A
+ll financial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  7/25/2016.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of  48
+                            months probation. Defendant is ordered to pay restit
+ution as set forth
+                            in the written judgment order filed May 2, 2012. Def
+endant is ordered
+                            to pay $1000 per month toward the restitution judgme
+nt. Prior NO
+                            CONTACT ORDER to stand. Defendant advised of right t
+o appeal and
+                            rights pursuant to Supreme Court Rule 605 and the Co
+urt finds that the
+                            defendant understands the same.
+                            BOND DISCHARGED PURSUANT TO THE BOND ASSIGNMENT ON F
+ILE.
+   07-27-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   07-30-12                 Bond Refund
+   08-06-12                 Written Order of Conditions entered.
+   08-27-12
+                            Amended Restitution Order entered. SEE ORDER.
+   08-28-12                 Affidavit of mailing on file.
+   08-29-12                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   09-06-12                 Court Ordered Payments
+   10-16-12                 Court Ordered Payments
+   10-26-12                 Court Ordered Payments
+   11-30-12                 Court Ordered Payments
+   12-03-12
+   01-11-13                 Court Ordered Payments
+   03-29-13                 EPAY BOND PAYMENT
+                            Bond
+   04-03-13                 EPAY RECONCILIATION TRANSACTION
+   08-06-13                 Court Ordered Payments
+   11-27-13                 Verified information on Petition to Revoke Probation
+ on file
+                            Summons issued this date.
+   12-03-13                 Court Ordered Payments
+   12-16-13                 Summons return.
+   12-26-13                 Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ja
+mes Kuehl appears
+                            instanter.  General denial to the Petition is entere
+d. Bond set in the
+                            amount of $1,000-ROR ALLOWED.  Defendant is admonish
+ed as to trial and
+                            sentencing in absentia.  See expanded record.
+   01-15-14                 Defendant motion to continue hearing on petition to
+revoke.
+                            People appear by Sarah J. Carlson.  Defendant appear
+s personally and
+                            with counsel, J. Propps.  On Defendant's motion, hea
+ring on Petition
+                            to Revoke this date is vacated.
+   01-21-14                 PTR continue
+                            Petitioner/People appear by Asst. State's Attorney.
+                            Respondent/Defendant appears with attorney.  Cause i
+s called for
+                            hearing on the Petition to Revoke.  Motion by the re
+spondent/defendant
+                            to continue; People/Petitioner states no objection.
+                            Respondent's/Defendant's motion to continue is allow
+ed.  By agreement,
+                            cause is continued for further proceedings on the Pe
+tition to Revoke
+                            on 2/18/14 at 9:00 a.m. in Courtroom C.  All previou
+s conditions of
+                            probation continue in full force and effect.  Bond i
+s to continue.
+   02-18-14                 PTR continued
+                            Petitioner/People appear by Asst. State's Attorney.
+                            Respondent/Defendant appears with Counsel.  Cause is
+ called for
+                            hearing on the Petition to Revoke.  Motion by the re
+spondent/defendant
+                            to continue; People/Petitioner state no objection.
+                            Respondent's/Defendant's motion to continue is allow
+ed.  By agreement,
+                            cause is continued for further proceedings on the Pe
+tition to Revoke
+                            on 3/18/14 at 9:00 a.m. in Courtroom C.  All previou
+s conditions of
+                            probation continue in full force and effect.  Bond i
+s to continue.
+   03-18-14                 PTR continued to track with 13-CF-1864
+   03-21-14                 Court Ordered Payments
+                            Cause continued to track with case 13 CF 1864.
+                            Petitioner appears by Mr. Banach.  Defendant appears
+ with attorney Ms.
+                            Jessup.  By agreement of the parties, cause is conti
+nued to track with
+                            case 13-CF-1864.  Cause is allotted for status as to
+ the PTR on
+                            4/15/14 at 9:00 a.m. in Courtroom C.  Defendant's bo
+nd is to continue.
+   04-15-14                 Cause is continued to track with 13 CF 1864
+                            People appear by Mr. Clifton. Deft. appears with att
+orney Ms. Jessup.
+                            Cause is continued on the State's Motion and over th
+e objection of the
+                            defendant to track with case 13 CF 1864 on 5/13/14 a
+t 9:00 a.m. in
+                            Courtroom C.  Defendant's bond is to continue.
+   05-13-14                 PTR continued on respondent's motion
+                            Petitioner/People appear by Asst. State's Attorney.
+                            Respondent/Defendant appears with Counsel.  Cause is
+ called for
+                            hearing on the Petition to Revoke.  Motion by the re
+spondent/defendant
+                            to continue; People/Petitioner state no objection.
+                            Respondent's/Defendant's motion to continue is allow
+ed.  By agreement,
+                            cause is continued for further proceedings on the Pe
+tition to Revoke
+                            on 6/23/14 at 9:00 a.m. in Courtroom C.  All previou
+s conditions of
+                            probation continue in full force and effect.  Bond i
+s to continue.
+                            Cause allotted for hearing on the Petition to Revoke
+ for
+   06-13-14
+                            By agreement of the parties, hearing on Petition to
+Revoke on 6/16/14
+                            is VACATED. Cause reallotted for hearing on the Peti
+tion to Revoke.
+   06-23-14                 Court Ordered Payments
+                            Resentencing on petition to revoke.
+                            People/Petitioner appear by Dan Clifton.  Defendant/
+Respondent appears
+                            personally and with counsel, Katie L. Jessup.  Defen
+dant/Respondent
+                            advised as to the nature of the proceedings and the
+possible penalties
+                            that may be imposed and the Court finds that the def
+endant/respondent
+                            understands the same.  Finding defendant/respondent
+knowingly,
+                            understandingly and voluntarily stipulates and admit
+s to the
+                            allegations contained in the Petition to Revoke.  Fi
+nding the same are
+                            true.  The court finds that the defendant/respondent
+ has violated the
+                            terms of her sentence.  Finding entered in favor of
+the
+                            people/petitioner and against defendant/respondent.
+                            By agreement, Defendant/Respondent's probation is mo
+dified.
+                            Defendant/Respondent's probation sentence is to rema
+in in full force
+                            and effect with the previously imposed conditions of
+ probation
+                            remaining in full force and effect. Further, Defenda
+nt/Respondent is
+                            to HAVE NO CONTACT WITH Herman Bishop. Defendant is
+to pay and
+                            additional restitution amount of $2000.00 as listed
+in the written
+                            order.  Defendant/Respondent ordered to pay all fine
+s and costs
+                            previously imposed.
+                            Sentencing Order-Modification of Petition to Revoke
+entered. SEE
+                            ORDER.
+                            Defendant advised of appeal rights and the Court fin
+ds she understands
+                            the same.
+                            Sentencing Order/Modification of Petition to Revoke
+on file.
+   07-15-14                 Court Ordered Payments
+   01-12-15                 Court Ordered Payments
+   02-23-15                 Cash
+   04-27-15                 Cash
+   05-22-15                 Cash
+   10-20-15                 Cash
+   12-16-15                 Cash
+   05-24-16                 Probation Violation Report on file
+   05-27-16                 Petition to Revoke Probation filed.
+                            Cause set for arraignment on
+                            Cash
+                            Change of address filed with the Circuit Clerk.
+   05-30-16                 Verified information on Petition to Revoke Probation
+ on file
+                            Summons issued this date.
+   06-28-16                 Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Li
+ndsey Yanchus
+                            appears instanter.  General denial to the Petition i
+s entered.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. Bond
+                            is set in the amount of $1,000-ROR ALLOWED.  See exp
+anded record.
+                            Released On Recognizance bond form on file.
+                            Expanded record of court proceedings on arraignment.
+                            Affidavit in support of request to appoint attorney.
+                            Summons returned, not found
+   06-29-16                 Record of exhibits received on file.
+                            Summons not served by CCSO
+                            Summons Not served on Phyllis Frazier by Champaign C
+ounty Sheriff's
+                            Office on   on file.
+   07-15-16                 Cash
+   08-03-16                 Cash
+                            Defendant motion to continue hearing on petition to
+revoke.
+                            People appear by Dan Clifton.  Defendant appears per
+sonally and with
+                            counsel, Jamie Propps.  On Defendant's motion, heari
+ng on Petition to
+                            Revoke this date is vacated.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

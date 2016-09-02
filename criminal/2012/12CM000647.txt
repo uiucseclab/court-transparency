@@ -1,0 +1,285 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CM000647
+
+   Defendant Plaintiff
+RILEY  OMMAR M
+1336 PINOAK
+RANTOUL IL 61866
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 06/04/12
+                Court Room:
+           Next Appearance: 07/07/14
+                Birth Date: 10/15/92
+                 DEFENDANT: RILEY  OMMAR M
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       15.00      PROBATION MONITORIN          360.00            .00
+      100.00      TRAFFIC/CRIMINAL SU          100.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+       25.00      PUBLIC DEFENDER               25.00            .00
+      395.00      FINES                        395.00            .00
+       40.00      VICTIMS FUND-FINE             40.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118082500 DOCUMENT STORAGE                   5.00        08/14/12
+   118082500 E-CITATION                         5.00        08/14/12
+   118082500 AUTOMATION                        10.00        08/14/12
+   118082500 CIRCUIT CLERK FEE                 75.00        08/14/12
+   118082500 COURT SECURITY                     5.00        08/14/12
+   118082500 PERSONAL CHECK/CREDIT CA           5.00        08/14/12
+   118599780 BOND - ORIGINAL                  100.00        05/23/13
+   118600410 COURT SECURITY                    20.00        05/23/13
+   118600410 COURT FINANCE FEE                 25.00        05/23/13
+   118600410 STATES ATTORNEY                   20.00        05/23/13
+   118600410 CRIME STOPPERS                     5.00        05/23/13
+   118600410 ARRESTEE'S MEDICAL                10.00        05/23/13
+   118600410 PROBATION MONITORING FEE          15.00        05/23/13
+   118600410 TR/CR SUR $10/$40                  5.00        05/23/13
+   118605775 EPAY RECEIVABLE                  100.00        05/29/13
+   118611893 BOND - ORIGINAL                  100.00        06/02/13
+   118614239 PROBATION MONITORING FEE          15.00        06/02/13
+   118614239 TR/CR SUR $10/$40                 85.00        06/02/13
+   118621791 EPAY RECEIVABLE                  100.00        06/06/13
+   118852625 BOND - ORIGINAL                  150.00        10/25/13
+   118853910 PROBATION MONITORING FEE          15.00        10/25/13
+   118853910 TR/CR SUR $10/$40                 10.00        10/25/13
+   118853910 CLERK OP & ADMIN FUND             10.00        10/25/13
+   118853910 DRUG COURT PROGRAM                 5.00        10/25/13
+   118853910 PUBLIC DEFENDER                   25.00        10/25/13
+   118853910 FINES                             85.00        10/25/13
+   118858978 EPAY RECEIVABLE                  150.00        10/30/13
+   118865556 BOND - ORIGINAL                  150.00        11/01/13
+   118865708 PROBATION MONITORING FEE          15.00        11/01/13
+   118865708 FINES                            135.00        11/01/13
+   118872907 EPAY RECEIVABLE                  150.00        11/06/13
+   118901536 BOND - ORIGINAL                  150.00        11/23/13
+   118904031 PROBATION MONITORING FEE          15.00        11/23/13
+   118904031 FINES                            135.00        11/23/13
+   118909184 EPAY RECEIVABLE                  150.00        11/29/13
+   121184033 BOND - ORIGINAL                  150.00        07/14/14
+   121184066 PROBATION MONITORING FEE          48.00        07/14/14
+   121184066 FINES                             40.00        07/14/14
+   121184066 VICTIMS FUND-FINE                 40.00        07/14/14
+   121184066 ST POLICE SERVICES FUND           10.00        07/14/14
+   121184066 ST POLICE OPERATIONS ASS          10.00        07/14/14
+   121184066 STATES ATTORNEY AUTOMATI           2.00        07/14/14
+   121190174 EPAY RECEIVABLE                  150.00        07/17/14
+   121206999 BOND - ORIGINAL                  150.00        07/27/14
+   121208290 DOCUMENT STORAGE                    .00        07/27/14
+   121208290 E-CITATION                          .00        07/27/14
+   121208290 AUTOMATION                          .00        07/27/14
+   121208290 CIRCUIT CLERK FEE                   .00        07/27/14
+   121208290 COURT SECURITY                      .00        07/27/14
+   121208290 COURT FINANCE FEE                   .00        07/27/14
+   121208290 STATES ATTORNEY                     .00        07/27/14
+   121208290 CRIME STOPPERS                      .00        07/27/14
+   121208290 ARRESTEE'S MEDICAL                  .00        07/27/14
+   121208290 PROBATION MONITORING FEE            .00        07/27/14
+   121208290 TR/CR SUR $10/$40                   .00        07/27/14
+   121208290 CLERK OP & ADMIN FUND               .00        07/27/14
+   121208290 DRUG COURT PROGRAM                  .00        07/27/14
+   121208290 PUBLIC DEFENDER                     .00        07/27/14
+   121208290 FINES                               .00        07/27/14
+   121208290 VICTIMS FUND-FINE                   .00        07/27/14
+   121208290 ST POLICE SERVICES FUND             .00        07/27/14
+   121208290 ST POLICE OPERATIONS ASS            .00        07/27/14
+   121208290 STATES ATTORNEY AUTOMATI            .00        07/27/14
+   121208290 *BOND REFUND                        .00        07/27/14
+   121208765 PROBATION MONITORING FEE         150.00        07/28/14
+   121215201 EPAY RECEIVABLE                  150.00        07/31/14
+   121231978 BOND - ORIGINAL                   87.00        08/09/14
+   121234676 PROBATION MONITORING FEE          87.00        08/09/14
+   121241668 EPAY RECEIVABLE                   87.00        08/14/14
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  DOMESTIC BATTERY/BODILY HARM
+
+         2  CONSUMPTION OF LIQUOR/MINOR
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   06-04-12                 Charge 01 Count 001 DOMESTIC BATTERY/BODILY HARM
+                            Statute 720 5/12-3.2(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Stephanie Corum appears instanter.  Plea of not guil
+ty entered and
+                            Defendant requests trial by jury.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia.  Bond is set in the amou
+nt of $1,000-ROR
+                            ALLOWED. As a condition of bond, Defendant is ordere
+d to have NO
+                            CONTACT whatsoever, directly or indirectly, with the
+ victim and/or
+                            address recited in open court. See expanded record.
+                            Notice of arrest without warrant on file.
+                            Charge 02 Count 002 CONSUMPTION OF LIQUOR/MINOR
+                            Statute 235 5/6-20(e)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   06-05-12                 Released On Recognizance bond form on file.
+   06-12-12                 Proof of service of discovery materials filed.
+   06-14-12                 Affidavit on file, pro se, and forwarded to court.
+   06-18-12                 Affidavit
+                            Affidavit received this date. Copies provided to cou
+nsel.
+   07-05-12                 Disposition 02/00  Count 002  Fine + Cost
+                            Disposition: Guilty CONSUMPTION OF LIQUOR/MINOR
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 235 5/6-20(e)  Class A  Orig.
+                            Sentence: 07/05/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  24Mos In force
+                                      Supervised Court Service
+                            Sentence: Partner Abuse Intervention Program  60Days
+ In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Attorney Fees  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            742.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    360.00
+                            PUBLIC DEFENDER         25.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, Lindsey R.
+Yanchus.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 02 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Consumption Of Liquor/Minor
+ ILCS: 235
+                            5/6-20(e) as charged. Judgment entered in favor of t
+he People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  1/02/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of 24 months Conditional Discharge. Defendant
+ is to enroll in a
+                            Partner Abuse Intervention Program approved by the C
+hampaign County
+                            Court Services Department within 60 days and success
+fully complete it
+                            without termination. Count(s) stated in the written
+order are herby
+                            dismissed.  Defendant advised of right to appeal and
+ rights pursuant
+                            to Supreme Court Rule 605 and the Court finds that t
+he defendant
+                            understands the same. Waiver of Jury on file. Senten
+cing Order entered
+                            this date. See Order. Court sets an appointed counse
+l fee in the
+                            amount of $25.00.
+                            Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed DOMESTIC BATTERY/BODILY HARM
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/12-3.2(a)(1)  Class A  Orig.
+                            Sentence: 07/05/2012
+                            Sentence: No Sentence  In force
+                            No Fine & Cost            .00
+   07-20-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+                            Report of Court Disposition sent to Secretary of Sta
+te.
+   08-14-12                 Court Ordered Payments
+                            Credit Card Fee
+   05-23-13                 EPAY BOND PAYMENT
+                            Bond
+   05-29-13                 EPAY RECONCILIATION TRANSACTION
+   06-02-13                 EPAY BOND PAYMENT
+                            Bond
+   06-06-13                 EPAY RECONCILIATION TRANSACTION
+   10-25-13                 EPAY BOND PAYMENT
+                            Bond
+   10-30-13                 EPAY RECONCILIATION TRANSACTION
+   11-01-13                 EPAY BOND PAYMENT
+                            Bond
+   11-06-13                 EPAY RECONCILIATION TRANSACTION
+   11-23-13                 EPAY BOND PAYMENT
+                            Bond
+   11-29-13                 EPAY RECONCILIATION TRANSACTION
+   07-14-14                 EPAY BOND PAYMENT
+                            Bond
+   07-17-14                 EPAY RECONCILIATION TRANSACTION
+   07-27-14                 EPAY BOND PAYMENT
+   07-28-14                 Bond
+   07-31-14                 EPAY RECONCILIATION TRANSACTION
+   08-09-14                 EPAY BOND PAYMENT
+                            Bond
+   08-14-14                 EPAY RECONCILIATION TRANSACTION
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

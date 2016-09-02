@@ -1,0 +1,236 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CM000959
+
+   Defendant Plaintiff
+CARTER  LEROY
+2505 PRAIRIE GREEN A
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 08/27/12
+                Court Room:
+           Next Appearance: 10/19/12
+                Birth Date: 12/15/65
+                 DEFENDANT: CARTER  LEROY
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             23.26           1.74
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+        5.00      CRIME STOPPERS                  .00           5.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+       50.00      TRAFFIC/CRIMINAL SU             .00          50.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+      190.00      FINES                           .00         190.00
+       20.00      VICTIMS FUND-FINE               .00          20.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      152.49      COLLECTION FEES               32.73         119.76
+       66.30      LATE FEES                     11.01          55.29
+       10.00      ST POLICE OPERATION             .00          10.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118217031 DOCUMENT STORAGE                   5.00        11/02/12
+   118420218 E-CITATION                         5.00        02/01/13
+   118566047 AUTOMATION                        10.00        05/03/13
+   118566047 CIRCUIT CLERK FEE                  5.00        05/03/13
+   118665983 CIRCUIT CLERK FEE                  5.00        07/03/13
+   118763287 CIRCUIT CLERK FEE                  5.00        09/04/13
+   118912243 CIRCUIT CLERK FEE                  5.00        12/03/13
+   120910310 CIRCUIT CLERK FEE                  5.00        02/03/14
+   121012288 CIRCUIT CLERK FEE                  3.46        04/03/14
+   121012288 COLLECTION FEES                    1.15        04/03/14
+   121012288 LATE FEES                           .39        04/03/14
+   121113510 CIRCUIT CLERK FEE                  3.46        06/03/14
+   121113510 COLLECTION FEES                    1.15        06/03/14
+   121113510 LATE FEES                           .39        06/03/14
+   121218336 CIRCUIT CLERK FEE                  3.46        08/01/14
+   121218336 COLLECTION FEES                    1.15        08/01/14
+   121218336 LATE FEES                           .39        08/01/14
+   121333843 CIRCUIT CLERK FEE                  3.46        10/06/14
+   121333843 COLLECTION FEES                    1.15        10/06/14
+   121333843 LATE FEES                           .39        10/06/14
+   121379493 CIRCUIT CLERK FEE                  3.46        11/03/14
+   121379493 COLLECTION FEES                    1.15        11/03/14
+   121379493 LATE FEES                           .39        11/03/14
+   121474628 CIRCUIT CLERK FEE                  3.46        01/02/15
+   121474628 COLLECTION FEES                    1.15        01/02/15
+   121474628 LATE FEES                           .39        01/02/15
+   121572350 CIRCUIT CLERK FEE                  4.84        03/03/15
+   121572350 COLLECTION FEES                    1.62        03/03/15
+   121572350 LATE FEES                           .54        03/03/15
+   121680232 CIRCUIT CLERK FEE                  3.46        05/01/15
+   121680232 COLLECTION FEES                    1.15        05/01/15
+   121680232 LATE FEES                           .39        05/01/15
+   121790876 CIRCUIT CLERK FEE                 10.38        07/06/15
+   121790876 COLLECTION FEES                    3.46        07/06/15
+   121790876 LATE FEES                          1.16        07/06/15
+   121904879 CIRCUIT CLERK FEE                 10.38        09/08/15
+   121904879 COLLECTION FEES                    3.46        09/08/15
+   121904879 LATE FEES                          1.16        09/08/15
+   121474628 COLLECTION FEES                    1.15        11/06/15
+   121474628 COLLECTION FEES                   -1.15        11/06/15
+   122004035 CIRCUIT CLERK FEE                   .18        11/03/15
+   122004035 COURT SECURITY                    10.20        11/03/15
+   122004035 COLLECTION FEES                    3.46        11/03/15
+   122004035 LATE FEES                          1.16        11/03/15
+   122100855 COURT SECURITY                    10.38        01/04/16
+   122100855 COLLECTION FEES                    3.46        01/04/16
+   122100855 LATE FEES                          1.16        01/04/16
+   122152564 COURT SECURITY                     4.42        02/03/16
+   122152564 COURT FINANCE FEE                  5.96        02/03/16
+   122152564 COLLECTION FEES                    3.46        02/03/16
+   122152564 LATE FEES                          1.16        02/03/16
+   122254529 COURT FINANCE FEE                 10.38        04/01/16
+   122254529 COLLECTION FEES                    3.46        04/01/16
+   122254529 LATE FEES                          1.16        04/01/16
+   122306995 COURT FINANCE FEE                  3.46        05/03/16
+   122306995 COLLECTION FEES                    1.15        05/03/16
+   122306995 LATE FEES                           .39        05/03/16
+   122410882 COURT FINANCE FEE                  3.46        07/01/16
+   122410882 COLLECTION FEES                    1.15        07/01/16
+   122410882 LATE FEES                           .39        07/01/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  KNOWINGLY DAMAGE PROP<$300
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   08-27-12                 Charge 01 Count 001 KNOWINGLY DAMAGE PROP<$300
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charging documents
+                            Created and properly labeled court case file.
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Amanda Riess appears instanter.  Plea of not guilty
+entered and
+                            Defendant requests trial by jury.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia.  Bond is set in the amou
+nt of $1,000-ROR
+                            ALLOWED. See expanded record.
+   08-29-12                 Released On Recognizance bond form on file.
+   09-06-12                 Proof of service of discovery materials filed.
+   10-09-12                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty KNOWINGLY DAMAGE PROP<$300
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/21-1(1)(a)  Class A  Orig.
+                            Sentence: 10/09/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Jail  2Days In force
+                            Sentence: Credit Time Served  2Days In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            477.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, Lindsey R.
+Yanchus.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Knowingly Damage Prop<$300
+ILCS: 720
+                            5/21-1(1)(a) as charged. Judgment entered in favor o
+f the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  4/08/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of incarceration of 2 days in the Champaign C
+ounty Correctional
+                            Center. Defendant is to receive credit for 2 days pr
+eviously served.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same. Waiver of Jury on file. Sentencing Order enter
+ed this date. See
+                            Order.
+   11-02-12                 Court Ordered Payments
+   02-01-13                 Court Ordered Payments
+   05-03-13                 Court Ordered Payments
+   07-03-13                 Court Ordered Payments
+   09-04-13                 Court Ordered Payments
+   12-03-13                 Court Ordered Payments
+   02-03-14                 Court Ordered Payments
+   03-20-14                 Case sent out for collections.
+   04-03-14                 Court Ordered Payments
+   06-03-14                 Court Ordered Payments
+   08-01-14                 Court Ordered Payments
+   10-06-14                 Court Ordered Payments
+   11-03-14                 Court Ordered Payments
+   01-02-15                 Court Ordered Payments
+   03-03-15                 Cash
+   05-01-15                 Cash
+   07-06-15                 Cash
+   09-08-15                 Cash
+   11-03-15                 Cash
+   01-04-16                 Cash
+   02-03-16                 Cash
+   04-01-16                 Cash
+   05-03-16                 Cash
+   07-01-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

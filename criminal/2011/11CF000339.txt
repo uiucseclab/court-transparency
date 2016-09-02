@@ -1,0 +1,423 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000339
+
+   Defendant Plaintiff
+LOWERY  BENJAMIN A
+201 E ORCHARD
+PEORIA IL 0
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 03/04/11
+                Court Room:
+           Next Appearance: 07/01/13
+                Birth Date: 10/11/91
+                 DEFENDANT: LOWERY  BENJAMIN A
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      CRIME STOPPERS                10.00            .00
+       25.00      PROBATION MONITORIN          600.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+      140.00      TRAFFIC/CRIMINAL SU          140.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      250.00      PUBLIC DEFENDER              250.00            .00
+         .00      FINES                           .00            .00
+       56.00      VICTIMS FUND-FINE             56.00            .00
+       50.00       STREET VALUE DRUG            50.00            .00
+      500.00      MANDATORY ASSESSMEN          500.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117578320 BOND - ORIGINAL                   15.00        08/01/11
+   117578321 DOCUMENT STORAGE                   5.00        08/01/11
+   117578321 AUTOMATION                        10.00        08/01/11
+   117621626 BOND - ORIGINAL                   30.00        09/01/11
+   117621627 CIRCUIT CLERK FEE                 30.00        09/01/11
+   117628560 EPAY RECEIVABLE                   30.00        09/07/11
+   117664656 BOND - ORIGINAL                   10.00        10/03/11
+   117664657 CIRCUIT CLERK FEE                 10.00        10/03/11
+   117669215 EPAY RECEIVABLE                   10.00        10/06/11
+   117723862 BOND - ORIGINAL                   15.00        11/16/11
+   117723863 CIRCUIT CLERK FEE                 15.00        11/16/11
+   117729846 EPAY RECEIVABLE                   15.00        11/21/11
+   117742288 BOND - ORIGINAL                   18.00        12/01/11
+   117742289 CIRCUIT CLERK FEE                 18.00        12/01/11
+   117749280 EPAY RECEIVABLE                   18.00        12/06/11
+   117788974 BOND - ORIGINAL                   15.00        01/09/12
+   117788975 CIRCUIT CLERK FEE                 15.00        01/09/12
+   117793235 EPAY RECEIVABLE                   15.00        01/12/12
+   117825892 BOND - ORIGINAL                   30.00        02/07/12
+   117825893 CIRCUIT CLERK FEE                 12.00        02/07/12
+   117825893 COURT SECURITY                    18.00        02/07/12
+   117830733 EPAY RECEIVABLE                   30.00        02/10/12
+   117871221 BOND - ORIGINAL                   10.00        03/10/12
+   117871222 COURT SECURITY                     7.00        03/10/12
+   117871222 ARRESTEE'S MEDICAL                 3.00        03/10/12
+   117878404 EPAY RECEIVABLE                   10.00        03/15/12
+   117902261 BOND - ORIGINAL                   15.00        04/02/12
+   117902262 ARRESTEE'S MEDICAL                 7.00        04/02/12
+   117902262 COURT FINANCE FEE                  8.00        04/02/12
+   117909565 EPAY RECEIVABLE                   15.00        04/06/12
+   117963436 BOND - ORIGINAL                   10.00        05/17/12
+   117963437 COURT FINANCE FEE                 10.00        05/17/12
+   117970389 EPAY RECEIVABLE                   10.00        05/23/12
+   117991633 BOND - ORIGINAL                   15.00        06/09/12
+   117991634 COURT FINANCE FEE                 15.00        06/09/12
+   117999675 EPAY RECEIVABLE                   15.00        06/15/12
+   118027628 BOND - ORIGINAL                   50.00        07/07/12
+   118027629 COURT FINANCE FEE                 17.00        07/07/12
+   118027629 STATES ATTORNEY                   33.00        07/07/12
+   118035423 EPAY RECEIVABLE                   50.00        07/13/12
+   118045024 BOND - ORIGINAL                   20.00        07/20/12
+   118045025 STATES ATTORNEY                    7.00        07/20/12
+   118045025 CRIME STOPPERS                    10.00        07/20/12
+   118045025 PROBATION MONITORING FEE           3.00        07/20/12
+   118052947 EPAY RECEIVABLE                   20.00        07/26/12
+   118073395 BOND - ORIGINAL                   18.00        08/08/12
+   118073396 PROBATION MONITORING FEE          18.00        08/08/12
+   118081890 EPAY RECEIVABLE                   18.00        08/14/12
+   118112980 BOND - ORIGINAL                   15.00        09/02/12
+   118112981 PROBATION MONITORING FEE          15.00        09/02/12
+   118124002 EPAY RECEIVABLE                   15.00        09/10/12
+   118159395 BOND - ORIGINAL                   20.00        10/01/12
+   118159396 PROBATION MONITORING FEE          20.00        10/01/12
+   118170567 EPAY RECEIVABLE                   20.00        10/05/12
+   118444266 BOND - ORIGINAL                   20.00        02/17/13
+   118444267 PROBATION MONITORING FEE          20.00        02/17/13
+   118452289 EPAY RECEIVABLE                   20.00        02/22/13
+   118465273 BOND - ORIGINAL                   41.00        03/01/13
+   118465274 PROBATION MONITORING FEE          41.00        03/01/13
+   118472347 EPAY RECEIVABLE                   41.00        03/06/13
+   118490036 BOND - ORIGINAL                  200.00        03/15/13
+   118490037 PROBATION MONITORING FEE         200.00        03/15/13
+   118495595 EPAY RECEIVABLE                  200.00        03/20/13
+   118508732 BOND - ORIGINAL                  100.00        03/29/13
+   118508733 PROBATION MONITORING FEE         100.00        03/29/13
+   118514977 EPAY RECEIVABLE                  100.00        04/03/13
+   118533333 BOND - ORIGINAL                  160.00        04/12/13
+   118533334 PROBATION MONITORING FEE         160.00        04/12/13
+   118539446 EPAY RECEIVABLE                  160.00        04/17/13
+   118555251 BOND - ORIGINAL                  160.00        04/26/13
+   118555252 PROBATION MONITORING FEE          23.00        04/26/13
+   118555252 SPINAL CORD RESEARCH FUN           5.00        04/26/13
+   118555252 CRIME LAB                        100.00        04/26/13
+   118555252 TRAUMA FUND                       32.00        04/26/13
+   118561581 EPAY RECEIVABLE                  160.00        05/01/13
+   118602152 BOND - ORIGINAL                  150.00        05/24/13
+   118602153 TRAUMA FUND                       68.00        05/24/13
+   118602153 TR/CR SUR $10/$40                 82.00        05/24/13
+   118608469 EPAY RECEIVABLE                  150.00        05/30/13
+   118624710 BOND - ORIGINAL                  150.00        06/08/13
+   118624711 TR/CR SUR $10/$40                 58.00        06/08/13
+   118624711 DRUG COURT PROGRAM                 5.00        06/08/13
+   118624711 PUBLIC DEFENDER                   87.00        06/08/13
+   118633029 EPAY RECEIVABLE                  150.00        06/13/13
+   118680948 BOND - ORIGINAL                   80.00        07/12/13
+   118680949 PUBLIC DEFENDER                   80.00        07/12/13
+   118686850 EPAY RECEIVABLE                   80.00        07/17/13
+   118738353 BOND - ORIGINAL                   50.00        08/17/13
+   118738354 PUBLIC DEFENDER                   50.00        08/17/13
+   118747334 EPAY RECEIVABLE                   50.00        08/22/13
+   118760235 BOND - ORIGINAL                   50.00        08/30/13
+   118760236 PUBLIC DEFENDER                   33.00        08/30/13
+   118760236 VICTIMS FUND-FINE                 17.00        08/30/13
+   118767855 EPAY RECEIVABLE                   50.00        09/05/13
+   118783495 BOND - ORIGINAL                  100.00        09/15/13
+   118783496 VICTIMS FUND-FINE                 39.00        09/15/13
+   118783496  STREET VALUE DRUG FINES          50.00        09/15/13
+   118783496 MANDATORY ASSESSMENT              11.00        09/15/13
+   118793077 EPAY RECEIVABLE                  100.00        09/19/13
+   118806160 BOND - ORIGINAL                  100.00        09/27/13
+   118806161 MANDATORY ASSESSMENT             100.00        09/27/13
+   118814796 EPAY RECEIVABLE                  100.00        10/02/13
+   118830199 BOND - ORIGINAL                  399.00        10/11/13
+   118830200 MANDATORY ASSESSMENT             389.00        10/11/13
+   118830200 ST POLICE OPERATIONS ASS          10.00        10/11/13
+   118838131 EPAY RECEIVABLE                  399.00        10/17/13
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+         1  POSS AMT CON SUB EXCEPT(A)/(D)
+
+         2  POSS AMT CON SUB EXCEPT(A)/(D)
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   03-04-11                 Charge 01 Count 001 POSS AMT CON SUB EXCEPT(A)/(D)
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Agency: UNIVERSITY OF ILLINOIS POLICE  Charge Instr:
+ Information
+                            Charge 02 Count 002 POSS AMT CON SUB EXCEPT(A)/(D)
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Christopher Mellon appears instanter.
+ Defendant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered.  Bond set in the am
+ount of $1,000-ROR
+                            ALLOWED. Defendant is admonished as to trial and sen
+tencing in
+                            absentia. See expanded record.
+   03-21-11                 Discovery filed
+   04-29-11                 Motion to Continue filed
+   05-03-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   05-11-11                 Supplemental Discovery filed
+   05-31-11
+                            Appearance of the State's Attorney.  Appearance of t
+he
+                            Defendant personally and by Counsel.
+   06-30-11                 Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed POSS AMT CON SUB EXCEPT(A)/(D
+)
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Sentence: 06/30/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Withold Judgment/1410 Probation POSS AM
+T CON SUB EXCEPT(A
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Sentence: 06/30/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees
+                            Sentence: First Offender Probation - Controlled Subs
+tances Act  24Mos
+                                      Supervised Court Service
+                            Sentence: Public Service  30Hrs
+                                      Supervised Court Service
+                            Sentence: Seized contraband is forfeited to the arre
+sting agency
+                            Sentence: Count(s) dismissed.
+                            Sentence: Defendant's probation to transfer to resid
+ent county
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Fine + Cost           1106.00     CRIME STOPPERS
+      10.00
+                            PROBATION MONITORIN    600.00     CRIME LAB
+     100.00
+                            PUBLIC DEFENDER        250.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Troy Lozar.  Appearance
+of the Defendant
+                            personally and by counsel, Diana Lenik on behalf of
+George Vargas.
+                            Defendant advised as to the nature of the proceeding
+s, the charges and
+                            the possible penalties that may be imposed and the C
+ourt finds that
+                            the Defendant understands the same.  Finding Defenda
+nt knowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Unlawful Poss Amt Con Sub E
+xcept(A)/(D) ILCS:
+                            720 570/402(c) as charged. Judgment entered in favor
+ of the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  9/24/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  24 months First Offender Probation pursua
+nt to the
+                            Controlled Substances Act. Defendant is ordered to p
+erform  30 hours
+                            of public service work under the supervision of the
+Champaign County
+                            Court Services Department.  The defendant is to be g
+iven credit on
+                            public service work for any hours completed in educa
+tion, treatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes.  On Motion of the People and
+pursuant to the
+                            Plea agreement Count 2 is dismissed.   Contraband se
+ized is ordered
+                            forfeited as set forth in the Sentencing Order enter
+ed this date.
+                            Defendant is ordered to report to the Court Services
+ Dept. this date.
+                            Defendant advised of right to appeal and rights purs
+uant to Supreme
+                            Court Rule 605 and the Court finds that the defendan
+t understands the
+                            same.    Sentencing Order entered.  See Order.
+                            Payment order for court appointed attorney.
+                            Cause called for hearing on the question of the Defe
+ndant's
+                            contribution to the County for costs of Appointed Co
+unsel.  Written
+                            payment order for Court-Appointed Attorney for $   2
+50.00 entered.
+   08-01-11                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   09-01-11                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   09-07-11                 EPAY RECONCILIATION TRANSACTION
+   10-03-11                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   10-06-11                 EPAY RECONCILIATION TRANSACTION
+   11-16-11                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   11-21-11                 EPAY RECONCILIATION TRANSACTION
+   12-01-11                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   12-06-11                 EPAY RECONCILIATION TRANSACTION
+   01-09-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   01-12-12                 EPAY RECONCILIATION TRANSACTION
+   02-07-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   02-10-12                 EPAY RECONCILIATION TRANSACTION
+   03-10-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   03-15-12                 EPAY RECONCILIATION TRANSACTION
+   04-02-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   04-06-12                 EPAY RECONCILIATION TRANSACTION
+   05-17-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-23-12                 EPAY RECONCILIATION TRANSACTION
+   06-09-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   06-15-12                 EPAY RECONCILIATION TRANSACTION
+   07-07-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   07-13-12                 EPAY RECONCILIATION TRANSACTION
+   07-20-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   07-26-12                 EPAY RECONCILIATION TRANSACTION
+   08-08-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   08-14-12                 EPAY RECONCILIATION TRANSACTION
+   09-02-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   09-10-12                 EPAY RECONCILIATION TRANSACTION
+   10-01-12                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   10-05-12                 EPAY RECONCILIATION TRANSACTION
+   02-17-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   02-22-13                 EPAY RECONCILIATION TRANSACTION
+   03-01-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   03-06-13                 EPAY RECONCILIATION TRANSACTION
+   03-15-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   03-20-13                 EPAY RECONCILIATION TRANSACTION
+   03-29-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   04-03-13                 EPAY RECONCILIATION TRANSACTION
+   04-12-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   04-17-13                 EPAY RECONCILIATION TRANSACTION
+   04-26-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-01-13                 EPAY RECONCILIATION TRANSACTION
+   05-24-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   05-30-13                 EPAY RECONCILIATION TRANSACTION
+   06-08-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   06-13-13                 EPAY RECONCILIATION TRANSACTION
+   07-10-13                 Order of unsuccessful discharge from probation.
+                            Written Order of Unsuccessful Discharge from Probati
+on entered this
+                            date.
+                            Disposition 01/01  Count 001  Manual Calculations
+                            Disposition: Terminated Unsatisfied POSS AMT CON SUB
+ EXCEPT(A)/(D)
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/402(c)  Class 4  Orig.
+                            Sentence: 07/10/2013
+                            Sentence: No Sentence  In force
+                            Case closed.
+   07-12-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   07-17-13                 EPAY RECONCILIATION TRANSACTION
+   07-18-13                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   08-17-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   08-22-13                 EPAY RECONCILIATION TRANSACTION
+   08-30-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   09-05-13                 EPAY RECONCILIATION TRANSACTION
+   09-15-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   09-19-13                 EPAY RECONCILIATION TRANSACTION
+   09-27-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   10-02-13                 EPAY RECONCILIATION TRANSACTION
+   10-11-13                 EPAY BOND PAYMENT
+                            Court Order Bond Used
+   10-17-13                 EPAY RECONCILIATION TRANSACTION
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

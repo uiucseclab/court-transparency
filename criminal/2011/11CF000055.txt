@@ -1,0 +1,419 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000055
+
+   Defendant Plaintiff
+AKINS  KENYE W
+1507 N ROMINE
+URBANA IL 61801
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/10/11
+                Court Room:
+           Next Appearance: 10/17/11
+                Birth Date: 05/14/93
+                 DEFENDANT: AKINS  KENYE W
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      250.00      BOND -10% BOND FEE           250.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+      100.00      CIRCUIT CLERK FEE            100.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       50.00      COURT FINANCE FEE             50.00            .00
+       40.00      STATES ATTORNEY               40.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                    100.00            .00
+      200.00       STATE OFFENDER DNA          200.00            .00
+      100.00      TRAUMA FUND                  100.00            .00
+     1180.00      TRAFFIC/CRIMINAL SU          922.44         257.56
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+         .00      FINES                           .00            .00
+      472.00      VICTIMS FUND-FINE               .00         472.00
+     2700.00       STREET VALUE DRUG              .00        2700.00
+     1980.00      MANDATORY ASSESSMEN             .00        1980.00
+       10.00      ST POLICE SERVICES              .00          10.00
+     2343.79      COLLECTION FEES              138.80        2204.99
+     1051.80      LATE FEES                       .00        1051.80
+       75.35      TAX INTERCEPT                 75.35            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117294544 SHERIFF'S BOOKING FEE             20.00        01/12/11
+   117294544 BOND - ORIGINAL                 2500.00        01/12/11
+   117677569 BOND -10% BOND FEE               250.00        10/13/11
+   117677569 *BOND REFUND                    2250.00        10/13/11
+   121160390 DOCUMENT STORAGE                   5.00        08/12/14
+   121160390 AUTOMATION                        10.00        08/12/14
+   121160390 CIRCUIT CLERK FEE                 77.05        08/12/14
+   121160390 COLLECTION FEES                    7.66        08/12/14
+   121184696 CIRCUIT CLERK FEE                 22.95        09/16/14
+   121184696 COURT SECURITY                    10.61        09/16/14
+   121184696 COLLECTION FEES                    2.80        09/16/14
+   121196439 COURT SECURITY                    14.39        09/23/14
+   121196439 COURT FINANCE FEE                 50.00        09/23/14
+   121196439 STATES ATTORNEY                    3.59        09/23/14
+   121196439 COLLECTION FEES                    5.66        09/23/14
+   121216533 01000000000                         .00        10/07/14
+   121216554 STATES ATTORNEY                   36.41        10/07/14
+   121216554 ARRESTEE'S MEDICAL                10.00        10/07/14
+   121216554 SPINAL CORD RESEARCH FUN           5.00        10/07/14
+   121216554 CRIME LAB                         29.93        10/07/14
+   121216554 COLLECTION FEES                    6.77        10/07/14
+   121241969 CRIME LAB                         70.07        10/21/14
+   121241969  STATE OFFENDER DNA ID S          11.27        10/21/14
+   121241969 COLLECTION FEES                    6.77        10/21/14
+   121267842  STATE OFFENDER DNA ID S          81.34        11/04/14
+   121267842 COLLECTION FEES                    6.77        11/04/14
+   121335682  STATE OFFENDER DNA ID S         107.39        12/09/14
+   121335682 TRAUMA FUND                       42.76        12/09/14
+   121335682 COLLECTION FEES                   12.50        12/09/14
+   121344150 TRAUMA FUND                       57.24        12/16/14
+   121344150 TR/CR SUR $10/$40                 40.80        12/16/14
+   121344150 COLLECTION FEES                    8.16        12/16/14
+   121362932 TR/CR SUR $10/$40                 90.52        12/30/14
+   121362932 COLLECTION FEES                    7.53        12/30/14
+   121390437 TR/CR SUR $10/$40                 98.04        01/13/15
+   121390437 COLLECTION FEES                    8.16        01/13/15
+   121416209 TR/CR SUR $10/$40                 98.03        01/27/15
+   121416209 COLLECTION FEES                    8.16        01/27/15
+   121437261 TR/CR SUR $10/$40                 98.04        02/10/15
+   121437261 COLLECTION FEES                    8.16        02/10/15
+   121461317 TR/CR SUR $10/$40                 40.47        02/24/15
+   121461317 CLERK OP & ADMIN FUND             10.00        02/24/15
+   121461317 DRUG COURT PROGRAM                 5.00        02/24/15
+   121461317 COLLECTION FEES                    5.45        02/24/15
+   121461317 ST POLICE OPERATIONS ASS          10.00        02/24/15
+   121490145 TR/CR SUR $10/$40                 81.34        03/10/15
+   121490145 COLLECTION FEES                    6.77        03/10/15
+   121808844 TR/CR SUR $10/$40                  6.22        08/18/15
+   121808844 COLLECTION FEES                     .62        08/18/15
+   121808844 TAX INTERCEPT                      1.24        08/18/15
+   121809247 TR/CR SUR $10/$40                 15.95        08/25/15
+   121809247 COLLECTION FEES                    1.61        08/25/15
+   121809247 TAX INTERCEPT                      3.44        08/25/15
+   121810617 BOND -10% BOND FEE                  .00        09/15/15
+   121810617 DOCUMENT STORAGE                    .00        09/15/15
+   121810617 AUTOMATION                          .00        09/15/15
+   121810617 CIRCUIT CLERK FEE                   .00        09/15/15
+   121810617 COURT SECURITY                      .00        09/15/15
+   121810617 COURT FINANCE FEE                   .00        09/15/15
+   121810617 STATES ATTORNEY                     .00        09/15/15
+   121810617 ARRESTEE'S MEDICAL                  .00        09/15/15
+   121810617 SPINAL CORD RESEARCH FUN            .00        09/15/15
+   121810617 CRIME LAB                           .00        09/15/15
+   121810617  STATE OFFENDER DNA ID S            .00        09/15/15
+   121810617 TRAUMA FUND                         .00        09/15/15
+   121810617 TR/CR SUR $10/$40                   .00        09/15/15
+   121810617 CLERK OP & ADMIN FUND               .00        09/15/15
+   121810617 DRUG COURT PROGRAM                  .00        09/15/15
+   121810617 FINES                               .00        09/15/15
+   121810617 VICTIMS FUND-FINE                   .00        09/15/15
+   121810617  STREET VALUE DRUG FINES            .00        09/15/15
+   121810617 MANDATORY ASSESSMENT                .00        09/15/15
+   121810617 ST POLICE SERVICES FUND             .00        09/15/15
+   121810617 COLLECTION FEES                     .00        09/15/15
+   121810617 LATE FEES                           .00        09/15/15
+   121810617 TAX INTERCEPT                       .00        09/15/15
+   121810617 ST POLICE OPERATIONS ASS            .00        09/15/15
+   121810617 *BOND REFUND                        .00        09/15/15
+   121922385 TR/CR SUR $10/$40                 57.70        09/16/15
+   121922385 COLLECTION FEES                    5.76        09/16/15
+   121922385 TAX INTERCEPT                     11.55        09/16/15
+   121975746 TR/CR SUR $10/$40                 94.75        10/15/15
+   121975746 COLLECTION FEES                    9.46        10/15/15
+   121975746 TAX INTERCEPT                     18.96        10/15/15
+   121984255 TR/CR SUR $10/$40                 76.09        10/20/15
+   121984255 COLLECTION FEES                    7.60        10/20/15
+   121984255 TAX INTERCEPT                     15.23        10/20/15
+   121390437 COLLECTION FEES                    8.16        11/06/15
+   121390437 COLLECTION FEES                   -8.16        11/06/15
+   121416209 COLLECTION FEES                    8.16        11/06/15
+   121416209 COLLECTION FEES                   -8.16        11/06/15
+   122011956 TR/CR SUR $10/$40                 76.09        11/05/15
+   122011956 COLLECTION FEES                    7.60        11/05/15
+   122011956 TAX INTERCEPT                     15.23        11/05/15
+   122036485 TR/CR SUR $10/$40                 32.25        11/20/15
+   122036485 COLLECTION FEES                    3.22        11/20/15
+   122036485 TAX INTERCEPT                      6.46        11/20/15
+   122335704 TR/CR SUR $10/$40                 16.15        05/17/16
+   122335704 COLLECTION FEES                    1.61        05/17/16
+   122335704 TAX INTERCEPT                      3.24        05/17/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  MFG/DEL 15<100 GR COCA/ANALOG
+
+         2  POSSESS 15<100 GRAMS COCAINE
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   01-10-11                 Charge 01 Count 001 MFG/DEL 15<100 GR COCA/ANALOG
+                            Statute 720 570/401(a)(2)(A)  Class X  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            NO BOND No Bond
+                            Charge 02 Count 002 POSSESS 15<100 GRAMS COCAINE
+                            Statute 720 570/402(a)(2)(A)  Class 1  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Defendant is admonished as to C
+LASS X SENTENCING
+                            on COUNT I. On Defendant's motion, cause is continue
+d for appearance
+                            of counsel. Bond set in the amount of $25,000-ROR DE
+NIED. Defendant is
+                            admonished as to trial and sentencing in absentia.
+See expanded
+                            record.
+                            Notice of arrest without warrant on file.
+   01-12-11                 Sheriff Booking Fee
+   01-19-11                 Expanded record of arraignment proceedings.
+                            Motion by the Defendant for appointed counsel. Motio
+n allowed. The
+                            Champaign County Public Defender is appointed and Ra
+ndall Rosenbaum
+                            appears instanter.  Defendant waives preliminary hea
+ring, enters a
+                            plea of not guilty and requests trial by jury.  Pre-
+trial orders
+                            entered.  Bond to continue. Defendant is admonished
+as to trial and
+                            sentencing in absentia. See expanded record.
+   01-28-11
+                            Assignment of Bond Filed.
+
+                            Entry of Appearance, Plea of Not Guilty and Jury Dem
+and filed by Scott
+                            Lerner.
+
+                            Demand for Discovery filed.
+   02-14-11                 Expanded Record
+                            Substitution of Counsel on file and approved.  Entry
+ of Appearance of
+                            attorney Scott Lerner on file.  Court vacates the ap
+pointment of the
+                            Public Defenders Office.  Cause is re-allotted to th
+e 11:00 a.m.
+                            pre-trial on 3/1/11 and the Court vacates the 9:00 a
+.m. allotment.
+                            See Order.
+                            Discovery filed
+   02-17-11                 Affidavit of mailing on file.
+   03-01-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   03-07-11                 Supplemental Discovery filed
+   03-29-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   03-31-11
+                            Defendant's First Disclosure of Discovery Pursuant t
+o Supreme Court
+                            Rule 413 filed.
+
+                            Motion to Suppress Evidence filed.
+
+                            Motion to Suppress Statements filed.
+   05-03-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   05-31-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   06-28-11
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.  Motion by the Defendant
+                            for Continuance.  Motion allowed.  Cause reallotted
+                            for the trial term immediately following the pre-tri
+al
+                            date.
+   06-29-11                 Motion to Continue filed
+   08-02-11
+                            Appearance of the State's Attorney.  Appearance of t
+he
+                            Defendant personally and by Counsel.
+   10-07-11                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed MFG/DEL 15<100 GR COCA/ANALOG
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 570/401(a)(2)(A)  Class X  Orig.
+                            Sentence: 10/07/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  Cost Only
+                            Disposition: Guilty POSSESS 15<100 GRAMS COCAINE
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 570/402(a)(2)(A)  Class 1
+                            Sentence: 10/07/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Department Of Corrections  8Yrs In force
+                            Sentence: Credit Time Served  4Days In force
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+In force
+                            Sentence: Count(s) dismissed.  In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only             6962.00     CRIME LAB
+     100.00
+                             STATE OFFENDER DNA    200.00     COLLECTION FEES
+    2368.72
+                            LATE FEES             1051.80     TAX INTERCEPT
+      50.42
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Dan Clifton.  Appearance
+ of the Defendant
+                            personally and by counsel, Scott Lerner.   Defendant
+ advised as to the
+                            nature of the proceedings, the charges and the possi
+ble penalties that
+                            may be imposed and the Court finds that the Defendan
+t understands the
+                            same.  Finding Defendant knowingly, understandingly
+and voluntarily
+                            waives rights and enters a plea of guilty to Count 0
+2 of the charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Unlawful
+                            Possession of a Controlled Substance ILCS: 720 570/4
+02(a)(2)(A) as
+                            charged. Judgment entered in favor of the People and
+ against the
+                            defendant on finding of guilt and for costs.  All fi
+nancial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk.  Any bond posted is
+to be applied
+                            first to any court ordered bond assignment on file a
+nd then to all
+                            restitution ordered and then to all financial obliga
+tions in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of
+                            incarceration of   8 years, in the Illinois Departme
+nt of Corrections.
+                            Defendant is to receive credit for   4 days previous
+ly served.  Motion
+                            by the Defendant for consideration in the Impact Inc
+arceration
+                            Program.  Consent to Participation in the Impact Inc
+arceration Program
+                            filed by the defendant.  Motion allowed.  Impact Inc
+arceration
+                            Sentencing Order entered.  See Order.  The Defendant
+ is to submit
+                            specimens of blood, saliva, or tissue to the Illinoi
+s Department of
+                            State Police or to the Department of Corrections wit
+hin 45 days, at a
+                            collection site designated by the Champaign County C
+ourt Services
+                            Department and/or Illinois Department of State Polic
+e, in accordance
+                            with 730 ILCS 5/5-4-3. Count stated in the written o
+rder are hereby
+                            dismissed. Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.  Sentencing Order entered.  Se
+e Order.
+                            Defendant is remanded to the custody of the Sheriff
+for transportation
+                            to the IL. Dept. of Corrections.
+                            Mittimus prepared.
+
+                            Pursuant to the Judgment on the guilty plea the drug
+                            fine collected it to be disbursed as follows:
+                                 12.5% to the Youth Drug Abuse Prevention Fund
+                                 37.5% to the General Corporate fund of Champaig
+n
+                                      County and
+                                 50% to the CHAMPAIGN POLICE DEPARTMENT
+   10-13-11                 Bond
+   10-17-11                 Statement of State's Attorney filed
+   02-07-12                 Case sent out for collections.
+   02-24-12                 Notice of Acceptance in Impact Incarceration Program
+ filed.
+   06-21-12                 Certification Notice of Impact Incarceration Program
+ filed.
+   08-12-14                 Court Ordered Payments
+   09-16-14                 Court Ordered Payments
+   09-23-14                 Court Ordered Payments
+   10-07-14                 Court Ordered Payments
+   10-21-14                 Court Ordered Payments
+   11-04-14                 Court Ordered Payments
+   12-09-14                 Court Ordered Payments
+   12-16-14                 Court Ordered Payments
+   12-30-14                 Court Ordered Payments
+   01-13-15                 Court Ordered Payments
+   01-27-15                 Court Ordered Payments
+   02-10-15                 Court Ordered Payments
+   02-24-15                 Court Ordered Payments
+   03-10-15                 Court Ordered Payments
+   08-18-15                 Cash
+   08-25-15                 Cash
+   09-16-15                 Collection Tax Intercept Payment
+   10-15-15                 Collection Tax Intercept Payment
+   10-20-15                 Collection Tax Intercept Payment
+   11-05-15                 Collection Tax Intercept Payment
+   11-20-15                 Collection Tax Intercept Payment
+   05-17-16                 Collection Tax Intercept Payment
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

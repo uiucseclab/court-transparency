@@ -1,0 +1,437 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF000364
+
+   Defendant Plaintiff
+MILLER  LAURA
+1901 COLUMBIA BLVD
+URBANA IL 61802
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 03/09/11
+                Court Room:
+           Next Appearance: 12/09/13
+                Birth Date: 10/29/62
+                 DEFENDANT: MILLER  LAURA
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+     8439.59      *RESTITUTION AMOUNT         6376.00        2063.59
+        5.00      DOCUMENT STORAGE                .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+      100.00      CIRCUIT CLERK FEE               .00         100.00
+       25.00      COURT SECURITY                  .00          25.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       50.00      COURT FINANCE FEE               .00          50.00
+       40.00      STATES ATTORNEY                 .00          40.00
+       10.00      CRIME STOPPERS                  .00          10.00
+       20.00      VICTIMS FUND-NO FIN             .00          20.00
+       25.00      PROBATION MONITORIN             .00         750.00
+      200.00       STATE OFFENDER DNA             .00         200.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117581877 *RESTITUTION AMOUNT                6.00        08/03/11
+   117581877 *RESTITUTION AMOUNT                6.00        08/03/11
+   117648627 *RESTITUTION AMOUNT               10.00        09/21/11
+   117648627 *RESTITUTION AMOUNT               10.00        09/21/11
+   117673486 *RESTITUTION AMOUNT               10.00        10/11/11
+   117673486 *RESTITUTION AMOUNT               10.00        10/11/11
+   117720896 *RESTITUTION AMOUNT               10.00        11/15/11
+   117720896 *RESTITUTION AMOUNT               10.00        11/15/11
+   117756594 *RESTITUTION AMOUNT               10.00        12/12/11
+   117756594 *RESTITUTION AMOUNT               10.00        12/12/11
+   117792738 *RESTITUTION AMOUNT               10.00        01/12/12
+   117792738 *RESTITUTION AMOUNT               10.00        01/12/12
+   117831799 *RESTITUTION AMOUNT               10.00        02/13/12
+   117831799 *RESTITUTION AMOUNT               10.00        02/13/12
+   117872919 *RESTITUTION AMOUNT               10.00        03/12/12
+   117872919 *RESTITUTION AMOUNT               10.00        03/12/12
+   117910047 *RESTITUTION AMOUNT               10.00        04/09/12
+   117910047 *RESTITUTION AMOUNT               10.00        04/09/12
+   117957236 *RESTITUTION AMOUNT               10.00        05/14/12
+   117957236 *RESTITUTION AMOUNT               10.00        05/14/12
+   117992091 *RESTITUTION AMOUNT               10.00        06/11/12
+   117992091 *RESTITUTION AMOUNT               10.00        06/11/12
+   118032097 *RESTITUTION AMOUNT               10.00        07/11/12
+   118032097 *RESTITUTION AMOUNT               10.00        07/11/12
+   118079741 *RESTITUTION AMOUNT               10.00        08/13/12
+   118079741 *RESTITUTION AMOUNT               10.00        08/13/12
+   118113445 *RESTITUTION AMOUNT               15.00        09/04/12
+   118113445 *RESTITUTION AMOUNT               15.00        09/04/12
+   118194191 *RESTITUTION AMOUNT              100.00        10/22/12
+   118194191 *RESTITUTION AMOUNT              100.00        10/22/12
+   118223397 *RESTITUTION AMOUNT              150.00        11/07/12
+   118223397 *RESTITUTION AMOUNT              150.00        11/07/12
+   118284467 BOND - ORIGINAL                   50.00        12/11/12
+   118285580 *RESTITUTION AMOUNT               50.00        12/11/12
+   118285580 *RESTITUTION AMOUNT               50.00        12/11/12
+   118291258 EPAY RECEIVABLE                   50.00        12/14/12
+   118292762 EPAY RECEIVABLE                   50.00        12/17/12
+   118395945 *RESTITUTION AMOUNT              100.00        01/22/13
+   118395945 *RESTITUTION AMOUNT              100.00        01/22/13
+   118438732 *RESTITUTION AMOUNT              200.00        02/13/13
+   118438732 *RESTITUTION AMOUNT              200.00        02/13/13
+   118481433 *RESTITUTION AMOUNT              100.00        03/12/13
+   118481433 *RESTITUTION AMOUNT              100.00        03/12/13
+   118536222 *RESTITUTION AMOUNT              100.00        04/16/13
+   118536222 *RESTITUTION AMOUNT              100.00        04/16/13
+   118581000 *RESTITUTION AMOUNT              100.00        05/13/13
+   118581000 *RESTITUTION AMOUNT              100.00        05/13/13
+   118630992 *RESTITUTION AMOUNT               75.00        06/12/13
+   118630992 *RESTITUTION AMOUNT               75.00        06/12/13
+   118683843 *RESTITUTION AMOUNT              100.00        07/16/13
+   118683843 *RESTITUTION AMOUNT              100.00        07/16/13
+   118730449 *RESTITUTION AMOUNT               80.00        08/13/13
+   118730449 *RESTITUTION AMOUNT               80.00        08/13/13
+   118779165 *RESTITUTION AMOUNT              100.00        09/12/13
+   118779165 *RESTITUTION AMOUNT              100.00        09/12/13
+   118832496 *RESTITUTION AMOUNT               80.00        10/15/13
+   118832496 *RESTITUTION AMOUNT               80.00        10/15/13
+   118879257 *RESTITUTION AMOUNT              100.00        11/12/13
+   118879257 *RESTITUTION AMOUNT              100.00        11/12/13
+   120827254 *RESTITUTION AMOUNT              150.00        12/10/13
+   120827254 *RESTITUTION AMOUNT              150.00        12/10/13
+   120880386 *RESTITUTION AMOUNT              150.00        01/15/14
+   120880386 *RESTITUTION AMOUNT              150.00        01/15/14
+   120941310 *RESTITUTION AMOUNT              150.00        02/21/14
+   120941310 *RESTITUTION AMOUNT              150.00        02/21/14
+   120994320 *RESTITUTION AMOUNT              150.00        03/24/14
+   120994320 *RESTITUTION AMOUNT              150.00        03/24/14
+   121038925 *RESTITUTION AMOUNT              150.00        04/21/14
+   121038925 *RESTITUTION AMOUNT              150.00        04/21/14
+   121100477 *RESTITUTION AMOUNT              150.00        05/27/14
+   121100477 *RESTITUTION AMOUNT              150.00        05/27/14
+   121144305 *RESTITUTION AMOUNT              150.00        06/19/14
+   121144305 *RESTITUTION AMOUNT              150.00        06/19/14
+   121205561 *RESTITUTION AMOUNT              150.00        07/25/14
+   121205561 *RESTITUTION AMOUNT              150.00        07/25/14
+   121262235 *RESTITUTION AMOUNT              150.00        08/26/14
+   121262235 *RESTITUTION AMOUNT              150.00        08/26/14
+   121321766 *RESTITUTION AMOUNT              150.00        09/29/14
+   121321766 *RESTITUTION AMOUNT              150.00        09/29/14
+   121376995 *RESTITUTION AMOUNT              150.00        10/31/14
+   121376995 *RESTITUTION AMOUNT              150.00        10/31/14
+   121423482 *RESTITUTION AMOUNT              150.00        12/01/14
+   121423482 *RESTITUTION AMOUNT              150.00        12/03/14
+   121470712 *RESTITUTION AMOUNT              150.00        12/30/14
+   121470712 *RESTITUTION AMOUNT              150.00        12/30/14
+   121522067 *RESTITUTION AMOUNT              150.00        01/30/15
+   121522067 *RESTITUTION AMOUNT              150.00        01/30/15
+   121565800 *RESTITUTION AMOUNT              150.00        02/26/15
+   121565800 *RESTITUTION AMOUNT              150.00        02/26/15
+   121626110 *RESTITUTION AMOUNT              150.00        03/31/15
+   121626110 *RESTITUTION AMOUNT              150.00        03/31/15
+   121678646 *RESTITUTION AMOUNT              150.00        04/30/15
+   121678646 *RESTITUTION AMOUNT              150.00        04/30/15
+   121724566 *RESTITUTION AMOUNT              150.00        05/27/15
+   121724566 *RESTITUTION AMOUNT              150.00        05/27/15
+   121782715 *RESTITUTION AMOUNT              150.00        06/30/15
+   121782715 *RESTITUTION AMOUNT              150.00        06/30/15
+   121837404 *RESTITUTION AMOUNT              150.00        07/30/15
+   121837404 *RESTITUTION AMOUNT              150.00        07/30/15
+   121893088 *RESTITUTION AMOUNT              150.00        08/31/15
+   121893088 *RESTITUTION AMOUNT              150.00        08/31/15
+   121946198 *RESTITUTION AMOUNT              150.00        09/30/15
+   121946198 *RESTITUTION AMOUNT              150.00        09/30/15
+   121946198 *RESTITUTION AMOUNT              150.00        09/30/15
+   121946198 *RESTITUTION AMOUNT             -150.00        09/30/15
+   121946198 *RESTITUTION AMOUNT              150.00        09/30/15
+   121998005 *RESTITUTION AMOUNT              150.00        10/29/15
+   121998005 *RESTITUTION AMOUNT              150.00        10/29/15
+   122047836 *RESTITUTION AMOUNT              150.00        11/30/15
+   122047836 *RESTITUTION AMOUNT              150.00        11/30/15
+   122096906 *RESTITUTION AMOUNT              150.00        12/30/15
+   122096906 *RESTITUTION AMOUNT              150.00        12/30/15
+   122144601 *RESTITUTION AMOUNT              150.00        01/28/16
+   122144601 *RESTITUTION AMOUNT              150.00        01/28/16
+   122194896 *RESTITUTION AMOUNT              150.00        02/29/16
+   122194896 *RESTITUTION AMOUNT              150.00        02/29/16
+   122252218 *RESTITUTION AMOUNT              150.00        03/31/16
+   122252218 *RESTITUTION AMOUNT              150.00        03/31/16
+   122302445 *RESTITUTION AMOUNT              150.00        04/29/16
+   122302445 *RESTITUTION AMOUNT              150.00        04/29/16
+   122354728 *RESTITUTION AMOUNT              150.00        05/31/16
+   122354728 *RESTITUTION AMOUNT              150.00        05/31/16
+   122408687 *RESTITUTION AMOUNT              150.00        06/30/16
+   122408687 *RESTITUTION AMOUNT              150.00        06/30/16
+   122456143 *RESTITUTION AMOUNT              150.00        07/28/16
+   122456143 *RESTITUTION AMOUNT              150.00        07/28/16
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  THEFT DECEPTION INTENT 300<10K
+
+         1  THEFT DECEPTION INTENT 300<10K
+
+         2  THEFT DECEPTION INTENT 300<10K
+
+         3  THEFT DECEPTION INTENT 300<10K
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   03-09-11                 Charge 01 Count 001 THEFT DECEPTION INTENT 300<10K
+                            Statute 720 5/16-1(a)(2)(A)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 02 Count 002 THEFT DECEPTION INTENT 300<10K
+                            Statute 720 5/16-1(a)(2)(A)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charge 03 Count 003 THEFT DECEPTION INTENT 300<10K
+                            Statute 720 5/16-1(a)(2)(A)  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+
+                            Verified information on file.
+   03-21-11                 Summons served.
+   03-29-11                 Expanded record of arraignment proceedings.
+                            Defendant arraigned.  The Champaign County Public De
+fender is
+                            appointed and Scott Schmidt appears instanter.  Defe
+ndant waives
+                            preliminary hearing, enters a plea of not guilty and
+ requests trial by
+                            jury.  Pre-trial orders entered. Bond set in the amo
+unt of $1,000-ROR
+                            ALLOWED. Defendant is admonished as to trial and sen
+tencing in
+                            absentia. See expanded record.
+   03-31-11                 Discovery filed
+   05-10-11
+                            Appearance of the State's Attorney.  Appearance of t
+he
+                            Defendant personally and by Counsel.
+   06-08-11                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty THEFT DECEPTION INTENT 300<10K
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16-1(a)(2)(A)  Class 3  Orig.
+                            Sentence: 06/08/2011
+                            Sentence: Cost Only
+                            Sentence: Probation  30Mos
+                                      Supervised Court Service
+                            Sentence: Submit Blood, Saliva Or Tissue Specimens
+                            Sentence: Count(s) dismissed.
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Sentence: Restitution
+                            Cost Only              295.00     *RESTITUTION AMOUN
+T   8439.59
+                            CRIME STOPPERS          10.00     PROBATION MONITORI
+N    750.00
+                             STATE OFFENDER DNA    200.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Stephanie Weber.  Appear
+ance of the
+                            Defendant personally and by counsel, Randall B. Rose
+nbaum.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Theft Deception Intent 300<
+10k ILCS: 720
+                            5/16-1(a)(2)(A) as charged. Judgment entered in favo
+r of the People
+                            and against the defendant on finding of guilt and fo
+r costs.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  6/05/2013.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  30 months probation. The Defendant is to
+submit specimens
+                            of blood, saliva, or tissue to the Illinois Departme
+nt of State Police
+                            or to the Department of Corrections within 45 days,
+at a collection
+                            site designated by the Champaign County Court Servic
+es Department
+                            and/or Illinois Department of State Police, in accor
+dance with 730
+                            ILCS 5/5-4-3. Count(s) stated in the written order a
+re herby
+                            dismissed. Defendant advised of right to appeal and
+rights pursuant to
+                            Supreme Court Rule 605 and the Court finds that the
+defendant
+                            understands the same.
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed THEFT DECEPTION INTENT 300<10
+K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1(a)(2)(A)  Class 3  Orig.
+                            Sentence: 06/08/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  No Fine & Cost
+                            Disposition: Dismissed THEFT DECEPTION INTENT 300<10
+K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1(a)(2)(A)  Class 3  Orig.
+                            Sentence: 06/08/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+   07-11-11                 Illinois State Police DNA Indexing Laboratory
+                            Sample Information filed.
+   08-03-11                 Court Ordered Payments
+   09-21-11                 Court Ordered Payments
+   10-11-11                 Court Ordered Payments
+   11-15-11                 Court Ordered Payments
+   12-12-11                 Court Ordered Payments
+   01-12-12                 Court Ordered Payments
+   02-13-12                 Court Ordered Payments
+   03-12-12                 Court Ordered Payments
+   04-09-12                 Court Ordered Payments
+   05-14-12                 Court Ordered Payments
+   06-11-12                 Court Ordered Payments
+   07-11-12                 Court Ordered Payments
+   08-13-12                 Court Ordered Payments
+   09-04-12                 Court Ordered Payments
+   10-22-12                 Court Ordered Payments
+   10-24-12                  Faxed copy of change of address for restitution fro
+m Heritage Estates
+                            received and placed on file this date.
+   11-07-12                 Court Ordered Payments
+   12-11-12                 EPAY BOND PAYMENT
+                            Bond
+   12-14-12                 EPAY RECONCILIATION TRANSACTION
+   12-17-12                 EPAY RECONCILIATION TRANSACTION
+   01-22-13                 Court Ordered Payments
+   02-13-13                 Court Ordered Payments
+   03-12-13                 Court Ordered Payments
+   04-16-13                 Court Ordered Payments
+   05-13-13                 Court Ordered Payments
+   06-12-13                 Court Ordered Payments
+   07-16-13                 Court Ordered Payments
+   08-13-13                 Court Ordered Payments
+   09-12-13                 Court Ordered Payments
+   10-10-13                 Probation Violation Report on file
+   10-15-13                 Court Ordered Payments
+   10-18-13                 Verified information on Petition to Revoke Probation
+ on file
+                            Petition to Revoke Probation filed.
+   10-25-13                 Summons served.
+   11-12-13                 Court Ordered Payments
+   11-19-13                 Recognizance bond
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ch
+ristopher Mellon
+                            appears instanter.  General denial to the Petition i
+s entered.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. Bond
+                            is set in the amount of $1,000-ROR ALLOWED. See expa
+nded record.
+   12-02-13                 Ruling on Motion for Extention to Pay Restitution
+                            People appear by Assistant State's Attorney Claire S
+harples-Brooks.
+                            Defendant appears personally and by counsel, Assista
+nt Public Defender
+                            Stephanie Corum. Cause called for hearing on Defenda
+nt's Motion to
+                            Extend Time to Pay Restitution filed this date. Stat
+ements of counsel
+                            heard. Motion allowed. Defendant is ordered to pay r
+emaining
+                            restitution within 5 years, to be paid in monthly in
+stallments of no
+                            less than $150.00. Pursuant to terms of the order en
+tered this date,
+                            order of probation entered June 8, 2011 is hereby te
+rminated. Written
+                            Order entered. See Order.
+                            Disposition 01/01  Count 001  No Fine & Cost
+                            Disposition: Probation Terminated THEFT DECEPTION IN
+TENT 300<10K
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 5/16-1(a)(2)(A)  Class 3
+                            Sentence: 12/02/2013
+                            Sentence: No Sentence  In force
+                            Case closed.
+   12-03-13                 Payment Due
+   12-10-13                 Court Ordered Payments
+                            Error disposition form created this date.
+   01-15-14                 Court Ordered Payments
+   02-21-14                 Court Ordered Payments
+   03-24-14                 Court Ordered Payments
+   04-21-14                 Court Ordered Payments
+   05-27-14                 Court Ordered Payments
+   06-19-14                 Court Ordered Payments
+   07-25-14                 Court Ordered Payments
+   08-26-14                 Court Ordered Payments
+   09-29-14                 Court Ordered Payments
+   10-31-14                 Court Ordered Payments
+   12-01-14                 Court Ordered Payments
+   12-30-14                 Court Ordered Payments
+   01-30-15                 Court Ordered Payments
+   02-26-15                 Cash
+   03-31-15                 Cash
+   04-30-15                 Cash
+   05-27-15                 Cash
+   06-30-15                 Cash
+   07-30-15                 Cash
+   08-31-15                 Cash
+   09-30-15                 Cash
+   10-29-15                 Cash
+   11-30-15                 Cash
+   12-30-15                 Cash
+   01-28-16                 Cash
+   02-29-16                 Cash
+   03-31-16                 Cash
+   04-29-16                 Cash
+   05-31-16                 Cash
+   06-30-16                 Cash
+   07-28-16                 Cash
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

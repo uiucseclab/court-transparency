@@ -1,0 +1,225 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CF001447
+
+   Defendant Plaintiff
+BOSS  JAMES G
+1135 81ST ST PLACE E
+CHICAGO IL 60619
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 09/06/11
+                Court Room:
+           Next Appearance: 12/15/11
+                Birth Date: 02/20/72
+                 DEFENDANT: BOSS  JAMES G
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+      250.00      BOND -10% BOND FEE           250.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+       10.00      TRAFFIC/CRIMINAL SU           10.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      225.00      PUBLIC DEFENDER              225.00            .00
+         .00      FINES                           .00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+     1805.00                                  1805.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117628983 SHERIFF'S BOOKING FEE             20.00        09/07/11
+   117628983 BOND - ORIGINAL                 2500.00        09/07/11
+   117755579 BOND -10% BOND FEE               250.00        12/09/11
+   117755579 DOCUMENT STORAGE                   5.00        12/09/11
+   117755579 E-CITATION                         5.00        12/09/11
+   117755579 AUTOMATION                        10.00        12/09/11
+   117755579 CIRCUIT CLERK FEE                 75.00        12/09/11
+   117755579 COURT SECURITY                    25.00        12/09/11
+   117755579 ARRESTEE'S MEDICAL                10.00        12/09/11
+   117755579 COURT FINANCE FEE                 25.00        12/09/11
+   117755579 STATES ATTORNEY                   20.00        12/09/11
+   117755579 TR/CR SUR $10/$40                 10.00        12/09/11
+   117755579 CLERK OP & ADMIN FUND             10.00        12/09/11
+   117755579 DRUG COURT PROGRAM                 5.00        12/09/11
+   117755579 PUBLIC DEFENDER                  225.00        12/09/11
+   117755579 ST POLICE SERVICES FUND           10.00        12/09/11
+   117755579 ST POLICE OPERATIONS ASS          10.00        12/09/11
+   117755579 *BOND REFUND                    1805.00        12/09/11
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  POSS COUNTERFEIT CREDIT CARD
+
+         2  POSS COUNTERFEIT CREDIT CARD
+
+         3  THEFT CONTROL INTENT <$300
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   09-06-11                 Charge 01 Count 001 POSS COUNTERFEIT CREDIT CARD
+                            Statute 720 250/16  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Charge 02 Count 002 POSS COUNTERFEIT CREDIT CARD
+                            Statute 720 250/16  Class 3  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Companion Charge
+                            Created and properly labeled permanent case file.
+                            Cause set for arraignment on
+                            Expanded record of arraignment proceedings.
+                            Defendant is arraigned. Defendant is admonished as t
+o EXTENDED TERM
+                            SENTENCING. Public Defender is appointed and Stephan
+ie Corum appears
+                            instanter.  Defendant requests Preliminary hearing.
+ Bond set in the
+                            amount of $25,000-ROR DENIED. Defendant is admonishe
+d as to trial and
+                            sentencing in absentia.  See expanded record.
+                            Cause allotted for pre-trial on
+   09-07-11                 Sheriff Booking Fee
+                            Notice of arrest without warrant on file.
+   09-12-11                 Answer to Discovery filed
+                            Discovery filed
+                            Subpoena Served.  No Fees.
+   10-04-11                 Pre-trial order after waiver or finding of probable
+cause.
+                            People appear by Adam M. Dill.  Defendant appears wi
+th counsel, Amanda
+                            Riess. Defendant waives preliminary hearing, enters
+a plea of not
+                            guilty and requests trial by jury. Pre-Trial Orders
+entered. See
+                            Orders. Bond to continue
+   11-15-11                 Allotted for trial
+                            Appearance of the State's Attorney.  Defendant appea
+rs
+                            personally and by Counsel.
+   11-28-11                 Subpoena Served.  No Fees.
+   11-29-11                 Subpoena Served.  No Fees.
+   12-01-11                 Subpoena not found.
+   12-02-11                 Charge 03 Count 003 THEFT CONTROL INTENT <$300
+                            Statute 720 5/16-1(a)(1)(A)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+   12-05-11                 Disposition 01/00  Count 001  No Fine & Cost
+                            Disposition: Dismissed POSS COUNTERFEIT CREDIT CARD
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 250/16  Class 3  Orig.
+                            Sentence: 12/05/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 02/00  Count 002  No Fine & Cost
+                            Disposition: Dismissed POSS COUNTERFEIT CREDIT CARD
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 250/16  Class 3  Orig.
+                            Sentence: 12/05/2011
+                            Sentence: No Sentence
+                            No Fine & Cost            .00
+                            Disposition 03/00  Count 003  Fine + Cost
+                            Disposition: Guilty THEFT CONTROL INTENT <$300
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/16-1(a)(1)(A)  Class A  Orig.
+                            Sentence: 12/05/2011
+                            Sentence: Fines and/or Cost/Penalties and Fees
+                            Sentence: Jail  16Days
+                            Sentence: Credit Time Served  2Days
+                            Sentence: Count(s) dismissed.
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Fine + Cost            465.00     E-CITATION
+       5.00
+                            PUBLIC DEFENDER        225.00
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Adam M. Dill.  Appearanc
+e of the Defendant
+                            personally and by counsel, Amanda Riess.   Defendant
+ advised as to the
+                            nature of the proceedings, the charges and the possi
+ble penalties that
+                            may be imposed and the Court finds that the Defendan
+t understands the
+                            same.  Finding Defendant knowingly, understandingly
+and voluntarily
+                            waives rights and enters a plea of guilty to Count 0
+3 of the charging
+                            instrument.  Finding Defendant is guilty of the offe
+nse of Theft
+                            ILCS: 720 5/16-1(a)(1)(A) as charged. Judgment enter
+ed in favor of the
+                            People and against the defendant on finding of guilt
+ and for costs.
+                            All financial obligations shall be paid in equal mon
+thly installments
+                            to the Champaign County Circuit Clerk.  Any bond pos
+ted is to be
+                            applied first to any court ordered bond assignment o
+n file and then to
+                            all restitution ordered and then to all financial ob
+ligations in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of
+                            incarceration of   days in the Champaign County Corr
+ectional Center.
+                            Defendant is to receive credit for   2 days previous
+ly served. Order
+                            of Imprisonment entered this date.  See Order.  Coun
+t(s) stated in the
+                            written order are hereby dismissed. Defendant advise
+d of right to
+                            appeal and rights pursuant to Supreme Court Rule 605
+ and the Court
+                            finds that the defendant understands the same.     S
+entencing Order
+                            entered.  See Order.  Defendant is ordered to commen
+ce his period of
+                            incarceration on 12/13/11 at 8:45 at the Satellite J
+ail.
+                            Payment order for court appointed attorney.
+                            Cause called for hearing on the question of the Defe
+ndant's
+                            contribution to the County for costs of Appointed Co
+unsel.  Written
+                            payment order for Court-Appointed Attorney for $   2
+25.00 entered.
+   12-09-11                 Bond
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

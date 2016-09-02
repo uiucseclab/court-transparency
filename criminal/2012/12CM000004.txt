@@ -1,0 +1,228 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CM000004
+
+   Defendant Plaintiff
+PONCE  LUIS
+5170 N WINGATE
+DECATUR IL 62521
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 01/03/12
+                Court Room:
+           Next Appearance: 02/22/13
+                Birth Date: 03/31/79
+                 DEFENDANT: PONCE  LUIS
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       60.00      BOND -10% BOND FEE            60.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       15.00      PROBATION MONITORIN          180.00            .00
+       10.00      DOMESTIC BATTERY              10.00            .00
+      100.00      TRAFFIC/CRIMINAL SU          100.00            .00
+       10.00      CLERK OP & ADMIN FU           10.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      180.00      FINES                        180.00            .00
+       40.00      VICTIMS FUND-FINE             40.00            .00
+      200.00      DOMESTIC VIOLENCE            200.00            .00
+       10.00      ST POLICE SERVICES            10.00            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+         .00                                      .00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117787679 SHERIFF'S BOOKING FEE             20.00        01/09/12
+   117787679 BOND - ORIGINAL                  500.00        01/09/12
+   117844743 BOND - ORIGINAL                  100.00        02/22/12
+   117844743 PERSONAL CHECK/CREDIT CA           5.00        02/22/12
+   117851838 BOND -10% BOND FEE                60.00        02/27/12
+   117851838 DOCUMENT STORAGE                   5.00        02/27/12
+   117851838 E-CITATION                         5.00        02/27/12
+   117851838 AUTOMATION                        10.00        02/27/12
+   117851838 CIRCUIT CLERK FEE                 75.00        02/27/12
+   117851838 COURT SECURITY                    25.00        02/27/12
+   117851838 ARRESTEE'S MEDICAL                10.00        02/27/12
+   117851838 COURT FINANCE FEE                 25.00        02/27/12
+   117851838 STATES ATTORNEY                   20.00        02/27/12
+   117851838 CRIME STOPPERS                     5.00        02/27/12
+   117851838 PROBATION MONITORING FEE          15.00        02/27/12
+   117851838 DOMESTIC BATTERY                  10.00        02/27/12
+   117851838 TR/CR SUR $10/$40                100.00        02/27/12
+   117851838 CLERK OP & ADMIN FUND             10.00        02/27/12
+   117851838 DRUG COURT PROGRAM                 5.00        02/27/12
+   117851838 FINES                            180.00        02/27/12
+   117851838 VICTIMS FUND-FINE                 40.00        02/27/12
+   117908598 PROBATION MONITORING FEE          15.00        04/05/12
+   117908598 DOMESTIC VIOLENCE                 15.00        04/05/12
+   118018706 PROBATION MONITORING FEE          15.00        06/29/12
+   118018706 DOMESTIC VIOLENCE                 10.00        06/29/12
+   118018708 PERSONAL CHECK/CREDIT CA           5.00        06/29/12
+   118156236 PROBATION MONITORING FEE          10.00        09/27/12
+   118271378 PROBATION MONITORING FEE          10.00        12/04/12
+   118429698 PROBATION MONITORING FEE          15.00        02/07/13
+   118429698 DOMESTIC VIOLENCE                175.00        02/07/13
+   118429698 ST POLICE SERVICES FUND           10.00        02/07/13
+   118429698 ST POLICE OPERATIONS ASS          10.00        02/07/13
+   118429706 PROBATION MONITORING FEE         100.00        02/07/13
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  DOMESTIC BATTERY/BODILY HARM
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   01-03-12                 Charge 01 Count 001 DOMESTIC BATTERY/BODILY HARM
+                            Statute 720 5/12-3.2(a)(1)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled court case file.
+                            Notice of arrest without warrant on file.
+                            Expanded record of arraignment proceedings.
+                            Spanish Interpreter appears. Defendant arraigned. Ch
+ampaign County
+                            Public Defender is appointed and Randall Rosenbaum a
+ppears instanter.
+                            Plea of not guilty entered and Defendant requests tr
+ial by jury.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. Bond
+                            is to continue as set in the amount of $5,000-ROR DE
+NIED. As a
+                            condition of bond, Defendant is ordered to have NO C
+ONTACT whatsoever,
+                            directly or indirectly, with the victim and/or addre
+ss recited in open
+                            court.  See expanded record.
+   01-09-12                 Sheriff Booking Fee
+                            Correspondence on file by Samuel Hudspath. File forw
+arded to Judge
+                            Kennedy 1/10/2012.
+   01-12-12                 Proof of service of discovery materials filed.
+   01-13-12
+                            Copy of the letter received on January 9, 2012 e-mai
+led to Ms. Nelson,
+                            Mr. Rosenberg and Ms. Yanchus this date.
+   02-22-12                 Bond Type Full Cash
+                            Credit Card Fee
+                            Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Guilty DOMESTIC BATTERY/BODILY HARM
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 5/12-3.2(a)(1)  Class A  Orig.
+                            Sentence: 02/22/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Conditional Discharge  12Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  100Hrs In force
+                                      Supervised Court Service
+                            Sentence: Partner Abuse Intervention Program  60Days
+ In force
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            585.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    180.00
+                            DOMESTIC BATTERY        10.00     DOMESTIC VIOLENCE
+     200.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Samuel A. Rosenberg.  Ap
+pearance of the
+                            Defendant personally and by counsel, Lindsey Yanchus
+.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Domestic Battery/Bodily Har
+m ILCS: 720
+                            5/12-3.2(a)(1) as charged. Judgment entered in favor
+ of the People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  8/20/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months Conditional Discharge. Defendan
+t is ordered to
+                            perform 100 hours of public service work under the s
+upervision of the
+                            Champaign County Court Services Department.  The def
+endant is to be
+                            given credit on public service work for any hours co
+mpleted in
+                            education, treatment, aftercare, sobriety based self
+-help group
+                            meetings, Victim Impact Panel and GED classes. Defen
+dant is to enroll
+                            in a Partner Abuse Intervention Program approved by
+the Champaign
+                            County Court Services Department within  60 days and
+ successfully
+                            complete it without termination. Defendant advised o
+f right to appeal
+                            and rights pursuant to Supreme Court Rule 605 and th
+e Court finds that
+                            the defendant understands the same.
+   02-23-12                 ISP Supplemental Court Disposition prepared and mail
+ed.
+   02-27-12                 Bond
+   04-05-12                 Court Ordered Payments
+   06-29-12                 Court Ordered Payments
+                            Credit Card Fee
+   09-27-12                 Court Ordered Payments
+   12-04-12                 Court Ordered Payments
+   02-07-13                 Court Ordered Payments
+                            Court Ordered Payments
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

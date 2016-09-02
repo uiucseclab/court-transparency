@@ -1,0 +1,218 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #12CM001157
+
+   Defendant Plaintiff
+KENDALL  ETIENNE B
+806 W CLARK ST
+CHAMPAIGN IL 0
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 10/11/12
+                Court Room:
+           Next Appearance: 05/16/14
+                Birth Date: 04/19/92
+                 DEFENDANT: KENDALL  ETIENNE B
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       10.00      STATES ATTORNEY               10.00            .00
+        2.00      STATES ATTORNEY AUT            2.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      PROBATION MONITORIN          450.00            .00
+       10.00      PROBATION OPER ASSI           10.00            .00
+       80.00      TRAFFIC/CRIMINAL SU           80.00            .00
+        5.00      DRUG COURT PROGRAM             5.00            .00
+      295.00      FINES                        295.00            .00
+       75.00      VIOLENT CRIME VICTI           75.00            .00
+      240.47      COLLECTION FEES              240.47            .00
+      104.55      LATE FEES                    104.55            .00
+       10.00      ST POLICE OPERATION           10.00            .00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   118539931 DOCUMENT STORAGE                    .00        04/17/13
+   118539931 E-CITATION                          .00        04/17/13
+   118539931 AUTOMATION                          .00        04/17/13
+   118539931 CIRCUIT CLERK FEE                   .00        04/17/13
+   118539931 COURT SECURITY                      .00        04/17/13
+   118539931 COURT FINANCE FEE                   .00        04/17/13
+   118539931 STATES ATTORNEY                     .00        04/17/13
+   118539931 STATES ATTORNEY AUTOMATI            .00        04/17/13
+   118539931 CRIME STOPPERS                      .00        04/17/13
+   118539931 ARRESTEE'S MEDICAL                  .00        04/17/13
+   118539931 PROBATION MONITORING FEE            .00        04/17/13
+   118539931 PROBATION OPER ASSISTANC            .00        04/17/13
+   118539931 TR/CR SUR $10/$40                   .00        04/17/13
+   118539931 DRUG COURT PROGRAM                  .00        04/17/13
+   118539931 FINES                               .00        04/17/13
+   118539931 VIOLENT CRIME VICTIMS AS            .00        04/17/13
+   118539931 ST POLICE OPERATIONS ASS            .00        04/17/13
+   118578741 PERSONAL CHECK/CREDIT CA           1.25        05/10/13
+   118578741 DOCUMENT STORAGE                   5.00        05/10/13
+   118578741 E-CITATION                         5.00        05/10/13
+   118578741 AUTOMATION                        10.00        05/10/13
+   118578741 CIRCUIT CLERK FEE                 75.00        05/10/13
+   118578741 COURT SECURITY                    25.00        05/10/13
+   118578741 COURT FINANCE FEE                 25.00        05/10/13
+   118578741 STATES ATTORNEY                   10.00        05/10/13
+   118578741 STATES ATTORNEY AUTOMATI           2.00        05/10/13
+   118578741 CRIME STOPPERS                     5.00        05/10/13
+   118578741 ARRESTEE'S MEDICAL                10.00        05/10/13
+   118578741 PROBATION MONITORING FEE          25.00        05/10/13
+   118578741 PROBATION OPER ASSISTANC          10.00        05/10/13
+   118578741 TR/CR SUR $10/$40                 80.00        05/10/13
+   118578741 DRUG COURT PROGRAM                 5.00        05/10/13
+   118578741 FINES                            108.00        05/10/13
+   121735572 PERSONAL CHECK/CREDIT CA           1.25        06/02/15
+   121735572 PROBATION MONITORING FEE          25.00        06/02/15
+   121735572 FINES                            142.49        06/02/15
+   121735572 COLLECTION FEES                   55.85        06/02/15
+   121735572 LATE FEES                         18.68        06/02/15
+   121838155 PERSONAL CHECK/CREDIT CA           1.25        07/30/15
+   121838155 PROBATION MONITORING FEE         117.38        07/30/15
+   121838155 FINES                             44.51        07/30/15
+   121838155 VIOLENT CRIME VICTIMS AS          74.18        07/30/15
+   121838155 COLLECTION FEES                   47.91        07/30/15
+   121838155 LATE FEES                         16.02        07/30/15
+   122036146 PERSONAL CHECK/CREDIT CA           1.25        11/19/15
+   122036146 PROBATION MONITORING FEE         282.62        11/19/15
+   122036146 VIOLENT CRIME VICTIMS AS            .82        11/19/15
+   122036146 COLLECTION FEES                  136.71        11/19/15
+   122036146 LATE FEES                         69.85        11/19/15
+   122036146 ST POLICE OPERATIONS ASS          10.00        11/19/15
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  CONSUMPTION OF LIQUOR/MINOR
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   10-11-12                 Charge 01 Count 001 CONSUMPTION OF LIQUOR/MINOR
+                            Statute 235 5/6-20(e)  Class A  Orig.
+                            Agency: CHAMPAIGN COUNTY SHERIFF  Charge Instr: Info
+rmation
+                            Charging documents
+                            Created and properly labeled court case file.
+                            Recognizance bond
+                            Entry of appearance.
+                            Defendant arraigned.  Appearance of attorney, Bernar
+d Puglisi for Mary
+                            Gorski, with Defendant.  Plea of not guilty entered
+and Defendant
+                            requests trial by jury. Cause set for pre-trial.  De
+fendant admonished
+                            as to trial and sentencing in absentia. Bond is set
+$1,000-ROR
+                            ALLOWED. See expanded record.
+   10-18-12                 Affidavit of mailing of Discovery Materials filed.
+   11-16-12                 Disposition 01/00  Count 001  Fine + Cost
+                            Disposition: Withhold Judgment/Supervision CONSUMPTI
+ON OF LIQUOR/MINOR
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 235 5/6-20(e)  Class A  Orig.
+                            Sentence: 11/16/2012
+                            Sentence: Fines and/or Cost/Penalties and Fees  In f
+orce
+                            Sentence: Court Supervision  18Mos In force
+                                      Supervised Court Service
+                            Sentence: Public Service  30Hrs In force
+                                      Supervised Court Service
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Fine + Cost            637.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    450.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Claire L. Sharples Brook
+s.  Appearance of
+                            the Defendant personally and by counsel, Mary Gorski
+.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Consumption Of Liquor/Minor
+ ILCS: 235
+                            5/6-20(e) as charged. Upon the plea entered this dat
+e,Defendant is
+                            sentenced to all terms and conditions as set forth i
+n the written
+                            order on guilty plea entered this date. All financia
+l obligations
+                            shall be paid in equal monthly installments to the C
+hampaign County
+                            Circuit Clerk by  5/15/2013.  Any bond posted is to
+be applied first
+                            to any court ordered bond assignment on file and the
+n to all
+                            restitution ordered and then to all financial obliga
+tions in this
+                            case.  Any remaining bond shall be discharged to the
+ individual who
+                            posted the bond.  Defendant is ordered to serve a pe
+riod of  18 months
+                            Court Supervision. Defendant is ordered to perform
+30 hours of public
+                            service work under the supervision of the Champaign
+County Court
+                            Services Department.  The defendant is to be given c
+redit on public
+                            service work for any hours completed in education, t
+reatment,
+                            aftercare, sobriety based self-help group meetings,
+Victim Impact
+                            Panel and GED classes. Defendant advised of right to
+ appeal and rights
+                            pursuant to Supreme Court Rule 605 and the Court fin
+ds that the
+                            defendant understands the same.
+   12-04-12                 Report of Court Supervision sent to Secretary of Sta
+te.
+   03-27-13                 Certificate of completion of public service work fil
+ed
+   05-10-13                 Check
+   08-28-14                 Case sent out for collections.
+   06-02-15                 Check
+   07-30-15                 Check
+   11-19-15                 Check
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF

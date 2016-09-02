@@ -1,0 +1,368 @@
+
+   Katie M. Blakeman Heading1 Katie M. Blakeman Heading3
+
+   Case LookUp   LOGOFF
+
+   CRIMINAL CASE LOOKUP FOR CASE #11CM001181
+
+   Defendant Plaintiff
+MCFARLAND  GARY M
+1511 HEDGE RD
+CHAMPAIGN IL 61820
+
+PEOPLE OF ILLINOIS
+
+   Information:
+                 File Date: 11/07/11
+                Court Room:
+           Next Appearance: 03/11/13
+                Birth Date: 03/09/81
+                 DEFENDANT: MCFARLAND  GARY M
+
+
+   FEES & FINES INFORMATION as of 8-30-2016 10:00PM
+
+
+     ORDERED      DESCRIPTION                   PAID        BALANCE
+       30.00      BOND -10% BOND FEE            30.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        5.00      CRIME STOPPERS                 5.00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+       15.00      PROBATION MONITORIN           15.00         165.00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                     70.00          30.00
+      100.00      TRAUMA FUND                     .00         100.00
+      130.00      TRAFFIC/CRIMINAL SU             .00         130.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       25.00      PUBLIC DEFENDER                 .00          25.00
+       52.00      VICTIMS FUND-FINE               .00          52.00
+      290.00      MANDATORY ASSESSMEN             .00         290.00
+      207.00       STREET VALUE DRUG              .00         207.00
+       10.00      ST POLICE SERVICES              .00          10.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+         .00                                      .00            .00
+        5.00      DOCUMENT STORAGE                .00           5.00
+        5.00      E-CITATION                      .00           5.00
+       10.00      AUTOMATION                      .00          10.00
+       75.00      CIRCUIT CLERK FEE               .00          75.00
+       25.00      COURT SECURITY                  .00          25.00
+       25.00      COURT FINANCE FEE               .00          25.00
+       20.00      STATES ATTORNEY                 .00          20.00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+       10.00      ARRESTEE'S MEDICAL              .00          10.00
+       20.00      VICTIMS FUND-NO FIN             .00          20.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      SPINAL CORD RESEARC             .00           5.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       10.00      ST POLICE OPERATION             .00          10.00
+       30.00      BOND -10% BOND FEE            30.00            .00
+        5.00      DOCUMENT STORAGE               5.00            .00
+        5.00      E-CITATION                     5.00            .00
+       10.00      AUTOMATION                    10.00            .00
+       75.00      CIRCUIT CLERK FEE             75.00            .00
+       25.00      COURT SECURITY                25.00            .00
+       25.00      COURT FINANCE FEE             25.00            .00
+       20.00      STATES ATTORNEY               20.00            .00
+        2.00      STATES ATTORNEY AUT             .00           2.00
+        5.00      CRIME STOPPERS                 5.00            .00
+       10.00      ARRESTEE'S MEDICAL            10.00            .00
+         .00      VICTIMS FUND-NO FIN             .00            .00
+      180.00      PROBATION MONITORIN           15.00         165.00
+       10.00      PROBATION OPER ASSI             .00          10.00
+        5.00      SPINAL CORD RESEARC            5.00            .00
+      100.00      CRIME LAB                     70.00          30.00
+      100.00      TRAUMA FUND                     .00         100.00
+      130.00      TRAFFIC/CRIMINAL SU             .00         130.00
+        5.00      DRUG COURT PROGRAM              .00           5.00
+       37.00      SHERIFF FEES                    .00          37.00
+       25.00      PUBLIC DEFENDER                 .00          25.00
+       52.00      VICTIMS FUND-FINE               .00          52.00
+       75.00      VIOLENT CRIME VICTI             .00          75.00
+      207.00       STREET VALUE DRUG              .00         207.00
+       10.00      ST POLICE SERVICES              .00          10.00
+      399.51      COLLECTION FEES                 .00         399.51
+      173.70      LATE FEES                       .00         173.70
+       10.00      ST POLICE OPERATION             .00          10.00
+       10.00      CLERK OP & ADMIN FU             .00          10.00
+      290.00      MANDATORY ASSESSMEN             .00         290.00
+
+   RECEIPT HISTORY INFORMATION as of 8-30-2016 10:00PM
+
+
+    RECEIPT #   DESCRIPTION                   AMOUNT       DATE PAID
+   117712084 SHERIFF'S BOOKING FEE             20.00        11/07/11
+   117712084 BOND - ORIGINAL                  150.00        11/07/11
+   117752954 BOND TRANSFERS IN                150.00        12/08/11
+   117775670 BOND -10% BOND FEE                30.00        12/29/11
+   117775670 DOCUMENT STORAGE                   5.00        12/29/11
+   117775670 E-CITATION                         5.00        12/29/11
+   117775670 AUTOMATION                        10.00        12/29/11
+   117775670 CIRCUIT CLERK FEE                 75.00        12/29/11
+   117775670 COURT SECURITY                    25.00        12/29/11
+   117775670 ARRESTEE'S MEDICAL                10.00        12/29/11
+   117775670 COURT FINANCE FEE                 25.00        12/29/11
+   117775670 STATES ATTORNEY                   20.00        12/29/11
+   117775670 CRIME STOPPERS                     5.00        12/29/11
+   117775670 PROBATION MONITORING FEE          15.00        12/29/11
+   117775670 SPINAL CORD RESEARCH FUN           5.00        12/29/11
+   117775670 CRIME LAB                         70.00        12/29/11
+
+   CHARGES INFORMATION as of 8-30-2016 10:00PM
+
+      Count Description
+         1  POSS CANNABIS/10-30 GRAM/1ST
+
+         1  POSS CANNABIS/10-30 GRAM/1ST
+
+         1  POSS CANNABIS/10-30 GRAM/1ST
+
+         1  POSS CANNABIS/10-30 GRAM/1ST
+
+
+   DOCKET INFORMATION as of 8-30-2016 10:00PM
+
+
+   11-07-11                 Charge 01 Count 001 POSS CANNABIS/10-30 GRAM/1ST
+                            Statute 720 550/4(c)  Class A  Orig.
+                            Agency: CHAMPAIGN POLICE DEPARTMENT  Charge Instr: I
+nformation
+                            NO BOND No Bond
+                            Cause set for arraignment on
+                            Created and properly labeled permanent case file.
+                            Sheriff Booking Fee
+                            Expanded record of arraignment proceedings.
+                            Defendant arraigned. Champaign County Public Defende
+r is appointed and
+                            Anthony Ortega appears instanter.  Plea of not guilt
+y entered and
+                            Defendant requests trial by jury.  Defendant is admo
+nished as to trial
+                            and sentencing in absentia.  Bond is continued. See
+expanded record.
+                            Notice of arrest without warrant on file.
+   11-09-11
+                            People appear by Asst. State's Attorney Sam Rosenber
+g. Defendant
+                            appears personally and with Asst. Public Defender Li
+ndsey Yanchus.
+                            Bond to continue.
+   11-29-11                 Disposition 01/00  Count 001  Cost Only
+                            Disposition: Guilty POSS CANNABIS/10-30 GRAM/1ST
+                            Disposition Type: Guilty Plea   Defendant Plea: Guil
+ty
+                            Statute 720 550/4(c)  Class A  Orig.
+                            Sentence: 11/29/2011
+                            Sentence: Cost Only
+                            Sentence: Probation  12Mos
+                                      Supervised Court Service
+                            Sentence: Public Service  100Hrs
+                                      Supervised Court Service
+                            Sentence: Case(s) dismissed
+                            Sentence: Attorney Fees
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights
+                            Cost Only              729.00     E-CITATION
+       5.00
+                            CRIME STOPPERS           5.00     PROBATION MONITORI
+N    180.00
+                            CRIME LAB              100.00     PUBLIC DEFENDER
+      25.00
+                            MANDATORY ASSESSMEN    290.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Sentencing order.
+                            Appearance of the People by Samuel A. Rosenberg.  Ap
+pearance of the
+                            Defendant personally and by counsel, Lindsey R. Yanc
+hus.   Defendant
+                            advised as to the nature of the proceedings, the cha
+rges and the
+                            possible penalties that may be imposed and the Court
+ finds that the
+                            Defendant understands the same.  Finding Defendant k
+nowingly,
+                            understandingly and voluntarily waives rights and en
+ters a plea of
+                            guilty to Count 01 of the charging instrument.  Find
+ing Defendant is
+                            guilty of the offense of Poss Cannabis/10-30 Gram/1s
+t ILCS: 720
+                            550/4(c) as charged. Judgment entered in favor of th
+e People and
+                            against the defendant on finding of guilt and for co
+sts.  All
+                            financial obligations shall be paid in equal monthly
+ installments to
+                            the Champaign County Circuit Clerk by  5/29/2012.  A
+ny bond posted is
+                            to be applied first to any court ordered bond assign
+ment on file and
+                            then to all restitution ordered and then to all fina
+ncial obligations
+                            in this case.  Any remaining bond shall be discharge
+d to the
+                            individual who posted the bond.  Defendant is ordere
+d to serve a
+                            period of  12 months probation. Defendant is ordered
+ to perform 100
+                            hours of public service work under the supervision o
+f the Champaign
+                            County Court Services Department.  The defendant is
+to be given credit
+                            on public service work for any hours completed in ed
+ucation,
+                            treatment, aftercare, sobriety based self-help group
+ meetings, Victim
+                            Impact Panel and GED classes. Case Number 11-CM-1120
+ is hereby
+                            dismissed.  Any bond posted in said case shall be tr
+ansferred to the
+                            instant case and shall be applied to any fines, fees
+, costs,
+                            assessments, and/or restitution imposed herein; any
+remaining bond
+                            shall be used to satisfy such other of the Defendant
+'s Champaign
+                            County criminal or traffic cases in which the Defend
+ant owes an
+                            outstanding balance of fines, fees, costs, assessmen
+ts and/or
+                            restitution. DEFENDANT IS ORDERED TO PAY AN APPOINTE
+D COUNSEL FEE IN
+                            THE AMOUNT OF $25. Defendant advised of right to app
+eal and rights
+                            pursuant to Supreme Court Rule 605 and the Court fin
+ds that the
+                            defendant understands the same. Waiver of Jury on fi
+le. Sentencing
+                            Order entered this date. See Order.
+
+                            Pursuant to the Judgment on the guilty plea, the dru
+g fine
+                            collected is to be distributed as follows:
+                            12.5% to the Youth Drug Abuse Prevention Fund
+                            37.5% to the General Corporate Fund of Champaign Cou
+nty, and
+                            50.0% to the Champaign Police Department.
+   12-08-11                 Bond Type Transfer Bond From    2011CM001020 MCFARLA
+ND GARY M
+   12-29-11                 Bond
+   01-18-12                 Suggestion of Prior Order for DNA Testing filed.
+   10-12-12                 Probation Violation Report filed
+   10-19-12                 Petition to Revoke Probation filed
+   10-24-12                 Violation of probation warrant.
+                            Verified information on Petition to Revoke Probation
+ on file.
+                            Probable cause to arrest determined.  Warrant issued
+.  Bond set in the
+                            amount of $  5,000.00.
+   02-19-13                 Expanded record of arraignment proceedings.
+                            Defendant is arraigned on the Petition to Revoke on
+file.  The
+                            Champaign County Public Defender is appointed and Ja
+nie Miller-Jones
+                            appears instanter.  General denial to the Petition i
+s entered.
+                            Defendant is admonished as to trial and sentencing i
+n absentia. Bond
+                            is to continue. See expanded record.
+   02-20-13                 Warrant served. Service fees $37.00
+   03-01-13                 Disposition 01/01  Count 001  Cost Only
+                            Disposition: Revocation/Vacate/Probation POSS CANNAB
+IS/10-30 GRAM/1ST
+                            Disposition Type: By Bench   Defendant Plea: Guilty
+                            Statute 720 550/4(c)  Class A  Orig.
+                            Sentence: 03/01/2013
+                            Sentence: Cost Only  In force
+                            Sentence: Jail  60Days In force
+                            Sentence: Credit Time Served  15Days In force
+                            Sentence: Defendant's previous probation unsuccessfu
+lly termed  In for
+                            Sentence: Deft advised of Supreme Court Rule 605 App
+eal Rights  In for
+                            Cost Only              222.00     E-CITATION
+       5.00
+                            Payment Due
+                            Bond, if any, to be discharged by Circuit Clerk.
+                            Resentencing on petition to revoke.
+                            Appearance of the People by Elizabeth A. Dornik.  Ap
+pearance of the
+                            Defendant in custody and by counsel, Lindsey R. Yanc
+hus.    Defendant
+                            advised as to the nature of the proceedings and the
+possible penalties
+                            that may be imposed and the Court finds that the Def
+endant understands
+                            the same.  Finding Defendant knowingly, understandin
+gly and
+                            voluntarily stipulates and admits to the allegations
+ contained in the
+                            Petition to Revoke.  Finding the same are true.  The
+ court finds that
+                            the Defendant has violated the terms of his sentence
+.  Finding entered
+                            in favor of the People and against Defendant.   All
+financial
+                            obligations shall be paid in equal monthly installme
+nts to the
+                            Champaign County Circuit Clerk by  8/28/2013.  Any b
+ond posted is to
+                            be applied first to any court ordered bond assignmen
+t on file and then
+                            to all restitution ordered and then to all financial
+ obligations in
+                            this case.  Any remaining bond shall be discharged t
+o the individual
+                            who posted the bond.  Defendant is ordered to serve
+a period of
+                            incarceration of 60 days in the Champaign County Cor
+rectional Center.
+                            Defendant is to receive credit for 15 days previousl
+y served.
+                            Defendant's probation in this case is hereby unsucce
+ssfully
+                            terminated.  Defendant advised of right to appeal an
+d rights pursuant
+                            to Supreme Court Rule 605 and the Court finds that t
+he defendant
+                            understands the same.  Sentencing Order-Resentencing
+ on Petition to
+                            Revoke entered this date. See Order.
+                            Disposition 01/03  Count 001  Manual Calculations
+                            Disposition: Terminated Unsatisfied POSS CANNABIS/10
+-30 GRAM/1ST
+                            Disposition Type: Court Action   Defendant Plea: No
+Plea Entered
+                            Statute 720 550/4(c)  Class A  Orig.
+                            Sentence: 03/01/2013
+                            Sentence: No Sentence  In force
+   03-07-13                 ISP Supplemental Court Disposition prepared and mail
+ed.
+                            Disposition 01/02  Count 001  Modified Order
+                            Disposition: Modified/Trial Court POSS CANNABIS/10-3
+0 GRAM/1ST
+                            Modified Order         858.00     CRIME STOPPERS
+       5.00
+                            PROBATION MONITORIN    180.00     CRIME LAB
+     100.00
+                            PUBLIC DEFENDER         25.00     MANDATORY ASSESSME
+N    290.00
+   08-19-14                 Case sent out for collections.
+     __________________________________________________________________
+
+   The PASS system is intended to be a summary of information for the
+   public. It does not take the place of the legal information that is
+   held in the actual Court file. The Clerk of the Circuit Court of
+   Champaign County accepts no liability for discrepancies between these
+   electronic versions and the official printed documents.
+     __________________________________________________________________
+
+   Case LookUp   LOGOFF
